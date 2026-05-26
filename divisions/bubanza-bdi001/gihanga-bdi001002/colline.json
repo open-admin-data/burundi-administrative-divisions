@@ -1,0 +1,704 @@
+[
+  {
+    "id": "BDI001002_buramata",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buramata",
+      "en": "Buramata",
+      "slug": "buramata"
+    },
+    "code": {
+      "id": "BDI001002_buramata",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001002",
+      "level": 2,
+      "name": {
+        "local": "Gihanga",
+        "en": "Gihanga",
+        "slug": "gihanga-bdi001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001002",
+        "level": 2,
+        "name": {
+          "local": "Gihanga",
+          "en": "Gihanga",
+          "slug": "gihanga-bdi001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.207",
+      "lon": "29.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001002_buringa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buringa",
+      "en": "Buringa",
+      "slug": "buringa"
+    },
+    "code": {
+      "id": "BDI001002_buringa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001002",
+      "level": 2,
+      "name": {
+        "local": "Gihanga",
+        "en": "Gihanga",
+        "slug": "gihanga-bdi001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001002",
+        "level": 2,
+        "name": {
+          "local": "Gihanga",
+          "en": "Gihanga",
+          "slug": "gihanga-bdi001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.207",
+      "lon": "29.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001002_bwiza-bwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bwiza Bwa",
+      "en": "Bwiza Bwa",
+      "slug": "bwiza-bwa"
+    },
+    "code": {
+      "id": "BDI001002_bwiza-bwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001002",
+      "level": 2,
+      "name": {
+        "local": "Gihanga",
+        "en": "Gihanga",
+        "slug": "gihanga-bdi001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001002",
+        "level": 2,
+        "name": {
+          "local": "Gihanga",
+          "en": "Gihanga",
+          "slug": "gihanga-bdi001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.207",
+      "lon": "29.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001002_gihanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gihanga",
+      "en": "Gihanga",
+      "slug": "gihanga"
+    },
+    "code": {
+      "id": "BDI001002_gihanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001002",
+      "level": 2,
+      "name": {
+        "local": "Gihanga",
+        "en": "Gihanga",
+        "slug": "gihanga-bdi001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001002",
+        "level": 2,
+        "name": {
+          "local": "Gihanga",
+          "en": "Gihanga",
+          "slug": "gihanga-bdi001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.207",
+      "lon": "29.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001002_gihungwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gihungwe",
+      "en": "Gihungwe",
+      "slug": "gihungwe"
+    },
+    "code": {
+      "id": "BDI001002_gihungwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001002",
+      "level": 2,
+      "name": {
+        "local": "Gihanga",
+        "en": "Gihanga",
+        "slug": "gihanga-bdi001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001002",
+        "level": 2,
+        "name": {
+          "local": "Gihanga",
+          "en": "Gihanga",
+          "slug": "gihanga-bdi001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.207",
+      "lon": "29.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001002_kagwema",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kagwema",
+      "en": "Kagwema",
+      "slug": "kagwema"
+    },
+    "code": {
+      "id": "BDI001002_kagwema",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001002",
+      "level": 2,
+      "name": {
+        "local": "Gihanga",
+        "en": "Gihanga",
+        "slug": "gihanga-bdi001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001002",
+        "level": 2,
+        "name": {
+          "local": "Gihanga",
+          "en": "Gihanga",
+          "slug": "gihanga-bdi001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.207",
+      "lon": "29.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001002_kizina",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kizina",
+      "en": "Kizina",
+      "slug": "kizina"
+    },
+    "code": {
+      "id": "BDI001002_kizina",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001002",
+      "level": 2,
+      "name": {
+        "local": "Gihanga",
+        "en": "Gihanga",
+        "slug": "gihanga-bdi001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001002",
+        "level": 2,
+        "name": {
+          "local": "Gihanga",
+          "en": "Gihanga",
+          "slug": "gihanga-bdi001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.207",
+      "lon": "29.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001002_mpanda-v5",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mpanda V5",
+      "en": "Mpanda V5",
+      "slug": "mpanda-v5"
+    },
+    "code": {
+      "id": "BDI001002_mpanda-v5",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001002",
+      "level": 2,
+      "name": {
+        "local": "Gihanga",
+        "en": "Gihanga",
+        "slug": "gihanga-bdi001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001002",
+        "level": 2,
+        "name": {
+          "local": "Gihanga",
+          "en": "Gihanga",
+          "slug": "gihanga-bdi001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.207",
+      "lon": "29.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001002_murira-v2",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murira V2",
+      "en": "Murira V2",
+      "slug": "murira-v2"
+    },
+    "code": {
+      "id": "BDI001002_murira-v2",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001002",
+      "level": 2,
+      "name": {
+        "local": "Gihanga",
+        "en": "Gihanga",
+        "slug": "gihanga-bdi001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001002",
+        "level": 2,
+        "name": {
+          "local": "Gihanga",
+          "en": "Gihanga",
+          "slug": "gihanga-bdi001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.207",
+      "lon": "29.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001002_ndava",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ndava",
+      "en": "Ndava",
+      "slug": "ndava"
+    },
+    "code": {
+      "id": "BDI001002_ndava",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001002",
+      "level": 2,
+      "name": {
+        "local": "Gihanga",
+        "en": "Gihanga",
+        "slug": "gihanga-bdi001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001002",
+        "level": 2,
+        "name": {
+          "local": "Gihanga",
+          "en": "Gihanga",
+          "slug": "gihanga-bdi001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.207",
+      "lon": "29.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001002_ninga-v4",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ninga V4",
+      "en": "Ninga V4",
+      "slug": "ninga-v4"
+    },
+    "code": {
+      "id": "BDI001002_ninga-v4",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001002",
+      "level": 2,
+      "name": {
+        "local": "Gihanga",
+        "en": "Gihanga",
+        "slug": "gihanga-bdi001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001002",
+        "level": 2,
+        "name": {
+          "local": "Gihanga",
+          "en": "Gihanga",
+          "slug": "gihanga-bdi001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.207",
+      "lon": "29.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001002_nyeshanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyeshanga",
+      "en": "Nyeshanga",
+      "slug": "nyeshanga"
+    },
+    "code": {
+      "id": "BDI001002_nyeshanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001002",
+      "level": 2,
+      "name": {
+        "local": "Gihanga",
+        "en": "Gihanga",
+        "slug": "gihanga-bdi001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001002",
+        "level": 2,
+        "name": {
+          "local": "Gihanga",
+          "en": "Gihanga",
+          "slug": "gihanga-bdi001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.207",
+      "lon": "29.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001002_rugungu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugungu",
+      "en": "Rugungu",
+      "slug": "rugungu"
+    },
+    "code": {
+      "id": "BDI001002_rugungu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001002",
+      "level": 2,
+      "name": {
+        "local": "Gihanga",
+        "en": "Gihanga",
+        "slug": "gihanga-bdi001002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001002",
+        "level": 2,
+        "name": {
+          "local": "Gihanga",
+          "en": "Gihanga",
+          "slug": "gihanga-bdi001002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.207",
+      "lon": "29.296"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

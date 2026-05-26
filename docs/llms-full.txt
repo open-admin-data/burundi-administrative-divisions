@@ -1,0 +1,47 @@
+# Burundi Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Per-Province Data Files
+
+- [Bubanza](https://github.com/open-admin-data/burundi-administrative-divisions/blob/main/docs/llms-full/bubanza-bdi001.txt) — 5 communes, 88 collines
+- [Bujumbura Mairie](https://github.com/open-admin-data/burundi-administrative-divisions/blob/main/docs/llms-full/bujumbura-mairie-bdi017.txt) — 3 communes, 103 collines
+- [Bujumbura Rural](https://github.com/open-admin-data/burundi-administrative-divisions/blob/main/docs/llms-full/bujumbura-rural-bdi002.txt) — 9 communes, 160 collines
+- [Bururi](https://github.com/open-admin-data/burundi-administrative-divisions/blob/main/docs/llms-full/bururi-bdi003.txt) — 6 communes, 130 collines
+- [Cankuzo](https://github.com/open-admin-data/burundi-administrative-divisions/blob/main/docs/llms-full/cankuzo-bdi004.txt) — 5 communes, 87 collines
+- [Cibitoke](https://github.com/open-admin-data/burundi-administrative-divisions/blob/main/docs/llms-full/cibitoke-bdi005.txt) — 6 communes, 129 collines
+- [Gitega](https://github.com/open-admin-data/burundi-administrative-divisions/blob/main/docs/llms-full/gitega-bdi006.txt) — 11 communes, 268 collines
+- [Karuzi](https://github.com/open-admin-data/burundi-administrative-divisions/blob/main/docs/llms-full/karuzi-bdi007.txt) — 7 communes, 146 collines
+- [Kayanza](https://github.com/open-admin-data/burundi-administrative-divisions/blob/main/docs/llms-full/kayanza-bdi008.txt) — 9 communes, 301 collines
+- [Kirundo](https://github.com/open-admin-data/burundi-administrative-divisions/blob/main/docs/llms-full/kirundo-bdi009.txt) — 7 communes, 198 collines
+- [Makamba](https://github.com/open-admin-data/burundi-administrative-divisions/blob/main/docs/llms-full/makamba-bdi010.txt) — 6 communes, 142 collines
+- [Muramvya](https://github.com/open-admin-data/burundi-administrative-divisions/blob/main/docs/llms-full/muramvya-bdi011.txt) — 5 communes, 100 collines
+- [Muyinga](https://github.com/open-admin-data/burundi-administrative-divisions/blob/main/docs/llms-full/muyinga-bdi012.txt) — 7 communes, 230 collines
+- [Mwaro](https://github.com/open-admin-data/burundi-administrative-divisions/blob/main/docs/llms-full/mwaro-bdi013.txt) — 6 communes, 134 collines
+- [Ngozi](https://github.com/open-admin-data/burundi-administrative-divisions/blob/main/docs/llms-full/ngozi-bdi014.txt) — 9 communes, 305 collines
+- [Rumonge](https://github.com/open-admin-data/burundi-administrative-divisions/blob/main/docs/llms-full/rumonge-bdi018.txt) — 5 communes, 108 collines
+- [Rutana](https://github.com/open-admin-data/burundi-administrative-divisions/blob/main/docs/llms-full/rutana-bdi015.txt) — 6 communes, 148 collines
+- [Ruyigi](https://github.com/open-admin-data/burundi-administrative-divisions/blob/main/docs/llms-full/ruyigi-bdi016.txt) — 7 communes, 140 collines
+
+## Summary
+
+| Province | Communes | Collines | 
+|---|---|---|
+| Bubanza | 5 | 88 | 
+| Bujumbura Mairie | 3 | 103 | 
+| Bujumbura Rural | 9 | 160 | 
+| Bururi | 6 | 130 | 
+| Cankuzo | 5 | 87 | 
+| Cibitoke | 6 | 129 | 
+| Gitega | 11 | 268 | 
+| Karuzi | 7 | 146 | 
+| Kayanza | 9 | 301 | 
+| Kirundo | 7 | 198 | 
+| Makamba | 6 | 142 | 
+| Muramvya | 5 | 100 | 
+| Muyinga | 7 | 230 | 
+| Mwaro | 6 | 134 | 
+| Ngozi | 9 | 305 | 
+| Rumonge | 5 | 108 | 
+| Rutana | 6 | 148 | 
+| Ruyigi | 7 | 140 | 

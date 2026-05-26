@@ -1,0 +1,2432 @@
+[
+  {
+    "id": "BDI014003_bitaganzwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bitaganzwa",
+      "en": "Bitaganzwa",
+      "slug": "bitaganzwa"
+    },
+    "code": {
+      "id": "BDI014003_bitaganzwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_buhama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhama",
+      "en": "Buhama",
+      "slug": "buhama"
+    },
+    "code": {
+      "id": "BDI014003_buhama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_bunogera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bunogera",
+      "en": "Bunogera",
+      "slug": "bunogera"
+    },
+    "code": {
+      "id": "BDI014003_bunogera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_bunywana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bunywana",
+      "en": "Bunywana",
+      "slug": "bunywana"
+    },
+    "code": {
+      "id": "BDI014003_bunywana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_butare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butare",
+      "en": "Butare",
+      "slug": "butare"
+    },
+    "code": {
+      "id": "BDI014003_butare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_cagwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cagwa",
+      "en": "Cagwa",
+      "slug": "cagwa"
+    },
+    "code": {
+      "id": "BDI014003_cagwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_canamo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Canamo",
+      "en": "Canamo",
+      "slug": "canamo"
+    },
+    "code": {
+      "id": "BDI014003_canamo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_cayi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cayi",
+      "en": "Cayi",
+      "slug": "cayi"
+    },
+    "code": {
+      "id": "BDI014003_cayi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_ciri",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ciri",
+      "en": "Ciri",
+      "slug": "ciri"
+    },
+    "code": {
+      "id": "BDI014003_ciri",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_gahororo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gahororo",
+      "en": "Gahororo",
+      "slug": "gahororo"
+    },
+    "code": {
+      "id": "BDI014003_gahororo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_gakere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gakere",
+      "en": "Gakere",
+      "slug": "gakere"
+    },
+    "code": {
+      "id": "BDI014003_gakere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_gatwaro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatwaro",
+      "en": "Gatwaro",
+      "slug": "gatwaro"
+    },
+    "code": {
+      "id": "BDI014003_gatwaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_gisuka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisuka",
+      "en": "Gisuka",
+      "slug": "gisuka"
+    },
+    "code": {
+      "id": "BDI014003_gisuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_gitaro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitaro",
+      "en": "Gitaro",
+      "slug": "gitaro"
+    },
+    "code": {
+      "id": "BDI014003_gitaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_kabanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabanga",
+      "en": "Kabanga",
+      "slug": "kabanga"
+    },
+    "code": {
+      "id": "BDI014003_kabanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_kabari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabari",
+      "en": "Kabari",
+      "slug": "kabari"
+    },
+    "code": {
+      "id": "BDI014003_kabari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_kagarama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kagarama",
+      "en": "Kagarama",
+      "slug": "kagarama"
+    },
+    "code": {
+      "id": "BDI014003_kagarama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_kibande",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibande",
+      "en": "Kibande",
+      "slug": "kibande"
+    },
+    "code": {
+      "id": "BDI014003_kibande",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_kibezi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibezi",
+      "en": "Kibezi",
+      "slug": "kibezi"
+    },
+    "code": {
+      "id": "BDI014003_kibezi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_kibuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibuye",
+      "en": "Kibuye",
+      "slug": "kibuye"
+    },
+    "code": {
+      "id": "BDI014003_kibuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_kidasha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kidasha",
+      "en": "Kidasha",
+      "slug": "kidasha"
+    },
+    "code": {
+      "id": "BDI014003_kidasha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_kiremba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiremba",
+      "en": "Kiremba",
+      "slug": "kiremba"
+    },
+    "code": {
+      "id": "BDI014003_kiremba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_kiremera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiremera",
+      "en": "Kiremera",
+      "slug": "kiremera"
+    },
+    "code": {
+      "id": "BDI014003_kiremera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_kivoga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivoga",
+      "en": "Kivoga",
+      "slug": "kivoga"
+    },
+    "code": {
+      "id": "BDI014003_kivoga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_kiyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiyange",
+      "en": "Kiyange",
+      "slug": "kiyange"
+    },
+    "code": {
+      "id": "BDI014003_kiyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_magembe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Magembe",
+      "en": "Magembe",
+      "slug": "magembe"
+    },
+    "code": {
+      "id": "BDI014003_magembe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_masasu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masasu",
+      "en": "Masasu",
+      "slug": "masasu"
+    },
+    "code": {
+      "id": "BDI014003_masasu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_masoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masoro",
+      "en": "Masoro",
+      "slug": "masoro"
+    },
+    "code": {
+      "id": "BDI014003_masoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_migongo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Migongo",
+      "en": "Migongo",
+      "slug": "migongo"
+    },
+    "code": {
+      "id": "BDI014003_migongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_mufigi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mufigi",
+      "en": "Mufigi",
+      "slug": "mufigi"
+    },
+    "code": {
+      "id": "BDI014003_mufigi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_mugerera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugerera",
+      "en": "Mugerera",
+      "slug": "mugerera"
+    },
+    "code": {
+      "id": "BDI014003_mugerera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_munagano",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munagano",
+      "en": "Munagano",
+      "slug": "munagano"
+    },
+    "code": {
+      "id": "BDI014003_munagano",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_musanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musanga",
+      "en": "Musanga",
+      "slug": "musanga"
+    },
+    "code": {
+      "id": "BDI014003_musanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_musasa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musasa",
+      "en": "Musasa",
+      "slug": "musasa"
+    },
+    "code": {
+      "id": "BDI014003_musasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_ngeramigongo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngeramigongo",
+      "en": "Ngeramigongo",
+      "slug": "ngeramigongo"
+    },
+    "code": {
+      "id": "BDI014003_ngeramigongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_nkomero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nkomero",
+      "en": "Nkomero",
+      "slug": "nkomero"
+    },
+    "code": {
+      "id": "BDI014003_nkomero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_nyabikenke",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabikenke",
+      "en": "Nyabikenke",
+      "slug": "nyabikenke"
+    },
+    "code": {
+      "id": "BDI014003_nyabikenke",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_nyamarobe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamarobe",
+      "en": "Nyamarobe",
+      "slug": "nyamarobe"
+    },
+    "code": {
+      "id": "BDI014003_nyamarobe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_ragwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ragwe",
+      "en": "Ragwe",
+      "slug": "ragwe"
+    },
+    "code": {
+      "id": "BDI014003_ragwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_ruhama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhama",
+      "en": "Ruhama",
+      "slug": "ruhama"
+    },
+    "code": {
+      "id": "BDI014003_ruhama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_ruhata",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhata",
+      "en": "Ruhata",
+      "slug": "ruhata"
+    },
+    "code": {
+      "id": "BDI014003_ruhata",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_rutobo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutobo",
+      "en": "Rutobo",
+      "slug": "rutobo"
+    },
+    "code": {
+      "id": "BDI014003_rutobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_ruvumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruvumu",
+      "en": "Ruvumu",
+      "slug": "ruvumu"
+    },
+    "code": {
+      "id": "BDI014003_ruvumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_ruyumbu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruyumbu",
+      "en": "Ruyumbu",
+      "slug": "ruyumbu"
+    },
+    "code": {
+      "id": "BDI014003_ruyumbu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003_rwimbogo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwimbogo",
+      "en": "Rwimbogo",
+      "slug": "rwimbogo"
+    },
+    "code": {
+      "id": "BDI014003_rwimbogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014003",
+      "level": 2,
+      "name": {
+        "local": "Kiremba",
+        "en": "Kiremba",
+        "slug": "kiremba-bdi014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014003",
+        "level": 2,
+        "name": {
+          "local": "Kiremba",
+          "en": "Kiremba",
+          "slug": "kiremba-bdi014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

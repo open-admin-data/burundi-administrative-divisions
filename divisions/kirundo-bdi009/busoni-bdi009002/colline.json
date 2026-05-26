@@ -1,0 +1,2270 @@
+[
+  {
+    "id": "BDI009002_buhimba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhimba",
+      "en": "Buhimba",
+      "slug": "buhimba"
+    },
+    "code": {
+      "id": "BDI009002_buhimba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_burara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burara",
+      "en": "Burara",
+      "slug": "burara"
+    },
+    "code": {
+      "id": "BDI009002_burara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_buringa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buringa",
+      "en": "Buringa",
+      "slug": "buringa"
+    },
+    "code": {
+      "id": "BDI009002_buringa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_busoni",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Busoni",
+      "en": "Busoni",
+      "slug": "busoni"
+    },
+    "code": {
+      "id": "BDI009002_busoni",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_gatare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatare",
+      "en": "Gatare",
+      "slug": "gatare"
+    },
+    "code": {
+      "id": "BDI009002_gatare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_gatemere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatemere",
+      "en": "Gatemere",
+      "slug": "gatemere"
+    },
+    "code": {
+      "id": "BDI009002_gatemere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_gatete",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatete",
+      "en": "Gatete",
+      "slug": "gatete"
+    },
+    "code": {
+      "id": "BDI009002_gatete",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_gisenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisenyi",
+      "en": "Gisenyi",
+      "slug": "gisenyi"
+    },
+    "code": {
+      "id": "BDI009002_gisenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_gitete",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitete",
+      "en": "Gitete",
+      "slug": "gitete"
+    },
+    "code": {
+      "id": "BDI009002_gitete",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_higiro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Higiro",
+      "en": "Higiro",
+      "slug": "higiro"
+    },
+    "code": {
+      "id": "BDI009002_higiro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_kabanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabanga",
+      "en": "Kabanga",
+      "slug": "kabanga"
+    },
+    "code": {
+      "id": "BDI009002_kabanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_kagege",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kagege",
+      "en": "Kagege",
+      "slug": "kagege"
+    },
+    "code": {
+      "id": "BDI009002_kagege",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_karambo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karambo",
+      "en": "Karambo",
+      "slug": "karambo"
+    },
+    "code": {
+      "id": "BDI009002_karambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_kibonde",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibonde",
+      "en": "Kibonde",
+      "slug": "kibonde"
+    },
+    "code": {
+      "id": "BDI009002_kibonde",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_kididiri",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kididiri",
+      "en": "Kididiri",
+      "slug": "kididiri"
+    },
+    "code": {
+      "id": "BDI009002_kididiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_kigoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigoma",
+      "en": "Kigoma",
+      "slug": "kigoma"
+    },
+    "code": {
+      "id": "BDI009002_kigoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_kiravumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiravumba",
+      "en": "Kiravumba",
+      "slug": "kiravumba"
+    },
+    "code": {
+      "id": "BDI009002_kiravumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_kivo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivo",
+      "en": "Kivo",
+      "slug": "kivo"
+    },
+    "code": {
+      "id": "BDI009002_kivo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_kumana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kumana",
+      "en": "Kumana",
+      "slug": "kumana"
+    },
+    "code": {
+      "id": "BDI009002_kumana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_marembo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Marembo",
+      "en": "Marembo",
+      "slug": "marembo"
+    },
+    "code": {
+      "id": "BDI009002_marembo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_mugobe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugobe",
+      "en": "Mugobe",
+      "slug": "mugobe"
+    },
+    "code": {
+      "id": "BDI009002_mugobe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_mukerwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mukerwa",
+      "en": "Mukerwa",
+      "slug": "mukerwa"
+    },
+    "code": {
+      "id": "BDI009002_mukerwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_munazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munazi",
+      "en": "Munazi",
+      "slug": "munazi"
+    },
+    "code": {
+      "id": "BDI009002_munazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_munyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munyinya",
+      "en": "Munyinya",
+      "slug": "munyinya"
+    },
+    "code": {
+      "id": "BDI009002_munyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_murambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murambi",
+      "en": "Murambi",
+      "slug": "murambi"
+    },
+    "code": {
+      "id": "BDI009002_murambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_murore",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murore",
+      "en": "Murore",
+      "slug": "murore"
+    },
+    "code": {
+      "id": "BDI009002_murore",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_muvyuko",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muvyuko",
+      "en": "Muvyuko",
+      "slug": "muvyuko"
+    },
+    "code": {
+      "id": "BDI009002_muvyuko",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_muyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyange",
+      "en": "Muyange",
+      "slug": "muyange"
+    },
+    "code": {
+      "id": "BDI009002_muyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_nyabisindu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabisindu",
+      "en": "Nyabisindu",
+      "slug": "nyabisindu"
+    },
+    "code": {
+      "id": "BDI009002_nyabisindu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_nyabugeni",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabugeni",
+      "en": "Nyabugeni",
+      "slug": "nyabugeni"
+    },
+    "code": {
+      "id": "BDI009002_nyabugeni",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_nyagisozi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyagisozi",
+      "en": "Nyagisozi",
+      "slug": "nyagisozi"
+    },
+    "code": {
+      "id": "BDI009002_nyagisozi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_nyakizu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakizu",
+      "en": "Nyakizu",
+      "slug": "nyakizu"
+    },
+    "code": {
+      "id": "BDI009002_nyakizu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_renga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Renga",
+      "en": "Renga",
+      "slug": "renga"
+    },
+    "code": {
+      "id": "BDI009002_renga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_rugarama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugarama",
+      "en": "Rugarama",
+      "slug": "rugarama"
+    },
+    "code": {
+      "id": "BDI009002_rugarama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_ruheha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruheha",
+      "en": "Ruheha",
+      "slug": "ruheha"
+    },
+    "code": {
+      "id": "BDI009002_ruheha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_runyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Runyinya",
+      "en": "Runyinya",
+      "slug": "runyinya"
+    },
+    "code": {
+      "id": "BDI009002_runyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_rurende",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rurende",
+      "en": "Rurende",
+      "slug": "rurende"
+    },
+    "code": {
+      "id": "BDI009002_rurende",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_rurira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rurira",
+      "en": "Rurira",
+      "slug": "rurira"
+    },
+    "code": {
+      "id": "BDI009002_rurira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_rutabo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutabo",
+      "en": "Rutabo",
+      "slug": "rutabo"
+    },
+    "code": {
+      "id": "BDI009002_rutabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_ruyaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruyaga",
+      "en": "Ruyaga",
+      "slug": "ruyaga"
+    },
+    "code": {
+      "id": "BDI009002_ruyaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_rwibikara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwibikara",
+      "en": "Rwibikara",
+      "slug": "rwibikara"
+    },
+    "code": {
+      "id": "BDI009002_rwibikara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002_sigu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Sigu",
+      "en": "Sigu",
+      "slug": "sigu"
+    },
+    "code": {
+      "id": "BDI009002_sigu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009002",
+      "level": 2,
+      "name": {
+        "local": "Busoni",
+        "en": "Busoni",
+        "slug": "busoni-bdi009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009002",
+        "level": 2,
+        "name": {
+          "local": "Busoni",
+          "en": "Busoni",
+          "slug": "busoni-bdi009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,812 @@
+[
+  {
+    "id": "BDI018002_bambo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bambo",
+      "en": "Bambo",
+      "slug": "bambo"
+    },
+    "code": {
+      "id": "BDI018002_bambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018002",
+      "level": 2,
+      "name": {
+        "local": "Bugarama",
+        "en": "Bugarama",
+        "slug": "bugarama-bdi018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018002",
+        "level": 2,
+        "name": {
+          "local": "Bugarama",
+          "en": "Bugarama",
+          "slug": "bugarama-bdi018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.687",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018002_bugarama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugarama",
+      "en": "Bugarama",
+      "slug": "bugarama"
+    },
+    "code": {
+      "id": "BDI018002_bugarama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018002",
+      "level": 2,
+      "name": {
+        "local": "Bugarama",
+        "en": "Bugarama",
+        "slug": "bugarama-bdi018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018002",
+        "level": 2,
+        "name": {
+          "local": "Bugarama",
+          "en": "Bugarama",
+          "slug": "bugarama-bdi018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.687",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018002_burangwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burangwa",
+      "en": "Burangwa",
+      "slug": "burangwa"
+    },
+    "code": {
+      "id": "BDI018002_burangwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018002",
+      "level": 2,
+      "name": {
+        "local": "Bugarama",
+        "en": "Bugarama",
+        "slug": "bugarama-bdi018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018002",
+        "level": 2,
+        "name": {
+          "local": "Bugarama",
+          "en": "Bugarama",
+          "slug": "bugarama-bdi018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.687",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018002_cashi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cashi",
+      "en": "Cashi",
+      "slug": "cashi"
+    },
+    "code": {
+      "id": "BDI018002_cashi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018002",
+      "level": 2,
+      "name": {
+        "local": "Bugarama",
+        "en": "Bugarama",
+        "slug": "bugarama-bdi018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018002",
+        "level": 2,
+        "name": {
+          "local": "Bugarama",
+          "en": "Bugarama",
+          "slug": "bugarama-bdi018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.687",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018002_gitwaro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitwaro",
+      "en": "Gitwaro",
+      "slug": "gitwaro"
+    },
+    "code": {
+      "id": "BDI018002_gitwaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018002",
+      "level": 2,
+      "name": {
+        "local": "Bugarama",
+        "en": "Bugarama",
+        "slug": "bugarama-bdi018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018002",
+        "level": 2,
+        "name": {
+          "local": "Bugarama",
+          "en": "Bugarama",
+          "slug": "bugarama-bdi018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.687",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018002_kagona",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kagona",
+      "en": "Kagona",
+      "slug": "kagona"
+    },
+    "code": {
+      "id": "BDI018002_kagona",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018002",
+      "level": 2,
+      "name": {
+        "local": "Bugarama",
+        "en": "Bugarama",
+        "slug": "bugarama-bdi018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018002",
+        "level": 2,
+        "name": {
+          "local": "Bugarama",
+          "en": "Bugarama",
+          "slug": "bugarama-bdi018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.687",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018002_kayombe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kayombe",
+      "en": "Kayombe",
+      "slug": "kayombe"
+    },
+    "code": {
+      "id": "BDI018002_kayombe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018002",
+      "level": 2,
+      "name": {
+        "local": "Bugarama",
+        "en": "Bugarama",
+        "slug": "bugarama-bdi018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018002",
+        "level": 2,
+        "name": {
+          "local": "Bugarama",
+          "en": "Bugarama",
+          "slug": "bugarama-bdi018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.687",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018002_kazigo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kazigo",
+      "en": "Kazigo",
+      "slug": "kazigo"
+    },
+    "code": {
+      "id": "BDI018002_kazigo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018002",
+      "level": 2,
+      "name": {
+        "local": "Bugarama",
+        "en": "Bugarama",
+        "slug": "bugarama-bdi018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018002",
+        "level": 2,
+        "name": {
+          "local": "Bugarama",
+          "en": "Bugarama",
+          "slug": "bugarama-bdi018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.687",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018002_magara-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Magara I",
+      "en": "Magara I",
+      "slug": "magara-i"
+    },
+    "code": {
+      "id": "BDI018002_magara-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018002",
+      "level": 2,
+      "name": {
+        "local": "Bugarama",
+        "en": "Bugarama",
+        "slug": "bugarama-bdi018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018002",
+        "level": 2,
+        "name": {
+          "local": "Bugarama",
+          "en": "Bugarama",
+          "slug": "bugarama-bdi018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.687",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018002_magara-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Magara Ii",
+      "en": "Magara Ii",
+      "slug": "magara-ii"
+    },
+    "code": {
+      "id": "BDI018002_magara-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018002",
+      "level": 2,
+      "name": {
+        "local": "Bugarama",
+        "en": "Bugarama",
+        "slug": "bugarama-bdi018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018002",
+        "level": 2,
+        "name": {
+          "local": "Bugarama",
+          "en": "Bugarama",
+          "slug": "bugarama-bdi018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.687",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018002_mihororo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mihororo",
+      "en": "Mihororo",
+      "slug": "mihororo"
+    },
+    "code": {
+      "id": "BDI018002_mihororo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018002",
+      "level": 2,
+      "name": {
+        "local": "Bugarama",
+        "en": "Bugarama",
+        "slug": "bugarama-bdi018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018002",
+        "level": 2,
+        "name": {
+          "local": "Bugarama",
+          "en": "Bugarama",
+          "slug": "bugarama-bdi018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.687",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018002_mugendo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugendo",
+      "en": "Mugendo",
+      "slug": "mugendo"
+    },
+    "code": {
+      "id": "BDI018002_mugendo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018002",
+      "level": 2,
+      "name": {
+        "local": "Bugarama",
+        "en": "Bugarama",
+        "slug": "bugarama-bdi018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018002",
+        "level": 2,
+        "name": {
+          "local": "Bugarama",
+          "en": "Bugarama",
+          "slug": "bugarama-bdi018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.687",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018002_nyabungere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabungere",
+      "en": "Nyabungere",
+      "slug": "nyabungere"
+    },
+    "code": {
+      "id": "BDI018002_nyabungere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018002",
+      "level": 2,
+      "name": {
+        "local": "Bugarama",
+        "en": "Bugarama",
+        "slug": "bugarama-bdi018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018002",
+        "level": 2,
+        "name": {
+          "local": "Bugarama",
+          "en": "Bugarama",
+          "slug": "bugarama-bdi018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.687",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018002_ruteme",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruteme",
+      "en": "Ruteme",
+      "slug": "ruteme"
+    },
+    "code": {
+      "id": "BDI018002_ruteme",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018002",
+      "level": 2,
+      "name": {
+        "local": "Bugarama",
+        "en": "Bugarama",
+        "slug": "bugarama-bdi018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018002",
+        "level": 2,
+        "name": {
+          "local": "Bugarama",
+          "en": "Bugarama",
+          "slug": "bugarama-bdi018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.687",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018002_zingi-nyaruyaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Zingi Nyaruyaga",
+      "en": "Zingi Nyaruyaga",
+      "slug": "zingi-nyaruyaga"
+    },
+    "code": {
+      "id": "BDI018002_zingi-nyaruyaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018002",
+      "level": 2,
+      "name": {
+        "local": "Bugarama",
+        "en": "Bugarama",
+        "slug": "bugarama-bdi018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018002",
+        "level": 2,
+        "name": {
+          "local": "Bugarama",
+          "en": "Bugarama",
+          "slug": "bugarama-bdi018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.687",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1568 @@
+[
+  {
+    "id": "BDI008007_bushoka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bushoka",
+      "en": "Bushoka",
+      "slug": "bushoka"
+    },
+    "code": {
+      "id": "BDI008007_bushoka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_ceyerezi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ceyerezi",
+      "en": "Ceyerezi",
+      "slug": "ceyerezi"
+    },
+    "code": {
+      "id": "BDI008007_ceyerezi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_gahar0",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gahar0",
+      "en": "Gahar0",
+      "slug": "gahar0"
+    },
+    "code": {
+      "id": "BDI008007_gahar0",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_gasenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasenyi",
+      "en": "Gasenyi",
+      "slug": "gasenyi"
+    },
+    "code": {
+      "id": "BDI008007_gasenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_gashibuka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gashibuka",
+      "en": "Gashibuka",
+      "slug": "gashibuka"
+    },
+    "code": {
+      "id": "BDI008007_gashibuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_gatozo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatozo",
+      "en": "Gatozo",
+      "slug": "gatozo"
+    },
+    "code": {
+      "id": "BDI008007_gatozo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_gatura",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatura",
+      "en": "Gatura",
+      "slug": "gatura"
+    },
+    "code": {
+      "id": "BDI008007_gatura",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_gisara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisara",
+      "en": "Gisara",
+      "slug": "gisara"
+    },
+    "code": {
+      "id": "BDI008007_gisara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_gitamo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitamo",
+      "en": "Gitamo",
+      "slug": "gitamo"
+    },
+    "code": {
+      "id": "BDI008007_gitamo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_jimbi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Jimbi",
+      "en": "Jimbi",
+      "slug": "jimbi"
+    },
+    "code": {
+      "id": "BDI008007_jimbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_kanyundo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kanyundo",
+      "en": "Kanyundo",
+      "slug": "kanyundo"
+    },
+    "code": {
+      "id": "BDI008007_kanyundo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_kibimba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibimba",
+      "en": "Kibimba",
+      "slug": "kibimba"
+    },
+    "code": {
+      "id": "BDI008007_kibimba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_kivuzo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivuzo",
+      "en": "Kivuzo",
+      "slug": "kivuzo"
+    },
+    "code": {
+      "id": "BDI008007_kivuzo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_masama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masama",
+      "en": "Masama",
+      "slug": "masama"
+    },
+    "code": {
+      "id": "BDI008007_masama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_masanze",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masanze",
+      "en": "Masanze",
+      "slug": "masanze"
+    },
+    "code": {
+      "id": "BDI008007_masanze",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_mborwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mborwe",
+      "en": "Mborwe",
+      "slug": "mborwe"
+    },
+    "code": {
+      "id": "BDI008007_mborwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_mibazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mibazi",
+      "en": "Mibazi",
+      "slug": "mibazi"
+    },
+    "code": {
+      "id": "BDI008007_mibazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_muhanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muhanga",
+      "en": "Muhanga",
+      "slug": "muhanga"
+    },
+    "code": {
+      "id": "BDI008007_muhanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_mwendo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwendo",
+      "en": "Mwendo",
+      "slug": "mwendo"
+    },
+    "code": {
+      "id": "BDI008007_mwendo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_ndava",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ndava",
+      "en": "Ndava",
+      "slug": "ndava"
+    },
+    "code": {
+      "id": "BDI008007_ndava",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_ngoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngoma",
+      "en": "Ngoma",
+      "slug": "ngoma"
+    },
+    "code": {
+      "id": "BDI008007_ngoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_nyamitanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamitanga",
+      "en": "Nyamitanga",
+      "slug": "nyamitanga"
+    },
+    "code": {
+      "id": "BDI008007_nyamitanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_nyamwera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamwera",
+      "en": "Nyamwera",
+      "slug": "nyamwera"
+    },
+    "code": {
+      "id": "BDI008007_nyamwera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_nyarurambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarurambi",
+      "en": "Nyarurambi",
+      "slug": "nyarurambi"
+    },
+    "code": {
+      "id": "BDI008007_nyarurambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_rubanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubanga",
+      "en": "Rubanga",
+      "slug": "rubanga"
+    },
+    "code": {
+      "id": "BDI008007_rubanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_rugamba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugamba",
+      "en": "Rugamba",
+      "slug": "rugamba"
+    },
+    "code": {
+      "id": "BDI008007_rugamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_rushenza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rushenza",
+      "en": "Rushenza",
+      "slug": "rushenza"
+    },
+    "code": {
+      "id": "BDI008007_rushenza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_rushubi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rushubi",
+      "en": "Rushubi",
+      "slug": "rushubi"
+    },
+    "code": {
+      "id": "BDI008007_rushubi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007_sakinyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Sakinyinya",
+      "en": "Sakinyinya",
+      "slug": "sakinyinya"
+    },
+    "code": {
+      "id": "BDI008007_sakinyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008007",
+      "level": 2,
+      "name": {
+        "local": "Muhanga",
+        "en": "Muhanga",
+        "slug": "muhanga-bdi008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008007",
+        "level": 2,
+        "name": {
+          "local": "Muhanga",
+          "en": "Muhanga",
+          "slug": "muhanga-bdi008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

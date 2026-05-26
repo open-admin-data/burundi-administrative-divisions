@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.colline,geo.lat,geo.lon
+BDI005001,Buganda,Buganda,buganda-bdi005001,BDI005001,13,-2.989,29.222
+BDI005002,Bukinanyana,Bukinanyana,bukinanyana-bdi005002,BDI005002,30,-2.867,29.366
+BDI005003,Mabayi,Mabayi,mabayi-bdi005003,BDI005003,24,-2.723,29.251
+BDI005004,Mugina,Mugina,mugina-bdi005004,BDI005004,18,-2.705,29.11
+BDI005005,Murwi,Murwi,murwi-bdi005005,BDI005005,27,-2.893,29.205
+BDI005006,Rugombo,Rugombo,rugombo-bdi005006,BDI005006,17,-2.829,29.115

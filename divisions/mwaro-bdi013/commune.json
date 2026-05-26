@@ -1,0 +1,284 @@
+[
+  {
+    "id": "BDI013001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bisoro",
+      "en": "Bisoro",
+      "slug": "bisoro-bdi013001"
+    },
+    "code": {
+      "id": "BDI013001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013",
+      "level": 1,
+      "name": {
+        "local": "Mwaro",
+        "en": "Mwaro",
+        "slug": "mwaro-bdi013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.641",
+      "lon": "29.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gisozi",
+      "en": "Gisozi",
+      "slug": "gisozi-bdi013002"
+    },
+    "code": {
+      "id": "BDI013002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013",
+      "level": 1,
+      "name": {
+        "local": "Mwaro",
+        "en": "Mwaro",
+        "slug": "mwaro-bdi013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.551",
+      "lon": "29.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kayokwe",
+      "en": "Kayokwe",
+      "slug": "kayokwe-bdi013003"
+    },
+    "code": {
+      "id": "BDI013003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013",
+      "level": 1,
+      "name": {
+        "local": "Mwaro",
+        "en": "Mwaro",
+        "slug": "mwaro-bdi013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ndava",
+      "en": "Ndava",
+      "slug": "ndava-bdi013004"
+    },
+    "code": {
+      "id": "BDI013004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013",
+      "level": 1,
+      "name": {
+        "local": "Mwaro",
+        "en": "Mwaro",
+        "slug": "mwaro-bdi013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.39",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nyabihanga",
+      "en": "Nyabihanga",
+      "slug": "nyabihanga-bdi013005"
+    },
+    "code": {
+      "id": "BDI013005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013",
+      "level": 1,
+      "name": {
+        "local": "Mwaro",
+        "en": "Mwaro",
+        "slug": "mwaro-bdi013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rusaka",
+      "en": "Rusaka",
+      "slug": "rusaka-bdi013006"
+    },
+    "code": {
+      "id": "BDI013006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013",
+      "level": 1,
+      "name": {
+        "local": "Mwaro",
+        "en": "Mwaro",
+        "slug": "mwaro-bdi013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

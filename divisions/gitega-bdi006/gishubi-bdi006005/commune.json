@@ -1,0 +1,47 @@
+{
+  "id": "BDI006005",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Gishubi",
+    "en": "Gishubi",
+    "slug": "gishubi-bdi006005"
+  },
+  "code": {
+    "id": "BDI006005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI006",
+    "level": 1,
+    "name": {
+      "local": "Gitega",
+      "en": "Gitega",
+      "slug": "gitega-bdi006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 34
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.608",
+    "lon": "29.886"
+  },
+  "metadata": {},
+  "source": {}
+}

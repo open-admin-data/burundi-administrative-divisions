@@ -1,0 +1,30 @@
+{
+  "id": "BDI001",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Bubanza",
+    "en": "Bubanza",
+    "slug": "bubanza-bdi001"
+  },
+  "code": {
+    "id": "BDI001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 5,
+    "colline": 88
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.117",
+    "lon": "29.399"
+  },
+  "metadata": {},
+  "source": {}
+}

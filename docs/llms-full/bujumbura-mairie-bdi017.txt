@@ -1,0 +1,436 @@
+# Bujumbura Mairie — Burundi Administrative Divisions
+
+> 3 communes, 103 collines
+> Code: BDI017
+> Coordinates: -3.394, 29.367
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Communes
+
+### Muha
+
+Code: BDI017014, Coordinates: -3.441, 29.357
+Collines: 18
+
+#### Gasekebuye
+
+Code: BDI017014_gasekebuye, Coordinates: -3.441, 29.357
+
+#### Gisyo
+
+Code: BDI017014_gisyo, Coordinates: -3.441, 29.357
+
+#### Gitaramuka
+
+Code: BDI017014_gitaramuka, Coordinates: -3.441, 29.357
+
+#### Kajiji
+
+Code: BDI017014_kajiji, Coordinates: -3.441, 29.357
+
+#### Kamesa
+
+Code: BDI017014_kamesa, Coordinates: -3.441, 29.357
+
+#### Kibenga
+
+Code: BDI017014_kibenga, Coordinates: -3.441, 29.357
+
+#### Kinanira I
+
+Code: BDI017014_kinanira-i, Coordinates: -3.441, 29.357
+
+#### Kinanira Ii
+
+Code: BDI017014_kinanira-ii, Coordinates: -3.441, 29.357
+
+#### Kinanira Iii
+
+Code: BDI017014_kinanira-iii, Coordinates: -3.441, 29.357
+
+#### Kinanira Iv
+
+Code: BDI017014_kinanira-iv, Coordinates: -3.441, 29.357
+
+#### Kinindo
+
+Code: BDI017014_kinindo, Coordinates: -3.441, 29.357
+
+#### Kizingwe Bihara
+
+Code: BDI017014_kizingwe-bihara, Coordinates: -3.441, 29.357
+
+#### Musaga
+
+Code: BDI017014_musaga, Coordinates: -3.441, 29.357
+
+#### Musama
+
+Code: BDI017014_musama, Coordinates: -3.441, 29.357
+
+#### Nkenga Busoro
+
+Code: BDI017014_nkenga-busoro, Coordinates: -3.441, 29.357
+
+#### Nyabugete
+
+Code: BDI017014_nyabugete, Coordinates: -3.441, 29.357
+
+#### Oua Zeimet
+
+Code: BDI017014_oua-zeimet, Coordinates: -3.441, 29.357
+
+#### Ruziba
+
+Code: BDI017014_ruziba, Coordinates: -3.441, 29.357
+
+### Mukaza
+
+Code: BDI017015, Coordinates: -3.383, 29.376
+Collines: 27
+
+#### Asiatique
+
+Code: BDI017015_asiatique, Coordinates: -3.383, 29.376
+
+#### Buyenzi Q1
+
+Code: BDI017015_buyenzi-q1, Coordinates: -3.383, 29.376
+
+#### Buyenzi Q2
+
+Code: BDI017015_buyenzi-q2, Coordinates: -3.383, 29.376
+
+#### Buyenzi Q3
+
+Code: BDI017015_buyenzi-q3, Coordinates: -3.383, 29.376
+
+#### Buyenzi Q4
+
+Code: BDI017015_buyenzi-q4, Coordinates: -3.383, 29.376
+
+#### Buyenzi Q5
+
+Code: BDI017015_buyenzi-q5, Coordinates: -3.383, 29.376
+
+#### Buyenzi Q6
+
+Code: BDI017015_buyenzi-q6, Coordinates: -3.383, 29.376
+
+#### Buyenzi Q7
+
+Code: BDI017015_buyenzi-q7, Coordinates: -3.383, 29.376
+
+#### Bwiza Q1
+
+Code: BDI017015_bwiza-q1, Coordinates: -3.383, 29.376
+
+#### Bwiza Q2
+
+Code: BDI017015_bwiza-q2, Coordinates: -3.383, 29.376
+
+#### Bwiza Q3
+
+Code: BDI017015_bwiza-q3, Coordinates: -3.383, 29.376
+
+#### Bwiza Q4
+
+Code: BDI017015_bwiza-q4, Coordinates: -3.383, 29.376
+
+#### Bwiza Q5
+
+Code: BDI017015_bwiza-q5, Coordinates: -3.383, 29.376
+
+#### Bwiza Q6
+
+Code: BDI017015_bwiza-q6, Coordinates: -3.383, 29.376
+
+#### Bwiza Q7
+
+Code: BDI017015_bwiza-q7, Coordinates: -3.383, 29.376
+
+#### Centre Ville
+
+Code: BDI017015_centre-ville, Coordinates: -3.383, 29.376
+
+#### Gatoke
+
+Code: BDI017015_gatoke, Coordinates: -3.383, 29.376
+
+#### Inss
+
+Code: BDI017015_inss, Coordinates: -3.383, 29.376
+
+#### Kabondo
+
+Code: BDI017015_kabondo, Coordinates: -3.383, 29.376
+
+#### Kigwati
+
+Code: BDI017015_kigwati, Coordinates: -3.383, 29.376
+
+#### Kiriri Vugizo
+
+Code: BDI017015_kiriri-vugizo, Coordinates: -3.383, 29.376
+
+#### Mutanga Sud
+
+Code: BDI017015_mutanga-sud, Coordinates: -3.383, 29.376
+
+#### Nyakabiga I
+
+Code: BDI017015_nyakabiga-i, Coordinates: -3.383, 29.376
+
+#### Nyakabiga Ii
+
+Code: BDI017015_nyakabiga-ii, Coordinates: -3.383, 29.376
+
+#### Nyakabiga Iii
+
+Code: BDI017015_nyakabiga-iii, Coordinates: -3.383, 29.376
+
+#### Rohero I
+
+Code: BDI017015_rohero-i, Coordinates: -3.383, 29.376
+
+#### Rohero Ii
+
+Code: BDI017015_rohero-ii, Coordinates: -3.383, 29.376
+
+### Ntahangwa
+
+Code: BDI017016, Coordinates: -3.343, 29.362
+Collines: 58
+
+#### Bubanza
+
+Code: BDI017016_bubanza, Coordinates: -3.343, 29.362
+
+#### Buhinyuza
+
+Code: BDI017016_buhinyuza, Coordinates: -3.343, 29.362
+
+#### Bukirasazi I
+
+Code: BDI017016_bukirasazi-i, Coordinates: -3.343, 29.362
+
+#### Bukirasazi Ii
+
+Code: BDI017016_bukirasazi-ii, Coordinates: -3.343, 29.362
+
+#### Bururi
+
+Code: BDI017016_bururi, Coordinates: -3.343, 29.362
+
+#### Buterere I
+
+Code: BDI017016_buterere-i, Coordinates: -3.343, 29.362
+
+#### Buterere Ii A
+
+Code: BDI017016_buterere-ii-a, Coordinates: -3.343, 29.362
+
+#### Buterere Ii B
+
+Code: BDI017016_buterere-ii-b, Coordinates: -3.343, 29.362
+
+#### Carama
+
+Code: BDI017016_carama, Coordinates: -3.343, 29.362
+
+#### Cibitoke Q1
+
+Code: BDI017016_cibitoke-q1, Coordinates: -3.343, 29.362
+
+#### Cibitoke Q2
+
+Code: BDI017016_cibitoke-q2, Coordinates: -3.343, 29.362
+
+#### Cibitoke Q3
+
+Code: BDI017016_cibitoke-q3, Coordinates: -3.343, 29.362
+
+#### Cibitoke Q4
+
+Code: BDI017016_cibitoke-q4, Coordinates: -3.343, 29.362
+
+#### Cibitoke Q5
+
+Code: BDI017016_cibitoke-q5, Coordinates: -3.343, 29.362
+
+#### Cibitoke Q6
+
+Code: BDI017016_cibitoke-q6, Coordinates: -3.343, 29.362
+
+#### Cibitoke Q7
+
+Code: BDI017016_cibitoke-q7, Coordinates: -3.343, 29.362
+
+#### Gihosha
+
+Code: BDI017016_gihosha, Coordinates: -3.343, 29.362
+
+#### Gikizi
+
+Code: BDI017016_gikizi, Coordinates: -3.343, 29.362
+
+#### Gikungu
+
+Code: BDI017016_gikungu, Coordinates: -3.343, 29.362
+
+#### Gikungu I
+
+Code: BDI017016_gikungu-i, Coordinates: -3.343, 29.362
+
+#### Gikungu Ii
+
+Code: BDI017016_gikungu-ii, Coordinates: -3.343, 29.362
+
+#### Gitega
+
+Code: BDI017016_gitega, Coordinates: -3.343, 29.362
+
+#### Gituro
+
+Code: BDI017016_gituro, Coordinates: -3.343, 29.362
+
+#### Heha
+
+Code: BDI017016_heha, Coordinates: -3.343, 29.362
+
+#### Kabusa
+
+Code: BDI017016_kabusa, Coordinates: -3.343, 29.362
+
+#### Kamenge
+
+Code: BDI017016_kamenge, Coordinates: -3.343, 29.362
+
+#### Kanga
+
+Code: BDI017016_kanga, Coordinates: -3.343, 29.362
+
+#### Kavumu
+
+Code: BDI017016_kavumu, Coordinates: -3.343, 29.362
+
+#### Kinama
+
+Code: BDI017016_kinama, Coordinates: -3.343, 29.362
+
+#### Kiyange I
+
+Code: BDI017016_kiyange-i, Coordinates: -3.343, 29.362
+
+#### Kiyange Ii
+
+Code: BDI017016_kiyange-ii, Coordinates: -3.343, 29.362
+
+#### Maramvya
+
+Code: BDI017016_maramvya, Coordinates: -3.343, 29.362
+
+#### Mirango I
+
+Code: BDI017016_mirango-i, Coordinates: -3.343, 29.362
+
+#### Mirango Ii
+
+Code: BDI017016_mirango-ii, Coordinates: -3.343, 29.362
+
+#### Mubone
+
+Code: BDI017016_mubone, Coordinates: -3.343, 29.362
+
+#### Mugaruro
+
+Code: BDI017016_mugaruro, Coordinates: -3.343, 29.362
+
+#### Muramvya
+
+Code: BDI017016_muramvya, Coordinates: -3.343, 29.362
+
+#### Muyaga
+
+Code: BDI017016_muyaga, Coordinates: -3.343, 29.362
+
+#### Muyinga
+
+Code: BDI017016_muyinga, Coordinates: -3.343, 29.362
+
+#### Ngagara Q1
+
+Code: BDI017016_ngagara-q1, Coordinates: -3.343, 29.362
+
+#### Ngagara Q10
+
+Code: BDI017016_ngagara-q10, Coordinates: -3.343, 29.362
+
+#### Ngagara Q2
+
+Code: BDI017016_ngagara-q2, Coordinates: -3.343, 29.362
+
+#### Ngagara Q3
+
+Code: BDI017016_ngagara-q3, Coordinates: -3.343, 29.362
+
+#### Ngagara Q4
+
+Code: BDI017016_ngagara-q4, Coordinates: -3.343, 29.362
+
+#### Ngagara Q5
+
+Code: BDI017016_ngagara-q5, Coordinates: -3.343, 29.362
+
+#### Ngagara Q6
+
+Code: BDI017016_ngagara-q6, Coordinates: -3.343, 29.362
+
+#### Ngagara Q7
+
+Code: BDI017016_ngagara-q7, Coordinates: -3.343, 29.362
+
+#### Ngagara Q8
+
+Code: BDI017016_ngagara-q8, Coordinates: -3.343, 29.362
+
+#### Ngagara Q9
+
+Code: BDI017016_ngagara-q9, Coordinates: -3.343, 29.362
+
+#### Ngozi
+
+Code: BDI017016_ngozi, Coordinates: -3.343, 29.362
+
+#### Nyabagere
+
+Code: BDI017016_nyabagere, Coordinates: -3.343, 29.362
+
+#### Q Industriel
+
+Code: BDI017016_q-industriel, Coordinates: -3.343, 29.362
+
+#### Ruyigi
+
+Code: BDI017016_ruyigi, Coordinates: -3.343, 29.362
+
+#### Socarti
+
+Code: BDI017016_socarti, Coordinates: -3.343, 29.362
+
+#### Songa
+
+Code: BDI017016_songa, Coordinates: -3.343, 29.362
+
+#### Taba
+
+Code: BDI017016_taba, Coordinates: -3.343, 29.362
+
+#### Teza
+
+Code: BDI017016_teza, Coordinates: -3.343, 29.362
+
+#### Twinyoni
+
+Code: BDI017016_twinyoni, Coordinates: -3.343, 29.362
+

@@ -1,0 +1,88 @@
+# Burundi Administrative Divisions
+
+> Open dataset of Burundi's administrative hierarchy:
+> 18 provinces, 119 communes, 2,917 collines.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total provinces: 18
+- Total communes: 119
+- Total collines: 2,917
+- Coordinates: included (all levels)
+- Last updated: 2026-05-26
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All provinces (JSON)](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/data/all-province.json)
+- [All communes (JSON)](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/data/all-commune.json)
+- [All collines (JSON)](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/data/all-colline.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/data/schema.json)
+
+## Browse by Province
+
+- [Bubanza](https://github.com/open-admin-data/burundi-administrative-divisions/tree/main/divisions/bubanza-bdi001/) — 5 communes, 88 collines
+- [Bujumbura Mairie](https://github.com/open-admin-data/burundi-administrative-divisions/tree/main/divisions/bujumbura-mairie-bdi017/) — 3 communes, 103 collines
+- [Bujumbura Rural](https://github.com/open-admin-data/burundi-administrative-divisions/tree/main/divisions/bujumbura-rural-bdi002/) — 9 communes, 160 collines
+- [Bururi](https://github.com/open-admin-data/burundi-administrative-divisions/tree/main/divisions/bururi-bdi003/) — 6 communes, 130 collines
+- [Cankuzo](https://github.com/open-admin-data/burundi-administrative-divisions/tree/main/divisions/cankuzo-bdi004/) — 5 communes, 87 collines
+- [Cibitoke](https://github.com/open-admin-data/burundi-administrative-divisions/tree/main/divisions/cibitoke-bdi005/) — 6 communes, 129 collines
+- [Gitega](https://github.com/open-admin-data/burundi-administrative-divisions/tree/main/divisions/gitega-bdi006/) — 11 communes, 268 collines
+- [Karuzi](https://github.com/open-admin-data/burundi-administrative-divisions/tree/main/divisions/karuzi-bdi007/) — 7 communes, 146 collines
+- [Kayanza](https://github.com/open-admin-data/burundi-administrative-divisions/tree/main/divisions/kayanza-bdi008/) — 9 communes, 301 collines
+- [Kirundo](https://github.com/open-admin-data/burundi-administrative-divisions/tree/main/divisions/kirundo-bdi009/) — 7 communes, 198 collines
+- [Makamba](https://github.com/open-admin-data/burundi-administrative-divisions/tree/main/divisions/makamba-bdi010/) — 6 communes, 142 collines
+- [Muramvya](https://github.com/open-admin-data/burundi-administrative-divisions/tree/main/divisions/muramvya-bdi011/) — 5 communes, 100 collines
+- [Muyinga](https://github.com/open-admin-data/burundi-administrative-divisions/tree/main/divisions/muyinga-bdi012/) — 7 communes, 230 collines
+- [Mwaro](https://github.com/open-admin-data/burundi-administrative-divisions/tree/main/divisions/mwaro-bdi013/) — 6 communes, 134 collines
+- [Ngozi](https://github.com/open-admin-data/burundi-administrative-divisions/tree/main/divisions/ngozi-bdi014/) — 9 communes, 305 collines
+- [Rumonge](https://github.com/open-admin-data/burundi-administrative-divisions/tree/main/divisions/rumonge-bdi018/) — 5 communes, 108 collines
+- [Rutana](https://github.com/open-admin-data/burundi-administrative-divisions/tree/main/divisions/rutana-bdi015/) — 6 communes, 148 collines
+- [Ruyigi](https://github.com/open-admin-data/burundi-administrative-divisions/tree/main/divisions/ruyigi-bdi016/) — 7 communes, 140 collines
+
+## Per-Province Full Data
+
+- [Bubanza](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/docs/llms-full/bubanza-bdi001.txt)
+- [Bujumbura Mairie](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/docs/llms-full/bujumbura-mairie-bdi017.txt)
+- [Bujumbura Rural](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/docs/llms-full/bujumbura-rural-bdi002.txt)
+- [Bururi](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/docs/llms-full/bururi-bdi003.txt)
+- [Cankuzo](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/docs/llms-full/cankuzo-bdi004.txt)
+- [Cibitoke](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/docs/llms-full/cibitoke-bdi005.txt)
+- [Gitega](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/docs/llms-full/gitega-bdi006.txt)
+- [Karuzi](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/docs/llms-full/karuzi-bdi007.txt)
+- [Kayanza](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/docs/llms-full/kayanza-bdi008.txt)
+- [Kirundo](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/docs/llms-full/kirundo-bdi009.txt)
+- [Makamba](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/docs/llms-full/makamba-bdi010.txt)
+- [Muramvya](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/docs/llms-full/muramvya-bdi011.txt)
+- [Muyinga](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/docs/llms-full/muyinga-bdi012.txt)
+- [Mwaro](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/docs/llms-full/mwaro-bdi013.txt)
+- [Ngozi](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/docs/llms-full/ngozi-bdi014.txt)
+- [Rumonge](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/docs/llms-full/rumonge-bdi018.txt)
+- [Rutana](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/docs/llms-full/rutana-bdi015.txt)
+- [Ruyigi](https://raw.githubusercontent.com/open-admin-data/burundi-administrative-divisions/main/docs/llms-full/ruyigi-bdi016.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (province), 2 (commune), 3 (colline)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Burundi Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/burundi-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

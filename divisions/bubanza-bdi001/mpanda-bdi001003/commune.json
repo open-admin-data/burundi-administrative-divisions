@@ -1,0 +1,47 @@
+{
+  "id": "BDI001003",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Mpanda",
+    "en": "Mpanda",
+    "slug": "mpanda-bdi001003"
+  },
+  "code": {
+    "id": "BDI001003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI001",
+    "level": 1,
+    "name": {
+      "local": "Bubanza",
+      "en": "Bubanza",
+      "slug": "bubanza-bdi001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI001",
+      "level": 1,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.188",
+    "lon": "29.414"
+  },
+  "metadata": {},
+  "source": {}
+}

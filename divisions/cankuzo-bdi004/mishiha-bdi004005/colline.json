@@ -1,0 +1,650 @@
+[
+  {
+    "id": "BDI004005_busumanyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Busumanyi",
+      "en": "Busumanyi",
+      "slug": "busumanyi"
+    },
+    "code": {
+      "id": "BDI004005_busumanyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004005",
+      "level": 2,
+      "name": {
+        "local": "Mishiha",
+        "en": "Mishiha",
+        "slug": "mishiha-bdi004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004005",
+        "level": 2,
+        "name": {
+          "local": "Mishiha",
+          "en": "Mishiha",
+          "slug": "mishiha-bdi004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.071",
+      "lon": "30.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004005_buyongwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buyongwe",
+      "en": "Buyongwe",
+      "slug": "buyongwe"
+    },
+    "code": {
+      "id": "BDI004005_buyongwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004005",
+      "level": 2,
+      "name": {
+        "local": "Mishiha",
+        "en": "Mishiha",
+        "slug": "mishiha-bdi004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004005",
+        "level": 2,
+        "name": {
+          "local": "Mishiha",
+          "en": "Mishiha",
+          "slug": "mishiha-bdi004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.071",
+      "lon": "30.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004005_kaniha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kaniha",
+      "en": "Kaniha",
+      "slug": "kaniha"
+    },
+    "code": {
+      "id": "BDI004005_kaniha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004005",
+      "level": 2,
+      "name": {
+        "local": "Mishiha",
+        "en": "Mishiha",
+        "slug": "mishiha-bdi004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004005",
+        "level": 2,
+        "name": {
+          "local": "Mishiha",
+          "en": "Mishiha",
+          "slug": "mishiha-bdi004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.071",
+      "lon": "30.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004005_kibimba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibimba",
+      "en": "Kibimba",
+      "slug": "kibimba"
+    },
+    "code": {
+      "id": "BDI004005_kibimba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004005",
+      "level": 2,
+      "name": {
+        "local": "Mishiha",
+        "en": "Mishiha",
+        "slug": "mishiha-bdi004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004005",
+        "level": 2,
+        "name": {
+          "local": "Mishiha",
+          "en": "Mishiha",
+          "slug": "mishiha-bdi004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.071",
+      "lon": "30.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004005_mishiha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mishiha",
+      "en": "Mishiha",
+      "slug": "mishiha"
+    },
+    "code": {
+      "id": "BDI004005_mishiha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004005",
+      "level": 2,
+      "name": {
+        "local": "Mishiha",
+        "en": "Mishiha",
+        "slug": "mishiha-bdi004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004005",
+        "level": 2,
+        "name": {
+          "local": "Mishiha",
+          "en": "Mishiha",
+          "slug": "mishiha-bdi004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.071",
+      "lon": "30.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004005_mugera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugera",
+      "en": "Mugera",
+      "slug": "mugera"
+    },
+    "code": {
+      "id": "BDI004005_mugera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004005",
+      "level": 2,
+      "name": {
+        "local": "Mishiha",
+        "en": "Mishiha",
+        "slug": "mishiha-bdi004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004005",
+        "level": 2,
+        "name": {
+          "local": "Mishiha",
+          "en": "Mishiha",
+          "slug": "mishiha-bdi004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.071",
+      "lon": "30.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004005_munzenze",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munzenze",
+      "en": "Munzenze",
+      "slug": "munzenze"
+    },
+    "code": {
+      "id": "BDI004005_munzenze",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004005",
+      "level": 2,
+      "name": {
+        "local": "Mishiha",
+        "en": "Mishiha",
+        "slug": "mishiha-bdi004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004005",
+        "level": 2,
+        "name": {
+          "local": "Mishiha",
+          "en": "Mishiha",
+          "slug": "mishiha-bdi004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.071",
+      "lon": "30.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004005_musemo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musemo",
+      "en": "Musemo",
+      "slug": "musemo"
+    },
+    "code": {
+      "id": "BDI004005_musemo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004005",
+      "level": 2,
+      "name": {
+        "local": "Mishiha",
+        "en": "Mishiha",
+        "slug": "mishiha-bdi004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004005",
+        "level": 2,
+        "name": {
+          "local": "Mishiha",
+          "en": "Mishiha",
+          "slug": "mishiha-bdi004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.071",
+      "lon": "30.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004005_mwiruzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwiruzi",
+      "en": "Mwiruzi",
+      "slug": "mwiruzi"
+    },
+    "code": {
+      "id": "BDI004005_mwiruzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004005",
+      "level": 2,
+      "name": {
+        "local": "Mishiha",
+        "en": "Mishiha",
+        "slug": "mishiha-bdi004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004005",
+        "level": 2,
+        "name": {
+          "local": "Mishiha",
+          "en": "Mishiha",
+          "slug": "mishiha-bdi004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.071",
+      "lon": "30.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004005_rugerero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugerero",
+      "en": "Rugerero",
+      "slug": "rugerero"
+    },
+    "code": {
+      "id": "BDI004005_rugerero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004005",
+      "level": 2,
+      "name": {
+        "local": "Mishiha",
+        "en": "Mishiha",
+        "slug": "mishiha-bdi004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004005",
+        "level": 2,
+        "name": {
+          "local": "Mishiha",
+          "en": "Mishiha",
+          "slug": "mishiha-bdi004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.071",
+      "lon": "30.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004005_rukrwega",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rukrwega",
+      "en": "Rukrwega",
+      "slug": "rukrwega"
+    },
+    "code": {
+      "id": "BDI004005_rukrwega",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004005",
+      "level": 2,
+      "name": {
+        "local": "Mishiha",
+        "en": "Mishiha",
+        "slug": "mishiha-bdi004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004005",
+        "level": 2,
+        "name": {
+          "local": "Mishiha",
+          "en": "Mishiha",
+          "slug": "mishiha-bdi004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.071",
+      "lon": "30.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004005_rutsindu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutsindu",
+      "en": "Rutsindu",
+      "slug": "rutsindu"
+    },
+    "code": {
+      "id": "BDI004005_rutsindu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004005",
+      "level": 2,
+      "name": {
+        "local": "Mishiha",
+        "en": "Mishiha",
+        "slug": "mishiha-bdi004005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004005",
+        "level": 2,
+        "name": {
+          "local": "Mishiha",
+          "en": "Mishiha",
+          "slug": "mishiha-bdi004005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.071",
+      "lon": "30.721"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

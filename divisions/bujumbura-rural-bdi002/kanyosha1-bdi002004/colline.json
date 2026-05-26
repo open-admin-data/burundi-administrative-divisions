@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "BDI002004_bigoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bigoma",
+      "en": "Bigoma",
+      "slug": "bigoma"
+    },
+    "code": {
+      "id": "BDI002004_bigoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002004",
+      "level": 2,
+      "name": {
+        "local": "Kanyosha1",
+        "en": "Kanyosha1",
+        "slug": "kanyosha1-bdi002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002004",
+        "level": 2,
+        "name": {
+          "local": "Kanyosha1",
+          "en": "Kanyosha1",
+          "slug": "kanyosha1-bdi002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002004_bigwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bigwa",
+      "en": "Bigwa",
+      "slug": "bigwa"
+    },
+    "code": {
+      "id": "BDI002004_bigwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002004",
+      "level": 2,
+      "name": {
+        "local": "Kanyosha1",
+        "en": "Kanyosha1",
+        "slug": "kanyosha1-bdi002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002004",
+        "level": 2,
+        "name": {
+          "local": "Kanyosha1",
+          "en": "Kanyosha1",
+          "slug": "kanyosha1-bdi002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002004_buhina",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhina",
+      "en": "Buhina",
+      "slug": "buhina"
+    },
+    "code": {
+      "id": "BDI002004_buhina",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002004",
+      "level": 2,
+      "name": {
+        "local": "Kanyosha1",
+        "en": "Kanyosha1",
+        "slug": "kanyosha1-bdi002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002004",
+        "level": 2,
+        "name": {
+          "local": "Kanyosha1",
+          "en": "Kanyosha1",
+          "slug": "kanyosha1-bdi002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002004_buhonga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhonga",
+      "en": "Buhonga",
+      "slug": "buhonga"
+    },
+    "code": {
+      "id": "BDI002004_buhonga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002004",
+      "level": 2,
+      "name": {
+        "local": "Kanyosha1",
+        "en": "Kanyosha1",
+        "slug": "kanyosha1-bdi002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002004",
+        "level": 2,
+        "name": {
+          "local": "Kanyosha1",
+          "en": "Kanyosha1",
+          "slug": "kanyosha1-bdi002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002004_buzige",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buzige",
+      "en": "Buzige",
+      "slug": "buzige"
+    },
+    "code": {
+      "id": "BDI002004_buzige",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002004",
+      "level": 2,
+      "name": {
+        "local": "Kanyosha1",
+        "en": "Kanyosha1",
+        "slug": "kanyosha1-bdi002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002004",
+        "level": 2,
+        "name": {
+          "local": "Kanyosha1",
+          "en": "Kanyosha1",
+          "slug": "kanyosha1-bdi002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002004_coga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Coga",
+      "en": "Coga",
+      "slug": "coga"
+    },
+    "code": {
+      "id": "BDI002004_coga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002004",
+      "level": 2,
+      "name": {
+        "local": "Kanyosha1",
+        "en": "Kanyosha1",
+        "slug": "kanyosha1-bdi002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002004",
+        "level": 2,
+        "name": {
+          "local": "Kanyosha1",
+          "en": "Kanyosha1",
+          "slug": "kanyosha1-bdi002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002004_gisovu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisovu",
+      "en": "Gisovu",
+      "slug": "gisovu"
+    },
+    "code": {
+      "id": "BDI002004_gisovu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002004",
+      "level": 2,
+      "name": {
+        "local": "Kanyosha1",
+        "en": "Kanyosha1",
+        "slug": "kanyosha1-bdi002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002004",
+        "level": 2,
+        "name": {
+          "local": "Kanyosha1",
+          "en": "Kanyosha1",
+          "slug": "kanyosha1-bdi002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002004_kabumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabumba",
+      "en": "Kabumba",
+      "slug": "kabumba"
+    },
+    "code": {
+      "id": "BDI002004_kabumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002004",
+      "level": 2,
+      "name": {
+        "local": "Kanyosha1",
+        "en": "Kanyosha1",
+        "slug": "kanyosha1-bdi002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002004",
+        "level": 2,
+        "name": {
+          "local": "Kanyosha1",
+          "en": "Kanyosha1",
+          "slug": "kanyosha1-bdi002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002004_kanyosha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kanyosha",
+      "en": "Kanyosha",
+      "slug": "kanyosha"
+    },
+    "code": {
+      "id": "BDI002004_kanyosha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002004",
+      "level": 2,
+      "name": {
+        "local": "Kanyosha1",
+        "en": "Kanyosha1",
+        "slug": "kanyosha1-bdi002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002004",
+        "level": 2,
+        "name": {
+          "local": "Kanyosha1",
+          "en": "Kanyosha1",
+          "slug": "kanyosha1-bdi002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002004_kavumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kavumu",
+      "en": "Kavumu",
+      "slug": "kavumu"
+    },
+    "code": {
+      "id": "BDI002004_kavumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002004",
+      "level": 2,
+      "name": {
+        "local": "Kanyosha1",
+        "en": "Kanyosha1",
+        "slug": "kanyosha1-bdi002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002004",
+        "level": 2,
+        "name": {
+          "local": "Kanyosha1",
+          "en": "Kanyosha1",
+          "slug": "kanyosha1-bdi002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002004_kirombe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirombe",
+      "en": "Kirombe",
+      "slug": "kirombe"
+    },
+    "code": {
+      "id": "BDI002004_kirombe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002004",
+      "level": 2,
+      "name": {
+        "local": "Kanyosha1",
+        "en": "Kanyosha1",
+        "slug": "kanyosha1-bdi002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002004",
+        "level": 2,
+        "name": {
+          "local": "Kanyosha1",
+          "en": "Kanyosha1",
+          "slug": "kanyosha1-bdi002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002004_mboza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mboza",
+      "en": "Mboza",
+      "slug": "mboza"
+    },
+    "code": {
+      "id": "BDI002004_mboza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002004",
+      "level": 2,
+      "name": {
+        "local": "Kanyosha1",
+        "en": "Kanyosha1",
+        "slug": "kanyosha1-bdi002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002004",
+        "level": 2,
+        "name": {
+          "local": "Kanyosha1",
+          "en": "Kanyosha1",
+          "slug": "kanyosha1-bdi002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002004_mirama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mirama",
+      "en": "Mirama",
+      "slug": "mirama"
+    },
+    "code": {
+      "id": "BDI002004_mirama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002004",
+      "level": 2,
+      "name": {
+        "local": "Kanyosha1",
+        "en": "Kanyosha1",
+        "slug": "kanyosha1-bdi002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002004",
+        "level": 2,
+        "name": {
+          "local": "Kanyosha1",
+          "en": "Kanyosha1",
+          "slug": "kanyosha1-bdi002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002004_musugi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musugi",
+      "en": "Musugi",
+      "slug": "musugi"
+    },
+    "code": {
+      "id": "BDI002004_musugi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002004",
+      "level": 2,
+      "name": {
+        "local": "Kanyosha1",
+        "en": "Kanyosha1",
+        "slug": "kanyosha1-bdi002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002004",
+        "level": 2,
+        "name": {
+          "local": "Kanyosha1",
+          "en": "Kanyosha1",
+          "slug": "kanyosha1-bdi002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002004_muyira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyira",
+      "en": "Muyira",
+      "slug": "muyira"
+    },
+    "code": {
+      "id": "BDI002004_muyira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002004",
+      "level": 2,
+      "name": {
+        "local": "Kanyosha1",
+        "en": "Kanyosha1",
+        "slug": "kanyosha1-bdi002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002004",
+        "level": 2,
+        "name": {
+          "local": "Kanyosha1",
+          "en": "Kanyosha1",
+          "slug": "kanyosha1-bdi002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002004_mwico",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwico",
+      "en": "Mwico",
+      "slug": "mwico"
+    },
+    "code": {
+      "id": "BDI002004_mwico",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002004",
+      "level": 2,
+      "name": {
+        "local": "Kanyosha1",
+        "en": "Kanyosha1",
+        "slug": "kanyosha1-bdi002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002004",
+        "level": 2,
+        "name": {
+          "local": "Kanyosha1",
+          "en": "Kanyosha1",
+          "slug": "kanyosha1-bdi002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002004_nyamaboko",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamaboko",
+      "en": "Nyamaboko",
+      "slug": "nyamaboko"
+    },
+    "code": {
+      "id": "BDI002004_nyamaboko",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002004",
+      "level": 2,
+      "name": {
+        "local": "Kanyosha1",
+        "en": "Kanyosha1",
+        "slug": "kanyosha1-bdi002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002004",
+        "level": 2,
+        "name": {
+          "local": "Kanyosha1",
+          "en": "Kanyosha1",
+          "slug": "kanyosha1-bdi002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002004_rubirizi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubirizi",
+      "en": "Rubirizi",
+      "slug": "rubirizi"
+    },
+    "code": {
+      "id": "BDI002004_rubirizi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002004",
+      "level": 2,
+      "name": {
+        "local": "Kanyosha1",
+        "en": "Kanyosha1",
+        "slug": "kanyosha1-bdi002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002004",
+        "level": 2,
+        "name": {
+          "local": "Kanyosha1",
+          "en": "Kanyosha1",
+          "slug": "kanyosha1-bdi002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002004_rukuba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rukuba",
+      "en": "Rukuba",
+      "slug": "rukuba"
+    },
+    "code": {
+      "id": "BDI002004_rukuba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002004",
+      "level": 2,
+      "name": {
+        "local": "Kanyosha1",
+        "en": "Kanyosha1",
+        "slug": "kanyosha1-bdi002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002004",
+        "level": 2,
+        "name": {
+          "local": "Kanyosha1",
+          "en": "Kanyosha1",
+          "slug": "kanyosha1-bdi002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002004_ruvumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruvumu",
+      "en": "Ruvumu",
+      "slug": "ruvumu"
+    },
+    "code": {
+      "id": "BDI002004_ruvumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002004",
+      "level": 2,
+      "name": {
+        "local": "Kanyosha1",
+        "en": "Kanyosha1",
+        "slug": "kanyosha1-bdi002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002004",
+        "level": 2,
+        "name": {
+          "local": "Kanyosha1",
+          "en": "Kanyosha1",
+          "slug": "kanyosha1-bdi002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002004_ruyaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruyaga",
+      "en": "Ruyaga",
+      "slug": "ruyaga"
+    },
+    "code": {
+      "id": "BDI002004_ruyaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002004",
+      "level": 2,
+      "name": {
+        "local": "Kanyosha1",
+        "en": "Kanyosha1",
+        "slug": "kanyosha1-bdi002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002004",
+        "level": 2,
+        "name": {
+          "local": "Kanyosha1",
+          "en": "Kanyosha1",
+          "slug": "kanyosha1-bdi002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002004_sororezo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Sororezo",
+      "en": "Sororezo",
+      "slug": "sororezo"
+    },
+    "code": {
+      "id": "BDI002004_sororezo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002004",
+      "level": 2,
+      "name": {
+        "local": "Kanyosha1",
+        "en": "Kanyosha1",
+        "slug": "kanyosha1-bdi002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002004",
+        "level": 2,
+        "name": {
+          "local": "Kanyosha1",
+          "en": "Kanyosha1",
+          "slug": "kanyosha1-bdi002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

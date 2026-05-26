@@ -1,0 +1,47 @@
+{
+  "id": "BDI008007",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Muhanga",
+    "en": "Muhanga",
+    "slug": "muhanga-bdi008007"
+  },
+  "code": {
+    "id": "BDI008007",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI008",
+    "level": 1,
+    "name": {
+      "local": "Kayanza",
+      "en": "Kayanza",
+      "slug": "kayanza-bdi008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI008",
+      "level": 1,
+      "name": {
+        "local": "Kayanza",
+        "en": "Kayanza",
+        "slug": "kayanza-bdi008"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.039",
+    "lon": "29.809"
+  },
+  "metadata": {},
+  "source": {}
+}

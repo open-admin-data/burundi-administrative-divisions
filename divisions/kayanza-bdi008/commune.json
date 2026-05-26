@@ -1,0 +1,425 @@
+[
+  {
+    "id": "BDI008001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Butaganzwa",
+      "en": "Butaganzwa",
+      "slug": "butaganzwa-bdi008001"
+    },
+    "code": {
+      "id": "BDI008001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008",
+      "level": 1,
+      "name": {
+        "local": "Kayanza",
+        "en": "Kayanza",
+        "slug": "kayanza-bdi008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 60
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gahombo",
+      "en": "Gahombo",
+      "slug": "gahombo-bdi008002"
+    },
+    "code": {
+      "id": "BDI008002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008",
+      "level": 1,
+      "name": {
+        "local": "Kayanza",
+        "en": "Kayanza",
+        "slug": "kayanza-bdi008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.99",
+      "lon": "29.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gatara",
+      "en": "Gatara",
+      "slug": "gatara-bdi008003"
+    },
+    "code": {
+      "id": "BDI008003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008",
+      "level": 1,
+      "name": {
+        "local": "Kayanza",
+        "en": "Kayanza",
+        "slug": "kayanza-bdi008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kabarore",
+      "en": "Kabarore",
+      "slug": "kabarore-bdi008004"
+    },
+    "code": {
+      "id": "BDI008004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008",
+      "level": 1,
+      "name": {
+        "local": "Kayanza",
+        "en": "Kayanza",
+        "slug": "kayanza-bdi008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 38
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.852",
+      "lon": "29.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kayanza",
+      "en": "Kayanza",
+      "slug": "kayanza-bdi008005"
+    },
+    "code": {
+      "id": "BDI008005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008",
+      "level": 1,
+      "name": {
+        "local": "Kayanza",
+        "en": "Kayanza",
+        "slug": "kayanza-bdi008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 36
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.935",
+      "lon": "29.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Matongo",
+      "en": "Matongo",
+      "slug": "matongo-bdi008006"
+    },
+    "code": {
+      "id": "BDI008006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008",
+      "level": 1,
+      "name": {
+        "local": "Kayanza",
+        "en": "Kayanza",
+        "slug": "kayanza-bdi008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 35
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Muhanga",
+      "en": "Muhanga",
+      "slug": "muhanga-bdi008007"
+    },
+    "code": {
+      "id": "BDI008007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008",
+      "level": 1,
+      "name": {
+        "local": "Kayanza",
+        "en": "Kayanza",
+        "slug": "kayanza-bdi008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008008",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Muruta",
+      "en": "Muruta",
+      "slug": "muruta-bdi008008"
+    },
+    "code": {
+      "id": "BDI008008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008",
+      "level": 1,
+      "name": {
+        "local": "Kayanza",
+        "en": "Kayanza",
+        "slug": "kayanza-bdi008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.955",
+      "lon": "29.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rango",
+      "en": "Rango",
+      "slug": "rango-bdi008009"
+    },
+    "code": {
+      "id": "BDI008009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008",
+      "level": 1,
+      "name": {
+        "local": "Kayanza",
+        "en": "Kayanza",
+        "slug": "kayanza-bdi008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

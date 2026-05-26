@@ -1,0 +1,47 @@
+{
+  "id": "BDI007003",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Gihogazi",
+    "en": "Gihogazi",
+    "slug": "gihogazi-bdi007003"
+  },
+  "code": {
+    "id": "BDI007003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI007",
+    "level": 1,
+    "name": {
+      "local": "Karuzi",
+      "en": "Karuzi",
+      "slug": "karuzi-bdi007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI007",
+      "level": 1,
+      "name": {
+        "local": "Karuzi",
+        "en": "Karuzi",
+        "slug": "karuzi-bdi007"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.146",
+    "lon": "29.974"
+  },
+  "metadata": {},
+  "source": {}
+}

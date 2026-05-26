@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "BDI012004_bihogo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bihogo",
+      "en": "Bihogo",
+      "slug": "bihogo"
+    },
+    "code": {
+      "id": "BDI012004_bihogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_buringa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buringa",
+      "en": "Buringa",
+      "slug": "buringa"
+    },
+    "code": {
+      "id": "BDI012004_buringa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_butirabura",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butirabura",
+      "en": "Butirabura",
+      "slug": "butirabura"
+    },
+    "code": {
+      "id": "BDI012004_butirabura",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_bwasare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bwasare",
+      "en": "Bwasare",
+      "slug": "bwasare"
+    },
+    "code": {
+      "id": "BDI012004_bwasare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_gasorwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasorwe",
+      "en": "Gasorwe",
+      "slug": "gasorwe"
+    },
+    "code": {
+      "id": "BDI012004_gasorwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_gasuru",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasuru",
+      "en": "Gasuru",
+      "slug": "gasuru"
+    },
+    "code": {
+      "id": "BDI012004_gasuru",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_gikwiye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikwiye",
+      "en": "Gikwiye",
+      "slug": "gikwiye"
+    },
+    "code": {
+      "id": "BDI012004_gikwiye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_gishuha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gishuha",
+      "en": "Gishuha",
+      "slug": "gishuha"
+    },
+    "code": {
+      "id": "BDI012004_gishuha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_higiro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Higiro",
+      "en": "Higiro",
+      "slug": "higiro"
+    },
+    "code": {
+      "id": "BDI012004_higiro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_jani",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Jani",
+      "en": "Jani",
+      "slug": "jani"
+    },
+    "code": {
+      "id": "BDI012004_jani",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_kaguhu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kaguhu",
+      "en": "Kaguhu",
+      "slug": "kaguhu"
+    },
+    "code": {
+      "id": "BDI012004_kaguhu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_kagurwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kagurwe",
+      "en": "Kagurwe",
+      "slug": "kagurwe"
+    },
+    "code": {
+      "id": "BDI012004_kagurwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_karama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karama",
+      "en": "Karama",
+      "slug": "karama"
+    },
+    "code": {
+      "id": "BDI012004_karama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_karambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karambi",
+      "en": "Karambi",
+      "slug": "karambi"
+    },
+    "code": {
+      "id": "BDI012004_karambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_karambo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karambo",
+      "en": "Karambo",
+      "slug": "karambo"
+    },
+    "code": {
+      "id": "BDI012004_karambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_karira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karira",
+      "en": "Karira",
+      "slug": "karira"
+    },
+    "code": {
+      "id": "BDI012004_karira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_kigoganya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigoganya",
+      "en": "Kigoganya",
+      "slug": "kigoganya"
+    },
+    "code": {
+      "id": "BDI012004_kigoganya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_kimanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kimanga",
+      "en": "Kimanga",
+      "slug": "kimanga"
+    },
+    "code": {
+      "id": "BDI012004_kimanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_kinama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinama",
+      "en": "Kinama",
+      "slug": "kinama"
+    },
+    "code": {
+      "id": "BDI012004_kinama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_kiremba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiremba",
+      "en": "Kiremba",
+      "slug": "kiremba"
+    },
+    "code": {
+      "id": "BDI012004_kiremba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_kiryama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiryama",
+      "en": "Kiryama",
+      "slug": "kiryama"
+    },
+    "code": {
+      "id": "BDI012004_kiryama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_kivubo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivubo",
+      "en": "Kivubo",
+      "slug": "kivubo"
+    },
+    "code": {
+      "id": "BDI012004_kivubo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_kizi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kizi",
+      "en": "Kizi",
+      "slug": "kizi"
+    },
+    "code": {
+      "id": "BDI012004_kizi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_martyazo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Martyazo",
+      "en": "Martyazo",
+      "slug": "martyazo"
+    },
+    "code": {
+      "id": "BDI012004_martyazo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_masasu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masasu",
+      "en": "Masasu",
+      "slug": "masasu"
+    },
+    "code": {
+      "id": "BDI012004_masasu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_migunga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Migunga",
+      "en": "Migunga",
+      "slug": "migunga"
+    },
+    "code": {
+      "id": "BDI012004_migunga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_ngogomo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngogomo",
+      "en": "Ngogomo",
+      "slug": "ngogomo"
+    },
+    "code": {
+      "id": "BDI012004_ngogomo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_nyungu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyungu",
+      "en": "Nyungu",
+      "slug": "nyungu"
+    },
+    "code": {
+      "id": "BDI012004_nyungu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_rukinzo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rukinzo",
+      "en": "Rukinzo",
+      "slug": "rukinzo"
+    },
+    "code": {
+      "id": "BDI012004_rukinzo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004_rusimbuko",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusimbuko",
+      "en": "Rusimbuko",
+      "slug": "rusimbuko"
+    },
+    "code": {
+      "id": "BDI012004_rusimbuko",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012004",
+      "level": 2,
+      "name": {
+        "local": "Gasorwe",
+        "en": "Gasorwe",
+        "slug": "gasorwe-bdi012004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012004",
+        "level": 2,
+        "name": {
+          "local": "Gasorwe",
+          "en": "Gasorwe",
+          "slug": "gasorwe-bdi012004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

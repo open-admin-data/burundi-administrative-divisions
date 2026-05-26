@@ -1,0 +1,47 @@
+{
+  "id": "BDI014004",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Marangara",
+    "en": "Marangara",
+    "slug": "marangara-bdi014004"
+  },
+  "code": {
+    "id": "BDI014004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI014",
+    "level": 1,
+    "name": {
+      "local": "Ngozi",
+      "en": "Ngozi",
+      "slug": "ngozi-bdi014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI014",
+      "level": 1,
+      "name": {
+        "local": "Ngozi",
+        "en": "Ngozi",
+        "slug": "ngozi-bdi014"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 35
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.732",
+    "lon": "29.961"
+  },
+  "metadata": {},
+  "source": {}
+}

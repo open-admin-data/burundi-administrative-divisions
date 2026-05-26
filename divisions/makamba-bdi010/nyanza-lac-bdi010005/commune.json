@@ -1,0 +1,47 @@
+{
+  "id": "BDI010005",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Nyanza-Lac",
+    "en": "Nyanza-Lac",
+    "slug": "nyanza-lac-bdi010005"
+  },
+  "code": {
+    "id": "BDI010005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI010",
+    "level": 1,
+    "name": {
+      "local": "Makamba",
+      "en": "Makamba",
+      "slug": "makamba-bdi010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI010",
+      "level": 1,
+      "name": {
+        "local": "Makamba",
+        "en": "Makamba",
+        "slug": "makamba-bdi010"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 27
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.308",
+    "lon": "29.655"
+  },
+  "metadata": {},
+  "source": {}
+}

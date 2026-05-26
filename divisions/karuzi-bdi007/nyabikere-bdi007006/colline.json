@@ -1,0 +1,812 @@
+[
+  {
+    "id": "BDI007006_butamenwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butamenwa",
+      "en": "Butamenwa",
+      "slug": "butamenwa"
+    },
+    "code": {
+      "id": "BDI007006_butamenwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007006",
+      "level": 2,
+      "name": {
+        "local": "Nyabikere",
+        "en": "Nyabikere",
+        "slug": "nyabikere-bdi007006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007006",
+        "level": 2,
+        "name": {
+          "local": "Nyabikere",
+          "en": "Nyabikere",
+          "slug": "nyabikere-bdi007006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.252",
+      "lon": "30.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007006_gatonde",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatonde",
+      "en": "Gatonde",
+      "slug": "gatonde"
+    },
+    "code": {
+      "id": "BDI007006_gatonde",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007006",
+      "level": 2,
+      "name": {
+        "local": "Nyabikere",
+        "en": "Nyabikere",
+        "slug": "nyabikere-bdi007006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007006",
+        "level": 2,
+        "name": {
+          "local": "Nyabikere",
+          "en": "Nyabikere",
+          "slug": "nyabikere-bdi007006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.252",
+      "lon": "30.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007006_maramvya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Maramvya",
+      "en": "Maramvya",
+      "slug": "maramvya"
+    },
+    "code": {
+      "id": "BDI007006_maramvya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007006",
+      "level": 2,
+      "name": {
+        "local": "Nyabikere",
+        "en": "Nyabikere",
+        "slug": "nyabikere-bdi007006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007006",
+        "level": 2,
+        "name": {
+          "local": "Nyabikere",
+          "en": "Nyabikere",
+          "slug": "nyabikere-bdi007006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.252",
+      "lon": "30.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007006_masama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masama",
+      "en": "Masama",
+      "slug": "masama"
+    },
+    "code": {
+      "id": "BDI007006_masama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007006",
+      "level": 2,
+      "name": {
+        "local": "Nyabikere",
+        "en": "Nyabikere",
+        "slug": "nyabikere-bdi007006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007006",
+        "level": 2,
+        "name": {
+          "local": "Nyabikere",
+          "en": "Nyabikere",
+          "slug": "nyabikere-bdi007006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.252",
+      "lon": "30.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007006_mazita",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mazita",
+      "en": "Mazita",
+      "slug": "mazita"
+    },
+    "code": {
+      "id": "BDI007006_mazita",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007006",
+      "level": 2,
+      "name": {
+        "local": "Nyabikere",
+        "en": "Nyabikere",
+        "slug": "nyabikere-bdi007006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007006",
+        "level": 2,
+        "name": {
+          "local": "Nyabikere",
+          "en": "Nyabikere",
+          "slug": "nyabikere-bdi007006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.252",
+      "lon": "30.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007006_mbabazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mbabazi",
+      "en": "Mbabazi",
+      "slug": "mbabazi"
+    },
+    "code": {
+      "id": "BDI007006_mbabazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007006",
+      "level": 2,
+      "name": {
+        "local": "Nyabikere",
+        "en": "Nyabikere",
+        "slug": "nyabikere-bdi007006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007006",
+        "level": 2,
+        "name": {
+          "local": "Nyabikere",
+          "en": "Nyabikere",
+          "slug": "nyabikere-bdi007006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.252",
+      "lon": "30.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007006_ngugo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngugo",
+      "en": "Ngugo",
+      "slug": "ngugo"
+    },
+    "code": {
+      "id": "BDI007006_ngugo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007006",
+      "level": 2,
+      "name": {
+        "local": "Nyabikere",
+        "en": "Nyabikere",
+        "slug": "nyabikere-bdi007006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007006",
+        "level": 2,
+        "name": {
+          "local": "Nyabikere",
+          "en": "Nyabikere",
+          "slug": "nyabikere-bdi007006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.252",
+      "lon": "30.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007006_nyabikere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabikere",
+      "en": "Nyabikere",
+      "slug": "nyabikere"
+    },
+    "code": {
+      "id": "BDI007006_nyabikere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007006",
+      "level": 2,
+      "name": {
+        "local": "Nyabikere",
+        "en": "Nyabikere",
+        "slug": "nyabikere-bdi007006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007006",
+        "level": 2,
+        "name": {
+          "local": "Nyabikere",
+          "en": "Nyabikere",
+          "slug": "nyabikere-bdi007006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.252",
+      "lon": "30.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007006_nyarunazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarunazi",
+      "en": "Nyarunazi",
+      "slug": "nyarunazi"
+    },
+    "code": {
+      "id": "BDI007006_nyarunazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007006",
+      "level": 2,
+      "name": {
+        "local": "Nyabikere",
+        "en": "Nyabikere",
+        "slug": "nyabikere-bdi007006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007006",
+        "level": 2,
+        "name": {
+          "local": "Nyabikere",
+          "en": "Nyabikere",
+          "slug": "nyabikere-bdi007006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.252",
+      "lon": "30.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007006_nyenzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyenzi",
+      "en": "Nyenzi",
+      "slug": "nyenzi"
+    },
+    "code": {
+      "id": "BDI007006_nyenzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007006",
+      "level": 2,
+      "name": {
+        "local": "Nyabikere",
+        "en": "Nyabikere",
+        "slug": "nyabikere-bdi007006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007006",
+        "level": 2,
+        "name": {
+          "local": "Nyabikere",
+          "en": "Nyabikere",
+          "slug": "nyabikere-bdi007006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.252",
+      "lon": "30.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007006_rugwiza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugwiza",
+      "en": "Rugwiza",
+      "slug": "rugwiza"
+    },
+    "code": {
+      "id": "BDI007006_rugwiza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007006",
+      "level": 2,
+      "name": {
+        "local": "Nyabikere",
+        "en": "Nyabikere",
+        "slug": "nyabikere-bdi007006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007006",
+        "level": 2,
+        "name": {
+          "local": "Nyabikere",
+          "en": "Nyabikere",
+          "slug": "nyabikere-bdi007006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.252",
+      "lon": "30.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007006_ruhuma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhuma",
+      "en": "Ruhuma",
+      "slug": "ruhuma"
+    },
+    "code": {
+      "id": "BDI007006_ruhuma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007006",
+      "level": 2,
+      "name": {
+        "local": "Nyabikere",
+        "en": "Nyabikere",
+        "slug": "nyabikere-bdi007006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007006",
+        "level": 2,
+        "name": {
+          "local": "Nyabikere",
+          "en": "Nyabikere",
+          "slug": "nyabikere-bdi007006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.252",
+      "lon": "30.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007006_ruvumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruvumu",
+      "en": "Ruvumu",
+      "slug": "ruvumu"
+    },
+    "code": {
+      "id": "BDI007006_ruvumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007006",
+      "level": 2,
+      "name": {
+        "local": "Nyabikere",
+        "en": "Nyabikere",
+        "slug": "nyabikere-bdi007006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007006",
+        "level": 2,
+        "name": {
+          "local": "Nyabikere",
+          "en": "Nyabikere",
+          "slug": "nyabikere-bdi007006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.252",
+      "lon": "30.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007006_rwandagaro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwandagaro",
+      "en": "Rwandagaro",
+      "slug": "rwandagaro"
+    },
+    "code": {
+      "id": "BDI007006_rwandagaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007006",
+      "level": 2,
+      "name": {
+        "local": "Nyabikere",
+        "en": "Nyabikere",
+        "slug": "nyabikere-bdi007006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007006",
+        "level": 2,
+        "name": {
+          "local": "Nyabikere",
+          "en": "Nyabikere",
+          "slug": "nyabikere-bdi007006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.252",
+      "lon": "30.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007006_taba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Taba",
+      "en": "Taba",
+      "slug": "taba"
+    },
+    "code": {
+      "id": "BDI007006_taba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007006",
+      "level": 2,
+      "name": {
+        "local": "Nyabikere",
+        "en": "Nyabikere",
+        "slug": "nyabikere-bdi007006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007006",
+        "level": 2,
+        "name": {
+          "local": "Nyabikere",
+          "en": "Nyabikere",
+          "slug": "nyabikere-bdi007006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.252",
+      "lon": "30.15"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

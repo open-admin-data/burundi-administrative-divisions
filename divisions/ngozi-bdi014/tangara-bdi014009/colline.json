@@ -1,0 +1,2054 @@
+[
+  {
+    "id": "BDI014009_bomba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bomba",
+      "en": "Bomba",
+      "slug": "bomba"
+    },
+    "code": {
+      "id": "BDI014009_bomba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_butezi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butezi",
+      "en": "Butezi",
+      "slug": "butezi"
+    },
+    "code": {
+      "id": "BDI014009_butezi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_bwitoyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bwitoyi",
+      "en": "Bwitoyi",
+      "slug": "bwitoyi"
+    },
+    "code": {
+      "id": "BDI014009_bwitoyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_cumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cumba",
+      "en": "Cumba",
+      "slug": "cumba"
+    },
+    "code": {
+      "id": "BDI014009_cumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_gasekanya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasekanya",
+      "en": "Gasekanya",
+      "slug": "gasekanya"
+    },
+    "code": {
+      "id": "BDI014009_gasekanya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_gikingo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikingo",
+      "en": "Gikingo",
+      "slug": "gikingo"
+    },
+    "code": {
+      "id": "BDI014009_gikingo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_gisura",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisura",
+      "en": "Gisura",
+      "slug": "gisura"
+    },
+    "code": {
+      "id": "BDI014009_gisura",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_gitaramuka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitaramuka",
+      "en": "Gitaramuka",
+      "slug": "gitaramuka"
+    },
+    "code": {
+      "id": "BDI014009_gitaramuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_gitwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitwa",
+      "en": "Gitwa",
+      "slug": "gitwa"
+    },
+    "code": {
+      "id": "BDI014009_gitwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_kamira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kamira",
+      "en": "Kamira",
+      "slug": "kamira"
+    },
+    "code": {
+      "id": "BDI014009_kamira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_kananira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kananira",
+      "en": "Kananira",
+      "slug": "kananira"
+    },
+    "code": {
+      "id": "BDI014009_kananira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_kibande",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibande",
+      "en": "Kibande",
+      "slug": "kibande"
+    },
+    "code": {
+      "id": "BDI014009_kibande",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_kigomero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigomero",
+      "en": "Kigomero",
+      "slug": "kigomero"
+    },
+    "code": {
+      "id": "BDI014009_kigomero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_kiruhura",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiruhura",
+      "en": "Kiruhura",
+      "slug": "kiruhura"
+    },
+    "code": {
+      "id": "BDI014009_kiruhura",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_mafu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mafu",
+      "en": "Mafu",
+      "slug": "mafu"
+    },
+    "code": {
+      "id": "BDI014009_mafu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_mashitsi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mashitsi",
+      "en": "Mashitsi",
+      "slug": "mashitsi"
+    },
+    "code": {
+      "id": "BDI014009_mashitsi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_mbasi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mbasi",
+      "en": "Mbasi",
+      "slug": "mbasi"
+    },
+    "code": {
+      "id": "BDI014009_mbasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_mirango",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mirango",
+      "en": "Mirango",
+      "slug": "mirango"
+    },
+    "code": {
+      "id": "BDI014009_mirango",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_mugirampeke",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugirampeke",
+      "en": "Mugirampeke",
+      "slug": "mugirampeke"
+    },
+    "code": {
+      "id": "BDI014009_mugirampeke",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_muramba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muramba",
+      "en": "Muramba",
+      "slug": "muramba"
+    },
+    "code": {
+      "id": "BDI014009_muramba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_musakazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musakazi",
+      "en": "Musakazi",
+      "slug": "musakazi"
+    },
+    "code": {
+      "id": "BDI014009_musakazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_musenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musenyi",
+      "en": "Musenyi",
+      "slug": "musenyi"
+    },
+    "code": {
+      "id": "BDI014009_musenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_mwika",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwika",
+      "en": "Mwika",
+      "slug": "mwika"
+    },
+    "code": {
+      "id": "BDI014009_mwika",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_myando",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Myando",
+      "en": "Myando",
+      "slug": "myando"
+    },
+    "code": {
+      "id": "BDI014009_myando",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_ngendo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngendo",
+      "en": "Ngendo",
+      "slug": "ngendo"
+    },
+    "code": {
+      "id": "BDI014009_ngendo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_nkanda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nkanda",
+      "en": "Nkanda",
+      "slug": "nkanda"
+    },
+    "code": {
+      "id": "BDI014009_nkanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_nyagasebeyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyagasebeyi",
+      "en": "Nyagasebeyi",
+      "slug": "nyagasebeyi"
+    },
+    "code": {
+      "id": "BDI014009_nyagasebeyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_nyagatovu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyagatovu",
+      "en": "Nyagatovu",
+      "slug": "nyagatovu"
+    },
+    "code": {
+      "id": "BDI014009_nyagatovu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_nyakabanda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakabanda",
+      "en": "Nyakabanda",
+      "slug": "nyakabanda"
+    },
+    "code": {
+      "id": "BDI014009_nyakabanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_nyankurazo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyankurazo",
+      "en": "Nyankurazo",
+      "slug": "nyankurazo"
+    },
+    "code": {
+      "id": "BDI014009_nyankurazo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_nyarugati",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarugati",
+      "en": "Nyarugati",
+      "slug": "nyarugati"
+    },
+    "code": {
+      "id": "BDI014009_nyarugati",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_rugabo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugabo",
+      "en": "Rugabo",
+      "slug": "rugabo"
+    },
+    "code": {
+      "id": "BDI014009_rugabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_rukongwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rukongwa",
+      "en": "Rukongwa",
+      "slug": "rukongwa"
+    },
+    "code": {
+      "id": "BDI014009_rukongwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_runini",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Runini",
+      "en": "Runini",
+      "slug": "runini"
+    },
+    "code": {
+      "id": "BDI014009_runini",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_rushoka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rushoka",
+      "en": "Rushoka",
+      "slug": "rushoka"
+    },
+    "code": {
+      "id": "BDI014009_rushoka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_ruyaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruyaga",
+      "en": "Ruyaga",
+      "slug": "ruyaga"
+    },
+    "code": {
+      "id": "BDI014009_ruyaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_ruyogoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruyogoro",
+      "en": "Ruyogoro",
+      "slug": "ruyogoro"
+    },
+    "code": {
+      "id": "BDI014009_ruyogoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009_tangara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Tangara",
+      "en": "Tangara",
+      "slug": "tangara"
+    },
+    "code": {
+      "id": "BDI014009_tangara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014009",
+      "level": 2,
+      "name": {
+        "local": "Tangara",
+        "en": "Tangara",
+        "slug": "tangara-bdi014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014009",
+        "level": 2,
+        "name": {
+          "local": "Tangara",
+          "en": "Tangara",
+          "slug": "tangara-bdi014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "BDI007004_bikinga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bikinga",
+      "en": "Bikinga",
+      "slug": "bikinga"
+    },
+    "code": {
+      "id": "BDI007004_bikinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_bugwana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugwana",
+      "en": "Bugwana",
+      "slug": "bugwana"
+    },
+    "code": {
+      "id": "BDI007004_bugwana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_cirambo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cirambo",
+      "en": "Cirambo",
+      "slug": "cirambo"
+    },
+    "code": {
+      "id": "BDI007004_cirambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_gahahe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gahahe",
+      "en": "Gahahe",
+      "slug": "gahahe"
+    },
+    "code": {
+      "id": "BDI007004_gahahe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_gahashi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gahashi",
+      "en": "Gahashi",
+      "slug": "gahashi"
+    },
+    "code": {
+      "id": "BDI007004_gahashi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_gasasa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasasa",
+      "en": "Gasasa",
+      "slug": "gasasa"
+    },
+    "code": {
+      "id": "BDI007004_gasasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_gasekanya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasekanya",
+      "en": "Gasekanya",
+      "slug": "gasekanya"
+    },
+    "code": {
+      "id": "BDI007004_gasekanya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_gitandu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitandu",
+      "en": "Gitandu",
+      "slug": "gitandu"
+    },
+    "code": {
+      "id": "BDI007004_gitandu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_gitaramuka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitaramuka",
+      "en": "Gitaramuka",
+      "slug": "gitaramuka"
+    },
+    "code": {
+      "id": "BDI007004_gitaramuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_karwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karwa",
+      "en": "Karwa",
+      "slug": "karwa"
+    },
+    "code": {
+      "id": "BDI007004_karwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_kibenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibenga",
+      "en": "Kibenga",
+      "slug": "kibenga"
+    },
+    "code": {
+      "id": "BDI007004_kibenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_kibumbwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibumbwe",
+      "en": "Kibumbwe",
+      "slug": "kibumbwe"
+    },
+    "code": {
+      "id": "BDI007004_kibumbwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_kigozi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigozi",
+      "en": "Kigozi",
+      "slug": "kigozi"
+    },
+    "code": {
+      "id": "BDI007004_kigozi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_kinyota",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinyota",
+      "en": "Kinyota",
+      "slug": "kinyota"
+    },
+    "code": {
+      "id": "BDI007004_kinyota",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_kiyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiyange",
+      "en": "Kiyange",
+      "slug": "kiyange"
+    },
+    "code": {
+      "id": "BDI007004_kiyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_maramvya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Maramvya",
+      "en": "Maramvya",
+      "slug": "maramvya"
+    },
+    "code": {
+      "id": "BDI007004_maramvya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_mugende",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugende",
+      "en": "Mugende",
+      "slug": "mugende"
+    },
+    "code": {
+      "id": "BDI007004_mugende",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_ngayane",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngayane",
+      "en": "Ngayane",
+      "slug": "ngayane"
+    },
+    "code": {
+      "id": "BDI007004_ngayane",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_ntunda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ntunda",
+      "en": "Ntunda",
+      "slug": "ntunda"
+    },
+    "code": {
+      "id": "BDI007004_ntunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_nyakabugu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakabugu",
+      "en": "Nyakabugu",
+      "slug": "nyakabugu"
+    },
+    "code": {
+      "id": "BDI007004_nyakabugu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_nyaruhinda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyaruhinda",
+      "en": "Nyaruhinda",
+      "slug": "nyaruhinda"
+    },
+    "code": {
+      "id": "BDI007004_nyaruhinda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_nyarutovu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarutovu",
+      "en": "Nyarutovu",
+      "slug": "nyarutovu"
+    },
+    "code": {
+      "id": "BDI007004_nyarutovu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_rubuga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubuga",
+      "en": "Rubuga",
+      "slug": "rubuga"
+    },
+    "code": {
+      "id": "BDI007004_rubuga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_ruhata",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhata",
+      "en": "Ruhata",
+      "slug": "ruhata"
+    },
+    "code": {
+      "id": "BDI007004_ruhata",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_rusagara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusagara",
+      "en": "Rusagara",
+      "slug": "rusagara"
+    },
+    "code": {
+      "id": "BDI007004_rusagara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004_rwizingwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwizingwe",
+      "en": "Rwizingwe",
+      "slug": "rwizingwe"
+    },
+    "code": {
+      "id": "BDI007004_rwizingwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007004",
+      "level": 2,
+      "name": {
+        "local": "Gitaramuka",
+        "en": "Gitaramuka",
+        "slug": "gitaramuka-bdi007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007004",
+        "level": 2,
+        "name": {
+          "local": "Gitaramuka",
+          "en": "Gitaramuka",
+          "slug": "gitaramuka-bdi007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

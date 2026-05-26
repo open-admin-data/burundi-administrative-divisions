@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "BDI004001_cankuzo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cankuzo",
+      "en": "Cankuzo",
+      "slug": "cankuzo"
+    },
+    "code": {
+      "id": "BDI004001_cankuzo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004001",
+      "level": 2,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004001",
+        "level": 2,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "30.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004001_gahoko",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gahoko",
+      "en": "Gahoko",
+      "slug": "gahoko"
+    },
+    "code": {
+      "id": "BDI004001_gahoko",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004001",
+      "level": 2,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004001",
+        "level": 2,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "30.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004001_gatungurwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatungurwe",
+      "en": "Gatungurwe",
+      "slug": "gatungurwe"
+    },
+    "code": {
+      "id": "BDI004001_gatungurwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004001",
+      "level": 2,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004001",
+        "level": 2,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "30.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004001_kabeza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabeza",
+      "en": "Kabeza",
+      "slug": "kabeza"
+    },
+    "code": {
+      "id": "BDI004001_kabeza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004001",
+      "level": 2,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004001",
+        "level": 2,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "30.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004001_kabuga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabuga",
+      "en": "Kabuga",
+      "slug": "kabuga"
+    },
+    "code": {
+      "id": "BDI004001_kabuga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004001",
+      "level": 2,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004001",
+        "level": 2,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "30.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004001_karago",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karago",
+      "en": "Karago",
+      "slug": "karago"
+    },
+    "code": {
+      "id": "BDI004001_karago",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004001",
+      "level": 2,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004001",
+        "level": 2,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "30.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004001_kavumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kavumu",
+      "en": "Kavumu",
+      "slug": "kavumu"
+    },
+    "code": {
+      "id": "BDI004001_kavumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004001",
+      "level": 2,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004001",
+        "level": 2,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "30.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004001_kigusu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigusu",
+      "en": "Kigusu",
+      "slug": "kigusu"
+    },
+    "code": {
+      "id": "BDI004001_kigusu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004001",
+      "level": 2,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004001",
+        "level": 2,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "30.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004001_mugenda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugenda",
+      "en": "Mugenda",
+      "slug": "mugenda"
+    },
+    "code": {
+      "id": "BDI004001_mugenda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004001",
+      "level": 2,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004001",
+        "level": 2,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "30.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004001_mugozi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugozi",
+      "en": "Mugozi",
+      "slug": "mugozi"
+    },
+    "code": {
+      "id": "BDI004001_mugozi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004001",
+      "level": 2,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004001",
+        "level": 2,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "30.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004001_muhweza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muhweza",
+      "en": "Muhweza",
+      "slug": "muhweza"
+    },
+    "code": {
+      "id": "BDI004001_muhweza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004001",
+      "level": 2,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004001",
+        "level": 2,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "30.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004001_murehe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murehe",
+      "en": "Murehe",
+      "slug": "murehe"
+    },
+    "code": {
+      "id": "BDI004001_murehe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004001",
+      "level": 2,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004001",
+        "level": 2,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "30.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004001_musenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musenyi",
+      "en": "Musenyi",
+      "slug": "musenyi"
+    },
+    "code": {
+      "id": "BDI004001_musenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004001",
+      "level": 2,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004001",
+        "level": 2,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "30.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004001_muterero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muterero",
+      "en": "Muterero",
+      "slug": "muterero"
+    },
+    "code": {
+      "id": "BDI004001_muterero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004001",
+      "level": 2,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004001",
+        "level": 2,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "30.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004001_muyaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyaga",
+      "en": "Muyaga",
+      "slug": "muyaga"
+    },
+    "code": {
+      "id": "BDI004001_muyaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004001",
+      "level": 2,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004001",
+        "level": 2,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "30.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004001_nyabisindu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabisindu",
+      "en": "Nyabisindu",
+      "slug": "nyabisindu"
+    },
+    "code": {
+      "id": "BDI004001_nyabisindu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004001",
+      "level": 2,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004001",
+        "level": 2,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "30.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004001_nyakerera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakerera",
+      "en": "Nyakerera",
+      "slug": "nyakerera"
+    },
+    "code": {
+      "id": "BDI004001_nyakerera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004001",
+      "level": 2,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004001",
+        "level": 2,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "30.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004001_nyakivumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakivumu",
+      "en": "Nyakivumu",
+      "slug": "nyakivumu"
+    },
+    "code": {
+      "id": "BDI004001_nyakivumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004001",
+      "level": 2,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004001",
+        "level": 2,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "30.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004001_nyamusenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamusenga",
+      "en": "Nyamusenga",
+      "slug": "nyamusenga"
+    },
+    "code": {
+      "id": "BDI004001_nyamusenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004001",
+      "level": 2,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004001",
+        "level": 2,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "30.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004001_nyarutiti",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarutiti",
+      "en": "Nyarutiti",
+      "slug": "nyarutiti"
+    },
+    "code": {
+      "id": "BDI004001_nyarutiti",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004001",
+      "level": 2,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004001",
+        "level": 2,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "30.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004001_rutoke",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutoke",
+      "en": "Rutoke",
+      "slug": "rutoke"
+    },
+    "code": {
+      "id": "BDI004001_rutoke",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004001",
+      "level": 2,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004001",
+        "level": 2,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "30.469"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

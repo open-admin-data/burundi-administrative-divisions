@@ -1,0 +1,47 @@
+{
+  "id": "BDI005005",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Murwi",
+    "en": "Murwi",
+    "slug": "murwi-bdi005005"
+  },
+  "code": {
+    "id": "BDI005005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI005",
+    "level": 1,
+    "name": {
+      "local": "Cibitoke",
+      "en": "Cibitoke",
+      "slug": "cibitoke-bdi005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI005",
+      "level": 1,
+      "name": {
+        "local": "Cibitoke",
+        "en": "Cibitoke",
+        "slug": "cibitoke-bdi005"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 27
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.893",
+    "lon": "29.205"
+  },
+  "metadata": {},
+  "source": {}
+}

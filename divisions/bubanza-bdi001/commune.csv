@@ -1,0 +1,6 @@
+id,name.local,name.en,name.slug,code.id,children_count.colline,geo.lat,geo.lon
+BDI001001,Bubanza,Bubanza,bubanza-bdi001001,BDI001001,23,-3.055,29.359
+BDI001002,Gihanga,Gihanga,gihanga-bdi001002,BDI001002,13,-3.207,29.296
+BDI001003,Mpanda,Mpanda,mpanda-bdi001003,BDI001003,16,-3.188,29.414
+BDI001004,Musigati,Musigati,musigati-bdi001004,BDI001004,23,-3.037,29.487
+BDI001005,Rugazi,Rugazi,rugazi-bdi001005,BDI001005,13,-3.202,29.476

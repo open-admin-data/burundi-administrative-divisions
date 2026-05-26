@@ -1,0 +1,47 @@
+{
+  "id": "BDI018001",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Muhuta",
+    "en": "Muhuta",
+    "slug": "muhuta-bdi018001"
+  },
+  "code": {
+    "id": "BDI018001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI018",
+    "level": 1,
+    "name": {
+      "local": "Rumonge",
+      "en": "Rumonge",
+      "slug": "rumonge-bdi018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI018",
+      "level": 1,
+      "name": {
+        "local": "Rumonge",
+        "en": "Rumonge",
+        "slug": "rumonge-bdi018"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.617",
+    "lon": "29.408"
+  },
+  "metadata": {},
+  "source": {}
+}

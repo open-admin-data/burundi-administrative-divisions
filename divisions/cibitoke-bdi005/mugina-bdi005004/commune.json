@@ -1,0 +1,47 @@
+{
+  "id": "BDI005004",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Mugina",
+    "en": "Mugina",
+    "slug": "mugina-bdi005004"
+  },
+  "code": {
+    "id": "BDI005004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI005",
+    "level": 1,
+    "name": {
+      "local": "Cibitoke",
+      "en": "Cibitoke",
+      "slug": "cibitoke-bdi005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI005",
+      "level": 1,
+      "name": {
+        "local": "Cibitoke",
+        "en": "Cibitoke",
+        "slug": "cibitoke-bdi005"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.705",
+    "lon": "29.11"
+  },
+  "metadata": {},
+  "source": {}
+}

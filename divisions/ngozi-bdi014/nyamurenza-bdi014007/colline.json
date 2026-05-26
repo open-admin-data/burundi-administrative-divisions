@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "BDI014007_buhigiranka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhigiranka",
+      "en": "Buhigiranka",
+      "slug": "buhigiranka"
+    },
+    "code": {
+      "id": "BDI014007_buhigiranka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014007",
+      "level": 2,
+      "name": {
+        "local": "Nyamurenza",
+        "en": "Nyamurenza",
+        "slug": "nyamurenza-bdi014007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014007",
+        "level": 2,
+        "name": {
+          "local": "Nyamurenza",
+          "en": "Nyamurenza",
+          "slug": "nyamurenza-bdi014007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014007_gasererwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasererwa",
+      "en": "Gasererwa",
+      "slug": "gasererwa"
+    },
+    "code": {
+      "id": "BDI014007_gasererwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014007",
+      "level": 2,
+      "name": {
+        "local": "Nyamurenza",
+        "en": "Nyamurenza",
+        "slug": "nyamurenza-bdi014007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014007",
+        "level": 2,
+        "name": {
+          "local": "Nyamurenza",
+          "en": "Nyamurenza",
+          "slug": "nyamurenza-bdi014007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014007_gatwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatwe",
+      "en": "Gatwe",
+      "slug": "gatwe"
+    },
+    "code": {
+      "id": "BDI014007_gatwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014007",
+      "level": 2,
+      "name": {
+        "local": "Nyamurenza",
+        "en": "Nyamurenza",
+        "slug": "nyamurenza-bdi014007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014007",
+        "level": 2,
+        "name": {
+          "local": "Nyamurenza",
+          "en": "Nyamurenza",
+          "slug": "nyamurenza-bdi014007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014007_gicu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gicu",
+      "en": "Gicu",
+      "slug": "gicu"
+    },
+    "code": {
+      "id": "BDI014007_gicu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014007",
+      "level": 2,
+      "name": {
+        "local": "Nyamurenza",
+        "en": "Nyamurenza",
+        "slug": "nyamurenza-bdi014007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014007",
+        "level": 2,
+        "name": {
+          "local": "Nyamurenza",
+          "en": "Nyamurenza",
+          "slug": "nyamurenza-bdi014007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014007_gikingo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikingo",
+      "en": "Gikingo",
+      "slug": "gikingo"
+    },
+    "code": {
+      "id": "BDI014007_gikingo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014007",
+      "level": 2,
+      "name": {
+        "local": "Nyamurenza",
+        "en": "Nyamurenza",
+        "slug": "nyamurenza-bdi014007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014007",
+        "level": 2,
+        "name": {
+          "local": "Nyamurenza",
+          "en": "Nyamurenza",
+          "slug": "nyamurenza-bdi014007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014007_gitare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitare",
+      "en": "Gitare",
+      "slug": "gitare"
+    },
+    "code": {
+      "id": "BDI014007_gitare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014007",
+      "level": 2,
+      "name": {
+        "local": "Nyamurenza",
+        "en": "Nyamurenza",
+        "slug": "nyamurenza-bdi014007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014007",
+        "level": 2,
+        "name": {
+          "local": "Nyamurenza",
+          "en": "Nyamurenza",
+          "slug": "nyamurenza-bdi014007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014007_kaganda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kaganda",
+      "en": "Kaganda",
+      "slug": "kaganda"
+    },
+    "code": {
+      "id": "BDI014007_kaganda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014007",
+      "level": 2,
+      "name": {
+        "local": "Nyamurenza",
+        "en": "Nyamurenza",
+        "slug": "nyamurenza-bdi014007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014007",
+        "level": 2,
+        "name": {
+          "local": "Nyamurenza",
+          "en": "Nyamurenza",
+          "slug": "nyamurenza-bdi014007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014007_kagoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kagoma",
+      "en": "Kagoma",
+      "slug": "kagoma"
+    },
+    "code": {
+      "id": "BDI014007_kagoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014007",
+      "level": 2,
+      "name": {
+        "local": "Nyamurenza",
+        "en": "Nyamurenza",
+        "slug": "nyamurenza-bdi014007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014007",
+        "level": 2,
+        "name": {
+          "local": "Nyamurenza",
+          "en": "Nyamurenza",
+          "slug": "nyamurenza-bdi014007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014007_kajaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kajaga",
+      "en": "Kajaga",
+      "slug": "kajaga"
+    },
+    "code": {
+      "id": "BDI014007_kajaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014007",
+      "level": 2,
+      "name": {
+        "local": "Nyamurenza",
+        "en": "Nyamurenza",
+        "slug": "nyamurenza-bdi014007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014007",
+        "level": 2,
+        "name": {
+          "local": "Nyamurenza",
+          "en": "Nyamurenza",
+          "slug": "nyamurenza-bdi014007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014007_kigina",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigina",
+      "en": "Kigina",
+      "slug": "kigina"
+    },
+    "code": {
+      "id": "BDI014007_kigina",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014007",
+      "level": 2,
+      "name": {
+        "local": "Nyamurenza",
+        "en": "Nyamurenza",
+        "slug": "nyamurenza-bdi014007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014007",
+        "level": 2,
+        "name": {
+          "local": "Nyamurenza",
+          "en": "Nyamurenza",
+          "slug": "nyamurenza-bdi014007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014007_kinyovu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinyovu",
+      "en": "Kinyovu",
+      "slug": "kinyovu"
+    },
+    "code": {
+      "id": "BDI014007_kinyovu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014007",
+      "level": 2,
+      "name": {
+        "local": "Nyamurenza",
+        "en": "Nyamurenza",
+        "slug": "nyamurenza-bdi014007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014007",
+        "level": 2,
+        "name": {
+          "local": "Nyamurenza",
+          "en": "Nyamurenza",
+          "slug": "nyamurenza-bdi014007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014007_masama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masama",
+      "en": "Masama",
+      "slug": "masama"
+    },
+    "code": {
+      "id": "BDI014007_masama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014007",
+      "level": 2,
+      "name": {
+        "local": "Nyamurenza",
+        "en": "Nyamurenza",
+        "slug": "nyamurenza-bdi014007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014007",
+        "level": 2,
+        "name": {
+          "local": "Nyamurenza",
+          "en": "Nyamurenza",
+          "slug": "nyamurenza-bdi014007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014007_matyazo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Matyazo",
+      "en": "Matyazo",
+      "slug": "matyazo"
+    },
+    "code": {
+      "id": "BDI014007_matyazo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014007",
+      "level": 2,
+      "name": {
+        "local": "Nyamurenza",
+        "en": "Nyamurenza",
+        "slug": "nyamurenza-bdi014007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014007",
+        "level": 2,
+        "name": {
+          "local": "Nyamurenza",
+          "en": "Nyamurenza",
+          "slug": "nyamurenza-bdi014007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014007_mugende",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugende",
+      "en": "Mugende",
+      "slug": "mugende"
+    },
+    "code": {
+      "id": "BDI014007_mugende",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014007",
+      "level": 2,
+      "name": {
+        "local": "Nyamurenza",
+        "en": "Nyamurenza",
+        "slug": "nyamurenza-bdi014007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014007",
+        "level": 2,
+        "name": {
+          "local": "Nyamurenza",
+          "en": "Nyamurenza",
+          "slug": "nyamurenza-bdi014007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014007_mushonge",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mushonge",
+      "en": "Mushonge",
+      "slug": "mushonge"
+    },
+    "code": {
+      "id": "BDI014007_mushonge",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014007",
+      "level": 2,
+      "name": {
+        "local": "Nyamurenza",
+        "en": "Nyamurenza",
+        "slug": "nyamurenza-bdi014007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014007",
+        "level": 2,
+        "name": {
+          "local": "Nyamurenza",
+          "en": "Nyamurenza",
+          "slug": "nyamurenza-bdi014007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014007_nyabukenke",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabukenke",
+      "en": "Nyabukenke",
+      "slug": "nyabukenke"
+    },
+    "code": {
+      "id": "BDI014007_nyabukenke",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014007",
+      "level": 2,
+      "name": {
+        "local": "Nyamurenza",
+        "en": "Nyamurenza",
+        "slug": "nyamurenza-bdi014007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014007",
+        "level": 2,
+        "name": {
+          "local": "Nyamurenza",
+          "en": "Nyamurenza",
+          "slug": "nyamurenza-bdi014007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014007_nyamurenza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamurenza",
+      "en": "Nyamurenza",
+      "slug": "nyamurenza"
+    },
+    "code": {
+      "id": "BDI014007_nyamurenza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014007",
+      "level": 2,
+      "name": {
+        "local": "Nyamurenza",
+        "en": "Nyamurenza",
+        "slug": "nyamurenza-bdi014007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014007",
+        "level": 2,
+        "name": {
+          "local": "Nyamurenza",
+          "en": "Nyamurenza",
+          "slug": "nyamurenza-bdi014007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014007_nyarusange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarusange",
+      "en": "Nyarusange",
+      "slug": "nyarusange"
+    },
+    "code": {
+      "id": "BDI014007_nyarusange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014007",
+      "level": 2,
+      "name": {
+        "local": "Nyamurenza",
+        "en": "Nyamurenza",
+        "slug": "nyamurenza-bdi014007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014007",
+        "level": 2,
+        "name": {
+          "local": "Nyamurenza",
+          "en": "Nyamurenza",
+          "slug": "nyamurenza-bdi014007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014007_rurama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rurama",
+      "en": "Rurama",
+      "slug": "rurama"
+    },
+    "code": {
+      "id": "BDI014007_rurama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014007",
+      "level": 2,
+      "name": {
+        "local": "Nyamurenza",
+        "en": "Nyamurenza",
+        "slug": "nyamurenza-bdi014007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014007",
+        "level": 2,
+        "name": {
+          "local": "Nyamurenza",
+          "en": "Nyamurenza",
+          "slug": "nyamurenza-bdi014007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014007_shinge",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Shinge",
+      "en": "Shinge",
+      "slug": "shinge"
+    },
+    "code": {
+      "id": "BDI014007_shinge",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014007",
+      "level": 2,
+      "name": {
+        "local": "Nyamurenza",
+        "en": "Nyamurenza",
+        "slug": "nyamurenza-bdi014007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014007",
+        "level": 2,
+        "name": {
+          "local": "Nyamurenza",
+          "en": "Nyamurenza",
+          "slug": "nyamurenza-bdi014007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014007_shoza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Shoza",
+      "en": "Shoza",
+      "slug": "shoza"
+    },
+    "code": {
+      "id": "BDI014007_shoza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014007",
+      "level": 2,
+      "name": {
+        "local": "Nyamurenza",
+        "en": "Nyamurenza",
+        "slug": "nyamurenza-bdi014007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014007",
+        "level": 2,
+        "name": {
+          "local": "Nyamurenza",
+          "en": "Nyamurenza",
+          "slug": "nyamurenza-bdi014007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

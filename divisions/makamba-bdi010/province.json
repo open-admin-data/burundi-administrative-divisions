@@ -1,0 +1,30 @@
+{
+  "id": "BDI010",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Makamba",
+    "en": "Makamba",
+    "slug": "makamba-bdi010"
+  },
+  "code": {
+    "id": "BDI010",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 6,
+    "colline": 142
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.236",
+    "lon": "29.8"
+  },
+  "metadata": {},
+  "source": {}
+}

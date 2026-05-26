@@ -1,0 +1,920 @@
+[
+  {
+    "id": "BDI011005_bubanda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bubanda",
+      "en": "Bubanda",
+      "slug": "bubanda"
+    },
+    "code": {
+      "id": "BDI011005_bubanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011005",
+      "level": 2,
+      "name": {
+        "local": "Rutegama",
+        "en": "Rutegama",
+        "slug": "rutegama-bdi011005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011005",
+        "level": 2,
+        "name": {
+          "local": "Rutegama",
+          "en": "Rutegama",
+          "slug": "rutegama-bdi011005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.312",
+      "lon": "29.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011005_bupfunda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bupfunda",
+      "en": "Bupfunda",
+      "slug": "bupfunda"
+    },
+    "code": {
+      "id": "BDI011005_bupfunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011005",
+      "level": 2,
+      "name": {
+        "local": "Rutegama",
+        "en": "Rutegama",
+        "slug": "rutegama-bdi011005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011005",
+        "level": 2,
+        "name": {
+          "local": "Rutegama",
+          "en": "Rutegama",
+          "slug": "rutegama-bdi011005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.312",
+      "lon": "29.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011005_camumandu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Camumandu",
+      "en": "Camumandu",
+      "slug": "camumandu"
+    },
+    "code": {
+      "id": "BDI011005_camumandu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011005",
+      "level": 2,
+      "name": {
+        "local": "Rutegama",
+        "en": "Rutegama",
+        "slug": "rutegama-bdi011005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011005",
+        "level": 2,
+        "name": {
+          "local": "Rutegama",
+          "en": "Rutegama",
+          "slug": "rutegama-bdi011005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.312",
+      "lon": "29.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011005_cumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cumba",
+      "en": "Cumba",
+      "slug": "cumba"
+    },
+    "code": {
+      "id": "BDI011005_cumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011005",
+      "level": 2,
+      "name": {
+        "local": "Rutegama",
+        "en": "Rutegama",
+        "slug": "rutegama-bdi011005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011005",
+        "level": 2,
+        "name": {
+          "local": "Rutegama",
+          "en": "Rutegama",
+          "slug": "rutegama-bdi011005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.312",
+      "lon": "29.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011005_gashingwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gashingwa",
+      "en": "Gashingwa",
+      "slug": "gashingwa"
+    },
+    "code": {
+      "id": "BDI011005_gashingwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011005",
+      "level": 2,
+      "name": {
+        "local": "Rutegama",
+        "en": "Rutegama",
+        "slug": "rutegama-bdi011005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011005",
+        "level": 2,
+        "name": {
+          "local": "Rutegama",
+          "en": "Rutegama",
+          "slug": "rutegama-bdi011005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.312",
+      "lon": "29.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011005_munanira-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munanira I",
+      "en": "Munanira I",
+      "slug": "munanira-i"
+    },
+    "code": {
+      "id": "BDI011005_munanira-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011005",
+      "level": 2,
+      "name": {
+        "local": "Rutegama",
+        "en": "Rutegama",
+        "slug": "rutegama-bdi011005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011005",
+        "level": 2,
+        "name": {
+          "local": "Rutegama",
+          "en": "Rutegama",
+          "slug": "rutegama-bdi011005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.312",
+      "lon": "29.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011005_munanira-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munanira Ii",
+      "en": "Munanira Ii",
+      "slug": "munanira-ii"
+    },
+    "code": {
+      "id": "BDI011005_munanira-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011005",
+      "level": 2,
+      "name": {
+        "local": "Rutegama",
+        "en": "Rutegama",
+        "slug": "rutegama-bdi011005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011005",
+        "level": 2,
+        "name": {
+          "local": "Rutegama",
+          "en": "Rutegama",
+          "slug": "rutegama-bdi011005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.312",
+      "lon": "29.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011005_munyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munyinya",
+      "en": "Munyinya",
+      "slug": "munyinya"
+    },
+    "code": {
+      "id": "BDI011005_munyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011005",
+      "level": 2,
+      "name": {
+        "local": "Rutegama",
+        "en": "Rutegama",
+        "slug": "rutegama-bdi011005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011005",
+        "level": 2,
+        "name": {
+          "local": "Rutegama",
+          "en": "Rutegama",
+          "slug": "rutegama-bdi011005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.312",
+      "lon": "29.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011005_murinzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murinzi",
+      "en": "Murinzi",
+      "slug": "murinzi"
+    },
+    "code": {
+      "id": "BDI011005_murinzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011005",
+      "level": 2,
+      "name": {
+        "local": "Rutegama",
+        "en": "Rutegama",
+        "slug": "rutegama-bdi011005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011005",
+        "level": 2,
+        "name": {
+          "local": "Rutegama",
+          "en": "Rutegama",
+          "slug": "rutegama-bdi011005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.312",
+      "lon": "29.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011005_musave",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musave",
+      "en": "Musave",
+      "slug": "musave"
+    },
+    "code": {
+      "id": "BDI011005_musave",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011005",
+      "level": 2,
+      "name": {
+        "local": "Rutegama",
+        "en": "Rutegama",
+        "slug": "rutegama-bdi011005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011005",
+        "level": 2,
+        "name": {
+          "local": "Rutegama",
+          "en": "Rutegama",
+          "slug": "rutegama-bdi011005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.312",
+      "lon": "29.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011005_mushikamo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mushikamo",
+      "en": "Mushikamo",
+      "slug": "mushikamo"
+    },
+    "code": {
+      "id": "BDI011005_mushikamo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011005",
+      "level": 2,
+      "name": {
+        "local": "Rutegama",
+        "en": "Rutegama",
+        "slug": "rutegama-bdi011005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011005",
+        "level": 2,
+        "name": {
+          "local": "Rutegama",
+          "en": "Rutegama",
+          "slug": "rutegama-bdi011005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.312",
+      "lon": "29.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011005_nkonyovu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nkonyovu",
+      "en": "Nkonyovu",
+      "slug": "nkonyovu"
+    },
+    "code": {
+      "id": "BDI011005_nkonyovu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011005",
+      "level": 2,
+      "name": {
+        "local": "Rutegama",
+        "en": "Rutegama",
+        "slug": "rutegama-bdi011005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011005",
+        "level": 2,
+        "name": {
+          "local": "Rutegama",
+          "en": "Rutegama",
+          "slug": "rutegama-bdi011005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.312",
+      "lon": "29.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011005_nyakararo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakararo",
+      "en": "Nyakararo",
+      "slug": "nyakararo"
+    },
+    "code": {
+      "id": "BDI011005_nyakararo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011005",
+      "level": 2,
+      "name": {
+        "local": "Rutegama",
+        "en": "Rutegama",
+        "slug": "rutegama-bdi011005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011005",
+        "level": 2,
+        "name": {
+          "local": "Rutegama",
+          "en": "Rutegama",
+          "slug": "rutegama-bdi011005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.312",
+      "lon": "29.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011005_nyamitwenzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamitwenzi",
+      "en": "Nyamitwenzi",
+      "slug": "nyamitwenzi"
+    },
+    "code": {
+      "id": "BDI011005_nyamitwenzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011005",
+      "level": 2,
+      "name": {
+        "local": "Rutegama",
+        "en": "Rutegama",
+        "slug": "rutegama-bdi011005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011005",
+        "level": 2,
+        "name": {
+          "local": "Rutegama",
+          "en": "Rutegama",
+          "slug": "rutegama-bdi011005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.312",
+      "lon": "29.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011005_nyarukere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarukere",
+      "en": "Nyarukere",
+      "slug": "nyarukere"
+    },
+    "code": {
+      "id": "BDI011005_nyarukere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011005",
+      "level": 2,
+      "name": {
+        "local": "Rutegama",
+        "en": "Rutegama",
+        "slug": "rutegama-bdi011005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011005",
+        "level": 2,
+        "name": {
+          "local": "Rutegama",
+          "en": "Rutegama",
+          "slug": "rutegama-bdi011005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.312",
+      "lon": "29.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011005_nyarunazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarunazi",
+      "en": "Nyarunazi",
+      "slug": "nyarunazi"
+    },
+    "code": {
+      "id": "BDI011005_nyarunazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011005",
+      "level": 2,
+      "name": {
+        "local": "Rutegama",
+        "en": "Rutegama",
+        "slug": "rutegama-bdi011005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011005",
+        "level": 2,
+        "name": {
+          "local": "Rutegama",
+          "en": "Rutegama",
+          "slug": "rutegama-bdi011005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.312",
+      "lon": "29.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011005_rutegama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutegama",
+      "en": "Rutegama",
+      "slug": "rutegama"
+    },
+    "code": {
+      "id": "BDI011005_rutegama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011005",
+      "level": 2,
+      "name": {
+        "local": "Rutegama",
+        "en": "Rutegama",
+        "slug": "rutegama-bdi011005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011005",
+        "level": 2,
+        "name": {
+          "local": "Rutegama",
+          "en": "Rutegama",
+          "slug": "rutegama-bdi011005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.312",
+      "lon": "29.739"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

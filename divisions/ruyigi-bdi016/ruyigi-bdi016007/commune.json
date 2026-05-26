@@ -1,0 +1,47 @@
+{
+  "id": "BDI016007",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ruyigi",
+    "en": "Ruyigi",
+    "slug": "ruyigi-bdi016007"
+  },
+  "code": {
+    "id": "BDI016007",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI016",
+    "level": 1,
+    "name": {
+      "local": "Ruyigi",
+      "en": "Ruyigi",
+      "slug": "ruyigi-bdi016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI016",
+      "level": 1,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.436",
+    "lon": "30.283"
+  },
+  "metadata": {},
+  "source": {}
+}

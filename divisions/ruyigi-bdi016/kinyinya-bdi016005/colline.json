@@ -1,0 +1,974 @@
+[
+  {
+    "id": "BDI016005_bugongo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugongo",
+      "en": "Bugongo",
+      "slug": "bugongo"
+    },
+    "code": {
+      "id": "BDI016005_bugongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016005",
+      "level": 2,
+      "name": {
+        "local": "Kinyinya",
+        "en": "Kinyinya",
+        "slug": "kinyinya-bdi016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016005",
+        "level": 2,
+        "name": {
+          "local": "Kinyinya",
+          "en": "Kinyinya",
+          "slug": "kinyinya-bdi016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.612",
+      "lon": "30.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016005_gasunu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasunu",
+      "en": "Gasunu",
+      "slug": "gasunu"
+    },
+    "code": {
+      "id": "BDI016005_gasunu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016005",
+      "level": 2,
+      "name": {
+        "local": "Kinyinya",
+        "en": "Kinyinya",
+        "slug": "kinyinya-bdi016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016005",
+        "level": 2,
+        "name": {
+          "local": "Kinyinya",
+          "en": "Kinyinya",
+          "slug": "kinyinya-bdi016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.612",
+      "lon": "30.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016005_gataba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gataba",
+      "en": "Gataba",
+      "slug": "gataba"
+    },
+    "code": {
+      "id": "BDI016005_gataba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016005",
+      "level": 2,
+      "name": {
+        "local": "Kinyinya",
+        "en": "Kinyinya",
+        "slug": "kinyinya-bdi016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016005",
+        "level": 2,
+        "name": {
+          "local": "Kinyinya",
+          "en": "Kinyinya",
+          "slug": "kinyinya-bdi016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.612",
+      "lon": "30.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016005_kabanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabanga",
+      "en": "Kabanga",
+      "slug": "kabanga"
+    },
+    "code": {
+      "id": "BDI016005_kabanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016005",
+      "level": 2,
+      "name": {
+        "local": "Kinyinya",
+        "en": "Kinyinya",
+        "slug": "kinyinya-bdi016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016005",
+        "level": 2,
+        "name": {
+          "local": "Kinyinya",
+          "en": "Kinyinya",
+          "slug": "kinyinya-bdi016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.612",
+      "lon": "30.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016005_karindo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karindo",
+      "en": "Karindo",
+      "slug": "karindo"
+    },
+    "code": {
+      "id": "BDI016005_karindo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016005",
+      "level": 2,
+      "name": {
+        "local": "Kinyinya",
+        "en": "Kinyinya",
+        "slug": "kinyinya-bdi016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016005",
+        "level": 2,
+        "name": {
+          "local": "Kinyinya",
+          "en": "Kinyinya",
+          "slug": "kinyinya-bdi016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.612",
+      "lon": "30.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016005_kibari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibari",
+      "en": "Kibari",
+      "slug": "kibari"
+    },
+    "code": {
+      "id": "BDI016005_kibari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016005",
+      "level": 2,
+      "name": {
+        "local": "Kinyinya",
+        "en": "Kinyinya",
+        "slug": "kinyinya-bdi016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016005",
+        "level": 2,
+        "name": {
+          "local": "Kinyinya",
+          "en": "Kinyinya",
+          "slug": "kinyinya-bdi016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.612",
+      "lon": "30.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016005_kigangabuko",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigangabuko",
+      "en": "Kigangabuko",
+      "slug": "kigangabuko"
+    },
+    "code": {
+      "id": "BDI016005_kigangabuko",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016005",
+      "level": 2,
+      "name": {
+        "local": "Kinyinya",
+        "en": "Kinyinya",
+        "slug": "kinyinya-bdi016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016005",
+        "level": 2,
+        "name": {
+          "local": "Kinyinya",
+          "en": "Kinyinya",
+          "slug": "kinyinya-bdi016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.612",
+      "lon": "30.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016005_kinyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinyinya",
+      "en": "Kinyinya",
+      "slug": "kinyinya"
+    },
+    "code": {
+      "id": "BDI016005_kinyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016005",
+      "level": 2,
+      "name": {
+        "local": "Kinyinya",
+        "en": "Kinyinya",
+        "slug": "kinyinya-bdi016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016005",
+        "level": 2,
+        "name": {
+          "local": "Kinyinya",
+          "en": "Kinyinya",
+          "slug": "kinyinya-bdi016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.612",
+      "lon": "30.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016005_mayanza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mayanza",
+      "en": "Mayanza",
+      "slug": "mayanza"
+    },
+    "code": {
+      "id": "BDI016005_mayanza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016005",
+      "level": 2,
+      "name": {
+        "local": "Kinyinya",
+        "en": "Kinyinya",
+        "slug": "kinyinya-bdi016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016005",
+        "level": 2,
+        "name": {
+          "local": "Kinyinya",
+          "en": "Kinyinya",
+          "slug": "kinyinya-bdi016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.612",
+      "lon": "30.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016005_munazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munazi",
+      "en": "Munazi",
+      "slug": "munazi"
+    },
+    "code": {
+      "id": "BDI016005_munazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016005",
+      "level": 2,
+      "name": {
+        "local": "Kinyinya",
+        "en": "Kinyinya",
+        "slug": "kinyinya-bdi016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016005",
+        "level": 2,
+        "name": {
+          "local": "Kinyinya",
+          "en": "Kinyinya",
+          "slug": "kinyinya-bdi016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.612",
+      "lon": "30.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016005_musumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musumba",
+      "en": "Musumba",
+      "slug": "musumba"
+    },
+    "code": {
+      "id": "BDI016005_musumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016005",
+      "level": 2,
+      "name": {
+        "local": "Kinyinya",
+        "en": "Kinyinya",
+        "slug": "kinyinya-bdi016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016005",
+        "level": 2,
+        "name": {
+          "local": "Kinyinya",
+          "en": "Kinyinya",
+          "slug": "kinyinya-bdi016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.612",
+      "lon": "30.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016005_muvumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muvumu",
+      "en": "Muvumu",
+      "slug": "muvumu"
+    },
+    "code": {
+      "id": "BDI016005_muvumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016005",
+      "level": 2,
+      "name": {
+        "local": "Kinyinya",
+        "en": "Kinyinya",
+        "slug": "kinyinya-bdi016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016005",
+        "level": 2,
+        "name": {
+          "local": "Kinyinya",
+          "en": "Kinyinya",
+          "slug": "kinyinya-bdi016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.612",
+      "lon": "30.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016005_nyakibere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakibere",
+      "en": "Nyakibere",
+      "slug": "nyakibere"
+    },
+    "code": {
+      "id": "BDI016005_nyakibere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016005",
+      "level": 2,
+      "name": {
+        "local": "Kinyinya",
+        "en": "Kinyinya",
+        "slug": "kinyinya-bdi016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016005",
+        "level": 2,
+        "name": {
+          "local": "Kinyinya",
+          "en": "Kinyinya",
+          "slug": "kinyinya-bdi016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.612",
+      "lon": "30.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016005_nyamigina",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamigina",
+      "en": "Nyamigina",
+      "slug": "nyamigina"
+    },
+    "code": {
+      "id": "BDI016005_nyamigina",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016005",
+      "level": 2,
+      "name": {
+        "local": "Kinyinya",
+        "en": "Kinyinya",
+        "slug": "kinyinya-bdi016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016005",
+        "level": 2,
+        "name": {
+          "local": "Kinyinya",
+          "en": "Kinyinya",
+          "slug": "kinyinya-bdi016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.612",
+      "lon": "30.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016005_nyamunazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamunazi",
+      "en": "Nyamunazi",
+      "slug": "nyamunazi"
+    },
+    "code": {
+      "id": "BDI016005_nyamunazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016005",
+      "level": 2,
+      "name": {
+        "local": "Kinyinya",
+        "en": "Kinyinya",
+        "slug": "kinyinya-bdi016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016005",
+        "level": 2,
+        "name": {
+          "local": "Kinyinya",
+          "en": "Kinyinya",
+          "slug": "kinyinya-bdi016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.612",
+      "lon": "30.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016005_nyamusasa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamusasa",
+      "en": "Nyamusasa",
+      "slug": "nyamusasa"
+    },
+    "code": {
+      "id": "BDI016005_nyamusasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016005",
+      "level": 2,
+      "name": {
+        "local": "Kinyinya",
+        "en": "Kinyinya",
+        "slug": "kinyinya-bdi016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016005",
+        "level": 2,
+        "name": {
+          "local": "Kinyinya",
+          "en": "Kinyinya",
+          "slug": "kinyinya-bdi016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.612",
+      "lon": "30.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016005_ruveri",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruveri",
+      "en": "Ruveri",
+      "slug": "ruveri"
+    },
+    "code": {
+      "id": "BDI016005_ruveri",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016005",
+      "level": 2,
+      "name": {
+        "local": "Kinyinya",
+        "en": "Kinyinya",
+        "slug": "kinyinya-bdi016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016005",
+        "level": 2,
+        "name": {
+          "local": "Kinyinya",
+          "en": "Kinyinya",
+          "slug": "kinyinya-bdi016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.612",
+      "lon": "30.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016005_vumwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Vumwe",
+      "en": "Vumwe",
+      "slug": "vumwe"
+    },
+    "code": {
+      "id": "BDI016005_vumwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016005",
+      "level": 2,
+      "name": {
+        "local": "Kinyinya",
+        "en": "Kinyinya",
+        "slug": "kinyinya-bdi016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016005",
+        "level": 2,
+        "name": {
+          "local": "Kinyinya",
+          "en": "Kinyinya",
+          "slug": "kinyinya-bdi016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.612",
+      "lon": "30.372"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

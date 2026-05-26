@@ -1,0 +1,47 @@
+{
+  "id": "BDI006004",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Giheta",
+    "en": "Giheta",
+    "slug": "giheta-bdi006004"
+  },
+  "code": {
+    "id": "BDI006004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI006",
+    "level": 1,
+    "name": {
+      "local": "Gitega",
+      "en": "Gitega",
+      "slug": "gitega-bdi006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 32
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.331",
+    "lon": "29.882"
+  },
+  "metadata": {},
+  "source": {}
+}

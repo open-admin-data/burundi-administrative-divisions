@@ -1,0 +1,1568 @@
+[
+  {
+    "id": "BDI008009_bisha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bisha",
+      "en": "Bisha",
+      "slug": "bisha"
+    },
+    "code": {
+      "id": "BDI008009_bisha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_bishuri",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bishuri",
+      "en": "Bishuri",
+      "slug": "bishuri"
+    },
+    "code": {
+      "id": "BDI008009_bishuri",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_butanyerera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butanyerera",
+      "en": "Butanyerera",
+      "slug": "butanyerera"
+    },
+    "code": {
+      "id": "BDI008009_butanyerera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_gacokwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gacokwe",
+      "en": "Gacokwe",
+      "slug": "gacokwe"
+    },
+    "code": {
+      "id": "BDI008009_gacokwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_gatare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatare",
+      "en": "Gatare",
+      "slug": "gatare"
+    },
+    "code": {
+      "id": "BDI008009_gatare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_gihororo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gihororo",
+      "en": "Gihororo",
+      "slug": "gihororo"
+    },
+    "code": {
+      "id": "BDI008009_gihororo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_gikomero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikomero",
+      "en": "Gikomero",
+      "slug": "gikomero"
+    },
+    "code": {
+      "id": "BDI008009_gikomero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_gipfuvya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gipfuvya",
+      "en": "Gipfuvya",
+      "slug": "gipfuvya"
+    },
+    "code": {
+      "id": "BDI008009_gipfuvya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_gitibu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitibu",
+      "en": "Gitibu",
+      "slug": "gitibu"
+    },
+    "code": {
+      "id": "BDI008009_gitibu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_kabuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabuye",
+      "en": "Kabuye",
+      "slug": "kabuye"
+    },
+    "code": {
+      "id": "BDI008009_kabuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_kaguruka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kaguruka",
+      "en": "Kaguruka",
+      "slug": "kaguruka"
+    },
+    "code": {
+      "id": "BDI008009_kaguruka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_karama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karama",
+      "en": "Karama",
+      "slug": "karama"
+    },
+    "code": {
+      "id": "BDI008009_karama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_karehe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karehe",
+      "en": "Karehe",
+      "slug": "karehe"
+    },
+    "code": {
+      "id": "BDI008009_karehe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_kiguruka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiguruka",
+      "en": "Kiguruka",
+      "slug": "kiguruka"
+    },
+    "code": {
+      "id": "BDI008009_kiguruka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_kiramahira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiramahira",
+      "en": "Kiramahira",
+      "slug": "kiramahira"
+    },
+    "code": {
+      "id": "BDI008009_kiramahira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_musagara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musagara",
+      "en": "Musagara",
+      "slug": "musagara"
+    },
+    "code": {
+      "id": "BDI008009_musagara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_muzumure",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muzumure",
+      "en": "Muzumure",
+      "slug": "muzumure"
+    },
+    "code": {
+      "id": "BDI008009_muzumure",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_nyabibuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabibuye",
+      "en": "Nyabibuye",
+      "slug": "nyabibuye"
+    },
+    "code": {
+      "id": "BDI008009_nyabibuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_nyabigoyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabigoyi",
+      "en": "Nyabigoyi",
+      "slug": "nyabigoyi"
+    },
+    "code": {
+      "id": "BDI008009_nyabigoyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_nyabitwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabitwe",
+      "en": "Nyabitwe",
+      "slug": "nyabitwe"
+    },
+    "code": {
+      "id": "BDI008009_nyabitwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_nyamonde",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamonde",
+      "en": "Nyamonde",
+      "slug": "nyamonde"
+    },
+    "code": {
+      "id": "BDI008009_nyamonde",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_nyarusange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarusange",
+      "en": "Nyarusange",
+      "slug": "nyarusange"
+    },
+    "code": {
+      "id": "BDI008009_nyarusange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_rama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rama",
+      "en": "Rama",
+      "slug": "rama"
+    },
+    "code": {
+      "id": "BDI008009_rama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_rango",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rango",
+      "en": "Rango",
+      "slug": "rango"
+    },
+    "code": {
+      "id": "BDI008009_rango",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_rubirizi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubirizi",
+      "en": "Rubirizi",
+      "slug": "rubirizi"
+    },
+    "code": {
+      "id": "BDI008009_rubirizi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_rubungu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubungu",
+      "en": "Rubungu",
+      "slug": "rubungu"
+    },
+    "code": {
+      "id": "BDI008009_rubungu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_ruhinga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhinga",
+      "en": "Ruhinga",
+      "slug": "ruhinga"
+    },
+    "code": {
+      "id": "BDI008009_ruhinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_rusave",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusave",
+      "en": "Rusave",
+      "slug": "rusave"
+    },
+    "code": {
+      "id": "BDI008009_rusave",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009_tara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Tara",
+      "en": "Tara",
+      "slug": "tara"
+    },
+    "code": {
+      "id": "BDI008009_tara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008009",
+      "level": 2,
+      "name": {
+        "local": "Rango",
+        "en": "Rango",
+        "slug": "rango-bdi008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008009",
+        "level": 2,
+        "name": {
+          "local": "Rango",
+          "en": "Rango",
+          "slug": "rango-bdi008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "BDI013006",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Rusaka",
+    "en": "Rusaka",
+    "slug": "rusaka-bdi013006"
+  },
+  "code": {
+    "id": "BDI013006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI013",
+    "level": 1,
+    "name": {
+      "local": "Mwaro",
+      "en": "Mwaro",
+      "slug": "mwaro-bdi013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI013",
+      "level": 1,
+      "name": {
+        "local": "Mwaro",
+        "en": "Mwaro",
+        "slug": "mwaro-bdi013"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.446",
+    "lon": "29.622"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,30 @@
+{
+  "id": "BDI014",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Ngozi",
+    "en": "Ngozi",
+    "slug": "ngozi-bdi014"
+  },
+  "code": {
+    "id": "BDI014",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 9,
+    "colline": 305
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.871",
+    "lon": "29.921"
+  },
+  "metadata": {},
+  "source": {}
+}

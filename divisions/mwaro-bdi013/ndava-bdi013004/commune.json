@@ -1,0 +1,47 @@
+{
+  "id": "BDI013004",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ndava",
+    "en": "Ndava",
+    "slug": "ndava-bdi013004"
+  },
+  "code": {
+    "id": "BDI013004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI013",
+    "level": 1,
+    "name": {
+      "local": "Mwaro",
+      "en": "Mwaro",
+      "slug": "mwaro-bdi013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI013",
+      "level": 1,
+      "name": {
+        "local": "Mwaro",
+        "en": "Mwaro",
+        "slug": "mwaro-bdi013"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.39",
+    "lon": "29.764"
+  },
+  "metadata": {},
+  "source": {}
+}

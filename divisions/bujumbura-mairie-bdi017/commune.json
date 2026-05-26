@@ -1,0 +1,143 @@
+[
+  {
+    "id": "BDI017014",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Muha",
+      "en": "Muha",
+      "slug": "muha-bdi017014"
+    },
+    "code": {
+      "id": "BDI017014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017",
+      "level": 1,
+      "name": {
+        "local": "Bujumbura Mairie",
+        "en": "Bujumbura Mairie",
+        "slug": "bujumbura-mairie-bdi017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.441",
+      "lon": "29.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mukaza",
+      "en": "Mukaza",
+      "slug": "mukaza-bdi017015"
+    },
+    "code": {
+      "id": "BDI017015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017",
+      "level": 1,
+      "name": {
+        "local": "Bujumbura Mairie",
+        "en": "Bujumbura Mairie",
+        "slug": "bujumbura-mairie-bdi017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ntahangwa",
+      "en": "Ntahangwa",
+      "slug": "ntahangwa-bdi017016"
+    },
+    "code": {
+      "id": "BDI017016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017",
+      "level": 1,
+      "name": {
+        "local": "Bujumbura Mairie",
+        "en": "Bujumbura Mairie",
+        "slug": "bujumbura-mairie-bdi017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 58
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

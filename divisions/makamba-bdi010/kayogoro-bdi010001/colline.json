@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "BDI010001_bigina",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bigina",
+      "en": "Bigina",
+      "slug": "bigina"
+    },
+    "code": {
+      "id": "BDI010001_bigina",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_borera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Borera",
+      "en": "Borera",
+      "slug": "borera"
+    },
+    "code": {
+      "id": "BDI010001_borera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_buga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buga",
+      "en": "Buga",
+      "slug": "buga"
+    },
+    "code": {
+      "id": "BDI010001_buga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_buhema",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhema",
+      "en": "Buhema",
+      "slug": "buhema"
+    },
+    "code": {
+      "id": "BDI010001_buhema",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_bujondi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bujondi",
+      "en": "Bujondi",
+      "slug": "bujondi"
+    },
+    "code": {
+      "id": "BDI010001_bujondi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_butare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butare",
+      "en": "Butare",
+      "slug": "butare"
+    },
+    "code": {
+      "id": "BDI010001_butare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_gasenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasenga",
+      "en": "Gasenga",
+      "slug": "gasenga"
+    },
+    "code": {
+      "id": "BDI010001_gasenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_gatabo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatabo",
+      "en": "Gatabo",
+      "slug": "gatabo"
+    },
+    "code": {
+      "id": "BDI010001_gatabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_gitaba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitaba",
+      "en": "Gitaba",
+      "slug": "gitaba"
+    },
+    "code": {
+      "id": "BDI010001_gitaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_kabizi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabizi",
+      "en": "Kabizi",
+      "slug": "kabizi"
+    },
+    "code": {
+      "id": "BDI010001_kabizi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_kayogoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kayogoro",
+      "en": "Kayogoro",
+      "slug": "kayogoro"
+    },
+    "code": {
+      "id": "BDI010001_kayogoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_kibara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibara",
+      "en": "Kibara",
+      "slug": "kibara"
+    },
+    "code": {
+      "id": "BDI010001_kibara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_kibimba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibimba",
+      "en": "Kibimba",
+      "slug": "kibimba"
+    },
+    "code": {
+      "id": "BDI010001_kibimba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_kigaza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigaza",
+      "en": "Kigaza",
+      "slug": "kigaza"
+    },
+    "code": {
+      "id": "BDI010001_kigaza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_kigomagoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigomagoma",
+      "en": "Kigomagoma",
+      "slug": "kigomagoma"
+    },
+    "code": {
+      "id": "BDI010001_kigomagoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_kiyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiyange",
+      "en": "Kiyange",
+      "slug": "kiyange"
+    },
+    "code": {
+      "id": "BDI010001_kiyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_mayange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mayange",
+      "en": "Mayange",
+      "slug": "mayange"
+    },
+    "code": {
+      "id": "BDI010001_mayange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_mudaturwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mudaturwa",
+      "en": "Mudaturwa",
+      "slug": "mudaturwa"
+    },
+    "code": {
+      "id": "BDI010001_mudaturwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_mugeni",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugeni",
+      "en": "Mugeni",
+      "slug": "mugeni"
+    },
+    "code": {
+      "id": "BDI010001_mugeni",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_mugeregere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugeregere",
+      "en": "Mugeregere",
+      "slug": "mugeregere"
+    },
+    "code": {
+      "id": "BDI010001_mugeregere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_muguruka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muguruka",
+      "en": "Muguruka",
+      "slug": "muguruka"
+    },
+    "code": {
+      "id": "BDI010001_muguruka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_mukingo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mukingo",
+      "en": "Mukingo",
+      "slug": "mukingo"
+    },
+    "code": {
+      "id": "BDI010001_mukingo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_musasa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musasa",
+      "en": "Musasa",
+      "slug": "musasa"
+    },
+    "code": {
+      "id": "BDI010001_musasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_muyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyange",
+      "en": "Muyange",
+      "slug": "muyange"
+    },
+    "code": {
+      "id": "BDI010001_muyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_nkara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nkara",
+      "en": "Nkara",
+      "slug": "nkara"
+    },
+    "code": {
+      "id": "BDI010001_nkara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_nyantakara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyantakara",
+      "en": "Nyantakara",
+      "slug": "nyantakara"
+    },
+    "code": {
+      "id": "BDI010001_nyantakara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_rusovu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusovu",
+      "en": "Rusovu",
+      "slug": "rusovu"
+    },
+    "code": {
+      "id": "BDI010001_rusovu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_rutenderi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutenderi",
+      "en": "Rutenderi",
+      "slug": "rutenderi"
+    },
+    "code": {
+      "id": "BDI010001_rutenderi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_sampeke",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Sampeke",
+      "en": "Sampeke",
+      "slug": "sampeke"
+    },
+    "code": {
+      "id": "BDI010001_sampeke",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001_shaka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Shaka",
+      "en": "Shaka",
+      "slug": "shaka"
+    },
+    "code": {
+      "id": "BDI010001_shaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010001",
+      "level": 2,
+      "name": {
+        "local": "Kayogoro",
+        "en": "Kayogoro",
+        "slug": "kayogoro-bdi010001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010001",
+        "level": 2,
+        "name": {
+          "local": "Kayogoro",
+          "en": "Kayogoro",
+          "slug": "kayogoro-bdi010001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

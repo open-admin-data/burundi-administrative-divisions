@@ -1,0 +1,331 @@
+[
+  {
+    "id": "BDI016001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Butaganzwa1",
+      "en": "Butaganzwa1",
+      "slug": "butaganzwa1-bdi016001"
+    },
+    "code": {
+      "id": "BDI016001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016",
+      "level": 1,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.55",
+      "lon": "30.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Butezi",
+      "en": "Butezi",
+      "slug": "butezi-bdi016002"
+    },
+    "code": {
+      "id": "BDI016002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016",
+      "level": 1,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.338",
+      "lon": "30.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bweru",
+      "en": "Bweru",
+      "slug": "bweru-bdi016003"
+    },
+    "code": {
+      "id": "BDI016003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016",
+      "level": 1,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "30.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gisuru",
+      "en": "Gisuru",
+      "slug": "gisuru-bdi016004"
+    },
+    "code": {
+      "id": "BDI016004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016",
+      "level": 1,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 43
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kinyinya",
+      "en": "Kinyinya",
+      "slug": "kinyinya-bdi016005"
+    },
+    "code": {
+      "id": "BDI016005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016",
+      "level": 1,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.612",
+      "lon": "30.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016006",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nyabitsinda",
+      "en": "Nyabitsinda",
+      "slug": "nyabitsinda-bdi016006"
+    },
+    "code": {
+      "id": "BDI016006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016",
+      "level": 1,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.578",
+      "lon": "30.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ruyigi",
+      "en": "Ruyigi",
+      "slug": "ruyigi-bdi016007"
+    },
+    "code": {
+      "id": "BDI016007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016",
+      "level": 1,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

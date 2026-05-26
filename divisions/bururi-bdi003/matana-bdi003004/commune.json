@@ -1,0 +1,47 @@
+{
+  "id": "BDI003004",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Matana",
+    "en": "Matana",
+    "slug": "matana-bdi003004"
+  },
+  "code": {
+    "id": "BDI003004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI003",
+    "level": 1,
+    "name": {
+      "local": "Bururi",
+      "en": "Bururi",
+      "slug": "bururi-bdi003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI003",
+      "level": 1,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.743",
+    "lon": "29.71"
+  },
+  "metadata": {},
+  "source": {}
+}

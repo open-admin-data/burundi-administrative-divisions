@@ -1,0 +1,47 @@
+{
+  "id": "BDI006009",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Mutaho",
+    "en": "Mutaho",
+    "slug": "mutaho-bdi006009"
+  },
+  "code": {
+    "id": "BDI006009",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI006",
+    "level": 1,
+    "name": {
+      "local": "Gitega",
+      "en": "Gitega",
+      "slug": "gitega-bdi006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.145",
+    "lon": "29.874"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "BDI015006",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Rutana",
+    "en": "Rutana",
+    "slug": "rutana-bdi015006"
+  },
+  "code": {
+    "id": "BDI015006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI015",
+    "level": 1,
+    "name": {
+      "local": "Rutana",
+      "en": "Rutana",
+      "slug": "rutana-bdi015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI015",
+      "level": 1,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 39
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.878",
+    "lon": "29.97"
+  },
+  "metadata": {},
+  "source": {}
+}

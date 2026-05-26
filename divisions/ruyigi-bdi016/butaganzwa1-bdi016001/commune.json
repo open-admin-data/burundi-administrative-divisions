@@ -1,0 +1,47 @@
+{
+  "id": "BDI016001",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Butaganzwa1",
+    "en": "Butaganzwa1",
+    "slug": "butaganzwa1-bdi016001"
+  },
+  "code": {
+    "id": "BDI016001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI016",
+    "level": 1,
+    "name": {
+      "local": "Ruyigi",
+      "en": "Ruyigi",
+      "slug": "ruyigi-bdi016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI016",
+      "level": 1,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.55",
+    "lon": "30.167"
+  },
+  "metadata": {},
+  "source": {}
+}

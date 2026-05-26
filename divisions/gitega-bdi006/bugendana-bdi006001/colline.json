@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "BDI006001_bitare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bitare",
+      "en": "Bitare",
+      "slug": "bitare"
+    },
+    "code": {
+      "id": "BDI006001_bitare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001_bugendana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugendana",
+      "en": "Bugendana",
+      "slug": "bugendana"
+    },
+    "code": {
+      "id": "BDI006001_bugendana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001_carire",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Carire",
+      "en": "Carire",
+      "slug": "carire"
+    },
+    "code": {
+      "id": "BDI006001_carire",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001_cishwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cishwa",
+      "en": "Cishwa",
+      "slug": "cishwa"
+    },
+    "code": {
+      "id": "BDI006001_cishwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001_gaterama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gaterama",
+      "en": "Gaterama",
+      "slug": "gaterama"
+    },
+    "code": {
+      "id": "BDI006001_gaterama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001_gitongo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitongo",
+      "en": "Gitongo",
+      "slug": "gitongo"
+    },
+    "code": {
+      "id": "BDI006001_gitongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001_gitora",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitora",
+      "en": "Gitora",
+      "slug": "gitora"
+    },
+    "code": {
+      "id": "BDI006001_gitora",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001_jenda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Jenda",
+      "en": "Jenda",
+      "slug": "jenda"
+    },
+    "code": {
+      "id": "BDI006001_jenda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001_kibasi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibasi",
+      "en": "Kibasi",
+      "slug": "kibasi"
+    },
+    "code": {
+      "id": "BDI006001_kibasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001_kibungo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibungo",
+      "en": "Kibungo",
+      "slug": "kibungo"
+    },
+    "code": {
+      "id": "BDI006001_kibungo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001_kivuvu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivuvu",
+      "en": "Kivuvu",
+      "slug": "kivuvu"
+    },
+    "code": {
+      "id": "BDI006001_kivuvu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001_mirama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mirama",
+      "en": "Mirama",
+      "slug": "mirama"
+    },
+    "code": {
+      "id": "BDI006001_mirama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001_mugitega",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugitega",
+      "en": "Mugitega",
+      "slug": "mugitega"
+    },
+    "code": {
+      "id": "BDI006001_mugitega",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001_mukoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mukoro",
+      "en": "Mukoro",
+      "slug": "mukoro"
+    },
+    "code": {
+      "id": "BDI006001_mukoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001_mutoyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mutoyi",
+      "en": "Mutoyi",
+      "slug": "mutoyi"
+    },
+    "code": {
+      "id": "BDI006001_mutoyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001_mwurire",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwurire",
+      "en": "Mwurire",
+      "slug": "mwurire"
+    },
+    "code": {
+      "id": "BDI006001_mwurire",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001_nkanda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nkanda",
+      "en": "Nkanda",
+      "slug": "nkanda"
+    },
+    "code": {
+      "id": "BDI006001_nkanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001_nyagisenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyagisenyi",
+      "en": "Nyagisenyi",
+      "slug": "nyagisenyi"
+    },
+    "code": {
+      "id": "BDI006001_nyagisenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001_nyakeru",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakeru",
+      "en": "Nyakeru",
+      "slug": "nyakeru"
+    },
+    "code": {
+      "id": "BDI006001_nyakeru",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001_nyamagana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamagana",
+      "en": "Nyamagana",
+      "slug": "nyamagana"
+    },
+    "code": {
+      "id": "BDI006001_nyamagana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001_runyeri",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Runyeri",
+      "en": "Runyeri",
+      "slug": "runyeri"
+    },
+    "code": {
+      "id": "BDI006001_runyeri",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001_rushanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rushanga",
+      "en": "Rushanga",
+      "slug": "rushanga"
+    },
+    "code": {
+      "id": "BDI006001_rushanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001_rwingiri",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwingiri",
+      "en": "Rwingiri",
+      "slug": "rwingiri"
+    },
+    "code": {
+      "id": "BDI006001_rwingiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006001",
+      "level": 2,
+      "name": {
+        "local": "Bugendana",
+        "en": "Bugendana",
+        "slug": "bugendana-bdi006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006001",
+        "level": 2,
+        "name": {
+          "local": "Bugendana",
+          "en": "Bugendana",
+          "slug": "bugendana-bdi006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

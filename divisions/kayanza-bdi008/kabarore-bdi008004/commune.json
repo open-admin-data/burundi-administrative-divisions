@@ -1,0 +1,47 @@
+{
+  "id": "BDI008004",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Kabarore",
+    "en": "Kabarore",
+    "slug": "kabarore-bdi008004"
+  },
+  "code": {
+    "id": "BDI008004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI008",
+    "level": 1,
+    "name": {
+      "local": "Kayanza",
+      "en": "Kayanza",
+      "slug": "kayanza-bdi008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI008",
+      "level": 1,
+      "name": {
+        "local": "Kayanza",
+        "en": "Kayanza",
+        "slug": "kayanza-bdi008"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 38
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.852",
+    "lon": "29.548"
+  },
+  "metadata": {},
+  "source": {}
+}

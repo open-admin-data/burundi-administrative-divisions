@@ -1,0 +1,47 @@
+{
+  "id": "BDI012002",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Butihinda",
+    "en": "Butihinda",
+    "slug": "butihinda-bdi012002"
+  },
+  "code": {
+    "id": "BDI012002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI012",
+    "level": 1,
+    "name": {
+      "local": "Muyinga",
+      "en": "Muyinga",
+      "slug": "muyinga-bdi012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI012",
+      "level": 1,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.709",
+    "lon": "30.323"
+  },
+  "metadata": {},
+  "source": {}
+}

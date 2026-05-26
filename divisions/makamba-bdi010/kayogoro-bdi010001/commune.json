@@ -1,0 +1,47 @@
+{
+  "id": "BDI010001",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Kayogoro",
+    "en": "Kayogoro",
+    "slug": "kayogoro-bdi010001"
+  },
+  "code": {
+    "id": "BDI010001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI010",
+    "level": 1,
+    "name": {
+      "local": "Makamba",
+      "en": "Makamba",
+      "slug": "makamba-bdi010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI010",
+      "level": 1,
+      "name": {
+        "local": "Makamba",
+        "en": "Makamba",
+        "slug": "makamba-bdi010"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 30
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.163",
+    "lon": "29.991"
+  },
+  "metadata": {},
+  "source": {}
+}

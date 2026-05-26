@@ -1,0 +1,758 @@
+[
+  {
+    "id": "BDI013002_buburu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buburu",
+      "en": "Buburu",
+      "slug": "buburu"
+    },
+    "code": {
+      "id": "BDI013002_buburu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013002",
+      "level": 2,
+      "name": {
+        "local": "Gisozi",
+        "en": "Gisozi",
+        "slug": "gisozi-bdi013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013002",
+        "level": 2,
+        "name": {
+          "local": "Gisozi",
+          "en": "Gisozi",
+          "slug": "gisozi-bdi013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.551",
+      "lon": "29.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013002_butegana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butegana",
+      "en": "Butegana",
+      "slug": "butegana"
+    },
+    "code": {
+      "id": "BDI013002_butegana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013002",
+      "level": 2,
+      "name": {
+        "local": "Gisozi",
+        "en": "Gisozi",
+        "slug": "gisozi-bdi013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013002",
+        "level": 2,
+        "name": {
+          "local": "Gisozi",
+          "en": "Gisozi",
+          "slug": "gisozi-bdi013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.551",
+      "lon": "29.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013002_gatare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatare",
+      "en": "Gatare",
+      "slug": "gatare"
+    },
+    "code": {
+      "id": "BDI013002_gatare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013002",
+      "level": 2,
+      "name": {
+        "local": "Gisozi",
+        "en": "Gisozi",
+        "slug": "gisozi-bdi013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013002",
+        "level": 2,
+        "name": {
+          "local": "Gisozi",
+          "en": "Gisozi",
+          "slug": "gisozi-bdi013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.551",
+      "lon": "29.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013002_gisozi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisozi",
+      "en": "Gisozi",
+      "slug": "gisozi"
+    },
+    "code": {
+      "id": "BDI013002_gisozi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013002",
+      "level": 2,
+      "name": {
+        "local": "Gisozi",
+        "en": "Gisozi",
+        "slug": "gisozi-bdi013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013002",
+        "level": 2,
+        "name": {
+          "local": "Gisozi",
+          "en": "Gisozi",
+          "slug": "gisozi-bdi013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.551",
+      "lon": "29.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013002_kibimba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibimba",
+      "en": "Kibimba",
+      "slug": "kibimba"
+    },
+    "code": {
+      "id": "BDI013002_kibimba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013002",
+      "level": 2,
+      "name": {
+        "local": "Gisozi",
+        "en": "Gisozi",
+        "slug": "gisozi-bdi013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013002",
+        "level": 2,
+        "name": {
+          "local": "Gisozi",
+          "en": "Gisozi",
+          "slug": "gisozi-bdi013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.551",
+      "lon": "29.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013002_kiyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiyange",
+      "en": "Kiyange",
+      "slug": "kiyange"
+    },
+    "code": {
+      "id": "BDI013002_kiyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013002",
+      "level": 2,
+      "name": {
+        "local": "Gisozi",
+        "en": "Gisozi",
+        "slug": "gisozi-bdi013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013002",
+        "level": 2,
+        "name": {
+          "local": "Gisozi",
+          "en": "Gisozi",
+          "slug": "gisozi-bdi013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.551",
+      "lon": "29.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013002_mugero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugero",
+      "en": "Mugero",
+      "slug": "mugero"
+    },
+    "code": {
+      "id": "BDI013002_mugero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013002",
+      "level": 2,
+      "name": {
+        "local": "Gisozi",
+        "en": "Gisozi",
+        "slug": "gisozi-bdi013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013002",
+        "level": 2,
+        "name": {
+          "local": "Gisozi",
+          "en": "Gisozi",
+          "slug": "gisozi-bdi013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.551",
+      "lon": "29.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013002_musimbwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musimbwe",
+      "en": "Musimbwe",
+      "slug": "musimbwe"
+    },
+    "code": {
+      "id": "BDI013002_musimbwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013002",
+      "level": 2,
+      "name": {
+        "local": "Gisozi",
+        "en": "Gisozi",
+        "slug": "gisozi-bdi013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013002",
+        "level": 2,
+        "name": {
+          "local": "Gisozi",
+          "en": "Gisozi",
+          "slug": "gisozi-bdi013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.551",
+      "lon": "29.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013002_musivya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musivya",
+      "en": "Musivya",
+      "slug": "musivya"
+    },
+    "code": {
+      "id": "BDI013002_musivya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013002",
+      "level": 2,
+      "name": {
+        "local": "Gisozi",
+        "en": "Gisozi",
+        "slug": "gisozi-bdi013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013002",
+        "level": 2,
+        "name": {
+          "local": "Gisozi",
+          "en": "Gisozi",
+          "slug": "gisozi-bdi013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.551",
+      "lon": "29.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013002_ndava",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ndava",
+      "en": "Ndava",
+      "slug": "ndava"
+    },
+    "code": {
+      "id": "BDI013002_ndava",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013002",
+      "level": 2,
+      "name": {
+        "local": "Gisozi",
+        "en": "Gisozi",
+        "slug": "gisozi-bdi013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013002",
+        "level": 2,
+        "name": {
+          "local": "Gisozi",
+          "en": "Gisozi",
+          "slug": "gisozi-bdi013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.551",
+      "lon": "29.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013002_nyagahwabare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyagahwabare",
+      "en": "Nyagahwabare",
+      "slug": "nyagahwabare"
+    },
+    "code": {
+      "id": "BDI013002_nyagahwabare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013002",
+      "level": 2,
+      "name": {
+        "local": "Gisozi",
+        "en": "Gisozi",
+        "slug": "gisozi-bdi013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013002",
+        "level": 2,
+        "name": {
+          "local": "Gisozi",
+          "en": "Gisozi",
+          "slug": "gisozi-bdi013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.551",
+      "lon": "29.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013002_nyakigwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakigwa",
+      "en": "Nyakigwa",
+      "slug": "nyakigwa"
+    },
+    "code": {
+      "id": "BDI013002_nyakigwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013002",
+      "level": 2,
+      "name": {
+        "local": "Gisozi",
+        "en": "Gisozi",
+        "slug": "gisozi-bdi013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013002",
+        "level": 2,
+        "name": {
+          "local": "Gisozi",
+          "en": "Gisozi",
+          "slug": "gisozi-bdi013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.551",
+      "lon": "29.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013002_nyamiyaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamiyaga",
+      "en": "Nyamiyaga",
+      "slug": "nyamiyaga"
+    },
+    "code": {
+      "id": "BDI013002_nyamiyaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013002",
+      "level": 2,
+      "name": {
+        "local": "Gisozi",
+        "en": "Gisozi",
+        "slug": "gisozi-bdi013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013002",
+        "level": 2,
+        "name": {
+          "local": "Gisozi",
+          "en": "Gisozi",
+          "slug": "gisozi-bdi013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.551",
+      "lon": "29.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013002_rweza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rweza",
+      "en": "Rweza",
+      "slug": "rweza"
+    },
+    "code": {
+      "id": "BDI013002_rweza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013002",
+      "level": 2,
+      "name": {
+        "local": "Gisozi",
+        "en": "Gisozi",
+        "slug": "gisozi-bdi013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013002",
+        "level": 2,
+        "name": {
+          "local": "Gisozi",
+          "en": "Gisozi",
+          "slug": "gisozi-bdi013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.551",
+      "lon": "29.637"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "BDI009001",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bugabira",
+    "en": "Bugabira",
+    "slug": "bugabira-bdi009001"
+  },
+  "code": {
+    "id": "BDI009001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI009",
+    "level": 1,
+    "name": {
+      "local": "Kirundo",
+      "en": "Kirundo",
+      "slug": "kirundo-bdi009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI009",
+      "level": 1,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.433",
+    "lon": "30.03"
+  },
+  "metadata": {},
+  "source": {}
+}

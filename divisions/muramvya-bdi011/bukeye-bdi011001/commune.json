@@ -1,0 +1,47 @@
+{
+  "id": "BDI011001",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bukeye",
+    "en": "Bukeye",
+    "slug": "bukeye-bdi011001"
+  },
+  "code": {
+    "id": "BDI011001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI011",
+    "level": 1,
+    "name": {
+      "local": "Muramvya",
+      "en": "Muramvya",
+      "slug": "muramvya-bdi011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI011",
+      "level": 1,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.183",
+    "lon": "29.619"
+  },
+  "metadata": {},
+  "source": {}
+}

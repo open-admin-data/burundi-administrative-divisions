@@ -1,0 +1,8 @@
+id,name.local,name.en,name.slug,code.id,children_count.colline,geo.lat,geo.lon
+BDI009001,Bugabira,Bugabira,bugabira-bdi009001,BDI009001,13,-2.433,30.03
+BDI009002,Busoni,Busoni,busoni-bdi009002,BDI009002,42,-2.484,30.237
+BDI009003,Bwambarangwe,Bwambarangwe,bwambarangwe-bdi009003,BDI009003,19,-2.552,30.365
+BDI009004,Gitobe,Gitobe,gitobe-bdi009004,BDI009004,21,-2.627,30.237
+BDI009005,Kirundo,Kirundo,kirundo-bdi009005,BDI009005,30,-2.546,30.102
+BDI009006,Ntega,Ntega,ntega-bdi009006,BDI009006,37,-2.585,29.99
+BDI009007,Vumbi,Vumbi,vumbi-bdi009007,BDI009007,36,-2.694,30.078

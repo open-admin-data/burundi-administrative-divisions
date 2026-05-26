@@ -1,0 +1,47 @@
+{
+  "id": "BDI012004",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Gasorwe",
+    "en": "Gasorwe",
+    "slug": "gasorwe-bdi012004"
+  },
+  "code": {
+    "id": "BDI012004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI012",
+    "level": 1,
+    "name": {
+      "local": "Muyinga",
+      "en": "Muyinga",
+      "slug": "muyinga-bdi012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI012",
+      "level": 1,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 30
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.849",
+    "lon": "30.238"
+  },
+  "metadata": {},
+  "source": {}
+}

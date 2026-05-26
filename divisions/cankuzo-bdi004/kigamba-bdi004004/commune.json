@@ -1,0 +1,47 @@
+{
+  "id": "BDI004004",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Kigamba",
+    "en": "Kigamba",
+    "slug": "kigamba-bdi004004"
+  },
+  "code": {
+    "id": "BDI004004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI004",
+    "level": 1,
+    "name": {
+      "local": "Cankuzo",
+      "en": "Cankuzo",
+      "slug": "cankuzo-bdi004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI004",
+      "level": 1,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.036",
+    "lon": "30.522"
+  },
+  "metadata": {},
+  "source": {}
+}

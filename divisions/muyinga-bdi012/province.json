@@ -1,0 +1,30 @@
+{
+  "id": "BDI012",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Muyinga",
+    "en": "Muyinga",
+    "slug": "muyinga-bdi012"
+  },
+  "code": {
+    "id": "BDI012",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 7,
+    "colline": 230
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.734",
+    "lon": "30.32"
+  },
+  "metadata": {},
+  "source": {}
+}

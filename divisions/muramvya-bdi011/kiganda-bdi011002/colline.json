@@ -1,0 +1,866 @@
+[
+  {
+    "id": "BDI011002_burenza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burenza",
+      "en": "Burenza",
+      "slug": "burenza"
+    },
+    "code": {
+      "id": "BDI011002_burenza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011002",
+      "level": 2,
+      "name": {
+        "local": "Kiganda",
+        "en": "Kiganda",
+        "slug": "kiganda-bdi011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011002",
+        "level": 2,
+        "name": {
+          "local": "Kiganda",
+          "en": "Kiganda",
+          "slug": "kiganda-bdi011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.345",
+      "lon": "29.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011002_gahweza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gahweza",
+      "en": "Gahweza",
+      "slug": "gahweza"
+    },
+    "code": {
+      "id": "BDI011002_gahweza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011002",
+      "level": 2,
+      "name": {
+        "local": "Kiganda",
+        "en": "Kiganda",
+        "slug": "kiganda-bdi011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011002",
+        "level": 2,
+        "name": {
+          "local": "Kiganda",
+          "en": "Kiganda",
+          "slug": "kiganda-bdi011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.345",
+      "lon": "29.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011002_kanengwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kanengwa",
+      "en": "Kanengwa",
+      "slug": "kanengwa"
+    },
+    "code": {
+      "id": "BDI011002_kanengwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011002",
+      "level": 2,
+      "name": {
+        "local": "Kiganda",
+        "en": "Kiganda",
+        "slug": "kiganda-bdi011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011002",
+        "level": 2,
+        "name": {
+          "local": "Kiganda",
+          "en": "Kiganda",
+          "slug": "kiganda-bdi011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.345",
+      "lon": "29.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011002_kanyami",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kanyami",
+      "en": "Kanyami",
+      "slug": "kanyami"
+    },
+    "code": {
+      "id": "BDI011002_kanyami",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011002",
+      "level": 2,
+      "name": {
+        "local": "Kiganda",
+        "en": "Kiganda",
+        "slug": "kiganda-bdi011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011002",
+        "level": 2,
+        "name": {
+          "local": "Kiganda",
+          "en": "Kiganda",
+          "slug": "kiganda-bdi011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.345",
+      "lon": "29.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011002_kayange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kayange",
+      "en": "Kayange",
+      "slug": "kayange"
+    },
+    "code": {
+      "id": "BDI011002_kayange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011002",
+      "level": 2,
+      "name": {
+        "local": "Kiganda",
+        "en": "Kiganda",
+        "slug": "kiganda-bdi011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011002",
+        "level": 2,
+        "name": {
+          "local": "Kiganda",
+          "en": "Kiganda",
+          "slug": "kiganda-bdi011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.345",
+      "lon": "29.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011002_kiganda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiganda",
+      "en": "Kiganda",
+      "slug": "kiganda"
+    },
+    "code": {
+      "id": "BDI011002_kiganda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011002",
+      "level": 2,
+      "name": {
+        "local": "Kiganda",
+        "en": "Kiganda",
+        "slug": "kiganda-bdi011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011002",
+        "level": 2,
+        "name": {
+          "local": "Kiganda",
+          "en": "Kiganda",
+          "slug": "kiganda-bdi011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.345",
+      "lon": "29.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011002_kivyeyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivyeyi",
+      "en": "Kivyeyi",
+      "slug": "kivyeyi"
+    },
+    "code": {
+      "id": "BDI011002_kivyeyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011002",
+      "level": 2,
+      "name": {
+        "local": "Kiganda",
+        "en": "Kiganda",
+        "slug": "kiganda-bdi011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011002",
+        "level": 2,
+        "name": {
+          "local": "Kiganda",
+          "en": "Kiganda",
+          "slug": "kiganda-bdi011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.345",
+      "lon": "29.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011002_martyazo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Martyazo",
+      "en": "Martyazo",
+      "slug": "martyazo"
+    },
+    "code": {
+      "id": "BDI011002_martyazo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011002",
+      "level": 2,
+      "name": {
+        "local": "Kiganda",
+        "en": "Kiganda",
+        "slug": "kiganda-bdi011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011002",
+        "level": 2,
+        "name": {
+          "local": "Kiganda",
+          "en": "Kiganda",
+          "slug": "kiganda-bdi011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.345",
+      "lon": "29.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011002_murambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murambi",
+      "en": "Murambi",
+      "slug": "murambi"
+    },
+    "code": {
+      "id": "BDI011002_murambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011002",
+      "level": 2,
+      "name": {
+        "local": "Kiganda",
+        "en": "Kiganda",
+        "slug": "kiganda-bdi011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011002",
+        "level": 2,
+        "name": {
+          "local": "Kiganda",
+          "en": "Kiganda",
+          "slug": "kiganda-bdi011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.345",
+      "lon": "29.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011002_musongati",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musongati",
+      "en": "Musongati",
+      "slug": "musongati"
+    },
+    "code": {
+      "id": "BDI011002_musongati",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011002",
+      "level": 2,
+      "name": {
+        "local": "Kiganda",
+        "en": "Kiganda",
+        "slug": "kiganda-bdi011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011002",
+        "level": 2,
+        "name": {
+          "local": "Kiganda",
+          "en": "Kiganda",
+          "slug": "kiganda-bdi011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.345",
+      "lon": "29.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011002_ngara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngara",
+      "en": "Ngara",
+      "slug": "ngara"
+    },
+    "code": {
+      "id": "BDI011002_ngara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011002",
+      "level": 2,
+      "name": {
+        "local": "Kiganda",
+        "en": "Kiganda",
+        "slug": "kiganda-bdi011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011002",
+        "level": 2,
+        "name": {
+          "local": "Kiganda",
+          "en": "Kiganda",
+          "slug": "kiganda-bdi011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.345",
+      "lon": "29.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011002_nkomwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nkomwe",
+      "en": "Nkomwe",
+      "slug": "nkomwe"
+    },
+    "code": {
+      "id": "BDI011002_nkomwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011002",
+      "level": 2,
+      "name": {
+        "local": "Kiganda",
+        "en": "Kiganda",
+        "slug": "kiganda-bdi011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011002",
+        "level": 2,
+        "name": {
+          "local": "Kiganda",
+          "en": "Kiganda",
+          "slug": "kiganda-bdi011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.345",
+      "lon": "29.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011002_nyagisozi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyagisozi",
+      "en": "Nyagisozi",
+      "slug": "nyagisozi"
+    },
+    "code": {
+      "id": "BDI011002_nyagisozi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011002",
+      "level": 2,
+      "name": {
+        "local": "Kiganda",
+        "en": "Kiganda",
+        "slug": "kiganda-bdi011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011002",
+        "level": 2,
+        "name": {
+          "local": "Kiganda",
+          "en": "Kiganda",
+          "slug": "kiganda-bdi011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.345",
+      "lon": "29.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011002_renga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Renga",
+      "en": "Renga",
+      "slug": "renga"
+    },
+    "code": {
+      "id": "BDI011002_renga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011002",
+      "level": 2,
+      "name": {
+        "local": "Kiganda",
+        "en": "Kiganda",
+        "slug": "kiganda-bdi011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011002",
+        "level": 2,
+        "name": {
+          "local": "Kiganda",
+          "en": "Kiganda",
+          "slug": "kiganda-bdi011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.345",
+      "lon": "29.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011002_rubumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubumba",
+      "en": "Rubumba",
+      "slug": "rubumba"
+    },
+    "code": {
+      "id": "BDI011002_rubumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011002",
+      "level": 2,
+      "name": {
+        "local": "Kiganda",
+        "en": "Kiganda",
+        "slug": "kiganda-bdi011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011002",
+        "level": 2,
+        "name": {
+          "local": "Kiganda",
+          "en": "Kiganda",
+          "slug": "kiganda-bdi011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.345",
+      "lon": "29.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011002_ruvumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruvumu",
+      "en": "Ruvumu",
+      "slug": "ruvumu"
+    },
+    "code": {
+      "id": "BDI011002_ruvumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011002",
+      "level": 2,
+      "name": {
+        "local": "Kiganda",
+        "en": "Kiganda",
+        "slug": "kiganda-bdi011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011002",
+        "level": 2,
+        "name": {
+          "local": "Kiganda",
+          "en": "Kiganda",
+          "slug": "kiganda-bdi011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.345",
+      "lon": "29.671"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

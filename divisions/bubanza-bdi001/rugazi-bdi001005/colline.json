@@ -1,0 +1,704 @@
+[
+  {
+    "id": "BDI001005_bugume",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugume",
+      "en": "Bugume",
+      "slug": "bugume"
+    },
+    "code": {
+      "id": "BDI001005_bugume",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001005",
+      "level": 2,
+      "name": {
+        "local": "Rugazi",
+        "en": "Rugazi",
+        "slug": "rugazi-bdi001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001005",
+        "level": 2,
+        "name": {
+          "local": "Rugazi",
+          "en": "Rugazi",
+          "slug": "rugazi-bdi001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.202",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001005_butavuka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butavuka",
+      "en": "Butavuka",
+      "slug": "butavuka"
+    },
+    "code": {
+      "id": "BDI001005_butavuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001005",
+      "level": 2,
+      "name": {
+        "local": "Rugazi",
+        "en": "Rugazi",
+        "slug": "rugazi-bdi001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001005",
+        "level": 2,
+        "name": {
+          "local": "Rugazi",
+          "en": "Rugazi",
+          "slug": "rugazi-bdi001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.202",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001005_kabanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabanga",
+      "en": "Kabanga",
+      "slug": "kabanga"
+    },
+    "code": {
+      "id": "BDI001005_kabanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001005",
+      "level": 2,
+      "name": {
+        "local": "Rugazi",
+        "en": "Rugazi",
+        "slug": "rugazi-bdi001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001005",
+        "level": 2,
+        "name": {
+          "local": "Rugazi",
+          "en": "Rugazi",
+          "slug": "rugazi-bdi001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.202",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001005_karambira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karambira",
+      "en": "Karambira",
+      "slug": "karambira"
+    },
+    "code": {
+      "id": "BDI001005_karambira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001005",
+      "level": 2,
+      "name": {
+        "local": "Rugazi",
+        "en": "Rugazi",
+        "slug": "rugazi-bdi001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001005",
+        "level": 2,
+        "name": {
+          "local": "Rugazi",
+          "en": "Rugazi",
+          "slug": "rugazi-bdi001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.202",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001005_kayange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kayange",
+      "en": "Kayange",
+      "slug": "kayange"
+    },
+    "code": {
+      "id": "BDI001005_kayange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001005",
+      "level": 2,
+      "name": {
+        "local": "Rugazi",
+        "en": "Rugazi",
+        "slug": "rugazi-bdi001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001005",
+        "level": 2,
+        "name": {
+          "local": "Rugazi",
+          "en": "Rugazi",
+          "slug": "rugazi-bdi001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.202",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001005_kibenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibenga",
+      "en": "Kibenga",
+      "slug": "kibenga"
+    },
+    "code": {
+      "id": "BDI001005_kibenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001005",
+      "level": 2,
+      "name": {
+        "local": "Rugazi",
+        "en": "Rugazi",
+        "slug": "rugazi-bdi001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001005",
+        "level": 2,
+        "name": {
+          "local": "Rugazi",
+          "en": "Rugazi",
+          "slug": "rugazi-bdi001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.202",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001005_kibuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibuye",
+      "en": "Kibuye",
+      "slug": "kibuye"
+    },
+    "code": {
+      "id": "BDI001005_kibuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001005",
+      "level": 2,
+      "name": {
+        "local": "Rugazi",
+        "en": "Rugazi",
+        "slug": "rugazi-bdi001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001005",
+        "level": 2,
+        "name": {
+          "local": "Rugazi",
+          "en": "Rugazi",
+          "slug": "rugazi-bdi001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.202",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001005_kirengane",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirengane",
+      "en": "Kirengane",
+      "slug": "kirengane"
+    },
+    "code": {
+      "id": "BDI001005_kirengane",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001005",
+      "level": 2,
+      "name": {
+        "local": "Rugazi",
+        "en": "Rugazi",
+        "slug": "rugazi-bdi001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001005",
+        "level": 2,
+        "name": {
+          "local": "Rugazi",
+          "en": "Rugazi",
+          "slug": "rugazi-bdi001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.202",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001005_muzinda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muzinda",
+      "en": "Muzinda",
+      "slug": "muzinda"
+    },
+    "code": {
+      "id": "BDI001005_muzinda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001005",
+      "level": 2,
+      "name": {
+        "local": "Rugazi",
+        "en": "Rugazi",
+        "slug": "rugazi-bdi001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001005",
+        "level": 2,
+        "name": {
+          "local": "Rugazi",
+          "en": "Rugazi",
+          "slug": "rugazi-bdi001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.202",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001005_ruce",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruce",
+      "en": "Ruce",
+      "slug": "ruce"
+    },
+    "code": {
+      "id": "BDI001005_ruce",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001005",
+      "level": 2,
+      "name": {
+        "local": "Rugazi",
+        "en": "Rugazi",
+        "slug": "rugazi-bdi001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001005",
+        "level": 2,
+        "name": {
+          "local": "Rugazi",
+          "en": "Rugazi",
+          "slug": "rugazi-bdi001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.202",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001005_rugazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugazi",
+      "en": "Rugazi",
+      "slug": "rugazi"
+    },
+    "code": {
+      "id": "BDI001005_rugazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001005",
+      "level": 2,
+      "name": {
+        "local": "Rugazi",
+        "en": "Rugazi",
+        "slug": "rugazi-bdi001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001005",
+        "level": 2,
+        "name": {
+          "local": "Rugazi",
+          "en": "Rugazi",
+          "slug": "rugazi-bdi001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.202",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001005_rutake",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutake",
+      "en": "Rutake",
+      "slug": "rutake"
+    },
+    "code": {
+      "id": "BDI001005_rutake",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001005",
+      "level": 2,
+      "name": {
+        "local": "Rugazi",
+        "en": "Rugazi",
+        "slug": "rugazi-bdi001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001005",
+        "level": 2,
+        "name": {
+          "local": "Rugazi",
+          "en": "Rugazi",
+          "slug": "rugazi-bdi001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.202",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001005_rwamvurwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwamvurwe",
+      "en": "Rwamvurwe",
+      "slug": "rwamvurwe"
+    },
+    "code": {
+      "id": "BDI001005_rwamvurwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001005",
+      "level": 2,
+      "name": {
+        "local": "Rugazi",
+        "en": "Rugazi",
+        "slug": "rugazi-bdi001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001005",
+        "level": 2,
+        "name": {
+          "local": "Rugazi",
+          "en": "Rugazi",
+          "slug": "rugazi-bdi001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.202",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

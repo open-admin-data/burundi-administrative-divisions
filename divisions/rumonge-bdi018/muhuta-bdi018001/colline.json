@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "BDI018001_gitunga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitunga",
+      "en": "Gitunga",
+      "slug": "gitunga"
+    },
+    "code": {
+      "id": "BDI018001_gitunga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018001",
+      "level": 2,
+      "name": {
+        "local": "Muhuta",
+        "en": "Muhuta",
+        "slug": "muhuta-bdi018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018001",
+        "level": 2,
+        "name": {
+          "local": "Muhuta",
+          "en": "Muhuta",
+          "slug": "muhuta-bdi018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018001_higiro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Higiro",
+      "en": "Higiro",
+      "slug": "higiro"
+    },
+    "code": {
+      "id": "BDI018001_higiro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018001",
+      "level": 2,
+      "name": {
+        "local": "Muhuta",
+        "en": "Muhuta",
+        "slug": "muhuta-bdi018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018001",
+        "level": 2,
+        "name": {
+          "local": "Muhuta",
+          "en": "Muhuta",
+          "slug": "muhuta-bdi018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018001_kanzaganya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kanzaganya",
+      "en": "Kanzaganya",
+      "slug": "kanzaganya"
+    },
+    "code": {
+      "id": "BDI018001_kanzaganya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018001",
+      "level": 2,
+      "name": {
+        "local": "Muhuta",
+        "en": "Muhuta",
+        "slug": "muhuta-bdi018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018001",
+        "level": 2,
+        "name": {
+          "local": "Muhuta",
+          "en": "Muhuta",
+          "slug": "muhuta-bdi018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018001_kibingo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibingo",
+      "en": "Kibingo",
+      "slug": "kibingo"
+    },
+    "code": {
+      "id": "BDI018001_kibingo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018001",
+      "level": 2,
+      "name": {
+        "local": "Muhuta",
+        "en": "Muhuta",
+        "slug": "muhuta-bdi018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018001",
+        "level": 2,
+        "name": {
+          "local": "Muhuta",
+          "en": "Muhuta",
+          "slug": "muhuta-bdi018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018001_kinyovu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinyovu",
+      "en": "Kinyovu",
+      "slug": "kinyovu"
+    },
+    "code": {
+      "id": "BDI018001_kinyovu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018001",
+      "level": 2,
+      "name": {
+        "local": "Muhuta",
+        "en": "Muhuta",
+        "slug": "muhuta-bdi018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018001",
+        "level": 2,
+        "name": {
+          "local": "Muhuta",
+          "en": "Muhuta",
+          "slug": "muhuta-bdi018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018001_kirombwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirombwe",
+      "en": "Kirombwe",
+      "slug": "kirombwe"
+    },
+    "code": {
+      "id": "BDI018001_kirombwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018001",
+      "level": 2,
+      "name": {
+        "local": "Muhuta",
+        "en": "Muhuta",
+        "slug": "muhuta-bdi018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018001",
+        "level": 2,
+        "name": {
+          "local": "Muhuta",
+          "en": "Muhuta",
+          "slug": "muhuta-bdi018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018001_kizuga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kizuga",
+      "en": "Kizuga",
+      "slug": "kizuga"
+    },
+    "code": {
+      "id": "BDI018001_kizuga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018001",
+      "level": 2,
+      "name": {
+        "local": "Muhuta",
+        "en": "Muhuta",
+        "slug": "muhuta-bdi018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018001",
+        "level": 2,
+        "name": {
+          "local": "Muhuta",
+          "en": "Muhuta",
+          "slug": "muhuta-bdi018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018001_masara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masara",
+      "en": "Masara",
+      "slug": "masara"
+    },
+    "code": {
+      "id": "BDI018001_masara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018001",
+      "level": 2,
+      "name": {
+        "local": "Muhuta",
+        "en": "Muhuta",
+        "slug": "muhuta-bdi018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018001",
+        "level": 2,
+        "name": {
+          "local": "Muhuta",
+          "en": "Muhuta",
+          "slug": "muhuta-bdi018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018001_mubanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mubanga",
+      "en": "Mubanga",
+      "slug": "mubanga"
+    },
+    "code": {
+      "id": "BDI018001_mubanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018001",
+      "level": 2,
+      "name": {
+        "local": "Muhuta",
+        "en": "Muhuta",
+        "slug": "muhuta-bdi018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018001",
+        "level": 2,
+        "name": {
+          "local": "Muhuta",
+          "en": "Muhuta",
+          "slug": "muhuta-bdi018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018001_mubone",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mubone",
+      "en": "Mubone",
+      "slug": "mubone"
+    },
+    "code": {
+      "id": "BDI018001_mubone",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018001",
+      "level": 2,
+      "name": {
+        "local": "Muhuta",
+        "en": "Muhuta",
+        "slug": "muhuta-bdi018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018001",
+        "level": 2,
+        "name": {
+          "local": "Muhuta",
+          "en": "Muhuta",
+          "slug": "muhuta-bdi018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018001_muhuta",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muhuta",
+      "en": "Muhuta",
+      "slug": "muhuta"
+    },
+    "code": {
+      "id": "BDI018001_muhuta",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018001",
+      "level": 2,
+      "name": {
+        "local": "Muhuta",
+        "en": "Muhuta",
+        "slug": "muhuta-bdi018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018001",
+        "level": 2,
+        "name": {
+          "local": "Muhuta",
+          "en": "Muhuta",
+          "slug": "muhuta-bdi018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018001_murago",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murago",
+      "en": "Murago",
+      "slug": "murago"
+    },
+    "code": {
+      "id": "BDI018001_murago",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018001",
+      "level": 2,
+      "name": {
+        "local": "Muhuta",
+        "en": "Muhuta",
+        "slug": "muhuta-bdi018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018001",
+        "level": 2,
+        "name": {
+          "local": "Muhuta",
+          "en": "Muhuta",
+          "slug": "muhuta-bdi018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018001_nkuba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nkuba",
+      "en": "Nkuba",
+      "slug": "nkuba"
+    },
+    "code": {
+      "id": "BDI018001_nkuba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018001",
+      "level": 2,
+      "name": {
+        "local": "Muhuta",
+        "en": "Muhuta",
+        "slug": "muhuta-bdi018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018001",
+        "level": 2,
+        "name": {
+          "local": "Muhuta",
+          "en": "Muhuta",
+          "slug": "muhuta-bdi018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018001_nyabwayi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabwayi",
+      "en": "Nyabwayi",
+      "slug": "nyabwayi"
+    },
+    "code": {
+      "id": "BDI018001_nyabwayi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018001",
+      "level": 2,
+      "name": {
+        "local": "Muhuta",
+        "en": "Muhuta",
+        "slug": "muhuta-bdi018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018001",
+        "level": 2,
+        "name": {
+          "local": "Muhuta",
+          "en": "Muhuta",
+          "slug": "muhuta-bdi018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018001_nyangushwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyangushwe",
+      "en": "Nyangushwe",
+      "slug": "nyangushwe"
+    },
+    "code": {
+      "id": "BDI018001_nyangushwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018001",
+      "level": 2,
+      "name": {
+        "local": "Muhuta",
+        "en": "Muhuta",
+        "slug": "muhuta-bdi018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018001",
+        "level": 2,
+        "name": {
+          "local": "Muhuta",
+          "en": "Muhuta",
+          "slug": "muhuta-bdi018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018001_rubura",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubura",
+      "en": "Rubura",
+      "slug": "rubura"
+    },
+    "code": {
+      "id": "BDI018001_rubura",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018001",
+      "level": 2,
+      "name": {
+        "local": "Muhuta",
+        "en": "Muhuta",
+        "slug": "muhuta-bdi018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018001",
+        "level": 2,
+        "name": {
+          "local": "Muhuta",
+          "en": "Muhuta",
+          "slug": "muhuta-bdi018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018001_ruringe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruringe",
+      "en": "Ruringe",
+      "slug": "ruringe"
+    },
+    "code": {
+      "id": "BDI018001_ruringe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018001",
+      "level": 2,
+      "name": {
+        "local": "Muhuta",
+        "en": "Muhuta",
+        "slug": "muhuta-bdi018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018001",
+        "level": 2,
+        "name": {
+          "local": "Muhuta",
+          "en": "Muhuta",
+          "slug": "muhuta-bdi018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018001_rutongo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutongo",
+      "en": "Rutongo",
+      "slug": "rutongo"
+    },
+    "code": {
+      "id": "BDI018001_rutongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018001",
+      "level": 2,
+      "name": {
+        "local": "Muhuta",
+        "en": "Muhuta",
+        "slug": "muhuta-bdi018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018001",
+        "level": 2,
+        "name": {
+          "local": "Muhuta",
+          "en": "Muhuta",
+          "slug": "muhuta-bdi018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018001_rutunga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutunga",
+      "en": "Rutunga",
+      "slug": "rutunga"
+    },
+    "code": {
+      "id": "BDI018001_rutunga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018001",
+      "level": 2,
+      "name": {
+        "local": "Muhuta",
+        "en": "Muhuta",
+        "slug": "muhuta-bdi018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018001",
+        "level": 2,
+        "name": {
+          "local": "Muhuta",
+          "en": "Muhuta",
+          "slug": "muhuta-bdi018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018001_ruyobera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruyobera",
+      "en": "Ruyobera",
+      "slug": "ruyobera"
+    },
+    "code": {
+      "id": "BDI018001_ruyobera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018001",
+      "level": 2,
+      "name": {
+        "local": "Muhuta",
+        "en": "Muhuta",
+        "slug": "muhuta-bdi018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018001",
+        "level": 2,
+        "name": {
+          "local": "Muhuta",
+          "en": "Muhuta",
+          "slug": "muhuta-bdi018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018001_sakonga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Sakonga",
+      "en": "Sakonga",
+      "slug": "sakonga"
+    },
+    "code": {
+      "id": "BDI018001_sakonga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018001",
+      "level": 2,
+      "name": {
+        "local": "Muhuta",
+        "en": "Muhuta",
+        "slug": "muhuta-bdi018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018001",
+        "level": 2,
+        "name": {
+          "local": "Muhuta",
+          "en": "Muhuta",
+          "slug": "muhuta-bdi018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

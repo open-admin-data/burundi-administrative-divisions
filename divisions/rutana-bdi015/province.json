@@ -1,0 +1,30 @@
+{
+  "id": "BDI015",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Rutana",
+    "en": "Rutana",
+    "slug": "rutana-bdi015"
+  },
+  "code": {
+    "id": "BDI015",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 6,
+    "colline": 148
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.865",
+    "lon": "30.094"
+  },
+  "metadata": {},
+  "source": {}
+}

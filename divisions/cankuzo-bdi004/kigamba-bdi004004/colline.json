@@ -1,0 +1,758 @@
+[
+  {
+    "id": "BDI004004_buyongwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buyongwe",
+      "en": "Buyongwe",
+      "slug": "buyongwe"
+    },
+    "code": {
+      "id": "BDI004004_buyongwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004004",
+      "level": 2,
+      "name": {
+        "local": "Kigamba",
+        "en": "Kigamba",
+        "slug": "kigamba-bdi004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004004",
+        "level": 2,
+        "name": {
+          "local": "Kigamba",
+          "en": "Kigamba",
+          "slug": "kigamba-bdi004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.036",
+      "lon": "30.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004004_gitanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitanga",
+      "en": "Gitanga",
+      "slug": "gitanga"
+    },
+    "code": {
+      "id": "BDI004004_gitanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004004",
+      "level": 2,
+      "name": {
+        "local": "Kigamba",
+        "en": "Kigamba",
+        "slug": "kigamba-bdi004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004004",
+        "level": 2,
+        "name": {
+          "local": "Kigamba",
+          "en": "Kigamba",
+          "slug": "kigamba-bdi004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.036",
+      "lon": "30.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004004_humure-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Humure I",
+      "en": "Humure I",
+      "slug": "humure-i"
+    },
+    "code": {
+      "id": "BDI004004_humure-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004004",
+      "level": 2,
+      "name": {
+        "local": "Kigamba",
+        "en": "Kigamba",
+        "slug": "kigamba-bdi004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004004",
+        "level": 2,
+        "name": {
+          "local": "Kigamba",
+          "en": "Kigamba",
+          "slug": "kigamba-bdi004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.036",
+      "lon": "30.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004004_humure-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Humure Ii",
+      "en": "Humure Ii",
+      "slug": "humure-ii"
+    },
+    "code": {
+      "id": "BDI004004_humure-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004004",
+      "level": 2,
+      "name": {
+        "local": "Kigamba",
+        "en": "Kigamba",
+        "slug": "kigamba-bdi004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004004",
+        "level": 2,
+        "name": {
+          "local": "Kigamba",
+          "en": "Kigamba",
+          "slug": "kigamba-bdi004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.036",
+      "lon": "30.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004004_kibungo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibungo",
+      "en": "Kibungo",
+      "slug": "kibungo"
+    },
+    "code": {
+      "id": "BDI004004_kibungo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004004",
+      "level": 2,
+      "name": {
+        "local": "Kigamba",
+        "en": "Kigamba",
+        "slug": "kigamba-bdi004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004004",
+        "level": 2,
+        "name": {
+          "local": "Kigamba",
+          "en": "Kigamba",
+          "slug": "kigamba-bdi004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.036",
+      "lon": "30.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004004_kigamba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigamba",
+      "en": "Kigamba",
+      "slug": "kigamba"
+    },
+    "code": {
+      "id": "BDI004004_kigamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004004",
+      "level": 2,
+      "name": {
+        "local": "Kigamba",
+        "en": "Kigamba",
+        "slug": "kigamba-bdi004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004004",
+        "level": 2,
+        "name": {
+          "local": "Kigamba",
+          "en": "Kigamba",
+          "slug": "kigamba-bdi004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.036",
+      "lon": "30.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004004_kivumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivumu",
+      "en": "Kivumu",
+      "slug": "kivumu"
+    },
+    "code": {
+      "id": "BDI004004_kivumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004004",
+      "level": 2,
+      "name": {
+        "local": "Kigamba",
+        "en": "Kigamba",
+        "slug": "kigamba-bdi004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004004",
+        "level": 2,
+        "name": {
+          "local": "Kigamba",
+          "en": "Kigamba",
+          "slug": "kigamba-bdi004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.036",
+      "lon": "30.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004004_mashinga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mashinga",
+      "en": "Mashinga",
+      "slug": "mashinga"
+    },
+    "code": {
+      "id": "BDI004004_mashinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004004",
+      "level": 2,
+      "name": {
+        "local": "Kigamba",
+        "en": "Kigamba",
+        "slug": "kigamba-bdi004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004004",
+        "level": 2,
+        "name": {
+          "local": "Kigamba",
+          "en": "Kigamba",
+          "slug": "kigamba-bdi004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.036",
+      "lon": "30.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004004_nyarurambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarurambi",
+      "en": "Nyarurambi",
+      "slug": "nyarurambi"
+    },
+    "code": {
+      "id": "BDI004004_nyarurambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004004",
+      "level": 2,
+      "name": {
+        "local": "Kigamba",
+        "en": "Kigamba",
+        "slug": "kigamba-bdi004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004004",
+        "level": 2,
+        "name": {
+          "local": "Kigamba",
+          "en": "Kigamba",
+          "slug": "kigamba-bdi004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.036",
+      "lon": "30.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004004_rujungu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rujungu",
+      "en": "Rujungu",
+      "slug": "rujungu"
+    },
+    "code": {
+      "id": "BDI004004_rujungu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004004",
+      "level": 2,
+      "name": {
+        "local": "Kigamba",
+        "en": "Kigamba",
+        "slug": "kigamba-bdi004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004004",
+        "level": 2,
+        "name": {
+          "local": "Kigamba",
+          "en": "Kigamba",
+          "slug": "kigamba-bdi004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.036",
+      "lon": "30.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004004_rusagara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusagara",
+      "en": "Rusagara",
+      "slug": "rusagara"
+    },
+    "code": {
+      "id": "BDI004004_rusagara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004004",
+      "level": 2,
+      "name": {
+        "local": "Kigamba",
+        "en": "Kigamba",
+        "slug": "kigamba-bdi004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004004",
+        "level": 2,
+        "name": {
+          "local": "Kigamba",
+          "en": "Kigamba",
+          "slug": "kigamba-bdi004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.036",
+      "lon": "30.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004004_rwanvura",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwanvura",
+      "en": "Rwanvura",
+      "slug": "rwanvura"
+    },
+    "code": {
+      "id": "BDI004004_rwanvura",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004004",
+      "level": 2,
+      "name": {
+        "local": "Kigamba",
+        "en": "Kigamba",
+        "slug": "kigamba-bdi004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004004",
+        "level": 2,
+        "name": {
+          "local": "Kigamba",
+          "en": "Kigamba",
+          "slug": "kigamba-bdi004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.036",
+      "lon": "30.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004004_saswe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Saswe",
+      "en": "Saswe",
+      "slug": "saswe"
+    },
+    "code": {
+      "id": "BDI004004_saswe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004004",
+      "level": 2,
+      "name": {
+        "local": "Kigamba",
+        "en": "Kigamba",
+        "slug": "kigamba-bdi004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004004",
+        "level": 2,
+        "name": {
+          "local": "Kigamba",
+          "en": "Kigamba",
+          "slug": "kigamba-bdi004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.036",
+      "lon": "30.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004004_shinge",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Shinge",
+      "en": "Shinge",
+      "slug": "shinge"
+    },
+    "code": {
+      "id": "BDI004004_shinge",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004004",
+      "level": 2,
+      "name": {
+        "local": "Kigamba",
+        "en": "Kigamba",
+        "slug": "kigamba-bdi004004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004004",
+        "level": 2,
+        "name": {
+          "local": "Kigamba",
+          "en": "Kigamba",
+          "slug": "kigamba-bdi004004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.036",
+      "lon": "30.522"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

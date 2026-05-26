@@ -1,0 +1,138 @@
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.province,children_count.commune,children_count.colline,zip_codes,geo.lat,geo.lon
+BDI001,1,Province,Province,Bubanza,Bubanza,bubanza-bdi001,BDI001,,,,,,5,88,,-3.117,29.399
+BDI001001,2,Commune,Commune,Bubanza,Bubanza,bubanza-bdi001001,BDI001001,,BDI001,Bubanza,Bubanza,,,23,,-3.055,29.359
+BDI001002,2,Commune,Commune,Gihanga,Gihanga,gihanga-bdi001002,BDI001002,,BDI001,Bubanza,Bubanza,,,13,,-3.207,29.296
+BDI001003,2,Commune,Commune,Mpanda,Mpanda,mpanda-bdi001003,BDI001003,,BDI001,Bubanza,Bubanza,,,16,,-3.188,29.414
+BDI001004,2,Commune,Commune,Musigati,Musigati,musigati-bdi001004,BDI001004,,BDI001,Bubanza,Bubanza,,,23,,-3.037,29.487
+BDI001005,2,Commune,Commune,Rugazi,Rugazi,rugazi-bdi001005,BDI001005,,BDI001,Bubanza,Bubanza,,,13,,-3.202,29.476
+BDI002,1,Province,Province,Bujumbura Rural,Bujumbura Rural,bujumbura-rural-bdi002,BDI002,,,,,,9,160,,-3.463,29.485
+BDI002002,2,Commune,Commune,Isale,Isale,isale-bdi002002,BDI002002,,BDI002,Bujumbura Rural,Bujumbura Rural,,,17,,-3.365,29.465
+BDI002003,2,Commune,Commune,Kabezi,Kabezi,kabezi-bdi002003,BDI002003,,BDI002,Bujumbura Rural,Bujumbura Rural,,,12,,-3.536,29.376
+BDI002004,2,Commune,Commune,Kanyosha1,Kanyosha1,kanyosha1-bdi002004,BDI002004,,BDI002,Bujumbura Rural,Bujumbura Rural,,,22,,-3.432,29.41
+BDI002005,2,Commune,Commune,Mubimbi,Mubimbi,mubimbi-bdi002005,BDI002005,,BDI002,Bujumbura Rural,Bujumbura Rural,,,16,,-3.295,29.482
+BDI002006,2,Commune,Commune,Mugongomanga,Mugongomanga,mugongomanga-bdi002006,BDI002006,,BDI002,Bujumbura Rural,Bujumbura Rural,,,15,,-3.427,29.55
+BDI002008,2,Commune,Commune,Mukike,Mukike,mukike-bdi002008,BDI002008,,BDI002,Bujumbura Rural,Bujumbura Rural,,,12,,-3.582,29.494
+BDI002009,2,Commune,Commune,Mutambu,Mutambu,mutambu-bdi002009,BDI002009,,BDI002,Bujumbura Rural,Bujumbura Rural,,,17,,-3.527,29.446
+BDI002010,2,Commune,Commune,Mutimbuzi,Mutimbuzi,mutimbuzi-bdi002010,BDI002010,,BDI002,Bujumbura Rural,Bujumbura Rural,,,32,,-3.308,29.379
+BDI002012,2,Commune,Commune,Nyabiraba,Nyabiraba,nyabiraba-bdi002012,BDI002012,,BDI002,Bujumbura Rural,Bujumbura Rural,,,17,,-3.452,29.476
+BDI003,1,Province,Province,Bururi,Bururi,bururi-bdi003,BDI003,,,,,,6,130,,-3.859,29.732
+BDI003002,2,Commune,Commune,Bururi,Bururi,bururi-bdi003002,BDI003002,,BDI003,Bururi,Bururi,,,29,,-3.982,29.675
+BDI003004,2,Commune,Commune,Matana,Matana,matana-bdi003004,BDI003004,,BDI003,Bururi,Bururi,,,13,,-3.743,29.71
+BDI003005,2,Commune,Commune,Mugamba,Mugamba,mugamba-bdi003005,BDI003005,,BDI003,Bururi,Bururi,,,30,,-3.672,29.592
+BDI003007,2,Commune,Commune,Rutovu,Rutovu,rutovu-bdi003007,BDI003007,,BDI003,Bururi,Bururi,,,23,,-3.885,29.821
+BDI003008,2,Commune,Commune,Songa,Songa,songa-bdi003008,BDI003008,,BDI003,Bururi,Bururi,,,17,,-3.845,29.677
+BDI003009,2,Commune,Commune,Vyanda,Vyanda,vyanda-bdi003009,BDI003009,,BDI003,Bururi,Bururi,,,18,,-4.077,29.601
+BDI004,1,Province,Province,Cankuzo,Cankuzo,cankuzo-bdi004,BDI004,,,,,,5,87,,-3.145,30.591
+BDI004001,2,Commune,Commune,Cankuzo,Cankuzo,cankuzo-bdi004001,BDI004001,,BDI004,Cankuzo,Cankuzo,,,21,,-3.193,30.469
+BDI004002,2,Commune,Commune,Cendajuru,Cendajuru,cendajuru-bdi004002,BDI004002,,BDI004,Cankuzo,Cankuzo,,,17,,-3.314,30.602
+BDI004003,2,Commune,Commune,Gisagara,Gisagara,gisagara-bdi004003,BDI004003,,BDI004,Cankuzo,Cankuzo,,,23,,-3.211,30.729
+BDI004004,2,Commune,Commune,Kigamba,Kigamba,kigamba-bdi004004,BDI004004,,BDI004,Cankuzo,Cankuzo,,,14,,-3.036,30.522
+BDI004005,2,Commune,Commune,Mishiha,Mishiha,mishiha-bdi004005,BDI004005,,BDI004,Cankuzo,Cankuzo,,,12,,-3.071,30.721
+BDI005,1,Province,Province,Cibitoke,Cibitoke,cibitoke-bdi005,BDI005,,,,,,6,129,,-2.848,29.262
+BDI005001,2,Commune,Commune,Buganda,Buganda,buganda-bdi005001,BDI005001,,BDI005,Cibitoke,Cibitoke,,,13,,-2.989,29.222
+BDI005002,2,Commune,Commune,Bukinanyana,Bukinanyana,bukinanyana-bdi005002,BDI005002,,BDI005,Cibitoke,Cibitoke,,,30,,-2.867,29.366
+BDI005003,2,Commune,Commune,Mabayi,Mabayi,mabayi-bdi005003,BDI005003,,BDI005,Cibitoke,Cibitoke,,,24,,-2.723,29.251
+BDI005004,2,Commune,Commune,Mugina,Mugina,mugina-bdi005004,BDI005004,,BDI005,Cibitoke,Cibitoke,,,18,,-2.705,29.11
+BDI005005,2,Commune,Commune,Murwi,Murwi,murwi-bdi005005,BDI005005,,BDI005,Cibitoke,Cibitoke,,,27,,-2.893,29.205
+BDI005006,2,Commune,Commune,Rugombo,Rugombo,rugombo-bdi005006,BDI005006,,BDI005,Cibitoke,Cibitoke,,,17,,-2.829,29.115
+BDI006,1,Province,Province,Gitega,Gitega,gitega-bdi006,BDI006,,,,,,11,268,,-3.452,29.964
+BDI006001,2,Commune,Commune,Bugendana,Bugendana,bugendana-bdi006001,BDI006001,,BDI006,Gitega,Gitega,,,23,,-3.249,29.92
+BDI006002,2,Commune,Commune,Bukirasazi,Bukirasazi,bukirasazi-bdi006002,BDI006002,,BDI006,Gitega,Gitega,,,18,,-3.703,29.967
+BDI006003,2,Commune,Commune,Buraza,Buraza,buraza-bdi006003,BDI006003,,BDI006,Gitega,Gitega,,,19,,-3.767,29.924
+BDI006004,2,Commune,Commune,Giheta,Giheta,giheta-bdi006004,BDI006004,,BDI006,Gitega,Gitega,,,32,,-3.331,29.882
+BDI006005,2,Commune,Commune,Gishubi,Gishubi,gishubi-bdi006005,BDI006005,,BDI006,Gitega,Gitega,,,34,,-3.608,29.886
+BDI006006,2,Commune,Commune,Gitega,Gitega,gitega-bdi006006,BDI006006,,BDI006,Gitega,Gitega,,,39,,-3.437,29.968
+BDI006007,2,Commune,Commune,Itaba,Itaba,itaba-bdi006007,BDI006007,,BDI006,Gitega,Gitega,,,20,,-3.599,30.058
+BDI006008,2,Commune,Commune,Makebuko,Makebuko,makebuko-bdi006008,BDI006008,,BDI006,Gitega,Gitega,,,29,,-3.577,29.967
+BDI006009,2,Commune,Commune,Mutaho,Mutaho,mutaho-bdi006009,BDI006009,,BDI006,Gitega,Gitega,,,18,,-3.145,29.874
+BDI006010,2,Commune,Commune,Ryansoro,Ryansoro,ryansoro-bdi006010,BDI006010,,BDI006,Gitega,Gitega,,,18,,-3.722,29.808
+BDI006011,2,Commune,Commune,Nyanrusange,Nyanrusange,nyanrusange-bdi006011,BDI006011,,BDI006,Gitega,Gitega,,,18,,-3.58,29.814
+BDI007,1,Province,Province,Karuzi,Karuzi,karuzi-bdi007,BDI007,,,,,,7,146,,-3.149,30.079
+BDI007001,2,Commune,Commune,Bugenyuzi,Bugenyuzi,bugenyuzi-bdi007001,BDI007001,,BDI007,Karuzi,Karuzi,,,27,,-3.093,30.077
+BDI007002,2,Commune,Commune,Buhiga,Buhiga,buhiga-bdi007002,BDI007002,,BDI007,Karuzi,Karuzi,,,29,,-3.089,30.194
+BDI007003,2,Commune,Commune,Gihogazi,Gihogazi,gihogazi-bdi007003,BDI007003,,BDI007,Karuzi,Karuzi,,,21,,-3.146,29.974
+BDI007004,2,Commune,Commune,Gitaramuka,Gitaramuka,gitaramuka-bdi007004,BDI007004,,BDI007,Karuzi,Karuzi,,,26,,-2.979,30.178
+BDI007005,2,Commune,Commune,Mutumba,Mutumba,mutumba-bdi007005,BDI007005,,BDI007,Karuzi,Karuzi,,,12,,-3.225,30.235
+BDI007006,2,Commune,Commune,Nyabikere,Nyabikere,nyabikere-bdi007006,BDI007006,,BDI007,Karuzi,Karuzi,,,15,,-3.252,30.15
+BDI007007,2,Commune,Commune,Shombo,Shombo,shombo-bdi007007,BDI007007,,BDI007,Karuzi,Karuzi,,,16,,-3.282,30.046
+BDI008,1,Province,Province,Kayanza,Kayanza,kayanza-bdi008,BDI008,,,,,,9,301,,-3.008,29.662
+BDI008001,2,Commune,Commune,Butaganzwa,Butaganzwa,butaganzwa-bdi008001,BDI008001,,BDI008,Kayanza,Kayanza,,,60,,-3.109,29.69
+BDI008002,2,Commune,Commune,Gahombo,Gahombo,gahombo-bdi008002,BDI008002,,BDI008,Kayanza,Kayanza,,,20,,-2.99,29.726
+BDI008003,2,Commune,Commune,Gatara,Gatara,gatara-bdi008003,BDI008003,,BDI008,Kayanza,Kayanza,,,29,,-2.991,29.664
+BDI008004,2,Commune,Commune,Kabarore,Kabarore,kabarore-bdi008004,BDI008004,,BDI008,Kayanza,Kayanza,,,38,,-2.852,29.548
+BDI008005,2,Commune,Commune,Kayanza,Kayanza,kayanza-bdi008005,BDI008005,,BDI008,Kayanza,Kayanza,,,36,,-2.935,29.632
+BDI008006,2,Commune,Commune,Matongo,Matongo,matongo-bdi008006,BDI008006,,BDI008,Kayanza,Kayanza,,,35,,-3.085,29.6
+BDI008007,2,Commune,Commune,Muhanga,Muhanga,muhanga-bdi008007,BDI008007,,BDI008,Kayanza,Kayanza,,,29,,-3.039,29.809
+BDI008008,2,Commune,Commune,Muruta,Muruta,muruta-bdi008008,BDI008008,,BDI008,Kayanza,Kayanza,,,25,,-2.955,29.558
+BDI008009,2,Commune,Commune,Rango,Rango,rango-bdi008009,BDI008009,,BDI008,Kayanza,Kayanza,,,29,,-3.158,29.757
+BDI009,1,Province,Province,Kirundo,Kirundo,kirundo-bdi009,BDI009,,,,,,7,198,,-2.556,30.165
+BDI009001,2,Commune,Commune,Bugabira,Bugabira,bugabira-bdi009001,BDI009001,,BDI009,Kirundo,Kirundo,,,13,,-2.433,30.03
+BDI009002,2,Commune,Commune,Busoni,Busoni,busoni-bdi009002,BDI009002,,BDI009,Kirundo,Kirundo,,,42,,-2.484,30.237
+BDI009003,2,Commune,Commune,Bwambarangwe,Bwambarangwe,bwambarangwe-bdi009003,BDI009003,,BDI009,Kirundo,Kirundo,,,19,,-2.552,30.365
+BDI009004,2,Commune,Commune,Gitobe,Gitobe,gitobe-bdi009004,BDI009004,,BDI009,Kirundo,Kirundo,,,21,,-2.627,30.237
+BDI009005,2,Commune,Commune,Kirundo,Kirundo,kirundo-bdi009005,BDI009005,,BDI009,Kirundo,Kirundo,,,30,,-2.546,30.102
+BDI009006,2,Commune,Commune,Ntega,Ntega,ntega-bdi009006,BDI009006,,BDI009,Kirundo,Kirundo,,,37,,-2.585,29.99
+BDI009007,2,Commune,Commune,Vumbi,Vumbi,vumbi-bdi009007,BDI009007,,BDI009,Kirundo,Kirundo,,,36,,-2.694,30.078
+BDI010,1,Province,Province,Makamba,Makamba,makamba-bdi010,BDI010,,,,,,6,142,,-4.236,29.8
+BDI010001,2,Commune,Commune,Kayogoro,Kayogoro,kayogoro-bdi010001,BDI010001,,BDI010,Makamba,Makamba,,,30,,-4.163,29.991
+BDI010002,2,Commune,Commune,Kibago,Kibago,kibago-bdi010002,BDI010002,,BDI010,Makamba,Makamba,,,13,,-4.288,29.908
+BDI010003,2,Commune,Commune,Mabanda,Mabanda,mabanda-bdi010003,BDI010003,,BDI010,Makamba,Makamba,,,19,,-4.322,29.769
+BDI010004,2,Commune,Commune,Makamba,Makamba,makamba-bdi010004,BDI010004,,BDI010,Makamba,Makamba,,,32,,-4.112,29.831
+BDI010005,2,Commune,Commune,Nyanza-Lac,Nyanza-Lac,nyanza-lac-bdi010005,BDI010005,,BDI010,Makamba,Makamba,,,27,,-4.308,29.655
+BDI010006,2,Commune,Commune,Vugizo,Vugizo,vugizo-bdi010006,BDI010006,,BDI010,Makamba,Makamba,,,21,,-4.162,29.652
+BDI011,1,Province,Province,Muramvya,Muramvya,muramvya-bdi011,BDI011,,,,,,5,100,,-3.266,29.653
+BDI011001,2,Commune,Commune,Bukeye,Bukeye,bukeye-bdi011001,BDI011001,,BDI011,Muramvya,Muramvya,,,19,,-3.183,29.619
+BDI011002,2,Commune,Commune,Kiganda,Kiganda,kiganda-bdi011002,BDI011002,,BDI011,Muramvya,Muramvya,,,16,,-3.345,29.671
+BDI011003,2,Commune,Commune,Mbuye,Mbuye,mbuye-bdi011003,BDI011003,,BDI011,Muramvya,Muramvya,,,26,,-3.239,29.745
+BDI011004,2,Commune,Commune,Muramvya,Muramvya,muramvya-bdi011004,BDI011004,,BDI011,Muramvya,Muramvya,,,22,,-3.316,29.586
+BDI011005,2,Commune,Commune,Rutegama,Rutegama,rutegama-bdi011005,BDI011005,,BDI011,Muramvya,Muramvya,,,17,,-3.312,29.739
+BDI012,1,Province,Province,Muyinga,Muyinga,muyinga-bdi012,BDI012,,,,,,7,230,,-2.734,30.32
+BDI012001,2,Commune,Commune,Buhinyuza,Buhinyuza,buhinyuza-bdi012001,BDI012001,,BDI012,Muyinga,Muyinga,,,25,,-2.983,30.375
+BDI012002,2,Commune,Commune,Butihinda,Butihinda,butihinda-bdi012002,BDI012002,,BDI012,Muyinga,Muyinga,,,29,,-2.709,30.323
+BDI012003,2,Commune,Commune,Gashoho,Gashoho,gashoho-bdi012003,BDI012003,,BDI012,Muyinga,Muyinga,,,28,,-2.767,30.168
+BDI012004,2,Commune,Commune,Gasorwe,Gasorwe,gasorwe-bdi012004,BDI012004,,BDI012,Muyinga,Muyinga,,,30,,-2.849,30.238
+BDI012005,2,Commune,Commune,Giteranyi,Giteranyi,giteranyi-bdi012005,BDI012005,,BDI012,Muyinga,Muyinga,,,37,,-2.475,30.467
+BDI012006,2,Commune,Commune,Muyinga,Muyinga,muyinga-bdi012006,BDI012006,,BDI012,Muyinga,Muyinga,,,50,,-2.808,30.375
+BDI012007,2,Commune,Commune,Mwakiro,Mwakiro,mwakiro-bdi012007,BDI012007,,BDI012,Muyinga,Muyinga,,,31,,-3.09,30.312
+BDI013,1,Province,Province,Mwaro,Mwaro,mwaro-bdi013,BDI013,,,,,,6,134,,-3.509,29.715
+BDI013001,2,Commune,Commune,Bisoro,Bisoro,bisoro-bdi013001,BDI013001,,BDI013,Mwaro,Mwaro,,,16,,-3.641,29.685
+BDI013002,2,Commune,Commune,Gisozi,Gisozi,gisozi-bdi013002,BDI013002,,BDI013,Mwaro,Mwaro,,,14,,-3.551,29.637
+BDI013003,2,Commune,Commune,Kayokwe,Kayokwe,kayokwe-bdi013003,BDI013003,,BDI013,Mwaro,Mwaro,,,25,,-3.522,29.756
+BDI013004,2,Commune,Commune,Ndava,Ndava,ndava-bdi013004,BDI013004,,BDI013,Mwaro,Mwaro,,,20,,-3.39,29.764
+BDI013005,2,Commune,Commune,Nyabihanga,Nyabihanga,nyabihanga-bdi013005,BDI013005,,BDI013,Mwaro,Mwaro,,,30,,-3.448,29.802
+BDI013006,2,Commune,Commune,Rusaka,Rusaka,rusaka-bdi013006,BDI013006,,BDI013,Mwaro,Mwaro,,,29,,-3.446,29.622
+BDI014,1,Province,Province,Ngozi,Ngozi,ngozi-bdi014,BDI014,,,,,,9,305,,-2.871,29.921
+BDI014001,2,Commune,Commune,Busiga,Busiga,busiga-bdi014001,BDI014001,,BDI014,Ngozi,Ngozi,,,34,,-2.864,29.704
+BDI014002,2,Commune,Commune,Gashikanwa,Gashikanwa,gashikanwa-bdi014002,BDI014002,,BDI014,Ngozi,Ngozi,,,24,,-2.906,29.901
+BDI014003,2,Commune,Commune,Kiremba,Kiremba,kiremba-bdi014003,BDI014003,,BDI014,Ngozi,Ngozi,,,45,,-2.829,30.025
+BDI014004,2,Commune,Commune,Marangara,Marangara,marangara-bdi014004,BDI014004,,BDI014,Ngozi,Ngozi,,,35,,-2.732,29.961
+BDI014005,2,Commune,Commune,Mwumba,Mwumba,mwumba-bdi014005,BDI014005,,BDI014,Ngozi,Ngozi,,,30,,-2.822,29.801
+BDI014006,2,Commune,Commune,Ngozi,Ngozi,ngozi-bdi014006,BDI014006,,BDI014,Ngozi,Ngozi,,,46,,-2.951,29.831
+BDI014007,2,Commune,Commune,Nyamurenza,Nyamurenza,nyamurenza-bdi014007,BDI014007,,BDI014,Ngozi,Ngozi,,,21,,-2.808,29.891
+BDI014008,2,Commune,Commune,Ruhororo,Ruhororo,ruhororo-bdi014008,BDI014008,,BDI014,Ngozi,Ngozi,,,32,,-3.011,29.93
+BDI014009,2,Commune,Commune,Tangara,Tangara,tangara-bdi014009,BDI014009,,BDI014,Ngozi,Ngozi,,,38,,-2.915,30.058
+BDI015,1,Province,Province,Rutana,Rutana,rutana-bdi015,BDI015,,,,,,6,148,,-3.865,30.094
+BDI015001,2,Commune,Commune,Bukemba,Bukemba,bukemba-bdi015001,BDI015001,,BDI015,Rutana,Rutana,,,10,,-4.015,30.088
+BDI015002,2,Commune,Commune,Giharo,Giharo,giharo-bdi015002,BDI015002,,BDI015,Rutana,Rutana,,,16,,-3.829,30.247
+BDI015003,2,Commune,Commune,Gitanga,Gitanga,gitanga-bdi015003,BDI015003,,BDI015,Rutana,Rutana,,,25,,-3.988,29.902
+BDI015004,2,Commune,Commune,Mpinga-Kayove,Mpinga-Kayove,mpinga-kayove-bdi015004,BDI015004,,BDI015,Rutana,Rutana,,,32,,-3.8,30.135
+BDI015005,2,Commune,Commune,Musongati,Musongati,musongati-bdi015005,BDI015005,,BDI015,Rutana,Rutana,,,26,,-3.764,30.047
+BDI015006,2,Commune,Commune,Rutana,Rutana,rutana-bdi015006,BDI015006,,BDI015,Rutana,Rutana,,,39,,-3.878,29.97
+BDI016,1,Province,Province,Ruyigi,Ruyigi,ruyigi-bdi016,BDI016,,,,,,7,140,,-3.458,30.348
+BDI016001,2,Commune,Commune,Butaganzwa1,Butaganzwa1,butaganzwa1-bdi016001,BDI016001,,BDI016,Ruyigi,Ruyigi,,,0,,-3.55,30.167
+BDI016002,2,Commune,Commune,Butezi,Butezi,butezi-bdi016002,BDI016002,,BDI016,Ruyigi,Ruyigi,,,16,,-3.338,30.241
+BDI016003,2,Commune,Commune,Bweru,Bweru,bweru-bdi016003,BDI016003,,BDI016,Ruyigi,Ruyigi,,,20,,-3.297,30.396
+BDI016004,2,Commune,Commune,Gisuru,Gisuru,gisuru-bdi016004,BDI016004,,BDI016,Ruyigi,Ruyigi,,,43,,-3.451,30.5
+BDI016005,2,Commune,Commune,Kinyinya,Kinyinya,kinyinya-bdi016005,BDI016005,,BDI016,Ruyigi,Ruyigi,,,18,,-3.612,30.372
+BDI016006,2,Commune,Commune,Nyabitsinda,Nyabitsinda,nyabitsinda-bdi016006,BDI016006,,BDI016,Ruyigi,Ruyigi,,,19,,-3.578,30.275
+BDI016007,2,Commune,Commune,Ruyigi,Ruyigi,ruyigi-bdi016007,BDI016007,,BDI016,Ruyigi,Ruyigi,,,24,,-3.436,30.283
+BDI017,1,Province,Province,Bujumbura Mairie,Bujumbura Mairie,bujumbura-mairie-bdi017,BDI017,,,,,,3,103,,-3.394,29.367
+BDI017014,2,Commune,Commune,Muha,Muha,muha-bdi017014,BDI017014,,BDI017,Bujumbura Mairie,Bujumbura Mairie,,,18,,-3.441,29.357
+BDI017015,2,Commune,Commune,Mukaza,Mukaza,mukaza-bdi017015,BDI017015,,BDI017,Bujumbura Mairie,Bujumbura Mairie,,,27,,-3.383,29.376
+BDI017016,2,Commune,Commune,Ntahangwa,Ntahangwa,ntahangwa-bdi017016,BDI017016,,BDI017,Bujumbura Mairie,Bujumbura Mairie,,,58,,-3.343,29.362
+BDI018,1,Province,Province,Rumonge,Rumonge,rumonge-bdi018,BDI018,,,,,,5,108,,-3.875,29.47
+BDI018001,2,Commune,Commune,Muhuta,Muhuta,muhuta-bdi018001,BDI018001,,BDI018,Rumonge,Rumonge,,,21,,-3.617,29.408
+BDI018002,2,Commune,Commune,Bugarama,Bugarama,bugarama-bdi018002,BDI018002,,BDI018,Rumonge,Rumonge,,,15,,-3.687,29.408
+BDI018003,2,Commune,Commune,Burambi,Burambi,burambi-bdi018003,BDI018003,,BDI018,Rumonge,Rumonge,,,22,,-3.815,29.435
+BDI018004,2,Commune,Commune,Buyengero,Buyengero,buyengero-bdi018004,BDI018004,,BDI018,Rumonge,Rumonge,,,17,,-3.849,29.537
+BDI018005,2,Commune,Commune,Rumonge,Rumonge,rumonge-bdi018005,BDI018005,,BDI018,Rumonge,Rumonge,,,33,,-3.956,29.442

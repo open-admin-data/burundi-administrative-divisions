@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "BDI013003_benja",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Benja",
+      "en": "Benja",
+      "slug": "benja"
+    },
+    "code": {
+      "id": "BDI013003_benja",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_bisoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bisoro",
+      "en": "Bisoro",
+      "slug": "bisoro"
+    },
+    "code": {
+      "id": "BDI013003_bisoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_bwakira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bwakira",
+      "en": "Bwakira",
+      "slug": "bwakira"
+    },
+    "code": {
+      "id": "BDI013003_bwakira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_gihinga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gihinga",
+      "en": "Gihinga",
+      "slug": "gihinga"
+    },
+    "code": {
+      "id": "BDI013003_gihinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_gitunga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitunga",
+      "en": "Gitunga",
+      "slug": "gitunga"
+    },
+    "code": {
+      "id": "BDI013003_gitunga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_kanyami",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kanyami",
+      "en": "Kanyami",
+      "slug": "kanyami"
+    },
+    "code": {
+      "id": "BDI013003_kanyami",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_kayokwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kayokwe",
+      "en": "Kayokwe",
+      "slug": "kayokwe"
+    },
+    "code": {
+      "id": "BDI013003_kayokwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_kibenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibenga",
+      "en": "Kibenga",
+      "slug": "kibenga"
+    },
+    "code": {
+      "id": "BDI013003_kibenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_kibenga-murehe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibenga Murehe",
+      "en": "Kibenga Murehe",
+      "slug": "kibenga-murehe"
+    },
+    "code": {
+      "id": "BDI013003_kibenga-murehe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_kibogoye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibogoye",
+      "en": "Kibogoye",
+      "slug": "kibogoye"
+    },
+    "code": {
+      "id": "BDI013003_kibogoye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_mago",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mago",
+      "en": "Mago",
+      "slug": "mago"
+    },
+    "code": {
+      "id": "BDI013003_mago",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_maramvya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Maramvya",
+      "en": "Maramvya",
+      "slug": "maramvya"
+    },
+    "code": {
+      "id": "BDI013003_maramvya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_masama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masama",
+      "en": "Masama",
+      "slug": "masama"
+    },
+    "code": {
+      "id": "BDI013003_masama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_muyebe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyebe",
+      "en": "Muyebe",
+      "slug": "muyebe"
+    },
+    "code": {
+      "id": "BDI013003_muyebe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_ngara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngara",
+      "en": "Ngara",
+      "slug": "ngara"
+    },
+    "code": {
+      "id": "BDI013003_ngara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_nyagitongati",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyagitongati",
+      "en": "Nyagitongati",
+      "slug": "nyagitongati"
+    },
+    "code": {
+      "id": "BDI013003_nyagitongati",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_nyakibari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakibari",
+      "en": "Nyakibari",
+      "slug": "nyakibari"
+    },
+    "code": {
+      "id": "BDI013003_nyakibari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_nyamugari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamugari",
+      "en": "Nyamugari",
+      "slug": "nyamugari"
+    },
+    "code": {
+      "id": "BDI013003_nyamugari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_ruramba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruramba",
+      "en": "Ruramba",
+      "slug": "ruramba"
+    },
+    "code": {
+      "id": "BDI013003_ruramba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_rurtyazo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rurtyazo",
+      "en": "Rurtyazo",
+      "slug": "rurtyazo"
+    },
+    "code": {
+      "id": "BDI013003_rurtyazo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_rusivya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusivya",
+      "en": "Rusivya",
+      "slug": "rusivya"
+    },
+    "code": {
+      "id": "BDI013003_rusivya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_ruvumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruvumu",
+      "en": "Ruvumu",
+      "slug": "ruvumu"
+    },
+    "code": {
+      "id": "BDI013003_ruvumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_rwankangoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwankangoma",
+      "en": "Rwankangoma",
+      "slug": "rwankangoma"
+    },
+    "code": {
+      "id": "BDI013003_rwankangoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_rwuya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwuya",
+      "en": "Rwuya",
+      "slug": "rwuya"
+    },
+    "code": {
+      "id": "BDI013003_rwuya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003_saswe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Saswe",
+      "en": "Saswe",
+      "slug": "saswe"
+    },
+    "code": {
+      "id": "BDI013003_saswe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013003",
+      "level": 2,
+      "name": {
+        "local": "Kayokwe",
+        "en": "Kayokwe",
+        "slug": "kayokwe-bdi013003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013003",
+        "level": 2,
+        "name": {
+          "local": "Kayokwe",
+          "en": "Kayokwe",
+          "slug": "kayokwe-bdi013003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

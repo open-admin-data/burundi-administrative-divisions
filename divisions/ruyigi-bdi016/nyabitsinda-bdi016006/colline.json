@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "BDI016006_bihembe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bihembe",
+      "en": "Bihembe",
+      "slug": "bihembe"
+    },
+    "code": {
+      "id": "BDI016006_bihembe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016006",
+      "level": 2,
+      "name": {
+        "local": "Nyabitsinda",
+        "en": "Nyabitsinda",
+        "slug": "nyabitsinda-bdi016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016006",
+        "level": 2,
+        "name": {
+          "local": "Nyabitsinda",
+          "en": "Nyabitsinda",
+          "slug": "nyabitsinda-bdi016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.578",
+      "lon": "30.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016006_bwome",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bwome",
+      "en": "Bwome",
+      "slug": "bwome"
+    },
+    "code": {
+      "id": "BDI016006_bwome",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016006",
+      "level": 2,
+      "name": {
+        "local": "Nyabitsinda",
+        "en": "Nyabitsinda",
+        "slug": "nyabitsinda-bdi016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016006",
+        "level": 2,
+        "name": {
+          "local": "Nyabitsinda",
+          "en": "Nyabitsinda",
+          "slug": "nyabitsinda-bdi016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.578",
+      "lon": "30.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016006_gatare-gasenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatare Gasenyi",
+      "en": "Gatare Gasenyi",
+      "slug": "gatare-gasenyi"
+    },
+    "code": {
+      "id": "BDI016006_gatare-gasenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016006",
+      "level": 2,
+      "name": {
+        "local": "Nyabitsinda",
+        "en": "Nyabitsinda",
+        "slug": "nyabitsinda-bdi016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016006",
+        "level": 2,
+        "name": {
+          "local": "Nyabitsinda",
+          "en": "Nyabitsinda",
+          "slug": "nyabitsinda-bdi016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.578",
+      "lon": "30.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016006_kirungu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirungu",
+      "en": "Kirungu",
+      "slug": "kirungu"
+    },
+    "code": {
+      "id": "BDI016006_kirungu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016006",
+      "level": 2,
+      "name": {
+        "local": "Nyabitsinda",
+        "en": "Nyabitsinda",
+        "slug": "nyabitsinda-bdi016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016006",
+        "level": 2,
+        "name": {
+          "local": "Nyabitsinda",
+          "en": "Nyabitsinda",
+          "slug": "nyabitsinda-bdi016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.578",
+      "lon": "30.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016006_mago",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mago",
+      "en": "Mago",
+      "slug": "mago"
+    },
+    "code": {
+      "id": "BDI016006_mago",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016006",
+      "level": 2,
+      "name": {
+        "local": "Nyabitsinda",
+        "en": "Nyabitsinda",
+        "slug": "nyabitsinda-bdi016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016006",
+        "level": 2,
+        "name": {
+          "local": "Nyabitsinda",
+          "en": "Nyabitsinda",
+          "slug": "nyabitsinda-bdi016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.578",
+      "lon": "30.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016006_muramba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muramba",
+      "en": "Muramba",
+      "slug": "muramba"
+    },
+    "code": {
+      "id": "BDI016006_muramba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016006",
+      "level": 2,
+      "name": {
+        "local": "Nyabitsinda",
+        "en": "Nyabitsinda",
+        "slug": "nyabitsinda-bdi016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016006",
+        "level": 2,
+        "name": {
+          "local": "Nyabitsinda",
+          "en": "Nyabitsinda",
+          "slug": "nyabitsinda-bdi016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.578",
+      "lon": "30.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016006_mureba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mureba",
+      "en": "Mureba",
+      "slug": "mureba"
+    },
+    "code": {
+      "id": "BDI016006_mureba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016006",
+      "level": 2,
+      "name": {
+        "local": "Nyabitsinda",
+        "en": "Nyabitsinda",
+        "slug": "nyabitsinda-bdi016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016006",
+        "level": 2,
+        "name": {
+          "local": "Nyabitsinda",
+          "en": "Nyabitsinda",
+          "slug": "nyabitsinda-bdi016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.578",
+      "lon": "30.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016006_murehe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murehe",
+      "en": "Murehe",
+      "slug": "murehe"
+    },
+    "code": {
+      "id": "BDI016006_murehe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016006",
+      "level": 2,
+      "name": {
+        "local": "Nyabitsinda",
+        "en": "Nyabitsinda",
+        "slug": "nyabitsinda-bdi016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016006",
+        "level": 2,
+        "name": {
+          "local": "Nyabitsinda",
+          "en": "Nyabitsinda",
+          "slug": "nyabitsinda-bdi016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.578",
+      "lon": "30.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016006_ndago",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ndago",
+      "en": "Ndago",
+      "slug": "ndago"
+    },
+    "code": {
+      "id": "BDI016006_ndago",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016006",
+      "level": 2,
+      "name": {
+        "local": "Nyabitsinda",
+        "en": "Nyabitsinda",
+        "slug": "nyabitsinda-bdi016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016006",
+        "level": 2,
+        "name": {
+          "local": "Nyabitsinda",
+          "en": "Nyabitsinda",
+          "slug": "nyabitsinda-bdi016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.578",
+      "lon": "30.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016006_nyabitsinda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabitsinda",
+      "en": "Nyabitsinda",
+      "slug": "nyabitsinda"
+    },
+    "code": {
+      "id": "BDI016006_nyabitsinda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016006",
+      "level": 2,
+      "name": {
+        "local": "Nyabitsinda",
+        "en": "Nyabitsinda",
+        "slug": "nyabitsinda-bdi016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016006",
+        "level": 2,
+        "name": {
+          "local": "Nyabitsinda",
+          "en": "Nyabitsinda",
+          "slug": "nyabitsinda-bdi016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.578",
+      "lon": "30.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016006_nyagahanda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyagahanda",
+      "en": "Nyagahanda",
+      "slug": "nyagahanda"
+    },
+    "code": {
+      "id": "BDI016006_nyagahanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016006",
+      "level": 2,
+      "name": {
+        "local": "Nyabitsinda",
+        "en": "Nyabitsinda",
+        "slug": "nyabitsinda-bdi016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016006",
+        "level": 2,
+        "name": {
+          "local": "Nyabitsinda",
+          "en": "Nyabitsinda",
+          "slug": "nyabitsinda-bdi016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.578",
+      "lon": "30.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016006_nyagitika",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyagitika",
+      "en": "Nyagitika",
+      "slug": "nyagitika"
+    },
+    "code": {
+      "id": "BDI016006_nyagitika",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016006",
+      "level": 2,
+      "name": {
+        "local": "Nyabitsinda",
+        "en": "Nyabitsinda",
+        "slug": "nyabitsinda-bdi016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016006",
+        "level": 2,
+        "name": {
+          "local": "Nyabitsinda",
+          "en": "Nyabitsinda",
+          "slug": "nyabitsinda-bdi016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.578",
+      "lon": "30.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016006_nyakibingo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakibingo",
+      "en": "Nyakibingo",
+      "slug": "nyakibingo"
+    },
+    "code": {
+      "id": "BDI016006_nyakibingo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016006",
+      "level": 2,
+      "name": {
+        "local": "Nyabitsinda",
+        "en": "Nyabitsinda",
+        "slug": "nyabitsinda-bdi016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016006",
+        "level": 2,
+        "name": {
+          "local": "Nyabitsinda",
+          "en": "Nyabitsinda",
+          "slug": "nyabitsinda-bdi016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.578",
+      "lon": "30.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016006_nyakiyoga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakiyoga",
+      "en": "Nyakiyoga",
+      "slug": "nyakiyoga"
+    },
+    "code": {
+      "id": "BDI016006_nyakiyoga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016006",
+      "level": 2,
+      "name": {
+        "local": "Nyabitsinda",
+        "en": "Nyabitsinda",
+        "slug": "nyabitsinda-bdi016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016006",
+        "level": 2,
+        "name": {
+          "local": "Nyabitsinda",
+          "en": "Nyabitsinda",
+          "slug": "nyabitsinda-bdi016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.578",
+      "lon": "30.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016006_nyamasenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamasenga",
+      "en": "Nyamasenga",
+      "slug": "nyamasenga"
+    },
+    "code": {
+      "id": "BDI016006_nyamasenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016006",
+      "level": 2,
+      "name": {
+        "local": "Nyabitsinda",
+        "en": "Nyabitsinda",
+        "slug": "nyabitsinda-bdi016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016006",
+        "level": 2,
+        "name": {
+          "local": "Nyabitsinda",
+          "en": "Nyabitsinda",
+          "slug": "nyabitsinda-bdi016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.578",
+      "lon": "30.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016006_nyaruganda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyaruganda",
+      "en": "Nyaruganda",
+      "slug": "nyaruganda"
+    },
+    "code": {
+      "id": "BDI016006_nyaruganda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016006",
+      "level": 2,
+      "name": {
+        "local": "Nyabitsinda",
+        "en": "Nyabitsinda",
+        "slug": "nyabitsinda-bdi016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016006",
+        "level": 2,
+        "name": {
+          "local": "Nyabitsinda",
+          "en": "Nyabitsinda",
+          "slug": "nyabitsinda-bdi016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.578",
+      "lon": "30.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016006_nyarumuri",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarumuri",
+      "en": "Nyarumuri",
+      "slug": "nyarumuri"
+    },
+    "code": {
+      "id": "BDI016006_nyarumuri",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016006",
+      "level": 2,
+      "name": {
+        "local": "Nyabitsinda",
+        "en": "Nyabitsinda",
+        "slug": "nyabitsinda-bdi016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016006",
+        "level": 2,
+        "name": {
+          "local": "Nyabitsinda",
+          "en": "Nyabitsinda",
+          "slug": "nyabitsinda-bdi016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.578",
+      "lon": "30.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016006_remba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Remba",
+      "en": "Remba",
+      "slug": "remba"
+    },
+    "code": {
+      "id": "BDI016006_remba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016006",
+      "level": 2,
+      "name": {
+        "local": "Nyabitsinda",
+        "en": "Nyabitsinda",
+        "slug": "nyabitsinda-bdi016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016006",
+        "level": 2,
+        "name": {
+          "local": "Nyabitsinda",
+          "en": "Nyabitsinda",
+          "slug": "nyabitsinda-bdi016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.578",
+      "lon": "30.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016006_ruharo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruharo",
+      "en": "Ruharo",
+      "slug": "ruharo"
+    },
+    "code": {
+      "id": "BDI016006_ruharo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016006",
+      "level": 2,
+      "name": {
+        "local": "Nyabitsinda",
+        "en": "Nyabitsinda",
+        "slug": "nyabitsinda-bdi016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016006",
+        "level": 2,
+        "name": {
+          "local": "Nyabitsinda",
+          "en": "Nyabitsinda",
+          "slug": "nyabitsinda-bdi016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.578",
+      "lon": "30.275"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

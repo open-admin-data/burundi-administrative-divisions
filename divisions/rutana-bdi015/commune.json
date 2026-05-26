@@ -1,0 +1,284 @@
+[
+  {
+    "id": "BDI015001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bukemba",
+      "en": "Bukemba",
+      "slug": "bukemba-bdi015001"
+    },
+    "code": {
+      "id": "BDI015001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015",
+      "level": 1,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.015",
+      "lon": "30.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Giharo",
+      "en": "Giharo",
+      "slug": "giharo-bdi015002"
+    },
+    "code": {
+      "id": "BDI015002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015",
+      "level": 1,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.829",
+      "lon": "30.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gitanga",
+      "en": "Gitanga",
+      "slug": "gitanga-bdi015003"
+    },
+    "code": {
+      "id": "BDI015003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015",
+      "level": 1,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.988",
+      "lon": "29.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mpinga-Kayove",
+      "en": "Mpinga-Kayove",
+      "slug": "mpinga-kayove-bdi015004"
+    },
+    "code": {
+      "id": "BDI015004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015",
+      "level": 1,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 32
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Musongati",
+      "en": "Musongati",
+      "slug": "musongati-bdi015005"
+    },
+    "code": {
+      "id": "BDI015005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015",
+      "level": 1,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rutana",
+      "en": "Rutana",
+      "slug": "rutana-bdi015006"
+    },
+    "code": {
+      "id": "BDI015006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015",
+      "level": 1,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 39
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

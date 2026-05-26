@@ -1,0 +1,331 @@
+[
+  {
+    "id": "BDI007001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bugenyuzi",
+      "en": "Bugenyuzi",
+      "slug": "bugenyuzi-bdi007001"
+    },
+    "code": {
+      "id": "BDI007001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007",
+      "level": 1,
+      "name": {
+        "local": "Karuzi",
+        "en": "Karuzi",
+        "slug": "karuzi-bdi007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Buhiga",
+      "en": "Buhiga",
+      "slug": "buhiga-bdi007002"
+    },
+    "code": {
+      "id": "BDI007002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007",
+      "level": 1,
+      "name": {
+        "local": "Karuzi",
+        "en": "Karuzi",
+        "slug": "karuzi-bdi007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.089",
+      "lon": "30.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gihogazi",
+      "en": "Gihogazi",
+      "slug": "gihogazi-bdi007003"
+    },
+    "code": {
+      "id": "BDI007003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007",
+      "level": 1,
+      "name": {
+        "local": "Karuzi",
+        "en": "Karuzi",
+        "slug": "karuzi-bdi007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.146",
+      "lon": "29.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gitaramuka",
+      "en": "Gitaramuka",
+      "slug": "gitaramuka-bdi007004"
+    },
+    "code": {
+      "id": "BDI007004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007",
+      "level": 1,
+      "name": {
+        "local": "Karuzi",
+        "en": "Karuzi",
+        "slug": "karuzi-bdi007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mutumba",
+      "en": "Mutumba",
+      "slug": "mutumba-bdi007005"
+    },
+    "code": {
+      "id": "BDI007005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007",
+      "level": 1,
+      "name": {
+        "local": "Karuzi",
+        "en": "Karuzi",
+        "slug": "karuzi-bdi007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.225",
+      "lon": "30.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007006",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nyabikere",
+      "en": "Nyabikere",
+      "slug": "nyabikere-bdi007006"
+    },
+    "code": {
+      "id": "BDI007006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007",
+      "level": 1,
+      "name": {
+        "local": "Karuzi",
+        "en": "Karuzi",
+        "slug": "karuzi-bdi007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.252",
+      "lon": "30.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007007",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Shombo",
+      "en": "Shombo",
+      "slug": "shombo-bdi007007"
+    },
+    "code": {
+      "id": "BDI007007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007",
+      "level": 1,
+      "name": {
+        "local": "Karuzi",
+        "en": "Karuzi",
+        "slug": "karuzi-bdi007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.282",
+      "lon": "30.046"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

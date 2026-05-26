@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "BDI014008_banda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Banda",
+      "en": "Banda",
+      "slug": "banda"
+    },
+    "code": {
+      "id": "BDI014008_banda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_bucamihigo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bucamihigo",
+      "en": "Bucamihigo",
+      "slug": "bucamihigo"
+    },
+    "code": {
+      "id": "BDI014008_bucamihigo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_buganuka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buganuka",
+      "en": "Buganuka",
+      "slug": "buganuka"
+    },
+    "code": {
+      "id": "BDI014008_buganuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_buniha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buniha",
+      "en": "Buniha",
+      "slug": "buniha"
+    },
+    "code": {
+      "id": "BDI014008_buniha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_cagura",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cagura",
+      "en": "Cagura",
+      "slug": "cagura"
+    },
+    "code": {
+      "id": "BDI014008_cagura",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_gitamo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitamo",
+      "en": "Gitamo",
+      "slug": "gitamo"
+    },
+    "code": {
+      "id": "BDI014008_gitamo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_gitanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitanga",
+      "en": "Gitanga",
+      "slug": "gitanga"
+    },
+    "code": {
+      "id": "BDI014008_gitanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_gitaramuka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitaramuka",
+      "en": "Gitaramuka",
+      "slug": "gitaramuka"
+    },
+    "code": {
+      "id": "BDI014008_gitaramuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_giturwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Giturwe",
+      "en": "Giturwe",
+      "slug": "giturwe"
+    },
+    "code": {
+      "id": "BDI014008_giturwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_gitwenzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitwenzi",
+      "en": "Gitwenzi",
+      "slug": "gitwenzi"
+    },
+    "code": {
+      "id": "BDI014008_gitwenzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_kabuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabuye",
+      "en": "Kabuye",
+      "slug": "kabuye"
+    },
+    "code": {
+      "id": "BDI014008_kabuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_kagoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kagoma",
+      "en": "Kagoma",
+      "slug": "kagoma"
+    },
+    "code": {
+      "id": "BDI014008_kagoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_kimerejana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kimerejana",
+      "en": "Kimerejana",
+      "slug": "kimerejana"
+    },
+    "code": {
+      "id": "BDI014008_kimerejana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_kinyami",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinyami",
+      "en": "Kinyami",
+      "slug": "kinyami"
+    },
+    "code": {
+      "id": "BDI014008_kinyami",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_kobero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kobero",
+      "en": "Kobero",
+      "slug": "kobero"
+    },
+    "code": {
+      "id": "BDI014008_kobero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_mihigo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mihigo",
+      "en": "Mihigo",
+      "slug": "mihigo"
+    },
+    "code": {
+      "id": "BDI014008_mihigo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_mubanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mubanga",
+      "en": "Mubanga",
+      "slug": "mubanga"
+    },
+    "code": {
+      "id": "BDI014008_mubanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_mubira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mubira",
+      "en": "Mubira",
+      "slug": "mubira"
+    },
+    "code": {
+      "id": "BDI014008_mubira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_muhama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muhama",
+      "en": "Muhama",
+      "slug": "muhama"
+    },
+    "code": {
+      "id": "BDI014008_muhama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_mukoni",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mukoni",
+      "en": "Mukoni",
+      "slug": "mukoni"
+    },
+    "code": {
+      "id": "BDI014008_mukoni",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_mutobo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mutobo",
+      "en": "Mutobo",
+      "slug": "mutobo"
+    },
+    "code": {
+      "id": "BDI014008_mutobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_nyakibingo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakibingo",
+      "en": "Nyakibingo",
+      "slug": "nyakibingo"
+    },
+    "code": {
+      "id": "BDI014008_nyakibingo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_nyamugari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamugari",
+      "en": "Nyamugari",
+      "slug": "nyamugari"
+    },
+    "code": {
+      "id": "BDI014008_nyamugari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_nyiba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyiba",
+      "en": "Nyiba",
+      "slug": "nyiba"
+    },
+    "code": {
+      "id": "BDI014008_nyiba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_nyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyinya",
+      "en": "Nyinya",
+      "slug": "nyinya"
+    },
+    "code": {
+      "id": "BDI014008_nyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_rimiro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rimiro",
+      "en": "Rimiro",
+      "slug": "rimiro"
+    },
+    "code": {
+      "id": "BDI014008_rimiro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_ruhororo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhororo",
+      "en": "Ruhororo",
+      "slug": "ruhororo"
+    },
+    "code": {
+      "id": "BDI014008_ruhororo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_ruyaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruyaga",
+      "en": "Ruyaga",
+      "slug": "ruyaga"
+    },
+    "code": {
+      "id": "BDI014008_ruyaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_rwamiko",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwamiko",
+      "en": "Rwamiko",
+      "slug": "rwamiko"
+    },
+    "code": {
+      "id": "BDI014008_rwamiko",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_ryarunyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ryarunyinya",
+      "en": "Ryarunyinya",
+      "slug": "ryarunyinya"
+    },
+    "code": {
+      "id": "BDI014008_ryarunyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_taba-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Taba I",
+      "en": "Taba I",
+      "slug": "taba-i"
+    },
+    "code": {
+      "id": "BDI014008_taba-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008_taba-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Taba Ii",
+      "en": "Taba Ii",
+      "slug": "taba-ii"
+    },
+    "code": {
+      "id": "BDI014008_taba-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014008",
+      "level": 2,
+      "name": {
+        "local": "Ruhororo",
+        "en": "Ruhororo",
+        "slug": "ruhororo-bdi014008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014008",
+        "level": 2,
+        "name": {
+          "local": "Ruhororo",
+          "en": "Ruhororo",
+          "slug": "ruhororo-bdi014008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

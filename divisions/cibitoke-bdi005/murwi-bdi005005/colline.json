@@ -1,0 +1,1460 @@
+[
+  {
+    "id": "BDI005005_bubogora",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bubogora",
+      "en": "Bubogora",
+      "slug": "bubogora"
+    },
+    "code": {
+      "id": "BDI005005_bubogora",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_buhayira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhayira",
+      "en": "Buhayira",
+      "slug": "buhayira"
+    },
+    "code": {
+      "id": "BDI005005_buhayira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_buhindo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhindo",
+      "en": "Buhindo",
+      "slug": "buhindo"
+    },
+    "code": {
+      "id": "BDI005005_buhindo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_butega",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butega",
+      "en": "Butega",
+      "slug": "butega"
+    },
+    "code": {
+      "id": "BDI005005_butega",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_gasheke",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasheke",
+      "en": "Gasheke",
+      "slug": "gasheke"
+    },
+    "code": {
+      "id": "BDI005005_gasheke",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_gitera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitera",
+      "en": "Gitera",
+      "slug": "gitera"
+    },
+    "code": {
+      "id": "BDI005005_gitera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_gitohera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitohera",
+      "en": "Gitohera",
+      "slug": "gitohera"
+    },
+    "code": {
+      "id": "BDI005005_gitohera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_jerama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Jerama",
+      "en": "Jerama",
+      "slug": "jerama"
+    },
+    "code": {
+      "id": "BDI005005_jerama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_kabuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabuye",
+      "en": "Kabuye",
+      "slug": "kabuye"
+    },
+    "code": {
+      "id": "BDI005005_kabuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_kagimbu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kagimbu",
+      "en": "Kagimbu",
+      "slug": "kagimbu"
+    },
+    "code": {
+      "id": "BDI005005_kagimbu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_kahirwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kahirwa",
+      "en": "Kahirwa",
+      "slug": "kahirwa"
+    },
+    "code": {
+      "id": "BDI005005_kahirwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_kajerama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kajerama",
+      "en": "Kajerama",
+      "slug": "kajerama"
+    },
+    "code": {
+      "id": "BDI005005_kajerama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_kivunvu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivunvu",
+      "en": "Kivunvu",
+      "slug": "kivunvu"
+    },
+    "code": {
+      "id": "BDI005005_kivunvu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_mahande",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mahande",
+      "en": "Mahande",
+      "slug": "mahande"
+    },
+    "code": {
+      "id": "BDI005005_mahande",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_manege",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Manege",
+      "en": "Manege",
+      "slug": "manege"
+    },
+    "code": {
+      "id": "BDI005005_manege",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_maranga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Maranga",
+      "en": "Maranga",
+      "slug": "maranga"
+    },
+    "code": {
+      "id": "BDI005005_maranga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_masha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masha",
+      "en": "Masha",
+      "slug": "masha"
+    },
+    "code": {
+      "id": "BDI005005_masha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_mirombero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mirombero",
+      "en": "Mirombero",
+      "slug": "mirombero"
+    },
+    "code": {
+      "id": "BDI005005_mirombero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_mugimbu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugimbu",
+      "en": "Mugimbu",
+      "slug": "mugimbu"
+    },
+    "code": {
+      "id": "BDI005005_mugimbu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_murwi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murwi",
+      "en": "Murwi",
+      "slug": "murwi"
+    },
+    "code": {
+      "id": "BDI005005_murwi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_mushanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mushanga",
+      "en": "Mushanga",
+      "slug": "mushanga"
+    },
+    "code": {
+      "id": "BDI005005_mushanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_muzenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muzenga",
+      "en": "Muzenga",
+      "slug": "muzenga"
+    },
+    "code": {
+      "id": "BDI005005_muzenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_ngoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngoma",
+      "en": "Ngoma",
+      "slug": "ngoma"
+    },
+    "code": {
+      "id": "BDI005005_ngoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_nyabubuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabubuye",
+      "en": "Nyabubuye",
+      "slug": "nyabubuye"
+    },
+    "code": {
+      "id": "BDI005005_nyabubuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_nyarurinzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarurinzi",
+      "en": "Nyarurinzi",
+      "slug": "nyarurinzi"
+    },
+    "code": {
+      "id": "BDI005005_nyarurinzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_remera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Remera",
+      "en": "Remera",
+      "slug": "remera"
+    },
+    "code": {
+      "id": "BDI005005_remera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005_rugano",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugano",
+      "en": "Rugano",
+      "slug": "rugano"
+    },
+    "code": {
+      "id": "BDI005005_rugano",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005005",
+      "level": 2,
+      "name": {
+        "local": "Murwi",
+        "en": "Murwi",
+        "slug": "murwi-bdi005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005005",
+        "level": 2,
+        "name": {
+          "local": "Murwi",
+          "en": "Murwi",
+          "slug": "murwi-bdi005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

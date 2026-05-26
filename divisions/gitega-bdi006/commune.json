@@ -1,0 +1,519 @@
+[
+  {
+    "id": "BDI006001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bugendana",
+      "en": "Bugendana",
+      "slug": "bugendana-bdi006001"
+    },
+    "code": {
+      "id": "BDI006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bukirasazi",
+      "en": "Bukirasazi",
+      "slug": "bukirasazi-bdi006002"
+    },
+    "code": {
+      "id": "BDI006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.703",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Buraza",
+      "en": "Buraza",
+      "slug": "buraza-bdi006003"
+    },
+    "code": {
+      "id": "BDI006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.767",
+      "lon": "29.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Giheta",
+      "en": "Giheta",
+      "slug": "giheta-bdi006004"
+    },
+    "code": {
+      "id": "BDI006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 32
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gishubi",
+      "en": "Gishubi",
+      "slug": "gishubi-bdi006005"
+    },
+    "code": {
+      "id": "BDI006005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006006",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gitega",
+      "en": "Gitega",
+      "slug": "gitega-bdi006006"
+    },
+    "code": {
+      "id": "BDI006006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 39
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.437",
+      "lon": "29.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006007",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Itaba",
+      "en": "Itaba",
+      "slug": "itaba-bdi006007"
+    },
+    "code": {
+      "id": "BDI006007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Makebuko",
+      "en": "Makebuko",
+      "slug": "makebuko-bdi006008"
+    },
+    "code": {
+      "id": "BDI006008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006009",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mutaho",
+      "en": "Mutaho",
+      "slug": "mutaho-bdi006009"
+    },
+    "code": {
+      "id": "BDI006009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "29.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006011",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nyanrusange",
+      "en": "Nyanrusange",
+      "slug": "nyanrusange-bdi006011"
+    },
+    "code": {
+      "id": "BDI006011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.58",
+      "lon": "29.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006010",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ryansoro",
+      "en": "Ryansoro",
+      "slug": "ryansoro-bdi006010"
+    },
+    "code": {
+      "id": "BDI006010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.722",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

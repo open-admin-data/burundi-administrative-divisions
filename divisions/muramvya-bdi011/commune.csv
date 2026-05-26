@@ -1,0 +1,6 @@
+id,name.local,name.en,name.slug,code.id,children_count.colline,geo.lat,geo.lon
+BDI011001,Bukeye,Bukeye,bukeye-bdi011001,BDI011001,19,-3.183,29.619
+BDI011002,Kiganda,Kiganda,kiganda-bdi011002,BDI011002,16,-3.345,29.671
+BDI011003,Mbuye,Mbuye,mbuye-bdi011003,BDI011003,26,-3.239,29.745
+BDI011004,Muramvya,Muramvya,muramvya-bdi011004,BDI011004,22,-3.316,29.586
+BDI011005,Rutegama,Rutegama,rutegama-bdi011005,BDI011005,17,-3.312,29.739

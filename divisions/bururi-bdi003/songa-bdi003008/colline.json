@@ -1,0 +1,920 @@
+[
+  {
+    "id": "BDI003008_gahanda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gahanda",
+      "en": "Gahanda",
+      "slug": "gahanda"
+    },
+    "code": {
+      "id": "BDI003008_gahanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003008",
+      "level": 2,
+      "name": {
+        "local": "Songa",
+        "en": "Songa",
+        "slug": "songa-bdi003008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003008",
+        "level": 2,
+        "name": {
+          "local": "Songa",
+          "en": "Songa",
+          "slug": "songa-bdi003008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.845",
+      "lon": "29.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003008_jenda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Jenda",
+      "en": "Jenda",
+      "slug": "jenda"
+    },
+    "code": {
+      "id": "BDI003008_jenda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003008",
+      "level": 2,
+      "name": {
+        "local": "Songa",
+        "en": "Songa",
+        "slug": "songa-bdi003008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003008",
+        "level": 2,
+        "name": {
+          "local": "Songa",
+          "en": "Songa",
+          "slug": "songa-bdi003008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.845",
+      "lon": "29.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003008_kigabiro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigabiro",
+      "en": "Kigabiro",
+      "slug": "kigabiro"
+    },
+    "code": {
+      "id": "BDI003008_kigabiro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003008",
+      "level": 2,
+      "name": {
+        "local": "Songa",
+        "en": "Songa",
+        "slug": "songa-bdi003008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003008",
+        "level": 2,
+        "name": {
+          "local": "Songa",
+          "en": "Songa",
+          "slug": "songa-bdi003008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.845",
+      "lon": "29.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003008_kinwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinwa",
+      "en": "Kinwa",
+      "slug": "kinwa"
+    },
+    "code": {
+      "id": "BDI003008_kinwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003008",
+      "level": 2,
+      "name": {
+        "local": "Songa",
+        "en": "Songa",
+        "slug": "songa-bdi003008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003008",
+        "level": 2,
+        "name": {
+          "local": "Songa",
+          "en": "Songa",
+          "slug": "songa-bdi003008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.845",
+      "lon": "29.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003008_kiryama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiryama",
+      "en": "Kiryama",
+      "slug": "kiryama"
+    },
+    "code": {
+      "id": "BDI003008_kiryama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003008",
+      "level": 2,
+      "name": {
+        "local": "Songa",
+        "en": "Songa",
+        "slug": "songa-bdi003008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003008",
+        "level": 2,
+        "name": {
+          "local": "Songa",
+          "en": "Songa",
+          "slug": "songa-bdi003008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.845",
+      "lon": "29.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003008_muheka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muheka",
+      "en": "Muheka",
+      "slug": "muheka"
+    },
+    "code": {
+      "id": "BDI003008_muheka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003008",
+      "level": 2,
+      "name": {
+        "local": "Songa",
+        "en": "Songa",
+        "slug": "songa-bdi003008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003008",
+        "level": 2,
+        "name": {
+          "local": "Songa",
+          "en": "Songa",
+          "slug": "songa-bdi003008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.845",
+      "lon": "29.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003008_musenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musenyi",
+      "en": "Musenyi",
+      "slug": "musenyi"
+    },
+    "code": {
+      "id": "BDI003008_musenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003008",
+      "level": 2,
+      "name": {
+        "local": "Songa",
+        "en": "Songa",
+        "slug": "songa-bdi003008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003008",
+        "level": 2,
+        "name": {
+          "local": "Songa",
+          "en": "Songa",
+          "slug": "songa-bdi003008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.845",
+      "lon": "29.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003008_mutsinda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mutsinda",
+      "en": "Mutsinda",
+      "slug": "mutsinda"
+    },
+    "code": {
+      "id": "BDI003008_mutsinda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003008",
+      "level": 2,
+      "name": {
+        "local": "Songa",
+        "en": "Songa",
+        "slug": "songa-bdi003008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003008",
+        "level": 2,
+        "name": {
+          "local": "Songa",
+          "en": "Songa",
+          "slug": "songa-bdi003008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.845",
+      "lon": "29.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003008_muzamba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muzamba",
+      "en": "Muzamba",
+      "slug": "muzamba"
+    },
+    "code": {
+      "id": "BDI003008_muzamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003008",
+      "level": 2,
+      "name": {
+        "local": "Songa",
+        "en": "Songa",
+        "slug": "songa-bdi003008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003008",
+        "level": 2,
+        "name": {
+          "local": "Songa",
+          "en": "Songa",
+          "slug": "songa-bdi003008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.845",
+      "lon": "29.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003008_ndago",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ndago",
+      "en": "Ndago",
+      "slug": "ndago"
+    },
+    "code": {
+      "id": "BDI003008_ndago",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003008",
+      "level": 2,
+      "name": {
+        "local": "Songa",
+        "en": "Songa",
+        "slug": "songa-bdi003008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003008",
+        "level": 2,
+        "name": {
+          "local": "Songa",
+          "en": "Songa",
+          "slug": "songa-bdi003008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.845",
+      "lon": "29.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003008_rusama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusama",
+      "en": "Rusama",
+      "slug": "rusama"
+    },
+    "code": {
+      "id": "BDI003008_rusama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003008",
+      "level": 2,
+      "name": {
+        "local": "Songa",
+        "en": "Songa",
+        "slug": "songa-bdi003008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003008",
+        "level": 2,
+        "name": {
+          "local": "Songa",
+          "en": "Songa",
+          "slug": "songa-bdi003008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.845",
+      "lon": "29.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003008_rutundwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutundwe",
+      "en": "Rutundwe",
+      "slug": "rutundwe"
+    },
+    "code": {
+      "id": "BDI003008_rutundwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003008",
+      "level": 2,
+      "name": {
+        "local": "Songa",
+        "en": "Songa",
+        "slug": "songa-bdi003008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003008",
+        "level": 2,
+        "name": {
+          "local": "Songa",
+          "en": "Songa",
+          "slug": "songa-bdi003008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.845",
+      "lon": "29.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003008_rwego",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwego",
+      "en": "Rwego",
+      "slug": "rwego"
+    },
+    "code": {
+      "id": "BDI003008_rwego",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003008",
+      "level": 2,
+      "name": {
+        "local": "Songa",
+        "en": "Songa",
+        "slug": "songa-bdi003008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003008",
+        "level": 2,
+        "name": {
+          "local": "Songa",
+          "en": "Songa",
+          "slug": "songa-bdi003008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.845",
+      "lon": "29.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003008_songa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Songa",
+      "en": "Songa",
+      "slug": "songa"
+    },
+    "code": {
+      "id": "BDI003008_songa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003008",
+      "level": 2,
+      "name": {
+        "local": "Songa",
+        "en": "Songa",
+        "slug": "songa-bdi003008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003008",
+        "level": 2,
+        "name": {
+          "local": "Songa",
+          "en": "Songa",
+          "slug": "songa-bdi003008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.845",
+      "lon": "29.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003008_taba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Taba",
+      "en": "Taba",
+      "slug": "taba"
+    },
+    "code": {
+      "id": "BDI003008_taba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003008",
+      "level": 2,
+      "name": {
+        "local": "Songa",
+        "en": "Songa",
+        "slug": "songa-bdi003008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003008",
+        "level": 2,
+        "name": {
+          "local": "Songa",
+          "en": "Songa",
+          "slug": "songa-bdi003008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.845",
+      "lon": "29.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003008_tara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Tara",
+      "en": "Tara",
+      "slug": "tara"
+    },
+    "code": {
+      "id": "BDI003008_tara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003008",
+      "level": 2,
+      "name": {
+        "local": "Songa",
+        "en": "Songa",
+        "slug": "songa-bdi003008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003008",
+        "level": 2,
+        "name": {
+          "local": "Songa",
+          "en": "Songa",
+          "slug": "songa-bdi003008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.845",
+      "lon": "29.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003008_yengero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Yengero",
+      "en": "Yengero",
+      "slug": "yengero"
+    },
+    "code": {
+      "id": "BDI003008_yengero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003008",
+      "level": 2,
+      "name": {
+        "local": "Songa",
+        "en": "Songa",
+        "slug": "songa-bdi003008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003008",
+        "level": 2,
+        "name": {
+          "local": "Songa",
+          "en": "Songa",
+          "slug": "songa-bdi003008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.845",
+      "lon": "29.677"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

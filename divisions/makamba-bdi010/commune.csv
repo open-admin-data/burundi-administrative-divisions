@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.colline,geo.lat,geo.lon
+BDI010001,Kayogoro,Kayogoro,kayogoro-bdi010001,BDI010001,30,-4.163,29.991
+BDI010002,Kibago,Kibago,kibago-bdi010002,BDI010002,13,-4.288,29.908
+BDI010003,Mabanda,Mabanda,mabanda-bdi010003,BDI010003,19,-4.322,29.769
+BDI010004,Makamba,Makamba,makamba-bdi010004,BDI010004,32,-4.112,29.831
+BDI010005,Nyanza-Lac,Nyanza-Lac,nyanza-lac-bdi010005,BDI010005,27,-4.308,29.655
+BDI010006,Vugizo,Vugizo,vugizo-bdi010006,BDI010006,21,-4.162,29.652

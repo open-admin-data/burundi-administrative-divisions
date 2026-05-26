@@ -1,0 +1,974 @@
+[
+  {
+    "id": "BDI006009_bigera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bigera",
+      "en": "Bigera",
+      "slug": "bigera"
+    },
+    "code": {
+      "id": "BDI006009_bigera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006009",
+      "level": 2,
+      "name": {
+        "local": "Mutaho",
+        "en": "Mutaho",
+        "slug": "mutaho-bdi006009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006009",
+        "level": 2,
+        "name": {
+          "local": "Mutaho",
+          "en": "Mutaho",
+          "slug": "mutaho-bdi006009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "29.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006009_gerangabo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gerangabo",
+      "en": "Gerangabo",
+      "slug": "gerangabo"
+    },
+    "code": {
+      "id": "BDI006009_gerangabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006009",
+      "level": 2,
+      "name": {
+        "local": "Mutaho",
+        "en": "Mutaho",
+        "slug": "mutaho-bdi006009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006009",
+        "level": 2,
+        "name": {
+          "local": "Mutaho",
+          "en": "Mutaho",
+          "slug": "mutaho-bdi006009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "29.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006009_gitongo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitongo",
+      "en": "Gitongo",
+      "slug": "gitongo"
+    },
+    "code": {
+      "id": "BDI006009_gitongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006009",
+      "level": 2,
+      "name": {
+        "local": "Mutaho",
+        "en": "Mutaho",
+        "slug": "mutaho-bdi006009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006009",
+        "level": 2,
+        "name": {
+          "local": "Mutaho",
+          "en": "Mutaho",
+          "slug": "mutaho-bdi006009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "29.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006009_kidasha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kidasha",
+      "en": "Kidasha",
+      "slug": "kidasha"
+    },
+    "code": {
+      "id": "BDI006009_kidasha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006009",
+      "level": 2,
+      "name": {
+        "local": "Mutaho",
+        "en": "Mutaho",
+        "slug": "mutaho-bdi006009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006009",
+        "level": 2,
+        "name": {
+          "local": "Mutaho",
+          "en": "Mutaho",
+          "slug": "mutaho-bdi006009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "29.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006009_kinyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinyinya",
+      "en": "Kinyinya",
+      "slug": "kinyinya"
+    },
+    "code": {
+      "id": "BDI006009_kinyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006009",
+      "level": 2,
+      "name": {
+        "local": "Mutaho",
+        "en": "Mutaho",
+        "slug": "mutaho-bdi006009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006009",
+        "level": 2,
+        "name": {
+          "local": "Mutaho",
+          "en": "Mutaho",
+          "slug": "mutaho-bdi006009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "29.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006009_kivoga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivoga",
+      "en": "Kivoga",
+      "slug": "kivoga"
+    },
+    "code": {
+      "id": "BDI006009_kivoga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006009",
+      "level": 2,
+      "name": {
+        "local": "Mutaho",
+        "en": "Mutaho",
+        "slug": "mutaho-bdi006009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006009",
+        "level": 2,
+        "name": {
+          "local": "Mutaho",
+          "en": "Mutaho",
+          "slug": "mutaho-bdi006009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "29.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006009_masango",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masango",
+      "en": "Masango",
+      "slug": "masango"
+    },
+    "code": {
+      "id": "BDI006009_masango",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006009",
+      "level": 2,
+      "name": {
+        "local": "Mutaho",
+        "en": "Mutaho",
+        "slug": "mutaho-bdi006009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006009",
+        "level": 2,
+        "name": {
+          "local": "Mutaho",
+          "en": "Mutaho",
+          "slug": "mutaho-bdi006009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "29.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006009_muririmbo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muririmbo",
+      "en": "Muririmbo",
+      "slug": "muririmbo"
+    },
+    "code": {
+      "id": "BDI006009_muririmbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006009",
+      "level": 2,
+      "name": {
+        "local": "Mutaho",
+        "en": "Mutaho",
+        "slug": "mutaho-bdi006009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006009",
+        "level": 2,
+        "name": {
+          "local": "Mutaho",
+          "en": "Mutaho",
+          "slug": "mutaho-bdi006009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "29.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006009_mutaho-rural",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mutaho Rural",
+      "en": "Mutaho Rural",
+      "slug": "mutaho-rural"
+    },
+    "code": {
+      "id": "BDI006009_mutaho-rural",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006009",
+      "level": 2,
+      "name": {
+        "local": "Mutaho",
+        "en": "Mutaho",
+        "slug": "mutaho-bdi006009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006009",
+        "level": 2,
+        "name": {
+          "local": "Mutaho",
+          "en": "Mutaho",
+          "slug": "mutaho-bdi006009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "29.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006009_mutaho-urbain",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mutaho Urbain",
+      "en": "Mutaho Urbain",
+      "slug": "mutaho-urbain"
+    },
+    "code": {
+      "id": "BDI006009_mutaho-urbain",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006009",
+      "level": 2,
+      "name": {
+        "local": "Mutaho",
+        "en": "Mutaho",
+        "slug": "mutaho-bdi006009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006009",
+        "level": 2,
+        "name": {
+          "local": "Mutaho",
+          "en": "Mutaho",
+          "slug": "mutaho-bdi006009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "29.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006009_muyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyange",
+      "en": "Muyange",
+      "slug": "muyange"
+    },
+    "code": {
+      "id": "BDI006009_muyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006009",
+      "level": 2,
+      "name": {
+        "local": "Mutaho",
+        "en": "Mutaho",
+        "slug": "mutaho-bdi006009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006009",
+        "level": 2,
+        "name": {
+          "local": "Mutaho",
+          "en": "Mutaho",
+          "slug": "mutaho-bdi006009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "29.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006009_muzenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muzenga",
+      "en": "Muzenga",
+      "slug": "muzenga"
+    },
+    "code": {
+      "id": "BDI006009_muzenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006009",
+      "level": 2,
+      "name": {
+        "local": "Mutaho",
+        "en": "Mutaho",
+        "slug": "mutaho-bdi006009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006009",
+        "level": 2,
+        "name": {
+          "local": "Mutaho",
+          "en": "Mutaho",
+          "slug": "mutaho-bdi006009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "29.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006009_mwumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwumba",
+      "en": "Mwumba",
+      "slug": "mwumba"
+    },
+    "code": {
+      "id": "BDI006009_mwumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006009",
+      "level": 2,
+      "name": {
+        "local": "Mutaho",
+        "en": "Mutaho",
+        "slug": "mutaho-bdi006009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006009",
+        "level": 2,
+        "name": {
+          "local": "Mutaho",
+          "en": "Mutaho",
+          "slug": "mutaho-bdi006009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "29.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006009_ngoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngoma",
+      "en": "Ngoma",
+      "slug": "ngoma"
+    },
+    "code": {
+      "id": "BDI006009_ngoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006009",
+      "level": 2,
+      "name": {
+        "local": "Mutaho",
+        "en": "Mutaho",
+        "slug": "mutaho-bdi006009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006009",
+        "level": 2,
+        "name": {
+          "local": "Mutaho",
+          "en": "Mutaho",
+          "slug": "mutaho-bdi006009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "29.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006009_nkongwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nkongwe",
+      "en": "Nkongwe",
+      "slug": "nkongwe"
+    },
+    "code": {
+      "id": "BDI006009_nkongwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006009",
+      "level": 2,
+      "name": {
+        "local": "Mutaho",
+        "en": "Mutaho",
+        "slug": "mutaho-bdi006009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006009",
+        "level": 2,
+        "name": {
+          "local": "Mutaho",
+          "en": "Mutaho",
+          "slug": "mutaho-bdi006009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "29.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006009_nyabisaka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabisaka",
+      "en": "Nyabisaka",
+      "slug": "nyabisaka"
+    },
+    "code": {
+      "id": "BDI006009_nyabisaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006009",
+      "level": 2,
+      "name": {
+        "local": "Mutaho",
+        "en": "Mutaho",
+        "slug": "mutaho-bdi006009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006009",
+        "level": 2,
+        "name": {
+          "local": "Mutaho",
+          "en": "Mutaho",
+          "slug": "mutaho-bdi006009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "29.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006009_nyangungu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyangungu",
+      "en": "Nyangungu",
+      "slug": "nyangungu"
+    },
+    "code": {
+      "id": "BDI006009_nyangungu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006009",
+      "level": 2,
+      "name": {
+        "local": "Mutaho",
+        "en": "Mutaho",
+        "slug": "mutaho-bdi006009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006009",
+        "level": 2,
+        "name": {
+          "local": "Mutaho",
+          "en": "Mutaho",
+          "slug": "mutaho-bdi006009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "29.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006009_nzove",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nzove",
+      "en": "Nzove",
+      "slug": "nzove"
+    },
+    "code": {
+      "id": "BDI006009_nzove",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006009",
+      "level": 2,
+      "name": {
+        "local": "Mutaho",
+        "en": "Mutaho",
+        "slug": "mutaho-bdi006009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006009",
+        "level": 2,
+        "name": {
+          "local": "Mutaho",
+          "en": "Mutaho",
+          "slug": "mutaho-bdi006009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "29.874"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

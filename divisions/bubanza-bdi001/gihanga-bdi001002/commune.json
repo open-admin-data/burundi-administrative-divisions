@@ -1,0 +1,47 @@
+{
+  "id": "BDI001002",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Gihanga",
+    "en": "Gihanga",
+    "slug": "gihanga-bdi001002"
+  },
+  "code": {
+    "id": "BDI001002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI001",
+    "level": 1,
+    "name": {
+      "local": "Bubanza",
+      "en": "Bubanza",
+      "slug": "bubanza-bdi001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI001",
+      "level": 1,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.207",
+    "lon": "29.296"
+  },
+  "metadata": {},
+  "source": {}
+}

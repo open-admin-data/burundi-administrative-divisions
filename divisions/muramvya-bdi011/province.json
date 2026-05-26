@@ -1,0 +1,30 @@
+{
+  "id": "BDI011",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Muramvya",
+    "en": "Muramvya",
+    "slug": "muramvya-bdi011"
+  },
+  "code": {
+    "id": "BDI011",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 5,
+    "colline": 100
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.266",
+    "lon": "29.653"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,1838 @@
+[
+  {
+    "id": "BDI014001_bigera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bigera",
+      "en": "Bigera",
+      "slug": "bigera"
+    },
+    "code": {
+      "id": "BDI014001_bigera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_bitambwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bitambwe",
+      "en": "Bitambwe",
+      "slug": "bitambwe"
+    },
+    "code": {
+      "id": "BDI014001_bitambwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_busiga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Busiga",
+      "en": "Busiga",
+      "slug": "busiga"
+    },
+    "code": {
+      "id": "BDI014001_busiga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_caga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Caga",
+      "en": "Caga",
+      "slug": "caga"
+    },
+    "code": {
+      "id": "BDI014001_caga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_cendajuru",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cendajuru",
+      "en": "Cendajuru",
+      "slug": "cendajuru"
+    },
+    "code": {
+      "id": "BDI014001_cendajuru",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_gahini",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gahini",
+      "en": "Gahini",
+      "slug": "gahini"
+    },
+    "code": {
+      "id": "BDI014001_gahini",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_gatemezi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatemezi",
+      "en": "Gatemezi",
+      "slug": "gatemezi"
+    },
+    "code": {
+      "id": "BDI014001_gatemezi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_gatika",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatika",
+      "en": "Gatika",
+      "slug": "gatika"
+    },
+    "code": {
+      "id": "BDI014001_gatika",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_kavumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kavumu",
+      "en": "Kavumu",
+      "slug": "kavumu"
+    },
+    "code": {
+      "id": "BDI014001_kavumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_kididiri",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kididiri",
+      "en": "Kididiri",
+      "slug": "kididiri"
+    },
+    "code": {
+      "id": "BDI014001_kididiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_kigufi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigufi",
+      "en": "Kigufi",
+      "slug": "kigufi"
+    },
+    "code": {
+      "id": "BDI014001_kigufi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_kimagara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kimagara",
+      "en": "Kimagara",
+      "slug": "kimagara"
+    },
+    "code": {
+      "id": "BDI014001_kimagara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_kinyami",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinyami",
+      "en": "Kinyami",
+      "slug": "kinyami"
+    },
+    "code": {
+      "id": "BDI014001_kinyami",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_kirimba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirimba",
+      "en": "Kirimba",
+      "slug": "kirimba"
+    },
+    "code": {
+      "id": "BDI014001_kirimba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_magana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Magana",
+      "en": "Magana",
+      "slug": "magana"
+    },
+    "code": {
+      "id": "BDI014001_magana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_makombe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Makombe",
+      "en": "Makombe",
+      "slug": "makombe"
+    },
+    "code": {
+      "id": "BDI014001_makombe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_mihama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mihama",
+      "en": "Mihama",
+      "slug": "mihama"
+    },
+    "code": {
+      "id": "BDI014001_mihama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_mihigo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mihigo",
+      "en": "Mihigo",
+      "slug": "mihigo"
+    },
+    "code": {
+      "id": "BDI014001_mihigo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_mparamirundi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mparamirundi",
+      "en": "Mparamirundi",
+      "slug": "mparamirundi"
+    },
+    "code": {
+      "id": "BDI014001_mparamirundi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_mpondogoto",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mpondogoto",
+      "en": "Mpondogoto",
+      "slug": "mpondogoto"
+    },
+    "code": {
+      "id": "BDI014001_mpondogoto",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_munyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munyange",
+      "en": "Munyange",
+      "slug": "munyange"
+    },
+    "code": {
+      "id": "BDI014001_munyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_murambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murambi",
+      "en": "Murambi",
+      "slug": "murambi"
+    },
+    "code": {
+      "id": "BDI014001_murambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_muremera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muremera",
+      "en": "Muremera",
+      "slug": "muremera"
+    },
+    "code": {
+      "id": "BDI014001_muremera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_mutsinda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mutsinda",
+      "en": "Mutsinda",
+      "slug": "mutsinda"
+    },
+    "code": {
+      "id": "BDI014001_mutsinda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_mutumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mutumba",
+      "en": "Mutumba",
+      "slug": "mutumba"
+    },
+    "code": {
+      "id": "BDI014001_mutumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_muyogoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyogoro",
+      "en": "Muyogoro",
+      "slug": "muyogoro"
+    },
+    "code": {
+      "id": "BDI014001_muyogoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_nyabizinu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabizinu",
+      "en": "Nyabizinu",
+      "slug": "nyabizinu"
+    },
+    "code": {
+      "id": "BDI014001_nyabizinu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_nyamisebo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamisebo",
+      "en": "Nyamisebo",
+      "slug": "nyamisebo"
+    },
+    "code": {
+      "id": "BDI014001_nyamisebo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_nyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyange",
+      "en": "Nyange",
+      "slug": "nyange"
+    },
+    "code": {
+      "id": "BDI014001_nyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_nyanza-tubiri",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyanza Tubiri",
+      "en": "Nyanza Tubiri",
+      "slug": "nyanza-tubiri"
+    },
+    "code": {
+      "id": "BDI014001_nyanza-tubiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_rubari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubari",
+      "en": "Rubari",
+      "slug": "rubari"
+    },
+    "code": {
+      "id": "BDI014001_rubari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_rugori",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugori",
+      "en": "Rugori",
+      "slug": "rugori"
+    },
+    "code": {
+      "id": "BDI014001_rugori",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_rumbaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rumbaga",
+      "en": "Rumbaga",
+      "slug": "rumbaga"
+    },
+    "code": {
+      "id": "BDI014001_rumbaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001_rwanyege",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwanyege",
+      "en": "Rwanyege",
+      "slug": "rwanyege"
+    },
+    "code": {
+      "id": "BDI014001_rwanyege",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014001",
+      "level": 2,
+      "name": {
+        "local": "Busiga",
+        "en": "Busiga",
+        "slug": "busiga-bdi014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014001",
+        "level": 2,
+        "name": {
+          "local": "Busiga",
+          "en": "Busiga",
+          "slug": "busiga-bdi014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

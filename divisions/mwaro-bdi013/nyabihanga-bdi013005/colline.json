@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "BDI013005_buhogo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhogo",
+      "en": "Buhogo",
+      "slug": "buhogo"
+    },
+    "code": {
+      "id": "BDI013005_buhogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_butegeye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butegeye",
+      "en": "Butegeye",
+      "slug": "butegeye"
+    },
+    "code": {
+      "id": "BDI013005_butegeye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_gatwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatwe",
+      "en": "Gatwe",
+      "slug": "gatwe"
+    },
+    "code": {
+      "id": "BDI013005_gatwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_gihoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gihoma",
+      "en": "Gihoma",
+      "slug": "gihoma"
+    },
+    "code": {
+      "id": "BDI013005_gihoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_gisirtye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisirtye",
+      "en": "Gisirtye",
+      "slug": "gisirtye"
+    },
+    "code": {
+      "id": "BDI013005_gisirtye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_gitaramuka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitaramuka",
+      "en": "Gitaramuka",
+      "slug": "gitaramuka"
+    },
+    "code": {
+      "id": "BDI013005_gitaramuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_iteka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Iteka",
+      "en": "Iteka",
+      "slug": "iteka"
+    },
+    "code": {
+      "id": "BDI013005_iteka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_kavumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kavumu",
+      "en": "Kavumu",
+      "slug": "kavumu"
+    },
+    "code": {
+      "id": "BDI013005_kavumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_kibogoye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibogoye",
+      "en": "Kibogoye",
+      "slug": "kibogoye"
+    },
+    "code": {
+      "id": "BDI013005_kibogoye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_kibungere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibungere",
+      "en": "Kibungere",
+      "slug": "kibungere"
+    },
+    "code": {
+      "id": "BDI013005_kibungere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_kibungo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibungo",
+      "en": "Kibungo",
+      "slug": "kibungo"
+    },
+    "code": {
+      "id": "BDI013005_kibungo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_kirambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirambi",
+      "en": "Kirambi",
+      "slug": "kirambi"
+    },
+    "code": {
+      "id": "BDI013005_kirambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_kivomwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivomwa",
+      "en": "Kivomwa",
+      "slug": "kivomwa"
+    },
+    "code": {
+      "id": "BDI013005_kivomwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_kivuzo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivuzo",
+      "en": "Kivuzo",
+      "slug": "kivuzo"
+    },
+    "code": {
+      "id": "BDI013005_kivuzo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_magamba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Magamba",
+      "en": "Magamba",
+      "slug": "magamba"
+    },
+    "code": {
+      "id": "BDI013005_magamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_martyazo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Martyazo",
+      "en": "Martyazo",
+      "slug": "martyazo"
+    },
+    "code": {
+      "id": "BDI013005_martyazo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_mbogora",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mbogora",
+      "en": "Mbogora",
+      "slug": "mbogora"
+    },
+    "code": {
+      "id": "BDI013005_mbogora",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_migera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Migera",
+      "en": "Migera",
+      "slug": "migera"
+    },
+    "code": {
+      "id": "BDI013005_migera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_miterama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Miterama",
+      "en": "Miterama",
+      "slug": "miterama"
+    },
+    "code": {
+      "id": "BDI013005_miterama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_mubuga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mubuga",
+      "en": "Mubuga",
+      "slug": "mubuga"
+    },
+    "code": {
+      "id": "BDI013005_mubuga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_muhaganya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muhaganya",
+      "en": "Muhaganya",
+      "slug": "muhaganya"
+    },
+    "code": {
+      "id": "BDI013005_muhaganya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_munago",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munago",
+      "en": "Munago",
+      "slug": "munago"
+    },
+    "code": {
+      "id": "BDI013005_munago",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_murama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murama",
+      "en": "Murama",
+      "slug": "murama"
+    },
+    "code": {
+      "id": "BDI013005_murama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_musongati",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musongati",
+      "en": "Musongati",
+      "slug": "musongati"
+    },
+    "code": {
+      "id": "BDI013005_musongati",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_muyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyange",
+      "en": "Muyange",
+      "slug": "muyange"
+    },
+    "code": {
+      "id": "BDI013005_muyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_muyebe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyebe",
+      "en": "Muyebe",
+      "slug": "muyebe"
+    },
+    "code": {
+      "id": "BDI013005_muyebe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_nyabihanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabihanga",
+      "en": "Nyabihanga",
+      "slug": "nyabihanga"
+    },
+    "code": {
+      "id": "BDI013005_nyabihanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_nyamitobo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamitobo",
+      "en": "Nyamitobo",
+      "slug": "nyamitobo"
+    },
+    "code": {
+      "id": "BDI013005_nyamitobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_nyarubayi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarubayi",
+      "en": "Nyarubayi",
+      "slug": "nyarubayi"
+    },
+    "code": {
+      "id": "BDI013005_nyarubayi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005_taba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Taba",
+      "en": "Taba",
+      "slug": "taba"
+    },
+    "code": {
+      "id": "BDI013005_taba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013005",
+      "level": 2,
+      "name": {
+        "local": "Nyabihanga",
+        "en": "Nyabihanga",
+        "slug": "nyabihanga-bdi013005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013005",
+        "level": 2,
+        "name": {
+          "local": "Nyabihanga",
+          "en": "Nyabihanga",
+          "slug": "nyabihanga-bdi013005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

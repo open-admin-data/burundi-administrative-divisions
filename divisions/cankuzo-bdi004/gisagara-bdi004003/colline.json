@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "BDI004003_bumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bumba",
+      "en": "Bumba",
+      "slug": "bumba"
+    },
+    "code": {
+      "id": "BDI004003_bumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003_bunyerere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bunyerere",
+      "en": "Bunyerere",
+      "slug": "bunyerere"
+    },
+    "code": {
+      "id": "BDI004003_bunyerere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003_camazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Camazi",
+      "en": "Camazi",
+      "slug": "camazi"
+    },
+    "code": {
+      "id": "BDI004003_camazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003_gerero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gerero",
+      "en": "Gerero",
+      "slug": "gerero"
+    },
+    "code": {
+      "id": "BDI004003_gerero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003_gisagara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisagara",
+      "en": "Gisagara",
+      "slug": "gisagara"
+    },
+    "code": {
+      "id": "BDI004003_gisagara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003_gisoko",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisoko",
+      "en": "Gisoko",
+      "slug": "gisoko"
+    },
+    "code": {
+      "id": "BDI004003_gisoko",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003_gitanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitanga",
+      "en": "Gitanga",
+      "slug": "gitanga"
+    },
+    "code": {
+      "id": "BDI004003_gitanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003_gitwenge",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitwenge",
+      "en": "Gitwenge",
+      "slug": "gitwenge"
+    },
+    "code": {
+      "id": "BDI004003_gitwenge",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003_kagoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kagoma",
+      "en": "Kagoma",
+      "slug": "kagoma"
+    },
+    "code": {
+      "id": "BDI004003_kagoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003_kibogoye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibogoye",
+      "en": "Kibogoye",
+      "slug": "kibogoye"
+    },
+    "code": {
+      "id": "BDI004003_kibogoye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003_kigati",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigati",
+      "en": "Kigati",
+      "slug": "kigati"
+    },
+    "code": {
+      "id": "BDI004003_kigati",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003_kirambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirambi",
+      "en": "Kirambi",
+      "slug": "kirambi"
+    },
+    "code": {
+      "id": "BDI004003_kirambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003_mburi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mburi",
+      "en": "Mburi",
+      "slug": "mburi"
+    },
+    "code": {
+      "id": "BDI004003_mburi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003_muganza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muganza",
+      "en": "Muganza",
+      "slug": "muganza"
+    },
+    "code": {
+      "id": "BDI004003_muganza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003_muhingamo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muhingamo",
+      "en": "Muhingamo",
+      "slug": "muhingamo"
+    },
+    "code": {
+      "id": "BDI004003_muhingamo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003_murago",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murago",
+      "en": "Murago",
+      "slug": "murago"
+    },
+    "code": {
+      "id": "BDI004003_murago",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003_muzire",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muzire",
+      "en": "Muzire",
+      "slug": "muzire"
+    },
+    "code": {
+      "id": "BDI004003_muzire",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003_nkoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nkoro",
+      "en": "Nkoro",
+      "slug": "nkoro"
+    },
+    "code": {
+      "id": "BDI004003_nkoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003_nyuro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyuro",
+      "en": "Nyuro",
+      "slug": "nyuro"
+    },
+    "code": {
+      "id": "BDI004003_nyuro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003_rabiro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rabiro",
+      "en": "Rabiro",
+      "slug": "rabiro"
+    },
+    "code": {
+      "id": "BDI004003_rabiro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003_ramba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ramba",
+      "en": "Ramba",
+      "slug": "ramba"
+    },
+    "code": {
+      "id": "BDI004003_ramba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003_rubabara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubabara",
+      "en": "Rubabara",
+      "slug": "rubabara"
+    },
+    "code": {
+      "id": "BDI004003_rubabara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003_ruramba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruramba",
+      "en": "Ruramba",
+      "slug": "ruramba"
+    },
+    "code": {
+      "id": "BDI004003_ruramba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004003",
+      "level": 2,
+      "name": {
+        "local": "Gisagara",
+        "en": "Gisagara",
+        "slug": "gisagara-bdi004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004003",
+        "level": 2,
+        "name": {
+          "local": "Gisagara",
+          "en": "Gisagara",
+          "slug": "gisagara-bdi004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

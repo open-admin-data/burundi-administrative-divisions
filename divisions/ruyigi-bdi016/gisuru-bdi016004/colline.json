@@ -1,0 +1,2324 @@
+[
+  {
+    "id": "BDI016004_bugama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugama",
+      "en": "Bugama",
+      "slug": "bugama"
+    },
+    "code": {
+      "id": "BDI016004_bugama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_bunyambo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bunyambo",
+      "en": "Bunyambo",
+      "slug": "bunyambo"
+    },
+    "code": {
+      "id": "BDI016004_bunyambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_butarangira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butarangira",
+      "en": "Butarangira",
+      "slug": "butarangira"
+    },
+    "code": {
+      "id": "BDI016004_butarangira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_caga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Caga",
+      "en": "Caga",
+      "slug": "caga"
+    },
+    "code": {
+      "id": "BDI016004_caga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_gacokwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gacokwe",
+      "en": "Gacokwe",
+      "slug": "gacokwe"
+    },
+    "code": {
+      "id": "BDI016004_gacokwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_gahinga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gahinga",
+      "en": "Gahinga",
+      "slug": "gahinga"
+    },
+    "code": {
+      "id": "BDI016004_gahinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_gakangaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gakangaga",
+      "en": "Gakangaga",
+      "slug": "gakangaga"
+    },
+    "code": {
+      "id": "BDI016004_gakangaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_gisuru",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisuru",
+      "en": "Gisuru",
+      "slug": "gisuru"
+    },
+    "code": {
+      "id": "BDI016004_gisuru",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_itaba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Itaba",
+      "en": "Itaba",
+      "slug": "itaba"
+    },
+    "code": {
+      "id": "BDI016004_itaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_itahe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Itahe",
+      "en": "Itahe",
+      "slug": "itahe"
+    },
+    "code": {
+      "id": "BDI016004_itahe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_iteka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Iteka",
+      "en": "Iteka",
+      "slug": "iteka"
+    },
+    "code": {
+      "id": "BDI016004_iteka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_iyogero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Iyogero",
+      "en": "Iyogero",
+      "slug": "iyogero"
+    },
+    "code": {
+      "id": "BDI016004_iyogero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_kabingo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabingo",
+      "en": "Kabingo",
+      "slug": "kabingo"
+    },
+    "code": {
+      "id": "BDI016004_kabingo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_kabuyenge",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabuyenge",
+      "en": "Kabuyenge",
+      "slug": "kabuyenge"
+    },
+    "code": {
+      "id": "BDI016004_kabuyenge",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_kavumwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kavumwe",
+      "en": "Kavumwe",
+      "slug": "kavumwe"
+    },
+    "code": {
+      "id": "BDI016004_kavumwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_kigamba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigamba",
+      "en": "Kigamba",
+      "slug": "kigamba"
+    },
+    "code": {
+      "id": "BDI016004_kigamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_kinama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinama",
+      "en": "Kinama",
+      "slug": "kinama"
+    },
+    "code": {
+      "id": "BDI016004_kinama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_kinanira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinanira",
+      "en": "Kinanira",
+      "slug": "kinanira"
+    },
+    "code": {
+      "id": "BDI016004_kinanira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_kireka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kireka",
+      "en": "Kireka",
+      "slug": "kireka"
+    },
+    "code": {
+      "id": "BDI016004_kireka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_migende",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Migende",
+      "en": "Migende",
+      "slug": "migende"
+    },
+    "code": {
+      "id": "BDI016004_migende",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_muhindo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muhindo",
+      "en": "Muhindo",
+      "slug": "muhindo"
+    },
+    "code": {
+      "id": "BDI016004_muhindo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_munyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munyinya",
+      "en": "Munyinya",
+      "slug": "munyinya"
+    },
+    "code": {
+      "id": "BDI016004_munyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_murehe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murehe",
+      "en": "Murehe",
+      "slug": "murehe"
+    },
+    "code": {
+      "id": "BDI016004_murehe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_musha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musha",
+      "en": "Musha",
+      "slug": "musha"
+    },
+    "code": {
+      "id": "BDI016004_musha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_muvumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muvumu",
+      "en": "Muvumu",
+      "slug": "muvumu"
+    },
+    "code": {
+      "id": "BDI016004_muvumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_mwegereza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwegereza",
+      "en": "Mwegereza",
+      "slug": "mwegereza"
+    },
+    "code": {
+      "id": "BDI016004_mwegereza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_ndemeka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ndemeka",
+      "en": "Ndemeka",
+      "slug": "ndemeka"
+    },
+    "code": {
+      "id": "BDI016004_ndemeka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_nkurubuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nkurubuye",
+      "en": "Nkurubuye",
+      "slug": "nkurubuye"
+    },
+    "code": {
+      "id": "BDI016004_nkurubuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_ntende",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ntende",
+      "en": "Ntende",
+      "slug": "ntende"
+    },
+    "code": {
+      "id": "BDI016004_ntende",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_nyabigabiro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabigabiro",
+      "en": "Nyabigabiro",
+      "slug": "nyabigabiro"
+    },
+    "code": {
+      "id": "BDI016004_nyabigabiro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_nyabigozi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabigozi",
+      "en": "Nyabigozi",
+      "slug": "nyabigozi"
+    },
+    "code": {
+      "id": "BDI016004_nyabigozi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_nyabitaka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabitaka",
+      "en": "Nyabitaka",
+      "slug": "nyabitaka"
+    },
+    "code": {
+      "id": "BDI016004_nyabitaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_nyabitare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabitare",
+      "en": "Nyabitare",
+      "slug": "nyabitare"
+    },
+    "code": {
+      "id": "BDI016004_nyabitare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_nyakirunga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakirunga",
+      "en": "Nyakirunga",
+      "slug": "nyakirunga"
+    },
+    "code": {
+      "id": "BDI016004_nyakirunga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_nyakivumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakivumu",
+      "en": "Nyakivumu",
+      "slug": "nyakivumu"
+    },
+    "code": {
+      "id": "BDI016004_nyakivumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_nyarumanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarumanga",
+      "en": "Nyarumanga",
+      "slug": "nyarumanga"
+    },
+    "code": {
+      "id": "BDI016004_nyarumanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_rubanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubanga",
+      "en": "Rubanga",
+      "slug": "rubanga"
+    },
+    "code": {
+      "id": "BDI016004_rubanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_ruhuni",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhuni",
+      "en": "Ruhuni",
+      "slug": "ruhuni"
+    },
+    "code": {
+      "id": "BDI016004_ruhuni",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_rukobe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rukobe",
+      "en": "Rukobe",
+      "slug": "rukobe"
+    },
+    "code": {
+      "id": "BDI016004_rukobe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_rusange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusange",
+      "en": "Rusange",
+      "slug": "rusange"
+    },
+    "code": {
+      "id": "BDI016004_rusange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_rutonde",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutonde",
+      "en": "Rutonde",
+      "slug": "rutonde"
+    },
+    "code": {
+      "id": "BDI016004_rutonde",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_ruyaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruyaga",
+      "en": "Ruyaga",
+      "slug": "ruyaga"
+    },
+    "code": {
+      "id": "BDI016004_ruyaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004_rwerambere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwerambere",
+      "en": "Rwerambere",
+      "slug": "rwerambere"
+    },
+    "code": {
+      "id": "BDI016004_rwerambere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016004",
+      "level": 2,
+      "name": {
+        "local": "Gisuru",
+        "en": "Gisuru",
+        "slug": "gisuru-bdi016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016004",
+        "level": 2,
+        "name": {
+          "local": "Gisuru",
+          "en": "Gisuru",
+          "slug": "gisuru-bdi016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

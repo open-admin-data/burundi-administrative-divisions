@@ -1,0 +1,866 @@
+[
+  {
+    "id": "BDI016002_butezi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butezi",
+      "en": "Butezi",
+      "slug": "butezi"
+    },
+    "code": {
+      "id": "BDI016002_butezi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016002",
+      "level": 2,
+      "name": {
+        "local": "Butezi",
+        "en": "Butezi",
+        "slug": "butezi-bdi016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016002",
+        "level": 2,
+        "name": {
+          "local": "Butezi",
+          "en": "Butezi",
+          "slug": "butezi-bdi016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.338",
+      "lon": "30.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016002_bwagiriza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bwagiriza",
+      "en": "Bwagiriza",
+      "slug": "bwagiriza"
+    },
+    "code": {
+      "id": "BDI016002_bwagiriza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016002",
+      "level": 2,
+      "name": {
+        "local": "Butezi",
+        "en": "Butezi",
+        "slug": "butezi-bdi016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016002",
+        "level": 2,
+        "name": {
+          "local": "Butezi",
+          "en": "Butezi",
+          "slug": "butezi-bdi016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.338",
+      "lon": "30.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016002_gashurushuru",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gashurushuru",
+      "en": "Gashurushuru",
+      "slug": "gashurushuru"
+    },
+    "code": {
+      "id": "BDI016002_gashurushuru",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016002",
+      "level": 2,
+      "name": {
+        "local": "Butezi",
+        "en": "Butezi",
+        "slug": "butezi-bdi016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016002",
+        "level": 2,
+        "name": {
+          "local": "Butezi",
+          "en": "Butezi",
+          "slug": "butezi-bdi016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.338",
+      "lon": "30.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016002_gitwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitwa",
+      "en": "Gitwa",
+      "slug": "gitwa"
+    },
+    "code": {
+      "id": "BDI016002_gitwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016002",
+      "level": 2,
+      "name": {
+        "local": "Butezi",
+        "en": "Butezi",
+        "slug": "butezi-bdi016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016002",
+        "level": 2,
+        "name": {
+          "local": "Butezi",
+          "en": "Butezi",
+          "slug": "butezi-bdi016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.338",
+      "lon": "30.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016002_kirasira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirasira",
+      "en": "Kirasira",
+      "slug": "kirasira"
+    },
+    "code": {
+      "id": "BDI016002_kirasira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016002",
+      "level": 2,
+      "name": {
+        "local": "Butezi",
+        "en": "Butezi",
+        "slug": "butezi-bdi016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016002",
+        "level": 2,
+        "name": {
+          "local": "Butezi",
+          "en": "Butezi",
+          "slug": "butezi-bdi016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.338",
+      "lon": "30.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016002_mubira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mubira",
+      "en": "Mubira",
+      "slug": "mubira"
+    },
+    "code": {
+      "id": "BDI016002_mubira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016002",
+      "level": 2,
+      "name": {
+        "local": "Butezi",
+        "en": "Butezi",
+        "slug": "butezi-bdi016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016002",
+        "level": 2,
+        "name": {
+          "local": "Butezi",
+          "en": "Butezi",
+          "slug": "butezi-bdi016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.338",
+      "lon": "30.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016002_mugogo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugogo",
+      "en": "Mugogo",
+      "slug": "mugogo"
+    },
+    "code": {
+      "id": "BDI016002_mugogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016002",
+      "level": 2,
+      "name": {
+        "local": "Butezi",
+        "en": "Butezi",
+        "slug": "butezi-bdi016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016002",
+        "level": 2,
+        "name": {
+          "local": "Butezi",
+          "en": "Butezi",
+          "slug": "butezi-bdi016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.338",
+      "lon": "30.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016002_munyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munyinya",
+      "en": "Munyinya",
+      "slug": "munyinya"
+    },
+    "code": {
+      "id": "BDI016002_munyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016002",
+      "level": 2,
+      "name": {
+        "local": "Butezi",
+        "en": "Butezi",
+        "slug": "butezi-bdi016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016002",
+        "level": 2,
+        "name": {
+          "local": "Butezi",
+          "en": "Butezi",
+          "slug": "butezi-bdi016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.338",
+      "lon": "30.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016002_muyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyange",
+      "en": "Muyange",
+      "slug": "muyange"
+    },
+    "code": {
+      "id": "BDI016002_muyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016002",
+      "level": 2,
+      "name": {
+        "local": "Butezi",
+        "en": "Butezi",
+        "slug": "butezi-bdi016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016002",
+        "level": 2,
+        "name": {
+          "local": "Butezi",
+          "en": "Butezi",
+          "slug": "butezi-bdi016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.338",
+      "lon": "30.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016002_nkonwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nkonwe",
+      "en": "Nkonwe",
+      "slug": "nkonwe"
+    },
+    "code": {
+      "id": "BDI016002_nkonwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016002",
+      "level": 2,
+      "name": {
+        "local": "Butezi",
+        "en": "Butezi",
+        "slug": "butezi-bdi016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016002",
+        "level": 2,
+        "name": {
+          "local": "Butezi",
+          "en": "Butezi",
+          "slug": "butezi-bdi016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.338",
+      "lon": "30.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016002_nombe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nombe",
+      "en": "Nombe",
+      "slug": "nombe"
+    },
+    "code": {
+      "id": "BDI016002_nombe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016002",
+      "level": 2,
+      "name": {
+        "local": "Butezi",
+        "en": "Butezi",
+        "slug": "butezi-bdi016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016002",
+        "level": 2,
+        "name": {
+          "local": "Butezi",
+          "en": "Butezi",
+          "slug": "butezi-bdi016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.338",
+      "lon": "30.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016002_rubaragaza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubaragaza",
+      "en": "Rubaragaza",
+      "slug": "rubaragaza"
+    },
+    "code": {
+      "id": "BDI016002_rubaragaza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016002",
+      "level": 2,
+      "name": {
+        "local": "Butezi",
+        "en": "Butezi",
+        "slug": "butezi-bdi016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016002",
+        "level": 2,
+        "name": {
+          "local": "Butezi",
+          "en": "Butezi",
+          "slug": "butezi-bdi016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.338",
+      "lon": "30.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016002_rugoti",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugoti",
+      "en": "Rugoti",
+      "slug": "rugoti"
+    },
+    "code": {
+      "id": "BDI016002_rugoti",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016002",
+      "level": 2,
+      "name": {
+        "local": "Butezi",
+        "en": "Butezi",
+        "slug": "butezi-bdi016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016002",
+        "level": 2,
+        "name": {
+          "local": "Butezi",
+          "en": "Butezi",
+          "slug": "butezi-bdi016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.338",
+      "lon": "30.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016002_rutegama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutegama",
+      "en": "Rutegama",
+      "slug": "rutegama"
+    },
+    "code": {
+      "id": "BDI016002_rutegama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016002",
+      "level": 2,
+      "name": {
+        "local": "Butezi",
+        "en": "Butezi",
+        "slug": "butezi-bdi016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016002",
+        "level": 2,
+        "name": {
+          "local": "Butezi",
+          "en": "Butezi",
+          "slug": "butezi-bdi016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.338",
+      "lon": "30.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016002_senga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Senga",
+      "en": "Senga",
+      "slug": "senga"
+    },
+    "code": {
+      "id": "BDI016002_senga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016002",
+      "level": 2,
+      "name": {
+        "local": "Butezi",
+        "en": "Butezi",
+        "slug": "butezi-bdi016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016002",
+        "level": 2,
+        "name": {
+          "local": "Butezi",
+          "en": "Butezi",
+          "slug": "butezi-bdi016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.338",
+      "lon": "30.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016002_sorere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Sorere",
+      "en": "Sorere",
+      "slug": "sorere"
+    },
+    "code": {
+      "id": "BDI016002_sorere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016002",
+      "level": 2,
+      "name": {
+        "local": "Butezi",
+        "en": "Butezi",
+        "slug": "butezi-bdi016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016002",
+        "level": 2,
+        "name": {
+          "local": "Butezi",
+          "en": "Butezi",
+          "slug": "butezi-bdi016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.338",
+      "lon": "30.241"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

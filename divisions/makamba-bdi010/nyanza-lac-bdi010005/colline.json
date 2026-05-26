@@ -1,0 +1,1460 @@
+[
+  {
+    "id": "BDI010005_biniganyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Biniganyi",
+      "en": "Biniganyi",
+      "slug": "biniganyi"
+    },
+    "code": {
+      "id": "BDI010005_biniganyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_buheka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buheka",
+      "en": "Buheka",
+      "slug": "buheka"
+    },
+    "code": {
+      "id": "BDI010005_buheka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_bukeye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bukeye",
+      "en": "Bukeye",
+      "slug": "bukeye"
+    },
+    "code": {
+      "id": "BDI010005_bukeye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_gasaraba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasaraba",
+      "en": "Gasaraba",
+      "slug": "gasaraba"
+    },
+    "code": {
+      "id": "BDI010005_gasaraba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_gisenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisenga",
+      "en": "Gisenga",
+      "slug": "gisenga"
+    },
+    "code": {
+      "id": "BDI010005_gisenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_kabo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabo",
+      "en": "Kabo",
+      "slug": "kabo"
+    },
+    "code": {
+      "id": "BDI010005_kabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_kabondo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabondo",
+      "en": "Kabondo",
+      "slug": "kabondo"
+    },
+    "code": {
+      "id": "BDI010005_kabondo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_kabonga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabonga",
+      "en": "Kabonga",
+      "slug": "kabonga"
+    },
+    "code": {
+      "id": "BDI010005_kabonga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_kazirabageni",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kazirabageni",
+      "en": "Kazirabageni",
+      "slug": "kazirabageni"
+    },
+    "code": {
+      "id": "BDI010005_kazirabageni",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_kiderege",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiderege",
+      "en": "Kiderege",
+      "slug": "kiderege"
+    },
+    "code": {
+      "id": "BDI010005_kiderege",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_mugerama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugerama",
+      "en": "Mugerama",
+      "slug": "mugerama"
+    },
+    "code": {
+      "id": "BDI010005_mugerama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_mugumure",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugumure",
+      "en": "Mugumure",
+      "slug": "mugumure"
+    },
+    "code": {
+      "id": "BDI010005_mugumure",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_mukerezi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mukerezi",
+      "en": "Mukerezi",
+      "slug": "mukerezi"
+    },
+    "code": {
+      "id": "BDI010005_mukerezi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_mukimba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mukimba",
+      "en": "Mukimba",
+      "slug": "mukimba"
+    },
+    "code": {
+      "id": "BDI010005_mukimba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_mukubano",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mukubano",
+      "en": "Mukubano",
+      "slug": "mukubano"
+    },
+    "code": {
+      "id": "BDI010005_mukubano",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_mukumgu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mukumgu",
+      "en": "Mukumgu",
+      "slug": "mukumgu"
+    },
+    "code": {
+      "id": "BDI010005_mukumgu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_muyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyange",
+      "en": "Muyange",
+      "slug": "muyange"
+    },
+    "code": {
+      "id": "BDI010005_muyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_mvugo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mvugo",
+      "en": "Mvugo",
+      "slug": "mvugo"
+    },
+    "code": {
+      "id": "BDI010005_mvugo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_mwimbiro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwimbiro",
+      "en": "Mwimbiro",
+      "slug": "mwimbiro"
+    },
+    "code": {
+      "id": "BDI010005_mwimbiro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_nyabigina",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabigina",
+      "en": "Nyabigina",
+      "slug": "nyabigina"
+    },
+    "code": {
+      "id": "BDI010005_nyabigina",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_nyabutare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabutare",
+      "en": "Nyabutare",
+      "slug": "nyabutare"
+    },
+    "code": {
+      "id": "BDI010005_nyabutare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_nyanza-lac",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyanza-Lac",
+      "en": "Nyanza-Lac",
+      "slug": "nyanza-lac"
+    },
+    "code": {
+      "id": "BDI010005_nyanza-lac",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_rangi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rangi",
+      "en": "Rangi",
+      "slug": "rangi"
+    },
+    "code": {
+      "id": "BDI010005_rangi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_rimbo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rimbo",
+      "en": "Rimbo",
+      "slug": "rimbo"
+    },
+    "code": {
+      "id": "BDI010005_rimbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_rubindi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubindi",
+      "en": "Rubindi",
+      "slug": "rubindi"
+    },
+    "code": {
+      "id": "BDI010005_rubindi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_ruvumera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruvumera",
+      "en": "Ruvumera",
+      "slug": "ruvumera"
+    },
+    "code": {
+      "id": "BDI010005_ruvumera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005_ruvyagira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruvyagira",
+      "en": "Ruvyagira",
+      "slug": "ruvyagira"
+    },
+    "code": {
+      "id": "BDI010005_ruvyagira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010005",
+      "level": 2,
+      "name": {
+        "local": "Nyanza-Lac",
+        "en": "Nyanza-Lac",
+        "slug": "nyanza-lac-bdi010005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010005",
+        "level": 2,
+        "name": {
+          "local": "Nyanza-Lac",
+          "en": "Nyanza-Lac",
+          "slug": "nyanza-lac-bdi010005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

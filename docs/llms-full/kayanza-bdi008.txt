@@ -1,0 +1,1258 @@
+# Kayanza — Burundi Administrative Divisions
+
+> 9 communes, 301 collines
+> Code: BDI008
+> Coordinates: -3.008, 29.662
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Communes
+
+### Butaganzwa
+
+Code: BDI008001, Coordinates: -3.109, 29.69
+Collines: 60
+
+#### Bartye
+
+Code: BDI008001_bartye, Coordinates: -3.109, 29.69
+
+#### Bigera
+
+Code: BDI008001_bigera, Coordinates: -3.109, 29.69
+
+#### Biyorwa
+
+Code: BDI008001_biyorwa, Coordinates: -3.109, 29.69
+
+#### Bumba
+
+Code: BDI008001_bumba, Coordinates: -3.109, 29.69
+
+#### Burenza
+
+Code: BDI008001_burenza, Coordinates: -3.109, 29.69
+
+#### Busokoza
+
+Code: BDI008001_busokoza, Coordinates: -3.109, 29.69
+
+#### Butaganzwa
+
+Code: BDI008001_butaganzwa, Coordinates: -3.109, 29.69
+
+#### Caragata
+
+Code: BDI008001_caragata, Coordinates: -3.109, 29.69
+
+#### Gahise
+
+Code: BDI008001_gahise, Coordinates: -3.109, 29.69
+
+#### Gakonko
+
+Code: BDI008001_gakonko, Coordinates: -3.109, 29.69
+
+#### Gasasa
+
+Code: BDI008001_gasasa, Coordinates: -3.109, 29.69
+
+#### Gatabo
+
+Code: BDI008001_gatabo, Coordinates: -3.109, 29.69
+
+#### Gikungere
+
+Code: BDI008001_gikungere, Coordinates: -3.109, 29.69
+
+#### Gikwiye
+
+Code: BDI008001_gikwiye, Coordinates: -3.109, 29.69
+
+#### Gishubi
+
+Code: BDI008001_gishubi, Coordinates: -3.109, 29.69
+
+#### Itaba
+
+Code: BDI008001_itaba, Coordinates: -3.109, 29.69
+
+#### Kanyinya
+
+Code: BDI008001_kanyinya, Coordinates: -3.109, 29.69
+
+#### Kigarama
+
+Code: BDI008001_kigarama, Coordinates: -3.109, 29.69
+
+#### Kigwandi
+
+Code: BDI008001_kigwandi, Coordinates: -3.109, 29.69
+
+#### Kirambi
+
+Code: BDI008001_kirambi, Coordinates: -3.109, 29.69
+
+#### Kirangara
+
+Code: BDI008001_kirangara, Coordinates: -3.109, 29.69
+
+#### Kiryama
+
+Code: BDI008001_kiryama, Coordinates: -3.109, 29.69
+
+#### Kivoga
+
+Code: BDI008001_kivoga, Coordinates: -3.109, 29.69
+
+#### Kivumu
+
+Code: BDI008001_kivumu, Coordinates: -3.109, 29.69
+
+#### Kiyabu
+
+Code: BDI008001_kiyabu, Coordinates: -3.109, 29.69
+
+#### Kizigama
+
+Code: BDI008001_kizigama, Coordinates: -3.109, 29.69
+
+#### Maramvya
+
+Code: BDI008001_maramvya, Coordinates: -3.109, 29.69
+
+#### Masazi
+
+Code: BDI008001_masazi, Coordinates: -3.109, 29.69
+
+#### Mihana
+
+Code: BDI008001_mihana, Coordinates: -3.109, 29.69
+
+#### Mpame
+
+Code: BDI008001_mpame, Coordinates: -3.109, 29.69
+
+#### Mpfunda
+
+Code: BDI008001_mpfunda, Coordinates: -3.109, 29.69
+
+#### Mpungwe
+
+Code: BDI008001_mpungwe, Coordinates: -3.109, 29.69
+
+#### Mufumya
+
+Code: BDI008001_mufumya, Coordinates: -3.109, 29.69
+
+#### Mugege
+
+Code: BDI008001_mugege, Coordinates: -3.109, 29.69
+
+#### Muhene
+
+Code: BDI008001_muhene, Coordinates: -3.109, 29.69
+
+#### Munyinya
+
+Code: BDI008001_munyinya, Coordinates: -3.109, 29.69
+
+#### Muremera
+
+Code: BDI008001_muremera, Coordinates: -3.109, 29.69
+
+#### Muriza
+
+Code: BDI008001_muriza, Coordinates: -3.109, 29.69
+
+#### Musema
+
+Code: BDI008001_musema, Coordinates: -3.109, 29.69
+
+#### Musenga
+
+Code: BDI008001_musenga, Coordinates: -3.109, 29.69
+
+#### Ninga
+
+Code: BDI008001_ninga, Coordinates: -3.109, 29.69
+
+#### Nkango
+
+Code: BDI008001_nkango, Coordinates: -3.109, 29.69
+
+#### Nyabibuye
+
+Code: BDI008001_nyabibuye, Coordinates: -3.109, 29.69
+
+#### Nyaburondwe
+
+Code: BDI008001_nyaburondwe, Coordinates: -3.109, 29.69
+
+#### Nyagashubi
+
+Code: BDI008001_nyagashubi, Coordinates: -3.109, 29.69
+
+#### Nyamiyaga
+
+Code: BDI008001_nyamiyaga, Coordinates: -3.109, 29.69
+
+#### Nyamugari
+
+Code: BDI008001_nyamugari, Coordinates: -3.109, 29.69
+
+#### Nyange
+
+Code: BDI008001_nyange, Coordinates: -3.109, 29.69
+
+#### Nyangurube
+
+Code: BDI008001_nyangurube, Coordinates: -3.109, 29.69
+
+#### Nyankende
+
+Code: BDI008001_nyankende, Coordinates: -3.109, 29.69
+
+#### Nyarubabi
+
+Code: BDI008001_nyarubabi, Coordinates: -3.109, 29.69
+
+#### Nyarurama
+
+Code: BDI008001_nyarurama, Coordinates: -3.109, 29.69
+
+#### Nyarurambi
+
+Code: BDI008001_nyarurambi, Coordinates: -3.109, 29.69
+
+#### Rubambari
+
+Code: BDI008001_rubambari, Coordinates: -3.109, 29.69
+
+#### Rugata
+
+Code: BDI008001_rugata, Coordinates: -3.109, 29.69
+
+#### Rugoma
+
+Code: BDI008001_rugoma, Coordinates: -3.109, 29.69
+
+#### Rugongo
+
+Code: BDI008001_rugongo, Coordinates: -3.109, 29.69
+
+#### Rukambura
+
+Code: BDI008001_rukambura, Coordinates: -3.109, 29.69
+
+#### Shembati
+
+Code: BDI008001_shembati, Coordinates: -3.109, 29.69
+
+#### Titi
+
+Code: BDI008001_titi, Coordinates: -3.109, 29.69
+
+### Gahombo
+
+Code: BDI008002, Coordinates: -2.99, 29.726
+Collines: 20
+
+#### Bigugo
+
+Code: BDI008002_bigugo, Coordinates: -2.99, 29.726
+
+#### Butezi
+
+Code: BDI008002_butezi, Coordinates: -2.99, 29.726
+
+#### Butwe
+
+Code: BDI008002_butwe, Coordinates: -2.99, 29.726
+
+#### Gahombo
+
+Code: BDI008002_gahombo, Coordinates: -2.99, 29.726
+
+#### Gakuro
+
+Code: BDI008002_gakuro, Coordinates: -2.99, 29.726
+
+#### Gasave
+
+Code: BDI008002_gasave, Coordinates: -2.99, 29.726
+
+#### Gishunzi
+
+Code: BDI008002_gishunzi, Coordinates: -2.99, 29.726
+
+#### Karinzi
+
+Code: BDI008002_karinzi, Coordinates: -2.99, 29.726
+
+#### Kavuvuma
+
+Code: BDI008002_kavuvuma, Coordinates: -2.99, 29.726
+
+#### Kinyonga
+
+Code: BDI008002_kinyonga, Coordinates: -2.99, 29.726
+
+#### Kivoga
+
+Code: BDI008002_kivoga, Coordinates: -2.99, 29.726
+
+#### Kivuvuma
+
+Code: BDI008002_kivuvuma, Coordinates: -2.99, 29.726
+
+#### Mikoni
+
+Code: BDI008002_mikoni, Coordinates: -2.99, 29.726
+
+#### Mwenene
+
+Code: BDI008002_mwenene, Coordinates: -2.99, 29.726
+
+#### Nyagatobo
+
+Code: BDI008002_nyagatobo, Coordinates: -2.99, 29.726
+
+#### Nzewe
+
+Code: BDI008002_nzewe, Coordinates: -2.99, 29.726
+
+#### Rukago
+
+Code: BDI008002_rukago, Coordinates: -2.99, 29.726
+
+#### Rukanu
+
+Code: BDI008002_rukanu, Coordinates: -2.99, 29.726
+
+#### Ruzingati
+
+Code: BDI008002_ruzingati, Coordinates: -2.99, 29.726
+
+#### Shurungumya
+
+Code: BDI008002_shurungumya, Coordinates: -2.99, 29.726
+
+### Gatara
+
+Code: BDI008003, Coordinates: -2.991, 29.664
+Collines: 29
+
+#### Bubogoro
+
+Code: BDI008003_bubogoro, Coordinates: -2.991, 29.664
+
+#### Gakenke
+
+Code: BDI008003_gakenke, Coordinates: -2.991, 29.664
+
+#### Gatara
+
+Code: BDI008003_gatara, Coordinates: -2.991, 29.664
+
+#### Gihororo
+
+Code: BDI008003_gihororo, Coordinates: -2.991, 29.664
+
+#### Gisyo
+
+Code: BDI008003_gisyo, Coordinates: -2.991, 29.664
+
+#### Gitwenge
+
+Code: BDI008003_gitwenge, Coordinates: -2.991, 29.664
+
+#### Kabungo
+
+Code: BDI008003_kabungo, Coordinates: -2.991, 29.664
+
+#### Kanyankuru
+
+Code: BDI008003_kanyankuru, Coordinates: -2.991, 29.664
+
+#### Karambi
+
+Code: BDI008003_karambi, Coordinates: -2.991, 29.664
+
+#### Karurusi
+
+Code: BDI008003_karurusi, Coordinates: -2.991, 29.664
+
+#### Kibaribari
+
+Code: BDI008003_kibaribari, Coordinates: -2.991, 29.664
+
+#### Kibayi
+
+Code: BDI008003_kibayi, Coordinates: -2.991, 29.664
+
+#### Kibenga
+
+Code: BDI008003_kibenga, Coordinates: -2.991, 29.664
+
+#### Kigume
+
+Code: BDI008003_kigume, Coordinates: -2.991, 29.664
+
+#### Kivuruga
+
+Code: BDI008003_kivuruga, Coordinates: -2.991, 29.664
+
+#### Mbirizi
+
+Code: BDI008003_mbirizi, Coordinates: -2.991, 29.664
+
+#### Migende
+
+Code: BDI008003_migende, Coordinates: -2.991, 29.664
+
+#### Mudusi
+
+Code: BDI008003_mudusi, Coordinates: -2.991, 29.664
+
+#### Muhinga
+
+Code: BDI008003_muhinga, Coordinates: -2.991, 29.664
+
+#### Munini
+
+Code: BDI008003_munini, Coordinates: -2.991, 29.664
+
+#### Murago
+
+Code: BDI008003_murago, Coordinates: -2.991, 29.664
+
+#### Ngendo
+
+Code: BDI008003_ngendo, Coordinates: -2.991, 29.664
+
+#### Ngoro
+
+Code: BDI008003_ngoro, Coordinates: -2.991, 29.664
+
+#### Nteko
+
+Code: BDI008003_nteko, Coordinates: -2.991, 29.664
+
+#### Nyarubabi
+
+Code: BDI008003_nyarubabi, Coordinates: -2.991, 29.664
+
+#### Rubagabaga
+
+Code: BDI008003_rubagabaga, Coordinates: -2.991, 29.664
+
+#### Ruhengeri
+
+Code: BDI008003_ruhengeri, Coordinates: -2.991, 29.664
+
+#### Rwankuba
+
+Code: BDI008003_rwankuba, Coordinates: -2.991, 29.664
+
+#### Shinya
+
+Code: BDI008003_shinya, Coordinates: -2.991, 29.664
+
+### Kabarore
+
+Code: BDI008004, Coordinates: -2.852, 29.548
+Collines: 38
+
+#### Buvumo
+
+Code: BDI008004_buvumo, Coordinates: -2.852, 29.548
+
+#### Buyumpu
+
+Code: BDI008004_buyumpu, Coordinates: -2.852, 29.548
+
+#### Caguka
+
+Code: BDI008004_caguka, Coordinates: -2.852, 29.548
+
+#### Caratsi
+
+Code: BDI008004_caratsi, Coordinates: -2.852, 29.548
+
+#### Dusasa
+
+Code: BDI008004_dusasa, Coordinates: -2.852, 29.548
+
+#### Gashiru
+
+Code: BDI008004_gashiru, Coordinates: -2.852, 29.548
+
+#### Gikingo
+
+Code: BDI008004_gikingo, Coordinates: -2.852, 29.548
+
+#### Gisagara
+
+Code: BDI008004_gisagara, Coordinates: -2.852, 29.548
+
+#### Jene
+
+Code: BDI008004_jene, Coordinates: -2.852, 29.548
+
+#### Kabarore
+
+Code: BDI008004_kabarore, Coordinates: -2.852, 29.548
+
+#### Karama
+
+Code: BDI008004_karama, Coordinates: -2.852, 29.548
+
+#### Kibati
+
+Code: BDI008004_kibati, Coordinates: -2.852, 29.548
+
+#### Kibuba
+
+Code: BDI008004_kibuba, Coordinates: -2.852, 29.548
+
+#### Kidunduri
+
+Code: BDI008004_kidunduri, Coordinates: -2.852, 29.548
+
+#### Kigeri
+
+Code: BDI008004_kigeri, Coordinates: -2.852, 29.548
+
+#### Kirehe
+
+Code: BDI008004_kirehe, Coordinates: -2.852, 29.548
+
+#### Kivuvu
+
+Code: BDI008004_kivuvu, Coordinates: -2.852, 29.548
+
+#### Manga
+
+Code: BDI008004_manga, Coordinates: -2.852, 29.548
+
+#### Mugere
+
+Code: BDI008004_mugere, Coordinates: -2.852, 29.548
+
+#### Mugongo
+
+Code: BDI008004_mugongo, Coordinates: -2.852, 29.548
+
+#### Mugoyi
+
+Code: BDI008004_mugoyi, Coordinates: -2.852, 29.548
+
+#### Munege
+
+Code: BDI008004_munege, Coordinates: -2.852, 29.548
+
+#### Mutana
+
+Code: BDI008004_mutana, Coordinates: -2.852, 29.548
+
+#### Ngoma
+
+Code: BDI008004_ngoma, Coordinates: -2.852, 29.548
+
+#### Nyamisagara
+
+Code: BDI008004_nyamisagara, Coordinates: -2.852, 29.548
+
+#### Randa
+
+Code: BDI008004_randa, Coordinates: -2.852, 29.548
+
+#### Rorero
+
+Code: BDI008004_rorero, Coordinates: -2.852, 29.548
+
+#### Ruhinga
+
+Code: BDI008004_ruhinga, Coordinates: -2.852, 29.548
+
+#### Ruhororo
+
+Code: BDI008004_ruhororo, Coordinates: -2.852, 29.548
+
+#### Rukere
+
+Code: BDI008004_rukere, Coordinates: -2.852, 29.548
+
+#### Runyinya
+
+Code: BDI008004_runyinya, Coordinates: -2.852, 29.548
+
+#### Rusambi
+
+Code: BDI008004_rusambi, Coordinates: -2.852, 29.548
+
+#### Rutega
+
+Code: BDI008004_rutega, Coordinates: -2.852, 29.548
+
+#### Ryamukona
+
+Code: BDI008004_ryamukona, Coordinates: -2.852, 29.548
+
+#### Songore
+
+Code: BDI008004_songore, Coordinates: -2.852, 29.548
+
+#### Tondero
+
+Code: BDI008004_tondero, Coordinates: -2.852, 29.548
+
+#### Yandaro
+
+Code: BDI008004_yandaro, Coordinates: -2.852, 29.548
+
+#### Yanza
+
+Code: BDI008004_yanza, Coordinates: -2.852, 29.548
+
+### Kayanza
+
+Code: BDI008005, Coordinates: -2.935, 29.632
+Collines: 36
+
+#### Benga
+
+Code: BDI008005_benga, Coordinates: -2.935, 29.632
+
+#### Bubezi
+
+Code: BDI008005_bubezi, Coordinates: -2.935, 29.632
+
+#### Canzara
+
+Code: BDI008005_canzara, Coordinates: -2.935, 29.632
+
+#### Cukiro
+
+Code: BDI008005_cukiro, Coordinates: -2.935, 29.632
+
+#### Gacu
+
+Code: BDI008005_gacu, Coordinates: -2.935, 29.632
+
+#### Gahahe
+
+Code: BDI008005_gahahe, Coordinates: -2.935, 29.632
+
+#### Gihororo
+
+Code: BDI008005_gihororo, Coordinates: -2.935, 29.632
+
+#### Gitwa
+
+Code: BDI008005_gitwa, Coordinates: -2.935, 29.632
+
+#### Karinzi
+
+Code: BDI008005_karinzi, Coordinates: -2.935, 29.632
+
+#### Kavumu
+
+Code: BDI008005_kavumu, Coordinates: -2.935, 29.632
+
+#### Kibingo
+
+Code: BDI008005_kibingo, Coordinates: -2.935, 29.632
+
+#### Kinga
+
+Code: BDI008005_kinga, Coordinates: -2.935, 29.632
+
+#### Kinyamukizi
+
+Code: BDI008005_kinyamukizi, Coordinates: -2.935, 29.632
+
+#### Kinzobe
+
+Code: BDI008005_kinzobe, Coordinates: -2.935, 29.632
+
+#### Magamba
+
+Code: BDI008005_magamba, Coordinates: -2.935, 29.632
+
+#### Maruri
+
+Code: BDI008005_maruri, Coordinates: -2.935, 29.632
+
+#### Migege
+
+Code: BDI008005_migege, Coordinates: -2.935, 29.632
+
+#### Mihigo
+
+Code: BDI008005_mihigo, Coordinates: -2.935, 29.632
+
+#### Mpanga
+
+Code: BDI008005_mpanga, Coordinates: -2.935, 29.632
+
+#### Muhweza
+
+Code: BDI008005_muhweza, Coordinates: -2.935, 29.632
+
+#### Murago
+
+Code: BDI008005_murago, Coordinates: -2.935, 29.632
+
+#### Murima
+
+Code: BDI008005_murima, Coordinates: -2.935, 29.632
+
+#### Mwendo
+
+Code: BDI008005_mwendo, Coordinates: -2.935, 29.632
+
+#### Nemba
+
+Code: BDI008005_nemba, Coordinates: -2.935, 29.632
+
+#### Nkuba
+
+Code: BDI008005_nkuba, Coordinates: -2.935, 29.632
+
+#### Ntarambo
+
+Code: BDI008005_ntarambo, Coordinates: -2.935, 29.632
+
+#### Nyabihanga
+
+Code: BDI008005_nyabihanga, Coordinates: -2.935, 29.632
+
+#### Nyabihogo
+
+Code: BDI008005_nyabihogo, Coordinates: -2.935, 29.632
+
+#### Nyabikaranka
+
+Code: BDI008005_nyabikaranka, Coordinates: -2.935, 29.632
+
+#### Nyangwe
+
+Code: BDI008005_nyangwe, Coordinates: -2.935, 29.632
+
+#### Ruhande
+
+Code: BDI008005_ruhande, Coordinates: -2.935, 29.632
+
+#### Ruvomo
+
+Code: BDI008005_ruvomo, Coordinates: -2.935, 29.632
+
+#### Rwintare
+
+Code: BDI008005_rwintare, Coordinates: -2.935, 29.632
+
+#### Ryirengeye
+
+Code: BDI008005_ryirengeye, Coordinates: -2.935, 29.632
+
+#### Shikankoni
+
+Code: BDI008005_shikankoni, Coordinates: -2.935, 29.632
+
+#### Ville Kayanza
+
+Code: BDI008005_ville-kayanza, Coordinates: -2.935, 29.632
+
+### Matongo
+
+Code: BDI008006, Coordinates: -3.085, 29.6
+Collines: 35
+
+#### Bandaga
+
+Code: BDI008006_bandaga, Coordinates: -3.085, 29.6
+
+#### Banga
+
+Code: BDI008006_banga, Coordinates: -3.085, 29.6
+
+#### Bihunge
+
+Code: BDI008006_bihunge, Coordinates: -3.085, 29.6
+
+#### Burarana
+
+Code: BDI008006_burarana, Coordinates: -3.085, 29.6
+
+#### Burengo
+
+Code: BDI008006_burengo, Coordinates: -3.085, 29.6
+
+#### Butuhurana
+
+Code: BDI008006_butuhurana, Coordinates: -3.085, 29.6
+
+#### Bwayi
+
+Code: BDI008006_bwayi, Coordinates: -3.085, 29.6
+
+#### Bwisange
+
+Code: BDI008006_bwisange, Coordinates: -3.085, 29.6
+
+#### Camizi
+
+Code: BDI008006_camizi, Coordinates: -3.085, 29.6
+
+#### Gasare
+
+Code: BDI008006_gasare, Coordinates: -3.085, 29.6
+
+#### Gitwe
+
+Code: BDI008006_gitwe, Coordinates: -3.085, 29.6
+
+#### Kabuye
+
+Code: BDI008006_kabuye, Coordinates: -3.085, 29.6
+
+#### Kibavu
+
+Code: BDI008006_kibavu, Coordinates: -3.085, 29.6
+
+#### Kijuri
+
+Code: BDI008006_kijuri, Coordinates: -3.085, 29.6
+
+#### Kinyovu
+
+Code: BDI008006_kinyovu, Coordinates: -3.085, 29.6
+
+#### Kivumu
+
+Code: BDI008006_kivumu, Coordinates: -3.085, 29.6
+
+#### Matongo
+
+Code: BDI008006_matongo, Coordinates: -3.085, 29.6
+
+#### Mikamba
+
+Code: BDI008006_mikamba, Coordinates: -3.085, 29.6
+
+#### Mpemba
+
+Code: BDI008006_mpemba, Coordinates: -3.085, 29.6
+
+#### Muganza
+
+Code: BDI008006_muganza, Coordinates: -3.085, 29.6
+
+#### Munini
+
+Code: BDI008006_munini, Coordinates: -3.085, 29.6
+
+#### Munyinya
+
+Code: BDI008006_munyinya, Coordinates: -3.085, 29.6
+
+#### Murambi
+
+Code: BDI008006_murambi, Coordinates: -3.085, 29.6
+
+#### Musonge
+
+Code: BDI008006_musonge, Coordinates: -3.085, 29.6
+
+#### Mutarure
+
+Code: BDI008006_mutarure, Coordinates: -3.085, 29.6
+
+#### Mvumvu
+
+Code: BDI008006_mvumvu, Coordinates: -3.085, 29.6
+
+#### Ngoro
+
+Code: BDI008006_ngoro, Coordinates: -3.085, 29.6
+
+#### Nteko
+
+Code: BDI008006_nteko, Coordinates: -3.085, 29.6
+
+#### Nyakibingo
+
+Code: BDI008006_nyakibingo, Coordinates: -3.085, 29.6
+
+#### Nyarumanga
+
+Code: BDI008006_nyarumanga, Coordinates: -3.085, 29.6
+
+#### Nyarurambi
+
+Code: BDI008006_nyarurambi, Coordinates: -3.085, 29.6
+
+#### Rudehe
+
+Code: BDI008006_rudehe, Coordinates: -3.085, 29.6
+
+#### Ruganza
+
+Code: BDI008006_ruganza, Coordinates: -3.085, 29.6
+
+#### Rukoma
+
+Code: BDI008006_rukoma, Coordinates: -3.085, 29.6
+
+#### Ruvumu
+
+Code: BDI008006_ruvumu, Coordinates: -3.085, 29.6
+
+### Muhanga
+
+Code: BDI008007, Coordinates: -3.039, 29.809
+Collines: 29
+
+#### Bushoka
+
+Code: BDI008007_bushoka, Coordinates: -3.039, 29.809
+
+#### Ceyerezi
+
+Code: BDI008007_ceyerezi, Coordinates: -3.039, 29.809
+
+#### Gahar0
+
+Code: BDI008007_gahar0, Coordinates: -3.039, 29.809
+
+#### Gasenyi
+
+Code: BDI008007_gasenyi, Coordinates: -3.039, 29.809
+
+#### Gashibuka
+
+Code: BDI008007_gashibuka, Coordinates: -3.039, 29.809
+
+#### Gatozo
+
+Code: BDI008007_gatozo, Coordinates: -3.039, 29.809
+
+#### Gatura
+
+Code: BDI008007_gatura, Coordinates: -3.039, 29.809
+
+#### Gisara
+
+Code: BDI008007_gisara, Coordinates: -3.039, 29.809
+
+#### Gitamo
+
+Code: BDI008007_gitamo, Coordinates: -3.039, 29.809
+
+#### Jimbi
+
+Code: BDI008007_jimbi, Coordinates: -3.039, 29.809
+
+#### Kanyundo
+
+Code: BDI008007_kanyundo, Coordinates: -3.039, 29.809
+
+#### Kibimba
+
+Code: BDI008007_kibimba, Coordinates: -3.039, 29.809
+
+#### Kivuzo
+
+Code: BDI008007_kivuzo, Coordinates: -3.039, 29.809
+
+#### Masama
+
+Code: BDI008007_masama, Coordinates: -3.039, 29.809
+
+#### Masanze
+
+Code: BDI008007_masanze, Coordinates: -3.039, 29.809
+
+#### Mborwe
+
+Code: BDI008007_mborwe, Coordinates: -3.039, 29.809
+
+#### Mibazi
+
+Code: BDI008007_mibazi, Coordinates: -3.039, 29.809
+
+#### Muhanga
+
+Code: BDI008007_muhanga, Coordinates: -3.039, 29.809
+
+#### Mwendo
+
+Code: BDI008007_mwendo, Coordinates: -3.039, 29.809
+
+#### Ndava
+
+Code: BDI008007_ndava, Coordinates: -3.039, 29.809
+
+#### Ngoma
+
+Code: BDI008007_ngoma, Coordinates: -3.039, 29.809
+
+#### Nyamitanga
+
+Code: BDI008007_nyamitanga, Coordinates: -3.039, 29.809
+
+#### Nyamwera
+
+Code: BDI008007_nyamwera, Coordinates: -3.039, 29.809
+
+#### Nyarurambi
+
+Code: BDI008007_nyarurambi, Coordinates: -3.039, 29.809
+
+#### Rubanga
+
+Code: BDI008007_rubanga, Coordinates: -3.039, 29.809
+
+#### Rugamba
+
+Code: BDI008007_rugamba, Coordinates: -3.039, 29.809
+
+#### Rushenza
+
+Code: BDI008007_rushenza, Coordinates: -3.039, 29.809
+
+#### Rushubi
+
+Code: BDI008007_rushubi, Coordinates: -3.039, 29.809
+
+#### Sakinyinya
+
+Code: BDI008007_sakinyinya, Coordinates: -3.039, 29.809
+
+### Muruta
+
+Code: BDI008008, Coordinates: -2.955, 29.558
+Collines: 25
+
+#### Busambo
+
+Code: BDI008008_busambo, Coordinates: -2.955, 29.558
+
+#### Buziraguhindwa
+
+Code: BDI008008_buziraguhindwa, Coordinates: -2.955, 29.558
+
+#### Campazi
+
+Code: BDI008008_campazi, Coordinates: -2.955, 29.558
+
+#### Gishubi
+
+Code: BDI008008_gishubi, Coordinates: -2.955, 29.558
+
+#### Karunyinya
+
+Code: BDI008008_karunyinya, Coordinates: -2.955, 29.558
+
+#### Kaserege
+
+Code: BDI008008_kaserege, Coordinates: -2.955, 29.558
+
+#### Kavoga
+
+Code: BDI008008_kavoga, Coordinates: -2.955, 29.558
+
+#### Kibakwe
+
+Code: BDI008008_kibakwe, Coordinates: -2.955, 29.558
+
+#### Manini
+
+Code: BDI008008_manini, Coordinates: -2.955, 29.558
+
+#### Mikuba
+
+Code: BDI008008_mikuba, Coordinates: -2.955, 29.558
+
+#### Mpfunda
+
+Code: BDI008008_mpfunda, Coordinates: -2.955, 29.558
+
+#### Muciro
+
+Code: BDI008008_muciro, Coordinates: -2.955, 29.558
+
+#### Muganza
+
+Code: BDI008008_muganza, Coordinates: -2.955, 29.558
+
+#### Muruta
+
+Code: BDI008008_muruta, Coordinates: -2.955, 29.558
+
+#### Mutana
+
+Code: BDI008008_mutana, Coordinates: -2.955, 29.558
+
+#### Myugariro
+
+Code: BDI008008_myugariro, Coordinates: -2.955, 29.558
+
+#### Nkonge
+
+Code: BDI008008_nkonge, Coordinates: -2.955, 29.558
+
+#### Nyakibari
+
+Code: BDI008008_nyakibari, Coordinates: -2.955, 29.558
+
+#### Nyamiyogoro
+
+Code: BDI008008_nyamiyogoro, Coordinates: -2.955, 29.558
+
+#### Remera
+
+Code: BDI008008_remera, Coordinates: -2.955, 29.558
+
+#### Ruharo
+
+Code: BDI008008_ruharo, Coordinates: -2.955, 29.558
+
+#### Ruvumu
+
+Code: BDI008008_ruvumu, Coordinates: -2.955, 29.558
+
+#### Rwagongwe
+
+Code: BDI008008_rwagongwe, Coordinates: -2.955, 29.558
+
+#### Rwegura
+
+Code: BDI008008_rwegura, Coordinates: -2.955, 29.558
+
+#### Yanza
+
+Code: BDI008008_yanza, Coordinates: -2.955, 29.558
+
+### Rango
+
+Code: BDI008009, Coordinates: -3.158, 29.757
+Collines: 29
+
+#### Bisha
+
+Code: BDI008009_bisha, Coordinates: -3.158, 29.757
+
+#### Bishuri
+
+Code: BDI008009_bishuri, Coordinates: -3.158, 29.757
+
+#### Butanyerera
+
+Code: BDI008009_butanyerera, Coordinates: -3.158, 29.757
+
+#### Gacokwe
+
+Code: BDI008009_gacokwe, Coordinates: -3.158, 29.757
+
+#### Gatare
+
+Code: BDI008009_gatare, Coordinates: -3.158, 29.757
+
+#### Gihororo
+
+Code: BDI008009_gihororo, Coordinates: -3.158, 29.757
+
+#### Gikomero
+
+Code: BDI008009_gikomero, Coordinates: -3.158, 29.757
+
+#### Gipfuvya
+
+Code: BDI008009_gipfuvya, Coordinates: -3.158, 29.757
+
+#### Gitibu
+
+Code: BDI008009_gitibu, Coordinates: -3.158, 29.757
+
+#### Kabuye
+
+Code: BDI008009_kabuye, Coordinates: -3.158, 29.757
+
+#### Kaguruka
+
+Code: BDI008009_kaguruka, Coordinates: -3.158, 29.757
+
+#### Karama
+
+Code: BDI008009_karama, Coordinates: -3.158, 29.757
+
+#### Karehe
+
+Code: BDI008009_karehe, Coordinates: -3.158, 29.757
+
+#### Kiguruka
+
+Code: BDI008009_kiguruka, Coordinates: -3.158, 29.757
+
+#### Kiramahira
+
+Code: BDI008009_kiramahira, Coordinates: -3.158, 29.757
+
+#### Musagara
+
+Code: BDI008009_musagara, Coordinates: -3.158, 29.757
+
+#### Muzumure
+
+Code: BDI008009_muzumure, Coordinates: -3.158, 29.757
+
+#### Nyabibuye
+
+Code: BDI008009_nyabibuye, Coordinates: -3.158, 29.757
+
+#### Nyabigoyi
+
+Code: BDI008009_nyabigoyi, Coordinates: -3.158, 29.757
+
+#### Nyabitwe
+
+Code: BDI008009_nyabitwe, Coordinates: -3.158, 29.757
+
+#### Nyamonde
+
+Code: BDI008009_nyamonde, Coordinates: -3.158, 29.757
+
+#### Nyarusange
+
+Code: BDI008009_nyarusange, Coordinates: -3.158, 29.757
+
+#### Rama
+
+Code: BDI008009_rama, Coordinates: -3.158, 29.757
+
+#### Rango
+
+Code: BDI008009_rango, Coordinates: -3.158, 29.757
+
+#### Rubirizi
+
+Code: BDI008009_rubirizi, Coordinates: -3.158, 29.757
+
+#### Rubungu
+
+Code: BDI008009_rubungu, Coordinates: -3.158, 29.757
+
+#### Ruhinga
+
+Code: BDI008009_ruhinga, Coordinates: -3.158, 29.757
+
+#### Rusave
+
+Code: BDI008009_rusave, Coordinates: -3.158, 29.757
+
+#### Tara
+
+Code: BDI008009_tara, Coordinates: -3.158, 29.757
+

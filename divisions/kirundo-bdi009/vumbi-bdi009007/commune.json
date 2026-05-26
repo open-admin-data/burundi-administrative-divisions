@@ -1,0 +1,47 @@
+{
+  "id": "BDI009007",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Vumbi",
+    "en": "Vumbi",
+    "slug": "vumbi-bdi009007"
+  },
+  "code": {
+    "id": "BDI009007",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI009",
+    "level": 1,
+    "name": {
+      "local": "Kirundo",
+      "en": "Kirundo",
+      "slug": "kirundo-bdi009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI009",
+      "level": 1,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 36
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.694",
+    "lon": "30.078"
+  },
+  "metadata": {},
+  "source": {}
+}

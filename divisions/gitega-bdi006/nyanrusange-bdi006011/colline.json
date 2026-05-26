@@ -1,0 +1,974 @@
+[
+  {
+    "id": "BDI006011_bihonvora",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bihonvora",
+      "en": "Bihonvora",
+      "slug": "bihonvora"
+    },
+    "code": {
+      "id": "BDI006011_bihonvora",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006011",
+      "level": 2,
+      "name": {
+        "local": "Nyanrusange",
+        "en": "Nyanrusange",
+        "slug": "nyanrusange-bdi006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006011",
+        "level": 2,
+        "name": {
+          "local": "Nyanrusange",
+          "en": "Nyanrusange",
+          "slug": "nyanrusange-bdi006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.58",
+      "lon": "29.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006011_bikingi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bikingi",
+      "en": "Bikingi",
+      "slug": "bikingi"
+    },
+    "code": {
+      "id": "BDI006011_bikingi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006011",
+      "level": 2,
+      "name": {
+        "local": "Nyanrusange",
+        "en": "Nyanrusange",
+        "slug": "nyanrusange-bdi006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006011",
+        "level": 2,
+        "name": {
+          "local": "Nyanrusange",
+          "en": "Nyanrusange",
+          "slug": "nyanrusange-bdi006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.58",
+      "lon": "29.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006011_biziya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Biziya",
+      "en": "Biziya",
+      "slug": "biziya"
+    },
+    "code": {
+      "id": "BDI006011_biziya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006011",
+      "level": 2,
+      "name": {
+        "local": "Nyanrusange",
+        "en": "Nyanrusange",
+        "slug": "nyanrusange-bdi006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006011",
+        "level": 2,
+        "name": {
+          "local": "Nyanrusange",
+          "en": "Nyanrusange",
+          "slug": "nyanrusange-bdi006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.58",
+      "lon": "29.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006011_bukoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bukoro",
+      "en": "Bukoro",
+      "slug": "bukoro"
+    },
+    "code": {
+      "id": "BDI006011_bukoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006011",
+      "level": 2,
+      "name": {
+        "local": "Nyanrusange",
+        "en": "Nyanrusange",
+        "slug": "nyanrusange-bdi006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006011",
+        "level": 2,
+        "name": {
+          "local": "Nyanrusange",
+          "en": "Nyanrusange",
+          "slug": "nyanrusange-bdi006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.58",
+      "lon": "29.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006011_gahembe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gahembe",
+      "en": "Gahembe",
+      "slug": "gahembe"
+    },
+    "code": {
+      "id": "BDI006011_gahembe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006011",
+      "level": 2,
+      "name": {
+        "local": "Nyanrusange",
+        "en": "Nyanrusange",
+        "slug": "nyanrusange-bdi006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006011",
+        "level": 2,
+        "name": {
+          "local": "Nyanrusange",
+          "en": "Nyanrusange",
+          "slug": "nyanrusange-bdi006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.58",
+      "lon": "29.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006011_gasenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasenyi",
+      "en": "Gasenyi",
+      "slug": "gasenyi"
+    },
+    "code": {
+      "id": "BDI006011_gasenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006011",
+      "level": 2,
+      "name": {
+        "local": "Nyanrusange",
+        "en": "Nyanrusange",
+        "slug": "nyanrusange-bdi006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006011",
+        "level": 2,
+        "name": {
+          "local": "Nyanrusange",
+          "en": "Nyanrusange",
+          "slug": "nyanrusange-bdi006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.58",
+      "lon": "29.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006011_gatwaro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatwaro",
+      "en": "Gatwaro",
+      "slug": "gatwaro"
+    },
+    "code": {
+      "id": "BDI006011_gatwaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006011",
+      "level": 2,
+      "name": {
+        "local": "Nyanrusange",
+        "en": "Nyanrusange",
+        "slug": "nyanrusange-bdi006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006011",
+        "level": 2,
+        "name": {
+          "local": "Nyanrusange",
+          "en": "Nyanrusange",
+          "slug": "nyanrusange-bdi006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.58",
+      "lon": "29.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006011_gitaramuka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitaramuka",
+      "en": "Gitaramuka",
+      "slug": "gitaramuka"
+    },
+    "code": {
+      "id": "BDI006011_gitaramuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006011",
+      "level": 2,
+      "name": {
+        "local": "Nyanrusange",
+        "en": "Nyanrusange",
+        "slug": "nyanrusange-bdi006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006011",
+        "level": 2,
+        "name": {
+          "local": "Nyanrusange",
+          "en": "Nyanrusange",
+          "slug": "nyanrusange-bdi006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.58",
+      "lon": "29.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006011_jugwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Jugwe",
+      "en": "Jugwe",
+      "slug": "jugwe"
+    },
+    "code": {
+      "id": "BDI006011_jugwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006011",
+      "level": 2,
+      "name": {
+        "local": "Nyanrusange",
+        "en": "Nyanrusange",
+        "slug": "nyanrusange-bdi006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006011",
+        "level": 2,
+        "name": {
+          "local": "Nyanrusange",
+          "en": "Nyanrusange",
+          "slug": "nyanrusange-bdi006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.58",
+      "lon": "29.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006011_kabimba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabimba",
+      "en": "Kabimba",
+      "slug": "kabimba"
+    },
+    "code": {
+      "id": "BDI006011_kabimba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006011",
+      "level": 2,
+      "name": {
+        "local": "Nyanrusange",
+        "en": "Nyanrusange",
+        "slug": "nyanrusange-bdi006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006011",
+        "level": 2,
+        "name": {
+          "local": "Nyanrusange",
+          "en": "Nyanrusange",
+          "slug": "nyanrusange-bdi006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.58",
+      "lon": "29.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006011_kigara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigara",
+      "en": "Kigara",
+      "slug": "kigara"
+    },
+    "code": {
+      "id": "BDI006011_kigara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006011",
+      "level": 2,
+      "name": {
+        "local": "Nyanrusange",
+        "en": "Nyanrusange",
+        "slug": "nyanrusange-bdi006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006011",
+        "level": 2,
+        "name": {
+          "local": "Nyanrusange",
+          "en": "Nyanrusange",
+          "slug": "nyanrusange-bdi006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.58",
+      "lon": "29.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006011_masare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masare",
+      "en": "Masare",
+      "slug": "masare"
+    },
+    "code": {
+      "id": "BDI006011_masare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006011",
+      "level": 2,
+      "name": {
+        "local": "Nyanrusange",
+        "en": "Nyanrusange",
+        "slug": "nyanrusange-bdi006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006011",
+        "level": 2,
+        "name": {
+          "local": "Nyanrusange",
+          "en": "Nyanrusange",
+          "slug": "nyanrusange-bdi006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.58",
+      "lon": "29.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006011_muhororo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muhororo",
+      "en": "Muhororo",
+      "slug": "muhororo"
+    },
+    "code": {
+      "id": "BDI006011_muhororo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006011",
+      "level": 2,
+      "name": {
+        "local": "Nyanrusange",
+        "en": "Nyanrusange",
+        "slug": "nyanrusange-bdi006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006011",
+        "level": 2,
+        "name": {
+          "local": "Nyanrusange",
+          "en": "Nyanrusange",
+          "slug": "nyanrusange-bdi006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.58",
+      "lon": "29.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006011_murambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murambi",
+      "en": "Murambi",
+      "slug": "murambi"
+    },
+    "code": {
+      "id": "BDI006011_murambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006011",
+      "level": 2,
+      "name": {
+        "local": "Nyanrusange",
+        "en": "Nyanrusange",
+        "slug": "nyanrusange-bdi006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006011",
+        "level": 2,
+        "name": {
+          "local": "Nyanrusange",
+          "en": "Nyanrusange",
+          "slug": "nyanrusange-bdi006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.58",
+      "lon": "29.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006011_muzima",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muzima",
+      "en": "Muzima",
+      "slug": "muzima"
+    },
+    "code": {
+      "id": "BDI006011_muzima",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006011",
+      "level": 2,
+      "name": {
+        "local": "Nyanrusange",
+        "en": "Nyanrusange",
+        "slug": "nyanrusange-bdi006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006011",
+        "level": 2,
+        "name": {
+          "local": "Nyanrusange",
+          "en": "Nyanrusange",
+          "slug": "nyanrusange-bdi006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.58",
+      "lon": "29.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006011_nyarubenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarubenga",
+      "en": "Nyarubenga",
+      "slug": "nyarubenga"
+    },
+    "code": {
+      "id": "BDI006011_nyarubenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006011",
+      "level": 2,
+      "name": {
+        "local": "Nyanrusange",
+        "en": "Nyanrusange",
+        "slug": "nyanrusange-bdi006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006011",
+        "level": 2,
+        "name": {
+          "local": "Nyanrusange",
+          "en": "Nyanrusange",
+          "slug": "nyanrusange-bdi006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.58",
+      "lon": "29.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006011_nyarusarge",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarusarge",
+      "en": "Nyarusarge",
+      "slug": "nyarusarge"
+    },
+    "code": {
+      "id": "BDI006011_nyarusarge",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006011",
+      "level": 2,
+      "name": {
+        "local": "Nyanrusange",
+        "en": "Nyanrusange",
+        "slug": "nyanrusange-bdi006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006011",
+        "level": 2,
+        "name": {
+          "local": "Nyanrusange",
+          "en": "Nyanrusange",
+          "slug": "nyanrusange-bdi006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.58",
+      "lon": "29.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006011_tye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Tye",
+      "en": "Tye",
+      "slug": "tye"
+    },
+    "code": {
+      "id": "BDI006011_tye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006011",
+      "level": 2,
+      "name": {
+        "local": "Nyanrusange",
+        "en": "Nyanrusange",
+        "slug": "nyanrusange-bdi006011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006011",
+        "level": 2,
+        "name": {
+          "local": "Nyanrusange",
+          "en": "Nyanrusange",
+          "slug": "nyanrusange-bdi006011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.58",
+      "lon": "29.814"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

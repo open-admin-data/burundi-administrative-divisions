@@ -1,0 +1,2000 @@
+[
+  {
+    "id": "BDI012005_bisiga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bisiga",
+      "en": "Bisiga",
+      "slug": "bisiga"
+    },
+    "code": {
+      "id": "BDI012005_bisiga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_bugoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugoma",
+      "en": "Bugoma",
+      "slug": "bugoma"
+    },
+    "code": {
+      "id": "BDI012005_bugoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_buhangara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhangara",
+      "en": "Buhangara",
+      "slug": "buhangara"
+    },
+    "code": {
+      "id": "BDI012005_buhangara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_cagakori",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cagakori",
+      "en": "Cagakori",
+      "slug": "cagakori"
+    },
+    "code": {
+      "id": "BDI012005_cagakori",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_gakoni",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gakoni",
+      "en": "Gakoni",
+      "slug": "gakoni"
+    },
+    "code": {
+      "id": "BDI012005_gakoni",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_gasenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasenyi",
+      "en": "Gasenyi",
+      "slug": "gasenyi"
+    },
+    "code": {
+      "id": "BDI012005_gasenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_giteranyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Giteranyi",
+      "en": "Giteranyi",
+      "slug": "giteranyi"
+    },
+    "code": {
+      "id": "BDI012005_giteranyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_kabira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabira",
+      "en": "Kabira",
+      "slug": "kabira"
+    },
+    "code": {
+      "id": "BDI012005_kabira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_kabogo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabogo",
+      "en": "Kabogo",
+      "slug": "kabogo"
+    },
+    "code": {
+      "id": "BDI012005_kabogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_kagugo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kagugo",
+      "en": "Kagugo",
+      "slug": "kagugo"
+    },
+    "code": {
+      "id": "BDI012005_kagugo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_karugunda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karugunda",
+      "en": "Karugunda",
+      "slug": "karugunda"
+    },
+    "code": {
+      "id": "BDI012005_karugunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_kayove",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kayove",
+      "en": "Kayove",
+      "slug": "kayove"
+    },
+    "code": {
+      "id": "BDI012005_kayove",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_kidasha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kidasha",
+      "en": "Kidasha",
+      "slug": "kidasha"
+    },
+    "code": {
+      "id": "BDI012005_kidasha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_kijumbura",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kijumbura",
+      "en": "Kijumbura",
+      "slug": "kijumbura"
+    },
+    "code": {
+      "id": "BDI012005_kijumbura",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_kinanira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinanira",
+      "en": "Kinanira",
+      "slug": "kinanira"
+    },
+    "code": {
+      "id": "BDI012005_kinanira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_kinyami",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinyami",
+      "en": "Kinyami",
+      "slug": "kinyami"
+    },
+    "code": {
+      "id": "BDI012005_kinyami",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_mangoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mangoma",
+      "en": "Mangoma",
+      "slug": "mangoma"
+    },
+    "code": {
+      "id": "BDI012005_mangoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_masaka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masaka",
+      "en": "Masaka",
+      "slug": "masaka"
+    },
+    "code": {
+      "id": "BDI012005_masaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_mihigo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mihigo",
+      "en": "Mihigo",
+      "slug": "mihigo"
+    },
+    "code": {
+      "id": "BDI012005_mihigo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_mika",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mika",
+      "en": "Mika",
+      "slug": "mika"
+    },
+    "code": {
+      "id": "BDI012005_mika",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_mugano",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugano",
+      "en": "Mugano",
+      "slug": "mugano"
+    },
+    "code": {
+      "id": "BDI012005_mugano",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_mukoni",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mukoni",
+      "en": "Mukoni",
+      "slug": "mukoni"
+    },
+    "code": {
+      "id": "BDI012005_mukoni",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_murama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murama",
+      "en": "Murama",
+      "slug": "murama"
+    },
+    "code": {
+      "id": "BDI012005_murama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_ndava",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ndava",
+      "en": "Ndava",
+      "slug": "ndava"
+    },
+    "code": {
+      "id": "BDI012005_ndava",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_ngomo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngomo",
+      "en": "Ngomo",
+      "slug": "ngomo"
+    },
+    "code": {
+      "id": "BDI012005_ngomo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_nonwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nonwe",
+      "en": "Nonwe",
+      "slug": "nonwe"
+    },
+    "code": {
+      "id": "BDI012005_nonwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_nzove",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nzove",
+      "en": "Nzove",
+      "slug": "nzove"
+    },
+    "code": {
+      "id": "BDI012005_nzove",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_rubenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubenga",
+      "en": "Rubenga",
+      "slug": "rubenga"
+    },
+    "code": {
+      "id": "BDI012005_rubenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_rugese",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugese",
+      "en": "Rugese",
+      "slug": "rugese"
+    },
+    "code": {
+      "id": "BDI012005_rugese",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_rukungere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rukungere",
+      "en": "Rukungere",
+      "slug": "rukungere"
+    },
+    "code": {
+      "id": "BDI012005_rukungere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_rukusha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rukusha",
+      "en": "Rukusha",
+      "slug": "rukusha"
+    },
+    "code": {
+      "id": "BDI012005_rukusha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_rumandari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rumandari",
+      "en": "Rumandari",
+      "slug": "rumandari"
+    },
+    "code": {
+      "id": "BDI012005_rumandari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_rusenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusenyi",
+      "en": "Rusenyi",
+      "slug": "rusenyi"
+    },
+    "code": {
+      "id": "BDI012005_rusenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_ruzo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruzo",
+      "en": "Ruzo",
+      "slug": "ruzo"
+    },
+    "code": {
+      "id": "BDI012005_ruzo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_shoza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Shoza",
+      "en": "Shoza",
+      "slug": "shoza"
+    },
+    "code": {
+      "id": "BDI012005_shoza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_tura",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Tura",
+      "en": "Tura",
+      "slug": "tura"
+    },
+    "code": {
+      "id": "BDI012005_tura",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005_vumasi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Vumasi",
+      "en": "Vumasi",
+      "slug": "vumasi"
+    },
+    "code": {
+      "id": "BDI012005_vumasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012005",
+      "level": 2,
+      "name": {
+        "local": "Giteranyi",
+        "en": "Giteranyi",
+        "slug": "giteranyi-bdi012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012005",
+        "level": 2,
+        "name": {
+          "local": "Giteranyi",
+          "en": "Giteranyi",
+          "slug": "giteranyi-bdi012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

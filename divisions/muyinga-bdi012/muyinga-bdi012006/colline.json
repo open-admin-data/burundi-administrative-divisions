@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "BDI012006_bugomora",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugomora",
+      "en": "Bugomora",
+      "slug": "bugomora"
+    },
+    "code": {
+      "id": "BDI012006_bugomora",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_buhurana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhurana",
+      "en": "Buhurana",
+      "slug": "buhurana"
+    },
+    "code": {
+      "id": "BDI012006_buhurana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_bunywana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bunywana",
+      "en": "Bunywana",
+      "slug": "bunywana"
+    },
+    "code": {
+      "id": "BDI012006_bunywana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_burenza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burenza",
+      "en": "Burenza",
+      "slug": "burenza"
+    },
+    "code": {
+      "id": "BDI012006_burenza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_burima",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burima",
+      "en": "Burima",
+      "slug": "burima"
+    },
+    "code": {
+      "id": "BDI012006_burima",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_butihinda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butihinda",
+      "en": "Butihinda",
+      "slug": "butihinda"
+    },
+    "code": {
+      "id": "BDI012006_butihinda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_bwica",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bwica",
+      "en": "Bwica",
+      "slug": "bwica"
+    },
+    "code": {
+      "id": "BDI012006_bwica",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_cibari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cibari",
+      "en": "Cibari",
+      "slug": "cibari"
+    },
+    "code": {
+      "id": "BDI012006_cibari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_cumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cumba",
+      "en": "Cumba",
+      "slug": "cumba"
+    },
+    "code": {
+      "id": "BDI012006_cumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_gahororo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gahororo",
+      "en": "Gahororo",
+      "slug": "gahororo"
+    },
+    "code": {
+      "id": "BDI012006_gahororo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_gasasa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasasa",
+      "en": "Gasasa",
+      "slug": "gasasa"
+    },
+    "code": {
+      "id": "BDI012006_gasasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_gatongati",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatongati",
+      "en": "Gatongati",
+      "slug": "gatongati"
+    },
+    "code": {
+      "id": "BDI012006_gatongati",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_gatongati-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatongati Ii",
+      "en": "Gatongati Ii",
+      "slug": "gatongati-ii"
+    },
+    "code": {
+      "id": "BDI012006_gatongati-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_gatovu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatovu",
+      "en": "Gatovu",
+      "slug": "gatovu"
+    },
+    "code": {
+      "id": "BDI012006_gatovu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_gitongwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitongwe",
+      "en": "Gitongwe",
+      "slug": "gitongwe"
+    },
+    "code": {
+      "id": "BDI012006_gitongwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_karemera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karemera",
+      "en": "Karemera",
+      "slug": "karemera"
+    },
+    "code": {
+      "id": "BDI012006_karemera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_kavumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kavumu",
+      "en": "Kavumu",
+      "slug": "kavumu"
+    },
+    "code": {
+      "id": "BDI012006_kavumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_kayenzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kayenzi",
+      "en": "Kayenzi",
+      "slug": "kayenzi"
+    },
+    "code": {
+      "id": "BDI012006_kayenzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_kibogoye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibogoye",
+      "en": "Kibogoye",
+      "slug": "kibogoye"
+    },
+    "code": {
+      "id": "BDI012006_kibogoye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_kibongera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibongera",
+      "en": "Kibongera",
+      "slug": "kibongera"
+    },
+    "code": {
+      "id": "BDI012006_kibongera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_kinazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinazi",
+      "en": "Kinazi",
+      "slug": "kinazi"
+    },
+    "code": {
+      "id": "BDI012006_kinazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_kinyota",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinyota",
+      "en": "Kinyota",
+      "slug": "kinyota"
+    },
+    "code": {
+      "id": "BDI012006_kinyota",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_kiringaniro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiringaniro",
+      "en": "Kiringaniro",
+      "slug": "kiringaniro"
+    },
+    "code": {
+      "id": "BDI012006_kiringaniro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_kiryama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiryama",
+      "en": "Kiryama",
+      "slug": "kiryama"
+    },
+    "code": {
+      "id": "BDI012006_kiryama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_kivoga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivoga",
+      "en": "Kivoga",
+      "slug": "kivoga"
+    },
+    "code": {
+      "id": "BDI012006_kivoga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_kwibuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kwibuye",
+      "en": "Kwibuye",
+      "slug": "kwibuye"
+    },
+    "code": {
+      "id": "BDI012006_kwibuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_mageni",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mageni",
+      "en": "Mageni",
+      "slug": "mageni"
+    },
+    "code": {
+      "id": "BDI012006_mageni",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_mahonda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mahonda",
+      "en": "Mahonda",
+      "slug": "mahonda"
+    },
+    "code": {
+      "id": "BDI012006_mahonda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_mizuga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mizuga",
+      "en": "Mizuga",
+      "slug": "mizuga"
+    },
+    "code": {
+      "id": "BDI012006_mizuga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_mukoni",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mukoni",
+      "en": "Mukoni",
+      "slug": "mukoni"
+    },
+    "code": {
+      "id": "BDI012006_mukoni",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_munagano",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munagano",
+      "en": "Munagano",
+      "slug": "munagano"
+    },
+    "code": {
+      "id": "BDI012006_munagano",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_murama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murama",
+      "en": "Murama",
+      "slug": "murama"
+    },
+    "code": {
+      "id": "BDI012006_murama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_musenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musenga",
+      "en": "Musenga",
+      "slug": "musenga"
+    },
+    "code": {
+      "id": "BDI012006_musenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_musenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musenyi",
+      "en": "Musenyi",
+      "slug": "musenyi"
+    },
+    "code": {
+      "id": "BDI012006_musenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_muyinga-cu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyinga Cu",
+      "en": "Muyinga Cu",
+      "slug": "muyinga-cu"
+    },
+    "code": {
+      "id": "BDI012006_muyinga-cu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_mwurire",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwurire",
+      "en": "Mwurire",
+      "slug": "mwurire"
+    },
+    "code": {
+      "id": "BDI012006_mwurire",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_nkoyoyo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nkoyoyo",
+      "en": "Nkoyoyo",
+      "slug": "nkoyoyo"
+    },
+    "code": {
+      "id": "BDI012006_nkoyoyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_ntamba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ntamba",
+      "en": "Ntamba",
+      "slug": "ntamba"
+    },
+    "code": {
+      "id": "BDI012006_ntamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_nyamarumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamarumba",
+      "en": "Nyamarumba",
+      "slug": "nyamarumba"
+    },
+    "code": {
+      "id": "BDI012006_nyamarumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_nyamirambo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamirambo",
+      "en": "Nyamirambo",
+      "slug": "nyamirambo"
+    },
+    "code": {
+      "id": "BDI012006_nyamirambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_nyarusange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarusange",
+      "en": "Nyarusange",
+      "slug": "nyarusange"
+    },
+    "code": {
+      "id": "BDI012006_nyarusange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_ruganirwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruganirwa",
+      "en": "Ruganirwa",
+      "slug": "ruganirwa"
+    },
+    "code": {
+      "id": "BDI012006_ruganirwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_rugari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugari",
+      "en": "Rugari",
+      "slug": "rugari"
+    },
+    "code": {
+      "id": "BDI012006_rugari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_rusengo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusengo",
+      "en": "Rusengo",
+      "slug": "rusengo"
+    },
+    "code": {
+      "id": "BDI012006_rusengo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_rusumo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusumo",
+      "en": "Rusumo",
+      "slug": "rusumo"
+    },
+    "code": {
+      "id": "BDI012006_rusumo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_rutoke",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutoke",
+      "en": "Rutoke",
+      "slug": "rutoke"
+    },
+    "code": {
+      "id": "BDI012006_rutoke",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_ruyivyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruyivyi",
+      "en": "Ruyivyi",
+      "slug": "ruyivyi"
+    },
+    "code": {
+      "id": "BDI012006_ruyivyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_rwimbogo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwimbogo",
+      "en": "Rwimbogo",
+      "slug": "rwimbogo"
+    },
+    "code": {
+      "id": "BDI012006_rwimbogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_ryabihira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ryabihira",
+      "en": "Ryabihira",
+      "slug": "ryabihira"
+    },
+    "code": {
+      "id": "BDI012006_ryabihira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006_sanzwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Sanzwe",
+      "en": "Sanzwe",
+      "slug": "sanzwe"
+    },
+    "code": {
+      "id": "BDI012006_sanzwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012006",
+      "level": 2,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012006",
+        "level": 2,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

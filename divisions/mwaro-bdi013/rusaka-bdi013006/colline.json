@@ -1,0 +1,1568 @@
+[
+  {
+    "id": "BDI013006_bisha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bisha",
+      "en": "Bisha",
+      "slug": "bisha"
+    },
+    "code": {
+      "id": "BDI013006_bisha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_bugorora",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugorora",
+      "en": "Bugorora",
+      "slug": "bugorora"
+    },
+    "code": {
+      "id": "BDI013006_bugorora",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_bunyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bunyange",
+      "en": "Bunyange",
+      "slug": "bunyange"
+    },
+    "code": {
+      "id": "BDI013006_bunyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_gasenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasenyi",
+      "en": "Gasenyi",
+      "slug": "gasenyi"
+    },
+    "code": {
+      "id": "BDI013006_gasenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_gikebuka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikebuka",
+      "en": "Gikebuka",
+      "slug": "gikebuka"
+    },
+    "code": {
+      "id": "BDI013006_gikebuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_kibimba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibimba",
+      "en": "Kibimba",
+      "slug": "kibimba"
+    },
+    "code": {
+      "id": "BDI013006_kibimba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_kiga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiga",
+      "en": "Kiga",
+      "slug": "kiga"
+    },
+    "code": {
+      "id": "BDI013006_kiga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_kinyovu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinyovu",
+      "en": "Kinyovu",
+      "slug": "kinyovu"
+    },
+    "code": {
+      "id": "BDI013006_kinyovu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_kirambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirambi",
+      "en": "Kirambi",
+      "slug": "kirambi"
+    },
+    "code": {
+      "id": "BDI013006_kirambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_kiyege",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiyege",
+      "en": "Kiyege",
+      "slug": "kiyege"
+    },
+    "code": {
+      "id": "BDI013006_kiyege",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_kizi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kizi",
+      "en": "Kizi",
+      "slug": "kizi"
+    },
+    "code": {
+      "id": "BDI013006_kizi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_mahonda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mahonda",
+      "en": "Mahonda",
+      "slug": "mahonda"
+    },
+    "code": {
+      "id": "BDI013006_mahonda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_makamba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Makamba",
+      "en": "Makamba",
+      "slug": "makamba"
+    },
+    "code": {
+      "id": "BDI013006_makamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_martyazo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Martyazo",
+      "en": "Martyazo",
+      "slug": "martyazo"
+    },
+    "code": {
+      "id": "BDI013006_martyazo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_mpumbu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mpumbu",
+      "en": "Mpumbu",
+      "slug": "mpumbu"
+    },
+    "code": {
+      "id": "BDI013006_mpumbu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_murambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murambi",
+      "en": "Murambi",
+      "slug": "murambi"
+    },
+    "code": {
+      "id": "BDI013006_murambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_mureba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mureba",
+      "en": "Mureba",
+      "slug": "mureba"
+    },
+    "code": {
+      "id": "BDI013006_mureba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_namande",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Namande",
+      "en": "Namande",
+      "slug": "namande"
+    },
+    "code": {
+      "id": "BDI013006_namande",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_nkundusi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nkundusi",
+      "en": "Nkundusi",
+      "slug": "nkundusi"
+    },
+    "code": {
+      "id": "BDI013006_nkundusi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_nkurunzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nkurunzi",
+      "en": "Nkurunzi",
+      "slug": "nkurunzi"
+    },
+    "code": {
+      "id": "BDI013006_nkurunzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_nyagashanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyagashanga",
+      "en": "Nyagashanga",
+      "slug": "nyagashanga"
+    },
+    "code": {
+      "id": "BDI013006_nyagashanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_nyamigogo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamigogo",
+      "en": "Nyamigogo",
+      "slug": "nyamigogo"
+    },
+    "code": {
+      "id": "BDI013006_nyamigogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_nyamiyaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamiyaga",
+      "en": "Nyamiyaga",
+      "slug": "nyamiyaga"
+    },
+    "code": {
+      "id": "BDI013006_nyamiyaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_nyamugari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamugari",
+      "en": "Nyamugari",
+      "slug": "nyamugari"
+    },
+    "code": {
+      "id": "BDI013006_nyamugari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_nyamurenge",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamurenge",
+      "en": "Nyamurenge",
+      "slug": "nyamurenge"
+    },
+    "code": {
+      "id": "BDI013006_nyamurenge",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_rucunda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rucunda",
+      "en": "Rucunda",
+      "slug": "rucunda"
+    },
+    "code": {
+      "id": "BDI013006_rucunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_rusaka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusaka",
+      "en": "Rusaka",
+      "slug": "rusaka"
+    },
+    "code": {
+      "id": "BDI013006_rusaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_rwintare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwintare",
+      "en": "Rwintare",
+      "slug": "rwintare"
+    },
+    "code": {
+      "id": "BDI013006_rwintare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006_shana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Shana",
+      "en": "Shana",
+      "slug": "shana"
+    },
+    "code": {
+      "id": "BDI013006_shana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013006",
+      "level": 2,
+      "name": {
+        "local": "Rusaka",
+        "en": "Rusaka",
+        "slug": "rusaka-bdi013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013006",
+        "level": 2,
+        "name": {
+          "local": "Rusaka",
+          "en": "Rusaka",
+          "slug": "rusaka-bdi013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

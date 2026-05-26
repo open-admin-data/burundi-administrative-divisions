@@ -1,0 +1,12 @@
+id,name.local,name.en,name.slug,code.id,children_count.colline,geo.lat,geo.lon
+BDI006001,Bugendana,Bugendana,bugendana-bdi006001,BDI006001,23,-3.249,29.92
+BDI006002,Bukirasazi,Bukirasazi,bukirasazi-bdi006002,BDI006002,18,-3.703,29.967
+BDI006003,Buraza,Buraza,buraza-bdi006003,BDI006003,19,-3.767,29.924
+BDI006004,Giheta,Giheta,giheta-bdi006004,BDI006004,32,-3.331,29.882
+BDI006005,Gishubi,Gishubi,gishubi-bdi006005,BDI006005,34,-3.608,29.886
+BDI006006,Gitega,Gitega,gitega-bdi006006,BDI006006,39,-3.437,29.968
+BDI006007,Itaba,Itaba,itaba-bdi006007,BDI006007,20,-3.599,30.058
+BDI006008,Makebuko,Makebuko,makebuko-bdi006008,BDI006008,29,-3.577,29.967
+BDI006009,Mutaho,Mutaho,mutaho-bdi006009,BDI006009,18,-3.145,29.874
+BDI006011,Nyanrusange,Nyanrusange,nyanrusange-bdi006011,BDI006011,18,-3.58,29.814
+BDI006010,Ryansoro,Ryansoro,ryansoro-bdi006010,BDI006010,18,-3.722,29.808

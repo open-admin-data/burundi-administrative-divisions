@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "BDI011004_biganda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Biganda",
+      "en": "Biganda",
+      "slug": "biganda"
+    },
+    "code": {
+      "id": "BDI011004_biganda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011004",
+      "level": 2,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011004",
+        "level": 2,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011004_burambana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burambana",
+      "en": "Burambana",
+      "slug": "burambana"
+    },
+    "code": {
+      "id": "BDI011004_burambana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011004",
+      "level": 2,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011004",
+        "level": 2,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011004_busimba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Busimba",
+      "en": "Busimba",
+      "slug": "busimba"
+    },
+    "code": {
+      "id": "BDI011004_busimba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011004",
+      "level": 2,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011004",
+        "level": 2,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011004_gakenke",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gakenke",
+      "en": "Gakenke",
+      "slug": "gakenke"
+    },
+    "code": {
+      "id": "BDI011004_gakenke",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011004",
+      "level": 2,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011004",
+        "level": 2,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011004_gatebe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatebe",
+      "en": "Gatebe",
+      "slug": "gatebe"
+    },
+    "code": {
+      "id": "BDI011004_gatebe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011004",
+      "level": 2,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011004",
+        "level": 2,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011004_gatwaro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatwaro",
+      "en": "Gatwaro",
+      "slug": "gatwaro"
+    },
+    "code": {
+      "id": "BDI011004_gatwaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011004",
+      "level": 2,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011004",
+        "level": 2,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011004_gishubi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gishubi",
+      "en": "Gishubi",
+      "slug": "gishubi"
+    },
+    "code": {
+      "id": "BDI011004_gishubi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011004",
+      "level": 2,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011004",
+        "level": 2,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011004_kavya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kavya",
+      "en": "Kavya",
+      "slug": "kavya"
+    },
+    "code": {
+      "id": "BDI011004_kavya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011004",
+      "level": 2,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011004",
+        "level": 2,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011004_kibogoye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibogoye",
+      "en": "Kibogoye",
+      "slug": "kibogoye"
+    },
+    "code": {
+      "id": "BDI011004_kibogoye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011004",
+      "level": 2,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011004",
+        "level": 2,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011004_kirama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirama",
+      "en": "Kirama",
+      "slug": "kirama"
+    },
+    "code": {
+      "id": "BDI011004_kirama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011004",
+      "level": 2,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011004",
+        "level": 2,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011004_masango",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masango",
+      "en": "Masango",
+      "slug": "masango"
+    },
+    "code": {
+      "id": "BDI011004_masango",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011004",
+      "level": 2,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011004",
+        "level": 2,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011004_mirinzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mirinzi",
+      "en": "Mirinzi",
+      "slug": "mirinzi"
+    },
+    "code": {
+      "id": "BDI011004_mirinzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011004",
+      "level": 2,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011004",
+        "level": 2,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011004_mpehe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mpehe",
+      "en": "Mpehe",
+      "slug": "mpehe"
+    },
+    "code": {
+      "id": "BDI011004_mpehe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011004",
+      "level": 2,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011004",
+        "level": 2,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011004_mubira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mubira",
+      "en": "Mubira",
+      "slug": "mubira"
+    },
+    "code": {
+      "id": "BDI011004_mubira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011004",
+      "level": 2,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011004",
+        "level": 2,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011004_mugomere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugomere",
+      "en": "Mugomere",
+      "slug": "mugomere"
+    },
+    "code": {
+      "id": "BDI011004_mugomere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011004",
+      "level": 2,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011004",
+        "level": 2,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011004_muhweza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muhweza",
+      "en": "Muhweza",
+      "slug": "muhweza"
+    },
+    "code": {
+      "id": "BDI011004_muhweza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011004",
+      "level": 2,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011004",
+        "level": 2,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011004_murambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murambi",
+      "en": "Murambi",
+      "slug": "murambi"
+    },
+    "code": {
+      "id": "BDI011004_murambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011004",
+      "level": 2,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011004",
+        "level": 2,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011004_muramvya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muramvya",
+      "en": "Muramvya",
+      "slug": "muramvya"
+    },
+    "code": {
+      "id": "BDI011004_muramvya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011004",
+      "level": 2,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011004",
+        "level": 2,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011004_musagara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musagara",
+      "en": "Musagara",
+      "slug": "musagara"
+    },
+    "code": {
+      "id": "BDI011004_musagara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011004",
+      "level": 2,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011004",
+        "level": 2,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011004_remera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Remera",
+      "en": "Remera",
+      "slug": "remera"
+    },
+    "code": {
+      "id": "BDI011004_remera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011004",
+      "level": 2,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011004",
+        "level": 2,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011004_ruhinga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhinga",
+      "en": "Ruhinga",
+      "slug": "ruhinga"
+    },
+    "code": {
+      "id": "BDI011004_ruhinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011004",
+      "level": 2,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011004",
+        "level": 2,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011004_shombo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Shombo",
+      "en": "Shombo",
+      "slug": "shombo"
+    },
+    "code": {
+      "id": "BDI011004_shombo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011004",
+      "level": 2,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011004",
+        "level": 2,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

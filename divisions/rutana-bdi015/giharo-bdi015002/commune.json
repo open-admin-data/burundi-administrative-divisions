@@ -1,0 +1,47 @@
+{
+  "id": "BDI015002",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Giharo",
+    "en": "Giharo",
+    "slug": "giharo-bdi015002"
+  },
+  "code": {
+    "id": "BDI015002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI015",
+    "level": 1,
+    "name": {
+      "local": "Rutana",
+      "en": "Rutana",
+      "slug": "rutana-bdi015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI015",
+      "level": 1,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.829",
+    "lon": "30.247"
+  },
+  "metadata": {},
+  "source": {}
+}

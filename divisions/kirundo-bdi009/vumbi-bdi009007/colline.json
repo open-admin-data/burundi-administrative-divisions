@@ -1,0 +1,1946 @@
+[
+  {
+    "id": "BDI009007_burarana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burarana",
+      "en": "Burarana",
+      "slug": "burarana"
+    },
+    "code": {
+      "id": "BDI009007_burarana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_butsimba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butsimba",
+      "en": "Butsimba",
+      "slug": "butsimba"
+    },
+    "code": {
+      "id": "BDI009007_butsimba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_bwinyana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bwinyana",
+      "en": "Bwinyana",
+      "slug": "bwinyana"
+    },
+    "code": {
+      "id": "BDI009007_bwinyana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_canika",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Canika",
+      "en": "Canika",
+      "slug": "canika"
+    },
+    "code": {
+      "id": "BDI009007_canika",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_cendajuru",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cendajuru",
+      "en": "Cendajuru",
+      "slug": "cendajuru"
+    },
+    "code": {
+      "id": "BDI009007_cendajuru",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_gahe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gahe",
+      "en": "Gahe",
+      "slug": "gahe"
+    },
+    "code": {
+      "id": "BDI009007_gahe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_gashingwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gashingwa",
+      "en": "Gashingwa",
+      "slug": "gashingwa"
+    },
+    "code": {
+      "id": "BDI009007_gashingwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_gasura",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasura",
+      "en": "Gasura",
+      "slug": "gasura"
+    },
+    "code": {
+      "id": "BDI009007_gasura",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_gatare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatare",
+      "en": "Gatare",
+      "slug": "gatare"
+    },
+    "code": {
+      "id": "BDI009007_gatare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_gikomero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikomero",
+      "en": "Gikomero",
+      "slug": "gikomero"
+    },
+    "code": {
+      "id": "BDI009007_gikomero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_kabirizi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabirizi",
+      "en": "Kabirizi",
+      "slug": "kabirizi"
+    },
+    "code": {
+      "id": "BDI009007_kabirizi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_kabuye-gitanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabuye Gitanga",
+      "en": "Kabuye Gitanga",
+      "slug": "kabuye-gitanga"
+    },
+    "code": {
+      "id": "BDI009007_kabuye-gitanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_kabuye-shororo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabuye Shororo",
+      "en": "Kabuye Shororo",
+      "slug": "kabuye-shororo"
+    },
+    "code": {
+      "id": "BDI009007_kabuye-shororo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_kavumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kavumu",
+      "en": "Kavumu",
+      "slug": "kavumu"
+    },
+    "code": {
+      "id": "BDI009007_kavumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_kigobe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigobe",
+      "en": "Kigobe",
+      "slug": "kigobe"
+    },
+    "code": {
+      "id": "BDI009007_kigobe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_kiraro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiraro",
+      "en": "Kiraro",
+      "slug": "kiraro"
+    },
+    "code": {
+      "id": "BDI009007_kiraro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_kirima",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirima",
+      "en": "Kirima",
+      "slug": "kirima"
+    },
+    "code": {
+      "id": "BDI009007_kirima",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_kiziba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiziba",
+      "en": "Kiziba",
+      "slug": "kiziba"
+    },
+    "code": {
+      "id": "BDI009007_kiziba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_martyazo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Martyazo",
+      "en": "Martyazo",
+      "slug": "martyazo"
+    },
+    "code": {
+      "id": "BDI009007_martyazo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_mbasi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mbasi",
+      "en": "Mbasi",
+      "slug": "mbasi"
+    },
+    "code": {
+      "id": "BDI009007_mbasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_muramba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muramba",
+      "en": "Muramba",
+      "slug": "muramba"
+    },
+    "code": {
+      "id": "BDI009007_muramba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_mutoyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mutoyi",
+      "en": "Mutoyi",
+      "slug": "mutoyi"
+    },
+    "code": {
+      "id": "BDI009007_mutoyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_muyebe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyebe",
+      "en": "Muyebe",
+      "slug": "muyebe"
+    },
+    "code": {
+      "id": "BDI009007_muyebe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_nyabihanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabihanga",
+      "en": "Nyabihanga",
+      "slug": "nyabihanga"
+    },
+    "code": {
+      "id": "BDI009007_nyabihanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_nyabikenke",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabikenke",
+      "en": "Nyabikenke",
+      "slug": "nyabikenke"
+    },
+    "code": {
+      "id": "BDI009007_nyabikenke",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_nyagatovu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyagatovu",
+      "en": "Nyagatovu",
+      "slug": "nyagatovu"
+    },
+    "code": {
+      "id": "BDI009007_nyagatovu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_nyakibande",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakibande",
+      "en": "Nyakibande",
+      "slug": "nyakibande"
+    },
+    "code": {
+      "id": "BDI009007_nyakibande",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_nyamirembe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamirembe",
+      "en": "Nyamirembe",
+      "slug": "nyamirembe"
+    },
+    "code": {
+      "id": "BDI009007_nyamirembe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_nyamisagara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamisagara",
+      "en": "Nyamisagara",
+      "slug": "nyamisagara"
+    },
+    "code": {
+      "id": "BDI009007_nyamisagara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_nyamivuma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamivuma",
+      "en": "Nyamivuma",
+      "slug": "nyamivuma"
+    },
+    "code": {
+      "id": "BDI009007_nyamivuma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_nyamyumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamyumba",
+      "en": "Nyamyumba",
+      "slug": "nyamyumba"
+    },
+    "code": {
+      "id": "BDI009007_nyamyumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_ruhengeri",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhengeri",
+      "en": "Ruhengeri",
+      "slug": "ruhengeri"
+    },
+    "code": {
+      "id": "BDI009007_ruhengeri",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_rwamikore",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwamikore",
+      "en": "Rwamikore",
+      "slug": "rwamikore"
+    },
+    "code": {
+      "id": "BDI009007_rwamikore",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_rwimanzovu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwimanzovu",
+      "en": "Rwimanzovu",
+      "slug": "rwimanzovu"
+    },
+    "code": {
+      "id": "BDI009007_rwimanzovu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_rwisuri",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwisuri",
+      "en": "Rwisuri",
+      "slug": "rwisuri"
+    },
+    "code": {
+      "id": "BDI009007_rwisuri",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007_vumbi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Vumbi",
+      "en": "Vumbi",
+      "slug": "vumbi"
+    },
+    "code": {
+      "id": "BDI009007_vumbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009007",
+      "level": 2,
+      "name": {
+        "local": "Vumbi",
+        "en": "Vumbi",
+        "slug": "vumbi-bdi009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009007",
+        "level": 2,
+        "name": {
+          "local": "Vumbi",
+          "en": "Vumbi",
+          "slug": "vumbi-bdi009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "BDI008006_bandaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bandaga",
+      "en": "Bandaga",
+      "slug": "bandaga"
+    },
+    "code": {
+      "id": "BDI008006_bandaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_banga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Banga",
+      "en": "Banga",
+      "slug": "banga"
+    },
+    "code": {
+      "id": "BDI008006_banga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_bihunge",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bihunge",
+      "en": "Bihunge",
+      "slug": "bihunge"
+    },
+    "code": {
+      "id": "BDI008006_bihunge",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_burarana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burarana",
+      "en": "Burarana",
+      "slug": "burarana"
+    },
+    "code": {
+      "id": "BDI008006_burarana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_burengo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burengo",
+      "en": "Burengo",
+      "slug": "burengo"
+    },
+    "code": {
+      "id": "BDI008006_burengo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_butuhurana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butuhurana",
+      "en": "Butuhurana",
+      "slug": "butuhurana"
+    },
+    "code": {
+      "id": "BDI008006_butuhurana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_bwayi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bwayi",
+      "en": "Bwayi",
+      "slug": "bwayi"
+    },
+    "code": {
+      "id": "BDI008006_bwayi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_bwisange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bwisange",
+      "en": "Bwisange",
+      "slug": "bwisange"
+    },
+    "code": {
+      "id": "BDI008006_bwisange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_camizi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Camizi",
+      "en": "Camizi",
+      "slug": "camizi"
+    },
+    "code": {
+      "id": "BDI008006_camizi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_gasare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasare",
+      "en": "Gasare",
+      "slug": "gasare"
+    },
+    "code": {
+      "id": "BDI008006_gasare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_gitwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitwe",
+      "en": "Gitwe",
+      "slug": "gitwe"
+    },
+    "code": {
+      "id": "BDI008006_gitwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_kabuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabuye",
+      "en": "Kabuye",
+      "slug": "kabuye"
+    },
+    "code": {
+      "id": "BDI008006_kabuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_kibavu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibavu",
+      "en": "Kibavu",
+      "slug": "kibavu"
+    },
+    "code": {
+      "id": "BDI008006_kibavu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_kijuri",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kijuri",
+      "en": "Kijuri",
+      "slug": "kijuri"
+    },
+    "code": {
+      "id": "BDI008006_kijuri",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_kinyovu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinyovu",
+      "en": "Kinyovu",
+      "slug": "kinyovu"
+    },
+    "code": {
+      "id": "BDI008006_kinyovu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_kivumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivumu",
+      "en": "Kivumu",
+      "slug": "kivumu"
+    },
+    "code": {
+      "id": "BDI008006_kivumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_matongo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Matongo",
+      "en": "Matongo",
+      "slug": "matongo"
+    },
+    "code": {
+      "id": "BDI008006_matongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_mikamba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mikamba",
+      "en": "Mikamba",
+      "slug": "mikamba"
+    },
+    "code": {
+      "id": "BDI008006_mikamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_mpemba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mpemba",
+      "en": "Mpemba",
+      "slug": "mpemba"
+    },
+    "code": {
+      "id": "BDI008006_mpemba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_muganza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muganza",
+      "en": "Muganza",
+      "slug": "muganza"
+    },
+    "code": {
+      "id": "BDI008006_muganza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_munini",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munini",
+      "en": "Munini",
+      "slug": "munini"
+    },
+    "code": {
+      "id": "BDI008006_munini",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_munyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munyinya",
+      "en": "Munyinya",
+      "slug": "munyinya"
+    },
+    "code": {
+      "id": "BDI008006_munyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_murambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murambi",
+      "en": "Murambi",
+      "slug": "murambi"
+    },
+    "code": {
+      "id": "BDI008006_murambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_musonge",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musonge",
+      "en": "Musonge",
+      "slug": "musonge"
+    },
+    "code": {
+      "id": "BDI008006_musonge",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_mutarure",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mutarure",
+      "en": "Mutarure",
+      "slug": "mutarure"
+    },
+    "code": {
+      "id": "BDI008006_mutarure",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_mvumvu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mvumvu",
+      "en": "Mvumvu",
+      "slug": "mvumvu"
+    },
+    "code": {
+      "id": "BDI008006_mvumvu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_ngoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngoro",
+      "en": "Ngoro",
+      "slug": "ngoro"
+    },
+    "code": {
+      "id": "BDI008006_ngoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_nteko",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nteko",
+      "en": "Nteko",
+      "slug": "nteko"
+    },
+    "code": {
+      "id": "BDI008006_nteko",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_nyakibingo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakibingo",
+      "en": "Nyakibingo",
+      "slug": "nyakibingo"
+    },
+    "code": {
+      "id": "BDI008006_nyakibingo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_nyarumanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarumanga",
+      "en": "Nyarumanga",
+      "slug": "nyarumanga"
+    },
+    "code": {
+      "id": "BDI008006_nyarumanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_nyarurambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarurambi",
+      "en": "Nyarurambi",
+      "slug": "nyarurambi"
+    },
+    "code": {
+      "id": "BDI008006_nyarurambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_rudehe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rudehe",
+      "en": "Rudehe",
+      "slug": "rudehe"
+    },
+    "code": {
+      "id": "BDI008006_rudehe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_ruganza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruganza",
+      "en": "Ruganza",
+      "slug": "ruganza"
+    },
+    "code": {
+      "id": "BDI008006_ruganza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_rukoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rukoma",
+      "en": "Rukoma",
+      "slug": "rukoma"
+    },
+    "code": {
+      "id": "BDI008006_rukoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006_ruvumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruvumu",
+      "en": "Ruvumu",
+      "slug": "ruvumu"
+    },
+    "code": {
+      "id": "BDI008006_ruvumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008006",
+      "level": 2,
+      "name": {
+        "local": "Matongo",
+        "en": "Matongo",
+        "slug": "matongo-bdi008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008006",
+        "level": 2,
+        "name": {
+          "local": "Matongo",
+          "en": "Matongo",
+          "slug": "matongo-bdi008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "BDI003",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Bururi",
+    "en": "Bururi",
+    "slug": "bururi-bdi003"
+  },
+  "code": {
+    "id": "BDI003",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 6,
+    "colline": 130
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.859",
+    "lon": "29.732"
+  },
+  "metadata": {},
+  "source": {}
+}

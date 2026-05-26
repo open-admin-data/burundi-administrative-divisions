@@ -1,0 +1,1568 @@
+[
+  {
+    "id": "BDI008003_bubogoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bubogoro",
+      "en": "Bubogoro",
+      "slug": "bubogoro"
+    },
+    "code": {
+      "id": "BDI008003_bubogoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_gakenke",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gakenke",
+      "en": "Gakenke",
+      "slug": "gakenke"
+    },
+    "code": {
+      "id": "BDI008003_gakenke",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_gatara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatara",
+      "en": "Gatara",
+      "slug": "gatara"
+    },
+    "code": {
+      "id": "BDI008003_gatara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_gihororo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gihororo",
+      "en": "Gihororo",
+      "slug": "gihororo"
+    },
+    "code": {
+      "id": "BDI008003_gihororo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_gisyo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisyo",
+      "en": "Gisyo",
+      "slug": "gisyo"
+    },
+    "code": {
+      "id": "BDI008003_gisyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_gitwenge",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitwenge",
+      "en": "Gitwenge",
+      "slug": "gitwenge"
+    },
+    "code": {
+      "id": "BDI008003_gitwenge",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_kabungo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabungo",
+      "en": "Kabungo",
+      "slug": "kabungo"
+    },
+    "code": {
+      "id": "BDI008003_kabungo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_kanyankuru",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kanyankuru",
+      "en": "Kanyankuru",
+      "slug": "kanyankuru"
+    },
+    "code": {
+      "id": "BDI008003_kanyankuru",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_karambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karambi",
+      "en": "Karambi",
+      "slug": "karambi"
+    },
+    "code": {
+      "id": "BDI008003_karambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_karurusi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karurusi",
+      "en": "Karurusi",
+      "slug": "karurusi"
+    },
+    "code": {
+      "id": "BDI008003_karurusi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_kibaribari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibaribari",
+      "en": "Kibaribari",
+      "slug": "kibaribari"
+    },
+    "code": {
+      "id": "BDI008003_kibaribari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_kibayi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibayi",
+      "en": "Kibayi",
+      "slug": "kibayi"
+    },
+    "code": {
+      "id": "BDI008003_kibayi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_kibenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibenga",
+      "en": "Kibenga",
+      "slug": "kibenga"
+    },
+    "code": {
+      "id": "BDI008003_kibenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_kigume",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigume",
+      "en": "Kigume",
+      "slug": "kigume"
+    },
+    "code": {
+      "id": "BDI008003_kigume",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_kivuruga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivuruga",
+      "en": "Kivuruga",
+      "slug": "kivuruga"
+    },
+    "code": {
+      "id": "BDI008003_kivuruga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_mbirizi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mbirizi",
+      "en": "Mbirizi",
+      "slug": "mbirizi"
+    },
+    "code": {
+      "id": "BDI008003_mbirizi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_migende",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Migende",
+      "en": "Migende",
+      "slug": "migende"
+    },
+    "code": {
+      "id": "BDI008003_migende",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_mudusi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mudusi",
+      "en": "Mudusi",
+      "slug": "mudusi"
+    },
+    "code": {
+      "id": "BDI008003_mudusi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_muhinga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muhinga",
+      "en": "Muhinga",
+      "slug": "muhinga"
+    },
+    "code": {
+      "id": "BDI008003_muhinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_munini",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munini",
+      "en": "Munini",
+      "slug": "munini"
+    },
+    "code": {
+      "id": "BDI008003_munini",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_murago",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murago",
+      "en": "Murago",
+      "slug": "murago"
+    },
+    "code": {
+      "id": "BDI008003_murago",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_ngendo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngendo",
+      "en": "Ngendo",
+      "slug": "ngendo"
+    },
+    "code": {
+      "id": "BDI008003_ngendo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_ngoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngoro",
+      "en": "Ngoro",
+      "slug": "ngoro"
+    },
+    "code": {
+      "id": "BDI008003_ngoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_nteko",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nteko",
+      "en": "Nteko",
+      "slug": "nteko"
+    },
+    "code": {
+      "id": "BDI008003_nteko",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_nyarubabi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarubabi",
+      "en": "Nyarubabi",
+      "slug": "nyarubabi"
+    },
+    "code": {
+      "id": "BDI008003_nyarubabi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_rubagabaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubagabaga",
+      "en": "Rubagabaga",
+      "slug": "rubagabaga"
+    },
+    "code": {
+      "id": "BDI008003_rubagabaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_ruhengeri",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhengeri",
+      "en": "Ruhengeri",
+      "slug": "ruhengeri"
+    },
+    "code": {
+      "id": "BDI008003_ruhengeri",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_rwankuba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwankuba",
+      "en": "Rwankuba",
+      "slug": "rwankuba"
+    },
+    "code": {
+      "id": "BDI008003_rwankuba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003_shinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Shinya",
+      "en": "Shinya",
+      "slug": "shinya"
+    },
+    "code": {
+      "id": "BDI008003_shinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008003",
+      "level": 2,
+      "name": {
+        "local": "Gatara",
+        "en": "Gatara",
+        "slug": "gatara-bdi008003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008003",
+        "level": 2,
+        "name": {
+          "local": "Gatara",
+          "en": "Gatara",
+          "slug": "gatara-bdi008003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

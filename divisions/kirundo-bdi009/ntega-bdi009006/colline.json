@@ -1,0 +1,2000 @@
+[
+  {
+    "id": "BDI009006_bugorora",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugorora",
+      "en": "Bugorora",
+      "slug": "bugorora"
+    },
+    "code": {
+      "id": "BDI009006_bugorora",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_buringanire",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buringanire",
+      "en": "Buringanire",
+      "slug": "buringanire"
+    },
+    "code": {
+      "id": "BDI009006_buringanire",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_carubambo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Carubambo",
+      "en": "Carubambo",
+      "slug": "carubambo"
+    },
+    "code": {
+      "id": "BDI009006_carubambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_gasave",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasave",
+      "en": "Gasave",
+      "slug": "gasave"
+    },
+    "code": {
+      "id": "BDI009006_gasave",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_gatanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatanga",
+      "en": "Gatanga",
+      "slug": "gatanga"
+    },
+    "code": {
+      "id": "BDI009006_gatanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_gatwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatwe",
+      "en": "Gatwe",
+      "slug": "gatwe"
+    },
+    "code": {
+      "id": "BDI009006_gatwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_gihome",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gihome",
+      "en": "Gihome",
+      "slug": "gihome"
+    },
+    "code": {
+      "id": "BDI009006_gihome",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_gisitwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisitwe",
+      "en": "Gisitwe",
+      "slug": "gisitwe"
+    },
+    "code": {
+      "id": "BDI009006_gisitwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_gitwenzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitwenzi",
+      "en": "Gitwenzi",
+      "slug": "gitwenzi"
+    },
+    "code": {
+      "id": "BDI009006_gitwenzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_kamenya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kamenya",
+      "en": "Kamenya",
+      "slug": "kamenya"
+    },
+    "code": {
+      "id": "BDI009006_kamenya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_kanabugiri",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kanabugiri",
+      "en": "Kanabugiri",
+      "slug": "kanabugiri"
+    },
+    "code": {
+      "id": "BDI009006_kanabugiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_kanyagu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kanyagu",
+      "en": "Kanyagu",
+      "slug": "kanyagu"
+    },
+    "code": {
+      "id": "BDI009006_kanyagu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_kigaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigaga",
+      "en": "Kigaga",
+      "slug": "kigaga"
+    },
+    "code": {
+      "id": "BDI009006_kigaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_kigina",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigina",
+      "en": "Kigina",
+      "slug": "kigina"
+    },
+    "code": {
+      "id": "BDI009006_kigina",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_kinyovu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinyovu",
+      "en": "Kinyovu",
+      "slug": "kinyovu"
+    },
+    "code": {
+      "id": "BDI009006_kinyovu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_makombe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Makombe",
+      "en": "Makombe",
+      "slug": "makombe"
+    },
+    "code": {
+      "id": "BDI009006_makombe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_mariza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mariza",
+      "en": "Mariza",
+      "slug": "mariza"
+    },
+    "code": {
+      "id": "BDI009006_mariza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_mihigo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mihigo",
+      "en": "Mihigo",
+      "slug": "mihigo"
+    },
+    "code": {
+      "id": "BDI009006_mihigo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_monge",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Monge",
+      "en": "Monge",
+      "slug": "monge"
+    },
+    "code": {
+      "id": "BDI009006_monge",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_mugendo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugendo",
+      "en": "Mugendo",
+      "slug": "mugendo"
+    },
+    "code": {
+      "id": "BDI009006_mugendo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_murarambwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murarambwe",
+      "en": "Murarambwe",
+      "slug": "murarambwe"
+    },
+    "code": {
+      "id": "BDI009006_murarambwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_murungurira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murungurira",
+      "en": "Murungurira",
+      "slug": "murungurira"
+    },
+    "code": {
+      "id": "BDI009006_murungurira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_muyinza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyinza",
+      "en": "Muyinza",
+      "slug": "muyinza"
+    },
+    "code": {
+      "id": "BDI009006_muyinza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_mwendo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwendo",
+      "en": "Mwendo",
+      "slug": "mwendo"
+    },
+    "code": {
+      "id": "BDI009006_mwendo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_nkorwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nkorwe",
+      "en": "Nkorwe",
+      "slug": "nkorwe"
+    },
+    "code": {
+      "id": "BDI009006_nkorwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_ntago",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ntago",
+      "en": "Ntago",
+      "slug": "ntago"
+    },
+    "code": {
+      "id": "BDI009006_ntago",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_ntega",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ntega",
+      "en": "Ntega",
+      "slug": "ntega"
+    },
+    "code": {
+      "id": "BDI009006_ntega",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_nyakibingo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakibingo",
+      "en": "Nyakibingo",
+      "slug": "nyakibingo"
+    },
+    "code": {
+      "id": "BDI009006_nyakibingo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_nyemera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyemera",
+      "en": "Nyemera",
+      "slug": "nyemera"
+    },
+    "code": {
+      "id": "BDI009006_nyemera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_rugese",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugese",
+      "en": "Rugese",
+      "slug": "rugese"
+    },
+    "code": {
+      "id": "BDI009006_rugese",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_rukore",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rukore",
+      "en": "Rukore",
+      "slug": "rukore"
+    },
+    "code": {
+      "id": "BDI009006_rukore",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_runyankezi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Runyankezi",
+      "en": "Runyankezi",
+      "slug": "runyankezi"
+    },
+    "code": {
+      "id": "BDI009006_runyankezi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_rushubije",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rushubije",
+      "en": "Rushubije",
+      "slug": "rushubije"
+    },
+    "code": {
+      "id": "BDI009006_rushubije",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_rutagara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutagara",
+      "en": "Rutagara",
+      "slug": "rutagara"
+    },
+    "code": {
+      "id": "BDI009006_rutagara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_rwimbogo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwimbogo",
+      "en": "Rwimbogo",
+      "slug": "rwimbogo"
+    },
+    "code": {
+      "id": "BDI009006_rwimbogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_sasa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Sasa",
+      "en": "Sasa",
+      "slug": "sasa"
+    },
+    "code": {
+      "id": "BDI009006_sasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006_susa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Susa",
+      "en": "Susa",
+      "slug": "susa"
+    },
+    "code": {
+      "id": "BDI009006_susa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009006",
+      "level": 2,
+      "name": {
+        "local": "Ntega",
+        "en": "Ntega",
+        "slug": "ntega-bdi009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009006",
+        "level": 2,
+        "name": {
+          "local": "Ntega",
+          "en": "Ntega",
+          "slug": "ntega-bdi009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

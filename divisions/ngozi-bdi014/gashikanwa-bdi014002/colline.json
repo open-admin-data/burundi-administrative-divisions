@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "BDI014002_buhoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhoro",
+      "en": "Buhoro",
+      "slug": "buhoro"
+    },
+    "code": {
+      "id": "BDI014002_buhoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_butaganda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butaganda",
+      "en": "Butaganda",
+      "slug": "butaganda"
+    },
+    "code": {
+      "id": "BDI014002_butaganda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_butaha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butaha",
+      "en": "Butaha",
+      "slug": "butaha"
+    },
+    "code": {
+      "id": "BDI014002_butaha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_cihonda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cihonda",
+      "en": "Cihonda",
+      "slug": "cihonda"
+    },
+    "code": {
+      "id": "BDI014002_cihonda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_gashikanwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gashikanwa",
+      "en": "Gashikanwa",
+      "slug": "gashikanwa"
+    },
+    "code": {
+      "id": "BDI014002_gashikanwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_gatare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatare",
+      "en": "Gatare",
+      "slug": "gatare"
+    },
+    "code": {
+      "id": "BDI014002_gatare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_gatukuza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatukuza",
+      "en": "Gatukuza",
+      "slug": "gatukuza"
+    },
+    "code": {
+      "id": "BDI014002_gatukuza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_gitanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitanga",
+      "en": "Gitanga",
+      "slug": "gitanga"
+    },
+    "code": {
+      "id": "BDI014002_gitanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_kabamba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabamba",
+      "en": "Kabamba",
+      "slug": "kabamba"
+    },
+    "code": {
+      "id": "BDI014002_kabamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_kivumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivumu",
+      "en": "Kivumu",
+      "slug": "kivumu"
+    },
+    "code": {
+      "id": "BDI014002_kivumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_mafuro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mafuro",
+      "en": "Mafuro",
+      "slug": "mafuro"
+    },
+    "code": {
+      "id": "BDI014002_mafuro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_maruri",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Maruri",
+      "en": "Maruri",
+      "slug": "maruri"
+    },
+    "code": {
+      "id": "BDI014002_maruri",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_musumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musumba",
+      "en": "Musumba",
+      "slug": "musumba"
+    },
+    "code": {
+      "id": "BDI014002_musumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_ngoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngoma",
+      "en": "Ngoma",
+      "slug": "ngoma"
+    },
+    "code": {
+      "id": "BDI014002_ngoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_nini",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nini",
+      "en": "Nini",
+      "slug": "nini"
+    },
+    "code": {
+      "id": "BDI014002_nini",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_nyarugunda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarugunda",
+      "en": "Nyarugunda",
+      "slug": "nyarugunda"
+    },
+    "code": {
+      "id": "BDI014002_nyarugunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_remera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Remera",
+      "en": "Remera",
+      "slug": "remera"
+    },
+    "code": {
+      "id": "BDI014002_remera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_ruhengeri",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhengeri",
+      "en": "Ruhengeri",
+      "slug": "ruhengeri"
+    },
+    "code": {
+      "id": "BDI014002_ruhengeri",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_rusengo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusengo",
+      "en": "Rusengo",
+      "slug": "rusengo"
+    },
+    "code": {
+      "id": "BDI014002_rusengo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_rutambwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutambwe",
+      "en": "Rutambwe",
+      "slug": "rutambwe"
+    },
+    "code": {
+      "id": "BDI014002_rutambwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_rutanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutanga",
+      "en": "Rutanga",
+      "slug": "rutanga"
+    },
+    "code": {
+      "id": "BDI014002_rutanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_rwizingwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwizingwe",
+      "en": "Rwizingwe",
+      "slug": "rwizingwe"
+    },
+    "code": {
+      "id": "BDI014002_rwizingwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_sabunda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Sabunda",
+      "en": "Sabunda",
+      "slug": "sabunda"
+    },
+    "code": {
+      "id": "BDI014002_sabunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002_sigi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Sigi",
+      "en": "Sigi",
+      "slug": "sigi"
+    },
+    "code": {
+      "id": "BDI014002_sigi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014002",
+      "level": 2,
+      "name": {
+        "local": "Gashikanwa",
+        "en": "Gashikanwa",
+        "slug": "gashikanwa-bdi014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014002",
+        "level": 2,
+        "name": {
+          "local": "Gashikanwa",
+          "en": "Gashikanwa",
+          "slug": "gashikanwa-bdi014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

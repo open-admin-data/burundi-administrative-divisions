@@ -1,0 +1,47 @@
+{
+  "id": "BDI007002",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Buhiga",
+    "en": "Buhiga",
+    "slug": "buhiga-bdi007002"
+  },
+  "code": {
+    "id": "BDI007002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI007",
+    "level": 1,
+    "name": {
+      "local": "Karuzi",
+      "en": "Karuzi",
+      "slug": "karuzi-bdi007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI007",
+      "level": 1,
+      "name": {
+        "local": "Karuzi",
+        "en": "Karuzi",
+        "slug": "karuzi-bdi007"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.089",
+    "lon": "30.194"
+  },
+  "metadata": {},
+  "source": {}
+}

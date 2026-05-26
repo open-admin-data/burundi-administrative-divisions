@@ -1,0 +1,1568 @@
+[
+  {
+    "id": "BDI006008_buga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buga",
+      "en": "Buga",
+      "slug": "buga"
+    },
+    "code": {
+      "id": "BDI006008_buga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_bugumbasha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugumbasha",
+      "en": "Bugumbasha",
+      "slug": "bugumbasha"
+    },
+    "code": {
+      "id": "BDI006008_bugumbasha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_butobwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butobwe",
+      "en": "Butobwe",
+      "slug": "butobwe"
+    },
+    "code": {
+      "id": "BDI006008_butobwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_gasagara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasagara",
+      "en": "Gasagara",
+      "slug": "gasagara"
+    },
+    "code": {
+      "id": "BDI006008_gasagara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_gasasa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasasa",
+      "en": "Gasasa",
+      "slug": "gasasa"
+    },
+    "code": {
+      "id": "BDI006008_gasasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_gasenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasenyi",
+      "en": "Gasenyi",
+      "slug": "gasenyi"
+    },
+    "code": {
+      "id": "BDI006008_gasenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_janja",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Janja",
+      "en": "Janja",
+      "slug": "janja"
+    },
+    "code": {
+      "id": "BDI006008_janja",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_kagege",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kagege",
+      "en": "Kagege",
+      "slug": "kagege"
+    },
+    "code": {
+      "id": "BDI006008_kagege",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_karoba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karoba",
+      "en": "Karoba",
+      "slug": "karoba"
+    },
+    "code": {
+      "id": "BDI006008_karoba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_kinyonza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinyonza",
+      "en": "Kinyonza",
+      "slug": "kinyonza"
+    },
+    "code": {
+      "id": "BDI006008_kinyonza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_kiyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiyange",
+      "en": "Kiyange",
+      "slug": "kiyange"
+    },
+    "code": {
+      "id": "BDI006008_kiyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_makebuko",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Makebuko",
+      "en": "Makebuko",
+      "slug": "makebuko"
+    },
+    "code": {
+      "id": "BDI006008_makebuko",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_muhororo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muhororo",
+      "en": "Muhororo",
+      "slug": "muhororo"
+    },
+    "code": {
+      "id": "BDI006008_muhororo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_murago",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murago",
+      "en": "Murago",
+      "slug": "murago"
+    },
+    "code": {
+      "id": "BDI006008_murago",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_murenda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murenda",
+      "en": "Murenda",
+      "slug": "murenda"
+    },
+    "code": {
+      "id": "BDI006008_murenda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_musqve",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musqve",
+      "en": "Musqve",
+      "slug": "musqve"
+    },
+    "code": {
+      "id": "BDI006008_musqve",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_muyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyange",
+      "en": "Muyange",
+      "slug": "muyange"
+    },
+    "code": {
+      "id": "BDI006008_muyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_mwanzari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwanzari",
+      "en": "Mwanzari",
+      "slug": "mwanzari"
+    },
+    "code": {
+      "id": "BDI006008_mwanzari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_mwaro-mavuvu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwaro Mavuvu",
+      "en": "Mwaro Mavuvu",
+      "slug": "mwaro-mavuvu"
+    },
+    "code": {
+      "id": "BDI006008_mwaro-mavuvu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_mwaro-ngundu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwaro Ngundu",
+      "en": "Mwaro Ngundu",
+      "slug": "mwaro-ngundu"
+    },
+    "code": {
+      "id": "BDI006008_mwaro-ngundu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_mwumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwumba",
+      "en": "Mwumba",
+      "slug": "mwumba"
+    },
+    "code": {
+      "id": "BDI006008_mwumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_ntita",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ntita",
+      "en": "Ntita",
+      "slug": "ntita"
+    },
+    "code": {
+      "id": "BDI006008_ntita",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_nyamagandika",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamagandika",
+      "en": "Nyamagandika",
+      "slug": "nyamagandika"
+    },
+    "code": {
+      "id": "BDI006008_nyamagandika",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_rusagara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusagara",
+      "en": "Rusagara",
+      "slug": "rusagara"
+    },
+    "code": {
+      "id": "BDI006008_rusagara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_rutanganika",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutanganika",
+      "en": "Rutanganika",
+      "slug": "rutanganika"
+    },
+    "code": {
+      "id": "BDI006008_rutanganika",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_rwanda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwanda",
+      "en": "Rwanda",
+      "slug": "rwanda"
+    },
+    "code": {
+      "id": "BDI006008_rwanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_rwesero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwesero",
+      "en": "Rwesero",
+      "slug": "rwesero"
+    },
+    "code": {
+      "id": "BDI006008_rwesero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_rwezamenyo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwezamenyo",
+      "en": "Rwezamenyo",
+      "slug": "rwezamenyo"
+    },
+    "code": {
+      "id": "BDI006008_rwezamenyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008_simba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Simba",
+      "en": "Simba",
+      "slug": "simba"
+    },
+    "code": {
+      "id": "BDI006008_simba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006008",
+      "level": 2,
+      "name": {
+        "local": "Makebuko",
+        "en": "Makebuko",
+        "slug": "makebuko-bdi006008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006008",
+        "level": 2,
+        "name": {
+          "local": "Makebuko",
+          "en": "Makebuko",
+          "slug": "makebuko-bdi006008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

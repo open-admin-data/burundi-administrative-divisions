@@ -1,0 +1,30 @@
+{
+  "id": "BDI017",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Bujumbura Mairie",
+    "en": "Bujumbura Mairie",
+    "slug": "bujumbura-mairie-bdi017"
+  },
+  "code": {
+    "id": "BDI017",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 3,
+    "colline": 103
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.394",
+    "lon": "29.367"
+  },
+  "metadata": {},
+  "source": {}
+}

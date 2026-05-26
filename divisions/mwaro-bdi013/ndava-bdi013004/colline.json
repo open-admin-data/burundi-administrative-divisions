@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "BDI013004_bugera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugera",
+      "en": "Bugera",
+      "slug": "bugera"
+    },
+    "code": {
+      "id": "BDI013004_bugera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013004",
+      "level": 2,
+      "name": {
+        "local": "Ndava",
+        "en": "Ndava",
+        "slug": "ndava-bdi013004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013004",
+        "level": 2,
+        "name": {
+          "local": "Ndava",
+          "en": "Ndava",
+          "slug": "ndava-bdi013004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.39",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013004_butazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butazi",
+      "en": "Butazi",
+      "slug": "butazi"
+    },
+    "code": {
+      "id": "BDI013004_butazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013004",
+      "level": 2,
+      "name": {
+        "local": "Ndava",
+        "en": "Ndava",
+        "slug": "ndava-bdi013004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013004",
+        "level": 2,
+        "name": {
+          "local": "Ndava",
+          "en": "Ndava",
+          "slug": "ndava-bdi013004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.39",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013004_fota",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Fota",
+      "en": "Fota",
+      "slug": "fota"
+    },
+    "code": {
+      "id": "BDI013004_fota",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013004",
+      "level": 2,
+      "name": {
+        "local": "Ndava",
+        "en": "Ndava",
+        "slug": "ndava-bdi013004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013004",
+        "level": 2,
+        "name": {
+          "local": "Ndava",
+          "en": "Ndava",
+          "slug": "ndava-bdi013004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.39",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013004_gahondo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gahondo",
+      "en": "Gahondo",
+      "slug": "gahondo"
+    },
+    "code": {
+      "id": "BDI013004_gahondo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013004",
+      "level": 2,
+      "name": {
+        "local": "Ndava",
+        "en": "Ndava",
+        "slug": "ndava-bdi013004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013004",
+        "level": 2,
+        "name": {
+          "local": "Ndava",
+          "en": "Ndava",
+          "slug": "ndava-bdi013004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.39",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013004_gatsinda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatsinda",
+      "en": "Gatsinda",
+      "slug": "gatsinda"
+    },
+    "code": {
+      "id": "BDI013004_gatsinda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013004",
+      "level": 2,
+      "name": {
+        "local": "Ndava",
+        "en": "Ndava",
+        "slug": "ndava-bdi013004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013004",
+        "level": 2,
+        "name": {
+          "local": "Ndava",
+          "en": "Ndava",
+          "slug": "ndava-bdi013004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.39",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013004_gitaba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitaba",
+      "en": "Gitaba",
+      "slug": "gitaba"
+    },
+    "code": {
+      "id": "BDI013004_gitaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013004",
+      "level": 2,
+      "name": {
+        "local": "Ndava",
+        "en": "Ndava",
+        "slug": "ndava-bdi013004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013004",
+        "level": 2,
+        "name": {
+          "local": "Ndava",
+          "en": "Ndava",
+          "slug": "ndava-bdi013004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.39",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013004_higiro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Higiro",
+      "en": "Higiro",
+      "slug": "higiro"
+    },
+    "code": {
+      "id": "BDI013004_higiro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013004",
+      "level": 2,
+      "name": {
+        "local": "Ndava",
+        "en": "Ndava",
+        "slug": "ndava-bdi013004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013004",
+        "level": 2,
+        "name": {
+          "local": "Ndava",
+          "en": "Ndava",
+          "slug": "ndava-bdi013004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.39",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013004_kabogi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabogi",
+      "en": "Kabogi",
+      "slug": "kabogi"
+    },
+    "code": {
+      "id": "BDI013004_kabogi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013004",
+      "level": 2,
+      "name": {
+        "local": "Ndava",
+        "en": "Ndava",
+        "slug": "ndava-bdi013004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013004",
+        "level": 2,
+        "name": {
+          "local": "Ndava",
+          "en": "Ndava",
+          "slug": "ndava-bdi013004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.39",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013004_kamushiha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kamushiha",
+      "en": "Kamushiha",
+      "slug": "kamushiha"
+    },
+    "code": {
+      "id": "BDI013004_kamushiha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013004",
+      "level": 2,
+      "name": {
+        "local": "Ndava",
+        "en": "Ndava",
+        "slug": "ndava-bdi013004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013004",
+        "level": 2,
+        "name": {
+          "local": "Ndava",
+          "en": "Ndava",
+          "slug": "ndava-bdi013004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.39",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013004_kigarama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigarama",
+      "en": "Kigarama",
+      "slug": "kigarama"
+    },
+    "code": {
+      "id": "BDI013004_kigarama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013004",
+      "level": 2,
+      "name": {
+        "local": "Ndava",
+        "en": "Ndava",
+        "slug": "ndava-bdi013004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013004",
+        "level": 2,
+        "name": {
+          "local": "Ndava",
+          "en": "Ndava",
+          "slug": "ndava-bdi013004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.39",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013004_matongo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Matongo",
+      "en": "Matongo",
+      "slug": "matongo"
+    },
+    "code": {
+      "id": "BDI013004_matongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013004",
+      "level": 2,
+      "name": {
+        "local": "Ndava",
+        "en": "Ndava",
+        "slug": "ndava-bdi013004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013004",
+        "level": 2,
+        "name": {
+          "local": "Ndava",
+          "en": "Ndava",
+          "slug": "ndava-bdi013004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.39",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013004_mpanuka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mpanuka",
+      "en": "Mpanuka",
+      "slug": "mpanuka"
+    },
+    "code": {
+      "id": "BDI013004_mpanuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013004",
+      "level": 2,
+      "name": {
+        "local": "Ndava",
+        "en": "Ndava",
+        "slug": "ndava-bdi013004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013004",
+        "level": 2,
+        "name": {
+          "local": "Ndava",
+          "en": "Ndava",
+          "slug": "ndava-bdi013004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.39",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013004_murago",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murago",
+      "en": "Murago",
+      "slug": "murago"
+    },
+    "code": {
+      "id": "BDI013004_murago",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013004",
+      "level": 2,
+      "name": {
+        "local": "Ndava",
+        "en": "Ndava",
+        "slug": "ndava-bdi013004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013004",
+        "level": 2,
+        "name": {
+          "local": "Ndava",
+          "en": "Ndava",
+          "slug": "ndava-bdi013004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.39",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013004_muyogoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyogoro",
+      "en": "Muyogoro",
+      "slug": "muyogoro"
+    },
+    "code": {
+      "id": "BDI013004_muyogoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013004",
+      "level": 2,
+      "name": {
+        "local": "Ndava",
+        "en": "Ndava",
+        "slug": "ndava-bdi013004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013004",
+        "level": 2,
+        "name": {
+          "local": "Ndava",
+          "en": "Ndava",
+          "slug": "ndava-bdi013004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.39",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013004_ndava",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ndava",
+      "en": "Ndava",
+      "slug": "ndava"
+    },
+    "code": {
+      "id": "BDI013004_ndava",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013004",
+      "level": 2,
+      "name": {
+        "local": "Ndava",
+        "en": "Ndava",
+        "slug": "ndava-bdi013004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013004",
+        "level": 2,
+        "name": {
+          "local": "Ndava",
+          "en": "Ndava",
+          "slug": "ndava-bdi013004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.39",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013004_ngoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngoro",
+      "en": "Ngoro",
+      "slug": "ngoro"
+    },
+    "code": {
+      "id": "BDI013004_ngoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013004",
+      "level": 2,
+      "name": {
+        "local": "Ndava",
+        "en": "Ndava",
+        "slug": "ndava-bdi013004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013004",
+        "level": 2,
+        "name": {
+          "local": "Ndava",
+          "en": "Ndava",
+          "slug": "ndava-bdi013004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.39",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013004_ngorore",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngorore",
+      "en": "Ngorore",
+      "slug": "ngorore"
+    },
+    "code": {
+      "id": "BDI013004_ngorore",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013004",
+      "level": 2,
+      "name": {
+        "local": "Ndava",
+        "en": "Ndava",
+        "slug": "ndava-bdi013004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013004",
+        "level": 2,
+        "name": {
+          "local": "Ndava",
+          "en": "Ndava",
+          "slug": "ndava-bdi013004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.39",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013004_nyabisaka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabisaka",
+      "en": "Nyabisaka",
+      "slug": "nyabisaka"
+    },
+    "code": {
+      "id": "BDI013004_nyabisaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013004",
+      "level": 2,
+      "name": {
+        "local": "Ndava",
+        "en": "Ndava",
+        "slug": "ndava-bdi013004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013004",
+        "level": 2,
+        "name": {
+          "local": "Ndava",
+          "en": "Ndava",
+          "slug": "ndava-bdi013004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.39",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013004_nyamurenge",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamurenge",
+      "en": "Nyamurenge",
+      "slug": "nyamurenge"
+    },
+    "code": {
+      "id": "BDI013004_nyamurenge",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013004",
+      "level": 2,
+      "name": {
+        "local": "Ndava",
+        "en": "Ndava",
+        "slug": "ndava-bdi013004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013004",
+        "level": 2,
+        "name": {
+          "local": "Ndava",
+          "en": "Ndava",
+          "slug": "ndava-bdi013004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.39",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013004_rango",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rango",
+      "en": "Rango",
+      "slug": "rango"
+    },
+    "code": {
+      "id": "BDI013004_rango",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013004",
+      "level": 2,
+      "name": {
+        "local": "Ndava",
+        "en": "Ndava",
+        "slug": "ndava-bdi013004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013004",
+        "level": 2,
+        "name": {
+          "local": "Ndava",
+          "en": "Ndava",
+          "slug": "ndava-bdi013004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.39",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

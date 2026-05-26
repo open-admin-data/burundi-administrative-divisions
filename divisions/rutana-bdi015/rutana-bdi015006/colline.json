@@ -1,0 +1,2108 @@
+[
+  {
+    "id": "BDI015006_bugunga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugunga",
+      "en": "Bugunga",
+      "slug": "bugunga"
+    },
+    "code": {
+      "id": "BDI015006_bugunga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_buta",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buta",
+      "en": "Buta",
+      "slug": "buta"
+    },
+    "code": {
+      "id": "BDI015006_buta",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_butambara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butambara",
+      "en": "Butambara",
+      "slug": "butambara"
+    },
+    "code": {
+      "id": "BDI015006_butambara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_butovyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butovyi",
+      "en": "Butovyi",
+      "slug": "butovyi"
+    },
+    "code": {
+      "id": "BDI015006_butovyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_gakobe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gakobe",
+      "en": "Gakobe",
+      "slug": "gakobe"
+    },
+    "code": {
+      "id": "BDI015006_gakobe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_gasakuza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasakuza",
+      "en": "Gasakuza",
+      "slug": "gasakuza"
+    },
+    "code": {
+      "id": "BDI015006_gasakuza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_gaseri",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gaseri",
+      "en": "Gaseri",
+      "slug": "gaseri"
+    },
+    "code": {
+      "id": "BDI015006_gaseri",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_gaterama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gaterama",
+      "en": "Gaterama",
+      "slug": "gaterama"
+    },
+    "code": {
+      "id": "BDI015006_gaterama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_gatongati",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatongati",
+      "en": "Gatongati",
+      "slug": "gatongati"
+    },
+    "code": {
+      "id": "BDI015006_gatongati",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_gifunzo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gifunzo",
+      "en": "Gifunzo",
+      "slug": "gifunzo"
+    },
+    "code": {
+      "id": "BDI015006_gifunzo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_gitaba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitaba",
+      "en": "Gitaba",
+      "slug": "gitaba"
+    },
+    "code": {
+      "id": "BDI015006_gitaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_gitaramuka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitaramuka",
+      "en": "Gitaramuka",
+      "slug": "gitaramuka"
+    },
+    "code": {
+      "id": "BDI015006_gitaramuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_jomati",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Jomati",
+      "en": "Jomati",
+      "slug": "jomati"
+    },
+    "code": {
+      "id": "BDI015006_jomati",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_karibu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karibu",
+      "en": "Karibu",
+      "slug": "karibu"
+    },
+    "code": {
+      "id": "BDI015006_karibu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_karinzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karinzi",
+      "en": "Karinzi",
+      "slug": "karinzi"
+    },
+    "code": {
+      "id": "BDI015006_karinzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_kayove",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kayove",
+      "en": "Kayove",
+      "slug": "kayove"
+    },
+    "code": {
+      "id": "BDI015006_kayove",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_kibizi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibizi",
+      "en": "Kibizi",
+      "slug": "kibizi"
+    },
+    "code": {
+      "id": "BDI015006_kibizi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_kinganda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinganda",
+      "en": "Kinganda",
+      "slug": "kinganda"
+    },
+    "code": {
+      "id": "BDI015006_kinganda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_kivoga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivoga",
+      "en": "Kivoga",
+      "slug": "kivoga"
+    },
+    "code": {
+      "id": "BDI015006_kivoga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_maramvya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Maramvya",
+      "en": "Maramvya",
+      "slug": "maramvya"
+    },
+    "code": {
+      "id": "BDI015006_maramvya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_matutu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Matutu",
+      "en": "Matutu",
+      "slug": "matutu"
+    },
+    "code": {
+      "id": "BDI015006_matutu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_mika",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mika",
+      "en": "Mika",
+      "slug": "mika"
+    },
+    "code": {
+      "id": "BDI015006_mika",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_mungwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mungwa",
+      "en": "Mungwa",
+      "slug": "mungwa"
+    },
+    "code": {
+      "id": "BDI015006_mungwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_musenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musenyi",
+      "en": "Musenyi",
+      "slug": "musenyi"
+    },
+    "code": {
+      "id": "BDI015006_musenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_mwayi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwayi",
+      "en": "Mwayi",
+      "slug": "mwayi"
+    },
+    "code": {
+      "id": "BDI015006_mwayi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_ntuku",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ntuku",
+      "en": "Ntuku",
+      "slug": "ntuku"
+    },
+    "code": {
+      "id": "BDI015006_ntuku",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_nyamure",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamure",
+      "en": "Nyamure",
+      "slug": "nyamure"
+    },
+    "code": {
+      "id": "BDI015006_nyamure",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_nyanzuki",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyanzuki",
+      "en": "Nyanzuki",
+      "slug": "nyanzuki"
+    },
+    "code": {
+      "id": "BDI015006_nyanzuki",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_nyarubere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarubere",
+      "en": "Nyarubere",
+      "slug": "nyarubere"
+    },
+    "code": {
+      "id": "BDI015006_nyarubere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_nyarubimba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarubimba",
+      "en": "Nyarubimba",
+      "slug": "nyarubimba"
+    },
+    "code": {
+      "id": "BDI015006_nyarubimba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_ramvya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ramvya",
+      "en": "Ramvya",
+      "slug": "ramvya"
+    },
+    "code": {
+      "id": "BDI015006_ramvya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_rongero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rongero",
+      "en": "Rongero",
+      "slug": "rongero"
+    },
+    "code": {
+      "id": "BDI015006_rongero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_ruregeya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruregeya",
+      "en": "Ruregeya",
+      "slug": "ruregeya"
+    },
+    "code": {
+      "id": "BDI015006_ruregeya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_rushemeza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rushemeza",
+      "en": "Rushemeza",
+      "slug": "rushemeza"
+    },
+    "code": {
+      "id": "BDI015006_rushemeza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_rushungura",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rushungura",
+      "en": "Rushungura",
+      "slug": "rushungura"
+    },
+    "code": {
+      "id": "BDI015006_rushungura",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_rusunu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusunu",
+      "en": "Rusunu",
+      "slug": "rusunu"
+    },
+    "code": {
+      "id": "BDI015006_rusunu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_rutana-rural",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutana Rural",
+      "en": "Rutana Rural",
+      "slug": "rutana-rural"
+    },
+    "code": {
+      "id": "BDI015006_rutana-rural",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_rutana-urbain",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutana Urbain",
+      "en": "Rutana Urbain",
+      "slug": "rutana-urbain"
+    },
+    "code": {
+      "id": "BDI015006_rutana-urbain",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006_shoti",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Shoti",
+      "en": "Shoti",
+      "slug": "shoti"
+    },
+    "code": {
+      "id": "BDI015006_shoti",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015006",
+      "level": 2,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015006",
+        "level": 2,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

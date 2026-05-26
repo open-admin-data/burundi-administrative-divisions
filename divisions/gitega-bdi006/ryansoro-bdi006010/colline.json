@@ -1,0 +1,974 @@
+[
+  {
+    "id": "BDI006010_kampezi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kampezi",
+      "en": "Kampezi",
+      "slug": "kampezi"
+    },
+    "code": {
+      "id": "BDI006010_kampezi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006010",
+      "level": 2,
+      "name": {
+        "local": "Ryansoro",
+        "en": "Ryansoro",
+        "slug": "ryansoro-bdi006010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006010",
+        "level": 2,
+        "name": {
+          "local": "Ryansoro",
+          "en": "Ryansoro",
+          "slug": "ryansoro-bdi006010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.722",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006010_kibagara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibagara",
+      "en": "Kibagara",
+      "slug": "kibagara"
+    },
+    "code": {
+      "id": "BDI006010_kibagara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006010",
+      "level": 2,
+      "name": {
+        "local": "Ryansoro",
+        "en": "Ryansoro",
+        "slug": "ryansoro-bdi006010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006010",
+        "level": 2,
+        "name": {
+          "local": "Ryansoro",
+          "en": "Ryansoro",
+          "slug": "ryansoro-bdi006010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.722",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006010_kibaya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibaya",
+      "en": "Kibaya",
+      "slug": "kibaya"
+    },
+    "code": {
+      "id": "BDI006010_kibaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006010",
+      "level": 2,
+      "name": {
+        "local": "Ryansoro",
+        "en": "Ryansoro",
+        "slug": "ryansoro-bdi006010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006010",
+        "level": 2,
+        "name": {
+          "local": "Ryansoro",
+          "en": "Ryansoro",
+          "slug": "ryansoro-bdi006010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.722",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006010_kinyonzo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinyonzo",
+      "en": "Kinyonzo",
+      "slug": "kinyonzo"
+    },
+    "code": {
+      "id": "BDI006010_kinyonzo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006010",
+      "level": 2,
+      "name": {
+        "local": "Ryansoro",
+        "en": "Ryansoro",
+        "slug": "ryansoro-bdi006010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006010",
+        "level": 2,
+        "name": {
+          "local": "Ryansoro",
+          "en": "Ryansoro",
+          "slug": "ryansoro-bdi006010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.722",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006010_mahonda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mahonda",
+      "en": "Mahonda",
+      "slug": "mahonda"
+    },
+    "code": {
+      "id": "BDI006010_mahonda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006010",
+      "level": 2,
+      "name": {
+        "local": "Ryansoro",
+        "en": "Ryansoro",
+        "slug": "ryansoro-bdi006010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006010",
+        "level": 2,
+        "name": {
+          "local": "Ryansoro",
+          "en": "Ryansoro",
+          "slug": "ryansoro-bdi006010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.722",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006010_mahwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mahwa",
+      "en": "Mahwa",
+      "slug": "mahwa"
+    },
+    "code": {
+      "id": "BDI006010_mahwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006010",
+      "level": 2,
+      "name": {
+        "local": "Ryansoro",
+        "en": "Ryansoro",
+        "slug": "ryansoro-bdi006010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006010",
+        "level": 2,
+        "name": {
+          "local": "Ryansoro",
+          "en": "Ryansoro",
+          "slug": "ryansoro-bdi006010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.722",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006010_mirango",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mirango",
+      "en": "Mirango",
+      "slug": "mirango"
+    },
+    "code": {
+      "id": "BDI006010_mirango",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006010",
+      "level": 2,
+      "name": {
+        "local": "Ryansoro",
+        "en": "Ryansoro",
+        "slug": "ryansoro-bdi006010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006010",
+        "level": 2,
+        "name": {
+          "local": "Ryansoro",
+          "en": "Ryansoro",
+          "slug": "ryansoro-bdi006010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.722",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006010_murama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murama",
+      "en": "Murama",
+      "slug": "murama"
+    },
+    "code": {
+      "id": "BDI006010_murama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006010",
+      "level": 2,
+      "name": {
+        "local": "Ryansoro",
+        "en": "Ryansoro",
+        "slug": "ryansoro-bdi006010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006010",
+        "level": 2,
+        "name": {
+          "local": "Ryansoro",
+          "en": "Ryansoro",
+          "slug": "ryansoro-bdi006010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.722",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006010_murenge",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murenge",
+      "en": "Murenge",
+      "slug": "murenge"
+    },
+    "code": {
+      "id": "BDI006010_murenge",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006010",
+      "level": 2,
+      "name": {
+        "local": "Ryansoro",
+        "en": "Ryansoro",
+        "slug": "ryansoro-bdi006010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006010",
+        "level": 2,
+        "name": {
+          "local": "Ryansoro",
+          "en": "Ryansoro",
+          "slug": "ryansoro-bdi006010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.722",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006010_ndava",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ndava",
+      "en": "Ndava",
+      "slug": "ndava"
+    },
+    "code": {
+      "id": "BDI006010_ndava",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006010",
+      "level": 2,
+      "name": {
+        "local": "Ryansoro",
+        "en": "Ryansoro",
+        "slug": "ryansoro-bdi006010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006010",
+        "level": 2,
+        "name": {
+          "local": "Ryansoro",
+          "en": "Ryansoro",
+          "slug": "ryansoro-bdi006010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.722",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006010_ngaruzwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngaruzwa",
+      "en": "Ngaruzwa",
+      "slug": "ngaruzwa"
+    },
+    "code": {
+      "id": "BDI006010_ngaruzwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006010",
+      "level": 2,
+      "name": {
+        "local": "Ryansoro",
+        "en": "Ryansoro",
+        "slug": "ryansoro-bdi006010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006010",
+        "level": 2,
+        "name": {
+          "local": "Ryansoro",
+          "en": "Ryansoro",
+          "slug": "ryansoro-bdi006010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.722",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006010_ntunda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ntunda",
+      "en": "Ntunda",
+      "slug": "ntunda"
+    },
+    "code": {
+      "id": "BDI006010_ntunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006010",
+      "level": 2,
+      "name": {
+        "local": "Ryansoro",
+        "en": "Ryansoro",
+        "slug": "ryansoro-bdi006010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006010",
+        "level": 2,
+        "name": {
+          "local": "Ryansoro",
+          "en": "Ryansoro",
+          "slug": "ryansoro-bdi006010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.722",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006010_nyabikenke",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabikenke",
+      "en": "Nyabikenke",
+      "slug": "nyabikenke"
+    },
+    "code": {
+      "id": "BDI006010_nyabikenke",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006010",
+      "level": 2,
+      "name": {
+        "local": "Ryansoro",
+        "en": "Ryansoro",
+        "slug": "ryansoro-bdi006010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006010",
+        "level": 2,
+        "name": {
+          "local": "Ryansoro",
+          "en": "Ryansoro",
+          "slug": "ryansoro-bdi006010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.722",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006010_nyakarambo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakarambo",
+      "en": "Nyakarambo",
+      "slug": "nyakarambo"
+    },
+    "code": {
+      "id": "BDI006010_nyakarambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006010",
+      "level": 2,
+      "name": {
+        "local": "Ryansoro",
+        "en": "Ryansoro",
+        "slug": "ryansoro-bdi006010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006010",
+        "level": 2,
+        "name": {
+          "local": "Ryansoro",
+          "en": "Ryansoro",
+          "slug": "ryansoro-bdi006010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.722",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006010_nyamugari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamugari",
+      "en": "Nyamugari",
+      "slug": "nyamugari"
+    },
+    "code": {
+      "id": "BDI006010_nyamugari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006010",
+      "level": 2,
+      "name": {
+        "local": "Ryansoro",
+        "en": "Ryansoro",
+        "slug": "ryansoro-bdi006010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006010",
+        "level": 2,
+        "name": {
+          "local": "Ryansoro",
+          "en": "Ryansoro",
+          "slug": "ryansoro-bdi006010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.722",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006010_nyentambwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyentambwe",
+      "en": "Nyentambwe",
+      "slug": "nyentambwe"
+    },
+    "code": {
+      "id": "BDI006010_nyentambwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006010",
+      "level": 2,
+      "name": {
+        "local": "Ryansoro",
+        "en": "Ryansoro",
+        "slug": "ryansoro-bdi006010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006010",
+        "level": 2,
+        "name": {
+          "local": "Ryansoro",
+          "en": "Ryansoro",
+          "slug": "ryansoro-bdi006010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.722",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006010_rusaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusaga",
+      "en": "Rusaga",
+      "slug": "rusaga"
+    },
+    "code": {
+      "id": "BDI006010_rusaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006010",
+      "level": 2,
+      "name": {
+        "local": "Ryansoro",
+        "en": "Ryansoro",
+        "slug": "ryansoro-bdi006010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006010",
+        "level": 2,
+        "name": {
+          "local": "Ryansoro",
+          "en": "Ryansoro",
+          "slug": "ryansoro-bdi006010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.722",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006010_ryansoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ryansoro",
+      "en": "Ryansoro",
+      "slug": "ryansoro"
+    },
+    "code": {
+      "id": "BDI006010_ryansoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006010",
+      "level": 2,
+      "name": {
+        "local": "Ryansoro",
+        "en": "Ryansoro",
+        "slug": "ryansoro-bdi006010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006010",
+        "level": 2,
+        "name": {
+          "local": "Ryansoro",
+          "en": "Ryansoro",
+          "slug": "ryansoro-bdi006010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.722",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "BDI015004_bayumpu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bayumpu",
+      "en": "Bayumpu",
+      "slug": "bayumpu"
+    },
+    "code": {
+      "id": "BDI015004_bayumpu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_bubanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bubanga",
+      "en": "Bubanga",
+      "slug": "bubanga"
+    },
+    "code": {
+      "id": "BDI015004_bubanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_buranga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buranga",
+      "en": "Buranga",
+      "slug": "buranga"
+    },
+    "code": {
+      "id": "BDI015004_buranga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_butambara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butambara",
+      "en": "Butambara",
+      "slug": "butambara"
+    },
+    "code": {
+      "id": "BDI015004_butambara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_butamya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butamya",
+      "en": "Butamya",
+      "slug": "butamya"
+    },
+    "code": {
+      "id": "BDI015004_butamya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_gasasa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasasa",
+      "en": "Gasasa",
+      "slug": "gasasa"
+    },
+    "code": {
+      "id": "BDI015004_gasasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_gasenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasenga",
+      "en": "Gasenga",
+      "slug": "gasenga"
+    },
+    "code": {
+      "id": "BDI015004_gasenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_gasozi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasozi",
+      "en": "Gasozi",
+      "slug": "gasozi"
+    },
+    "code": {
+      "id": "BDI015004_gasozi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_gihera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gihera",
+      "en": "Gihera",
+      "slug": "gihera"
+    },
+    "code": {
+      "id": "BDI015004_gihera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_gihinga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gihinga",
+      "en": "Gihinga",
+      "slug": "gihinga"
+    },
+    "code": {
+      "id": "BDI015004_gihinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_gitaba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitaba",
+      "en": "Gitaba",
+      "slug": "gitaba"
+    },
+    "code": {
+      "id": "BDI015004_gitaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_juragati",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Juragati",
+      "en": "Juragati",
+      "slug": "juragati"
+    },
+    "code": {
+      "id": "BDI015004_juragati",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_kagoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kagoma",
+      "en": "Kagoma",
+      "slug": "kagoma"
+    },
+    "code": {
+      "id": "BDI015004_kagoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_kayove",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kayove",
+      "en": "Kayove",
+      "slug": "kayove"
+    },
+    "code": {
+      "id": "BDI015004_kayove",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_kibanda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibanda",
+      "en": "Kibanda",
+      "slug": "kibanda"
+    },
+    "code": {
+      "id": "BDI015004_kibanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_kiguhu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiguhu",
+      "en": "Kiguhu",
+      "slug": "kiguhu"
+    },
+    "code": {
+      "id": "BDI015004_kiguhu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_maganahe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Maganahe",
+      "en": "Maganahe",
+      "slug": "maganahe"
+    },
+    "code": {
+      "id": "BDI015004_maganahe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_mbuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mbuye",
+      "en": "Mbuye",
+      "slug": "mbuye"
+    },
+    "code": {
+      "id": "BDI015004_mbuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_mirehe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mirehe",
+      "en": "Mirehe",
+      "slug": "mirehe"
+    },
+    "code": {
+      "id": "BDI015004_mirehe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_mpinga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mpinga",
+      "en": "Mpinga",
+      "slug": "mpinga"
+    },
+    "code": {
+      "id": "BDI015004_mpinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_muganza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muganza",
+      "en": "Muganza",
+      "slug": "muganza"
+    },
+    "code": {
+      "id": "BDI015004_muganza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_mugondo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugondo",
+      "en": "Mugondo",
+      "slug": "mugondo"
+    },
+    "code": {
+      "id": "BDI015004_mugondo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_munyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munyinya",
+      "en": "Munyinya",
+      "slug": "munyinya"
+    },
+    "code": {
+      "id": "BDI015004_munyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_musotera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musotera",
+      "en": "Musotera",
+      "slug": "musotera"
+    },
+    "code": {
+      "id": "BDI015004_musotera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_ngara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngara",
+      "en": "Ngara",
+      "slug": "ngara"
+    },
+    "code": {
+      "id": "BDI015004_ngara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_ngarama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngarama",
+      "en": "Ngarama",
+      "slug": "ngarama"
+    },
+    "code": {
+      "id": "BDI015004_ngarama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_ntonzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ntonzi",
+      "en": "Ntonzi",
+      "slug": "ntonzi"
+    },
+    "code": {
+      "id": "BDI015004_ntonzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_nyakabanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakabanga",
+      "en": "Nyakabanga",
+      "slug": "nyakabanga"
+    },
+    "code": {
+      "id": "BDI015004_nyakabanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_nyakazu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakazu",
+      "en": "Nyakazu",
+      "slug": "nyakazu"
+    },
+    "code": {
+      "id": "BDI015004_nyakazu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_rasa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rasa",
+      "en": "Rasa",
+      "slug": "rasa"
+    },
+    "code": {
+      "id": "BDI015004_rasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_rorero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rorero",
+      "en": "Rorero",
+      "slug": "rorero"
+    },
+    "code": {
+      "id": "BDI015004_rorero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004_rutoke",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutoke",
+      "en": "Rutoke",
+      "slug": "rutoke"
+    },
+    "code": {
+      "id": "BDI015004_rutoke",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015004",
+      "level": 2,
+      "name": {
+        "local": "Mpinga-Kayove",
+        "en": "Mpinga-Kayove",
+        "slug": "mpinga-kayove-bdi015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015004",
+        "level": 2,
+        "name": {
+          "local": "Mpinga-Kayove",
+          "en": "Mpinga-Kayove",
+          "slug": "mpinga-kayove-bdi015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

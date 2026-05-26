@@ -1,0 +1,920 @@
+[
+  {
+    "id": "BDI018004_banda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Banda",
+      "en": "Banda",
+      "slug": "banda"
+    },
+    "code": {
+      "id": "BDI018004_banda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018004",
+      "level": 2,
+      "name": {
+        "local": "Buyengero",
+        "en": "Buyengero",
+        "slug": "buyengero-bdi018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018004",
+        "level": 2,
+        "name": {
+          "local": "Buyengero",
+          "en": "Buyengero",
+          "slug": "buyengero-bdi018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.849",
+      "lon": "29.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018004_buyengero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buyengero",
+      "en": "Buyengero",
+      "slug": "buyengero"
+    },
+    "code": {
+      "id": "BDI018004_buyengero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018004",
+      "level": 2,
+      "name": {
+        "local": "Buyengero",
+        "en": "Buyengero",
+        "slug": "buyengero-bdi018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018004",
+        "level": 2,
+        "name": {
+          "local": "Buyengero",
+          "en": "Buyengero",
+          "slug": "buyengero-bdi018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.849",
+      "lon": "29.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018004_gasenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasenyi",
+      "en": "Gasenyi",
+      "slug": "gasenyi"
+    },
+    "code": {
+      "id": "BDI018004_gasenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018004",
+      "level": 2,
+      "name": {
+        "local": "Buyengero",
+        "en": "Buyengero",
+        "slug": "buyengero-bdi018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018004",
+        "level": 2,
+        "name": {
+          "local": "Buyengero",
+          "en": "Buyengero",
+          "slug": "buyengero-bdi018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.849",
+      "lon": "29.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018004_gitsinda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitsinda",
+      "en": "Gitsinda",
+      "slug": "gitsinda"
+    },
+    "code": {
+      "id": "BDI018004_gitsinda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018004",
+      "level": 2,
+      "name": {
+        "local": "Buyengero",
+        "en": "Buyengero",
+        "slug": "buyengero-bdi018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018004",
+        "level": 2,
+        "name": {
+          "local": "Buyengero",
+          "en": "Buyengero",
+          "slug": "buyengero-bdi018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.849",
+      "lon": "29.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018004_kanyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kanyinya",
+      "en": "Kanyinya",
+      "slug": "kanyinya"
+    },
+    "code": {
+      "id": "BDI018004_kanyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018004",
+      "level": 2,
+      "name": {
+        "local": "Buyengero",
+        "en": "Buyengero",
+        "slug": "buyengero-bdi018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018004",
+        "level": 2,
+        "name": {
+          "local": "Buyengero",
+          "en": "Buyengero",
+          "slug": "buyengero-bdi018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.849",
+      "lon": "29.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018004_karambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karambi",
+      "en": "Karambi",
+      "slug": "karambi"
+    },
+    "code": {
+      "id": "BDI018004_karambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018004",
+      "level": 2,
+      "name": {
+        "local": "Buyengero",
+        "en": "Buyengero",
+        "slug": "buyengero-bdi018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018004",
+        "level": 2,
+        "name": {
+          "local": "Buyengero",
+          "en": "Buyengero",
+          "slug": "buyengero-bdi018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.849",
+      "lon": "29.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018004_kinama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinama",
+      "en": "Kinama",
+      "slug": "kinama"
+    },
+    "code": {
+      "id": "BDI018004_kinama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018004",
+      "level": 2,
+      "name": {
+        "local": "Buyengero",
+        "en": "Buyengero",
+        "slug": "buyengero-bdi018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018004",
+        "level": 2,
+        "name": {
+          "local": "Buyengero",
+          "en": "Buyengero",
+          "slug": "buyengero-bdi018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.849",
+      "lon": "29.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018004_kirama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirama",
+      "en": "Kirama",
+      "slug": "kirama"
+    },
+    "code": {
+      "id": "BDI018004_kirama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018004",
+      "level": 2,
+      "name": {
+        "local": "Buyengero",
+        "en": "Buyengero",
+        "slug": "buyengero-bdi018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018004",
+        "level": 2,
+        "name": {
+          "local": "Buyengero",
+          "en": "Buyengero",
+          "slug": "buyengero-bdi018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.849",
+      "lon": "29.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018004_mabanza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mabanza",
+      "en": "Mabanza",
+      "slug": "mabanza"
+    },
+    "code": {
+      "id": "BDI018004_mabanza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018004",
+      "level": 2,
+      "name": {
+        "local": "Buyengero",
+        "en": "Buyengero",
+        "slug": "buyengero-bdi018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018004",
+        "level": 2,
+        "name": {
+          "local": "Buyengero",
+          "en": "Buyengero",
+          "slug": "buyengero-bdi018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.849",
+      "lon": "29.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018004_mudende",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mudende",
+      "en": "Mudende",
+      "slug": "mudende"
+    },
+    "code": {
+      "id": "BDI018004_mudende",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018004",
+      "level": 2,
+      "name": {
+        "local": "Buyengero",
+        "en": "Buyengero",
+        "slug": "buyengero-bdi018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018004",
+        "level": 2,
+        "name": {
+          "local": "Buyengero",
+          "en": "Buyengero",
+          "slug": "buyengero-bdi018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.849",
+      "lon": "29.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018004_mujigo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mujigo",
+      "en": "Mujigo",
+      "slug": "mujigo"
+    },
+    "code": {
+      "id": "BDI018004_mujigo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018004",
+      "level": 2,
+      "name": {
+        "local": "Buyengero",
+        "en": "Buyengero",
+        "slug": "buyengero-bdi018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018004",
+        "level": 2,
+        "name": {
+          "local": "Buyengero",
+          "en": "Buyengero",
+          "slug": "buyengero-bdi018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.849",
+      "lon": "29.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018004_nkizi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nkizi",
+      "en": "Nkizi",
+      "slug": "nkizi"
+    },
+    "code": {
+      "id": "BDI018004_nkizi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018004",
+      "level": 2,
+      "name": {
+        "local": "Buyengero",
+        "en": "Buyengero",
+        "slug": "buyengero-bdi018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018004",
+        "level": 2,
+        "name": {
+          "local": "Buyengero",
+          "en": "Buyengero",
+          "slug": "buyengero-bdi018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.849",
+      "lon": "29.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018004_nyacambuko",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyacambuko",
+      "en": "Nyacambuko",
+      "slug": "nyacambuko"
+    },
+    "code": {
+      "id": "BDI018004_nyacambuko",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018004",
+      "level": 2,
+      "name": {
+        "local": "Buyengero",
+        "en": "Buyengero",
+        "slug": "buyengero-bdi018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018004",
+        "level": 2,
+        "name": {
+          "local": "Buyengero",
+          "en": "Buyengero",
+          "slug": "buyengero-bdi018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.849",
+      "lon": "29.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018004_nyamurunga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamurunga",
+      "en": "Nyamurunga",
+      "slug": "nyamurunga"
+    },
+    "code": {
+      "id": "BDI018004_nyamurunga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018004",
+      "level": 2,
+      "name": {
+        "local": "Buyengero",
+        "en": "Buyengero",
+        "slug": "buyengero-bdi018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018004",
+        "level": 2,
+        "name": {
+          "local": "Buyengero",
+          "en": "Buyengero",
+          "slug": "buyengero-bdi018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.849",
+      "lon": "29.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018004_rubirizi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubirizi",
+      "en": "Rubirizi",
+      "slug": "rubirizi"
+    },
+    "code": {
+      "id": "BDI018004_rubirizi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018004",
+      "level": 2,
+      "name": {
+        "local": "Buyengero",
+        "en": "Buyengero",
+        "slug": "buyengero-bdi018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018004",
+        "level": 2,
+        "name": {
+          "local": "Buyengero",
+          "en": "Buyengero",
+          "slug": "buyengero-bdi018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.849",
+      "lon": "29.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018004_runyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Runyinya",
+      "en": "Runyinya",
+      "slug": "runyinya"
+    },
+    "code": {
+      "id": "BDI018004_runyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018004",
+      "level": 2,
+      "name": {
+        "local": "Buyengero",
+        "en": "Buyengero",
+        "slug": "buyengero-bdi018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018004",
+        "level": 2,
+        "name": {
+          "local": "Buyengero",
+          "en": "Buyengero",
+          "slug": "buyengero-bdi018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.849",
+      "lon": "29.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018004_sebeyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Sebeyi",
+      "en": "Sebeyi",
+      "slug": "sebeyi"
+    },
+    "code": {
+      "id": "BDI018004_sebeyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018004",
+      "level": 2,
+      "name": {
+        "local": "Buyengero",
+        "en": "Buyengero",
+        "slug": "buyengero-bdi018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018004",
+        "level": 2,
+        "name": {
+          "local": "Buyengero",
+          "en": "Buyengero",
+          "slug": "buyengero-bdi018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.849",
+      "lon": "29.537"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

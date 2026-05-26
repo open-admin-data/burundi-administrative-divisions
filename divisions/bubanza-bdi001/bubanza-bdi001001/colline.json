@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "BDI001001_buhoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhoro",
+      "en": "Buhoro",
+      "slug": "buhoro"
+    },
+    "code": {
+      "id": "BDI001001_buhoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001_buhororo-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhororo Ii",
+      "en": "Buhororo Ii",
+      "slug": "buhororo-ii"
+    },
+    "code": {
+      "id": "BDI001001_buhororo-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001_centre-ville",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Centre Ville",
+      "en": "Centre Ville",
+      "slug": "centre-ville"
+    },
+    "code": {
+      "id": "BDI001001_centre-ville",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001_cimbizi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cimbizi",
+      "en": "Cimbizi",
+      "slug": "cimbizi"
+    },
+    "code": {
+      "id": "BDI001001_cimbizi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001_ciya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ciya",
+      "en": "Ciya",
+      "slug": "ciya"
+    },
+    "code": {
+      "id": "BDI001001_ciya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001_gahongore",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gahongore",
+      "en": "Gahongore",
+      "slug": "gahongore"
+    },
+    "code": {
+      "id": "BDI001001_gahongore",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001_gatura",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatura",
+      "en": "Gatura",
+      "slug": "gatura"
+    },
+    "code": {
+      "id": "BDI001001_gatura",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001_gitanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitanga",
+      "en": "Gitanga",
+      "slug": "gitanga"
+    },
+    "code": {
+      "id": "BDI001001_gitanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001_karinzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karinzi",
+      "en": "Karinzi",
+      "slug": "karinzi"
+    },
+    "code": {
+      "id": "BDI001001_karinzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001_kivyiru",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivyiru",
+      "en": "Kivyiru",
+      "slug": "kivyiru"
+    },
+    "code": {
+      "id": "BDI001001_kivyiru",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001_mitakataka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mitakataka",
+      "en": "Mitakataka",
+      "slug": "mitakataka"
+    },
+    "code": {
+      "id": "BDI001001_mitakataka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001_mugimbu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugimbu",
+      "en": "Mugimbu",
+      "slug": "mugimbu"
+    },
+    "code": {
+      "id": "BDI001001_mugimbu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001_muhanza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muhanza",
+      "en": "Muhanza",
+      "slug": "muhanza"
+    },
+    "code": {
+      "id": "BDI001001_muhanza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001_muhenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muhenga",
+      "en": "Muhenga",
+      "slug": "muhenga"
+    },
+    "code": {
+      "id": "BDI001001_muhenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001_muramba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muramba",
+      "en": "Muramba",
+      "slug": "muramba"
+    },
+    "code": {
+      "id": "BDI001001_muramba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001_mwanda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwanda",
+      "en": "Mwanda",
+      "slug": "mwanda"
+    },
+    "code": {
+      "id": "BDI001001_mwanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001_ngara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngara",
+      "en": "Ngara",
+      "slug": "ngara"
+    },
+    "code": {
+      "id": "BDI001001_ngara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001_nyabitaka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabitaka",
+      "en": "Nyabitaka",
+      "slug": "nyabitaka"
+    },
+    "code": {
+      "id": "BDI001001_nyabitaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001_rugunga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugunga",
+      "en": "Rugunga",
+      "slug": "rugunga"
+    },
+    "code": {
+      "id": "BDI001001_rugunga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001_rurabo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rurabo",
+      "en": "Rurabo",
+      "slug": "rurabo"
+    },
+    "code": {
+      "id": "BDI001001_rurabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001_shari-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Shari I",
+      "en": "Shari I",
+      "slug": "shari-i"
+    },
+    "code": {
+      "id": "BDI001001_shari-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001_shari-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Shari Ii",
+      "en": "Shari Ii",
+      "slug": "shari-ii"
+    },
+    "code": {
+      "id": "BDI001001_shari-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001_zina",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Zina",
+      "en": "Zina",
+      "slug": "zina"
+    },
+    "code": {
+      "id": "BDI001001_zina",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001001",
+      "level": 2,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001001",
+        "level": 2,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

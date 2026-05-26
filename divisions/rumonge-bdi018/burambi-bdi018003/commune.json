@@ -1,0 +1,47 @@
+{
+  "id": "BDI018003",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Burambi",
+    "en": "Burambi",
+    "slug": "burambi-bdi018003"
+  },
+  "code": {
+    "id": "BDI018003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI018",
+    "level": 1,
+    "name": {
+      "local": "Rumonge",
+      "en": "Rumonge",
+      "slug": "rumonge-bdi018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI018",
+      "level": 1,
+      "name": {
+        "local": "Rumonge",
+        "en": "Rumonge",
+        "slug": "rumonge-bdi018"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.815",
+    "lon": "29.435"
+  },
+  "metadata": {},
+  "source": {}
+}

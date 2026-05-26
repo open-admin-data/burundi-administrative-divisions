@@ -1,0 +1,30 @@
+{
+  "id": "BDI008",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Kayanza",
+    "en": "Kayanza",
+    "slug": "kayanza-bdi008"
+  },
+  "code": {
+    "id": "BDI008",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 9,
+    "colline": 301
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.008",
+    "lon": "29.662"
+  },
+  "metadata": {},
+  "source": {}
+}

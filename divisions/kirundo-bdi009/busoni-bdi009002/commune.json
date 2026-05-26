@@ -1,0 +1,47 @@
+{
+  "id": "BDI009002",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Busoni",
+    "en": "Busoni",
+    "slug": "busoni-bdi009002"
+  },
+  "code": {
+    "id": "BDI009002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI009",
+    "level": 1,
+    "name": {
+      "local": "Kirundo",
+      "en": "Kirundo",
+      "slug": "kirundo-bdi009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI009",
+      "level": 1,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 42
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.484",
+    "lon": "30.237"
+  },
+  "metadata": {},
+  "source": {}
+}

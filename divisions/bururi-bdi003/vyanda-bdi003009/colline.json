@@ -1,0 +1,974 @@
+[
+  {
+    "id": "BDI003009_bugeni",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugeni",
+      "en": "Bugeni",
+      "slug": "bugeni"
+    },
+    "code": {
+      "id": "BDI003009_bugeni",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003009",
+      "level": 2,
+      "name": {
+        "local": "Vyanda",
+        "en": "Vyanda",
+        "slug": "vyanda-bdi003009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003009",
+        "level": 2,
+        "name": {
+          "local": "Vyanda",
+          "en": "Vyanda",
+          "slug": "vyanda-bdi003009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.077",
+      "lon": "29.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003009_bwatemba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bwatemba",
+      "en": "Bwatemba",
+      "slug": "bwatemba"
+    },
+    "code": {
+      "id": "BDI003009_bwatemba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003009",
+      "level": 2,
+      "name": {
+        "local": "Vyanda",
+        "en": "Vyanda",
+        "slug": "vyanda-bdi003009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003009",
+        "level": 2,
+        "name": {
+          "local": "Vyanda",
+          "en": "Vyanda",
+          "slug": "vyanda-bdi003009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.077",
+      "lon": "29.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003009_gihinga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gihinga",
+      "en": "Gihinga",
+      "slug": "gihinga"
+    },
+    "code": {
+      "id": "BDI003009_gihinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003009",
+      "level": 2,
+      "name": {
+        "local": "Vyanda",
+        "en": "Vyanda",
+        "slug": "vyanda-bdi003009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003009",
+        "level": 2,
+        "name": {
+          "local": "Vyanda",
+          "en": "Vyanda",
+          "slug": "vyanda-bdi003009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.077",
+      "lon": "29.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003009_gitwaro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitwaro",
+      "en": "Gitwaro",
+      "slug": "gitwaro"
+    },
+    "code": {
+      "id": "BDI003009_gitwaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003009",
+      "level": 2,
+      "name": {
+        "local": "Vyanda",
+        "en": "Vyanda",
+        "slug": "vyanda-bdi003009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003009",
+        "level": 2,
+        "name": {
+          "local": "Vyanda",
+          "en": "Vyanda",
+          "slug": "vyanda-bdi003009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.077",
+      "lon": "29.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003009_kabwayi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabwayi",
+      "en": "Kabwayi",
+      "slug": "kabwayi"
+    },
+    "code": {
+      "id": "BDI003009_kabwayi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003009",
+      "level": 2,
+      "name": {
+        "local": "Vyanda",
+        "en": "Vyanda",
+        "slug": "vyanda-bdi003009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003009",
+        "level": 2,
+        "name": {
+          "local": "Vyanda",
+          "en": "Vyanda",
+          "slug": "vyanda-bdi003009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.077",
+      "lon": "29.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003009_kagoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kagoma",
+      "en": "Kagoma",
+      "slug": "kagoma"
+    },
+    "code": {
+      "id": "BDI003009_kagoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003009",
+      "level": 2,
+      "name": {
+        "local": "Vyanda",
+        "en": "Vyanda",
+        "slug": "vyanda-bdi003009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003009",
+        "level": 2,
+        "name": {
+          "local": "Vyanda",
+          "en": "Vyanda",
+          "slug": "vyanda-bdi003009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.077",
+      "lon": "29.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003009_karehe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karehe",
+      "en": "Karehe",
+      "slug": "karehe"
+    },
+    "code": {
+      "id": "BDI003009_karehe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003009",
+      "level": 2,
+      "name": {
+        "local": "Vyanda",
+        "en": "Vyanda",
+        "slug": "vyanda-bdi003009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003009",
+        "level": 2,
+        "name": {
+          "local": "Vyanda",
+          "en": "Vyanda",
+          "slug": "vyanda-bdi003009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.077",
+      "lon": "29.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003009_karirimvya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karirimvya",
+      "en": "Karirimvya",
+      "slug": "karirimvya"
+    },
+    "code": {
+      "id": "BDI003009_karirimvya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003009",
+      "level": 2,
+      "name": {
+        "local": "Vyanda",
+        "en": "Vyanda",
+        "slug": "vyanda-bdi003009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003009",
+        "level": 2,
+        "name": {
+          "local": "Vyanda",
+          "en": "Vyanda",
+          "slug": "vyanda-bdi003009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.077",
+      "lon": "29.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003009_kigutu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigutu",
+      "en": "Kigutu",
+      "slug": "kigutu"
+    },
+    "code": {
+      "id": "BDI003009_kigutu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003009",
+      "level": 2,
+      "name": {
+        "local": "Vyanda",
+        "en": "Vyanda",
+        "slug": "vyanda-bdi003009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003009",
+        "level": 2,
+        "name": {
+          "local": "Vyanda",
+          "en": "Vyanda",
+          "slug": "vyanda-bdi003009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.077",
+      "lon": "29.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003009_kirungu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirungu",
+      "en": "Kirungu",
+      "slug": "kirungu"
+    },
+    "code": {
+      "id": "BDI003009_kirungu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003009",
+      "level": 2,
+      "name": {
+        "local": "Vyanda",
+        "en": "Vyanda",
+        "slug": "vyanda-bdi003009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003009",
+        "level": 2,
+        "name": {
+          "local": "Vyanda",
+          "en": "Vyanda",
+          "slug": "vyanda-bdi003009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.077",
+      "lon": "29.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003009_migera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Migera",
+      "en": "Migera",
+      "slug": "migera"
+    },
+    "code": {
+      "id": "BDI003009_migera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003009",
+      "level": 2,
+      "name": {
+        "local": "Vyanda",
+        "en": "Vyanda",
+        "slug": "vyanda-bdi003009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003009",
+        "level": 2,
+        "name": {
+          "local": "Vyanda",
+          "en": "Vyanda",
+          "slug": "vyanda-bdi003009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.077",
+      "lon": "29.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003009_mirango",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mirango",
+      "en": "Mirango",
+      "slug": "mirango"
+    },
+    "code": {
+      "id": "BDI003009_mirango",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003009",
+      "level": 2,
+      "name": {
+        "local": "Vyanda",
+        "en": "Vyanda",
+        "slug": "vyanda-bdi003009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003009",
+        "level": 2,
+        "name": {
+          "local": "Vyanda",
+          "en": "Vyanda",
+          "slug": "vyanda-bdi003009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.077",
+      "lon": "29.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003009_mubuga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mubuga",
+      "en": "Mubuga",
+      "slug": "mubuga"
+    },
+    "code": {
+      "id": "BDI003009_mubuga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003009",
+      "level": 2,
+      "name": {
+        "local": "Vyanda",
+        "en": "Vyanda",
+        "slug": "vyanda-bdi003009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003009",
+        "level": 2,
+        "name": {
+          "local": "Vyanda",
+          "en": "Vyanda",
+          "slug": "vyanda-bdi003009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.077",
+      "lon": "29.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003009_mushishi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mushishi",
+      "en": "Mushishi",
+      "slug": "mushishi"
+    },
+    "code": {
+      "id": "BDI003009_mushishi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003009",
+      "level": 2,
+      "name": {
+        "local": "Vyanda",
+        "en": "Vyanda",
+        "slug": "vyanda-bdi003009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003009",
+        "level": 2,
+        "name": {
+          "local": "Vyanda",
+          "en": "Vyanda",
+          "slug": "vyanda-bdi003009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.077",
+      "lon": "29.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003009_ntunda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ntunda",
+      "en": "Ntunda",
+      "slug": "ntunda"
+    },
+    "code": {
+      "id": "BDI003009_ntunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003009",
+      "level": 2,
+      "name": {
+        "local": "Vyanda",
+        "en": "Vyanda",
+        "slug": "vyanda-bdi003009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003009",
+        "level": 2,
+        "name": {
+          "local": "Vyanda",
+          "en": "Vyanda",
+          "slug": "vyanda-bdi003009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.077",
+      "lon": "29.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003009_nyakabenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakabenga",
+      "en": "Nyakabenga",
+      "slug": "nyakabenga"
+    },
+    "code": {
+      "id": "BDI003009_nyakabenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003009",
+      "level": 2,
+      "name": {
+        "local": "Vyanda",
+        "en": "Vyanda",
+        "slug": "vyanda-bdi003009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003009",
+        "level": 2,
+        "name": {
+          "local": "Vyanda",
+          "en": "Vyanda",
+          "slug": "vyanda-bdi003009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.077",
+      "lon": "29.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003009_rweza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rweza",
+      "en": "Rweza",
+      "slug": "rweza"
+    },
+    "code": {
+      "id": "BDI003009_rweza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003009",
+      "level": 2,
+      "name": {
+        "local": "Vyanda",
+        "en": "Vyanda",
+        "slug": "vyanda-bdi003009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003009",
+        "level": 2,
+        "name": {
+          "local": "Vyanda",
+          "en": "Vyanda",
+          "slug": "vyanda-bdi003009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.077",
+      "lon": "29.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003009_vyanda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Vyanda",
+      "en": "Vyanda",
+      "slug": "vyanda"
+    },
+    "code": {
+      "id": "BDI003009_vyanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003009",
+      "level": 2,
+      "name": {
+        "local": "Vyanda",
+        "en": "Vyanda",
+        "slug": "vyanda-bdi003009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003009",
+        "level": 2,
+        "name": {
+          "local": "Vyanda",
+          "en": "Vyanda",
+          "slug": "vyanda-bdi003009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.077",
+      "lon": "29.601"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1838 @@
+[
+  {
+    "id": "BDI006005_bucana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bucana",
+      "en": "Bucana",
+      "slug": "bucana"
+    },
+    "code": {
+      "id": "BDI006005_bucana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_bukzavu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bukzavu",
+      "en": "Bukzavu",
+      "slug": "bukzavu"
+    },
+    "code": {
+      "id": "BDI006005_bukzavu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_cimba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cimba",
+      "en": "Cimba",
+      "slug": "cimba"
+    },
+    "code": {
+      "id": "BDI006005_cimba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_gatare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatare",
+      "en": "Gatare",
+      "slug": "gatare"
+    },
+    "code": {
+      "id": "BDI006005_gatare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_gatoza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatoza",
+      "en": "Gatoza",
+      "slug": "gatoza"
+    },
+    "code": {
+      "id": "BDI006005_gatoza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_gikuka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikuka",
+      "en": "Gikuka",
+      "slug": "gikuka"
+    },
+    "code": {
+      "id": "BDI006005_gikuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_gishubi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gishubi",
+      "en": "Gishubi",
+      "slug": "gishubi"
+    },
+    "code": {
+      "id": "BDI006005_gishubi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_kayogoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kayogoro",
+      "en": "Kayogoro",
+      "slug": "kayogoro"
+    },
+    "code": {
+      "id": "BDI006005_kayogoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_kejari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kejari",
+      "en": "Kejari",
+      "slug": "kejari"
+    },
+    "code": {
+      "id": "BDI006005_kejari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_kigomera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigomera",
+      "en": "Kigomera",
+      "slug": "kigomera"
+    },
+    "code": {
+      "id": "BDI006005_kigomera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_kigufi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigufi",
+      "en": "Kigufi",
+      "slug": "kigufi"
+    },
+    "code": {
+      "id": "BDI006005_kigufi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_mikore",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mikore",
+      "en": "Mikore",
+      "slug": "mikore"
+    },
+    "code": {
+      "id": "BDI006005_mikore",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_mtunda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mtunda",
+      "en": "Mtunda",
+      "slug": "mtunda"
+    },
+    "code": {
+      "id": "BDI006005_mtunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_mugaruro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugaruro",
+      "en": "Mugaruro",
+      "slug": "mugaruro"
+    },
+    "code": {
+      "id": "BDI006005_mugaruro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_mugozi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugozi",
+      "en": "Mugozi",
+      "slug": "mugozi"
+    },
+    "code": {
+      "id": "BDI006005_mugozi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_muhagaze",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muhagaze",
+      "en": "Muhagaze",
+      "slug": "muhagaze"
+    },
+    "code": {
+      "id": "BDI006005_muhagaze",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_muhuzu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muhuzu",
+      "en": "Muhuzu",
+      "slug": "muhuzu"
+    },
+    "code": {
+      "id": "BDI006005_muhuzu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_mujejuru",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mujejuru",
+      "en": "Mujejuru",
+      "slug": "mujejuru"
+    },
+    "code": {
+      "id": "BDI006005_mujejuru",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_munyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munyinya",
+      "en": "Munyinya",
+      "slug": "munyinya"
+    },
+    "code": {
+      "id": "BDI006005_munyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_murangara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murangara",
+      "en": "Murangara",
+      "slug": "murangara"
+    },
+    "code": {
+      "id": "BDI006005_murangara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_murehe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murehe",
+      "en": "Murehe",
+      "slug": "murehe"
+    },
+    "code": {
+      "id": "BDI006005_murehe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_musenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musenga",
+      "en": "Musenga",
+      "slug": "musenga"
+    },
+    "code": {
+      "id": "BDI006005_musenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_ndago",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ndago",
+      "en": "Ndago",
+      "slug": "ndago"
+    },
+    "code": {
+      "id": "BDI006005_ndago",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_nyakanazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakanazi",
+      "en": "Nyakanazi",
+      "slug": "nyakanazi"
+    },
+    "code": {
+      "id": "BDI006005_nyakanazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_nyakigina",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakigina",
+      "en": "Nyakigina",
+      "slug": "nyakigina"
+    },
+    "code": {
+      "id": "BDI006005_nyakigina",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_nyamirama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamirama",
+      "en": "Nyamirama",
+      "slug": "nyamirama"
+    },
+    "code": {
+      "id": "BDI006005_nyamirama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_nyamugari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamugari",
+      "en": "Nyamugari",
+      "slug": "nyamugari"
+    },
+    "code": {
+      "id": "BDI006005_nyamugari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_nyamutobo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamutobo",
+      "en": "Nyamutobo",
+      "slug": "nyamutobo"
+    },
+    "code": {
+      "id": "BDI006005_nyamutobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_remera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Remera",
+      "en": "Remera",
+      "slug": "remera"
+    },
+    "code": {
+      "id": "BDI006005_remera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_ruhande",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhande",
+      "en": "Ruhande",
+      "slug": "ruhande"
+    },
+    "code": {
+      "id": "BDI006005_ruhande",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_rukiga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rukiga",
+      "en": "Rukiga",
+      "slug": "rukiga"
+    },
+    "code": {
+      "id": "BDI006005_rukiga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_rurimbi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rurimbi",
+      "en": "Rurimbi",
+      "slug": "rurimbi"
+    },
+    "code": {
+      "id": "BDI006005_rurimbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_rwintamba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwintamba",
+      "en": "Rwintamba",
+      "slug": "rwintamba"
+    },
+    "code": {
+      "id": "BDI006005_rwintamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005_yanza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Yanza",
+      "en": "Yanza",
+      "slug": "yanza"
+    },
+    "code": {
+      "id": "BDI006005_yanza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006005",
+      "level": 2,
+      "name": {
+        "local": "Gishubi",
+        "en": "Gishubi",
+        "slug": "gishubi-bdi006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006005",
+        "level": 2,
+        "name": {
+          "local": "Gishubi",
+          "en": "Gishubi",
+          "slug": "gishubi-bdi006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

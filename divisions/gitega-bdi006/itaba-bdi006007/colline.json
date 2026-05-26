@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "BDI006007_buhanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhanga",
+      "en": "Buhanga",
+      "slug": "buhanga"
+    },
+    "code": {
+      "id": "BDI006007_buhanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006007",
+      "level": 2,
+      "name": {
+        "local": "Itaba",
+        "en": "Itaba",
+        "slug": "itaba-bdi006007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006007",
+        "level": 2,
+        "name": {
+          "local": "Itaba",
+          "en": "Itaba",
+          "slug": "itaba-bdi006007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006007_buhinda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhinda",
+      "en": "Buhinda",
+      "slug": "buhinda"
+    },
+    "code": {
+      "id": "BDI006007_buhinda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006007",
+      "level": 2,
+      "name": {
+        "local": "Itaba",
+        "en": "Itaba",
+        "slug": "itaba-bdi006007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006007",
+        "level": 2,
+        "name": {
+          "local": "Itaba",
+          "en": "Itaba",
+          "slug": "itaba-bdi006007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006007_butare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butare",
+      "en": "Butare",
+      "slug": "butare"
+    },
+    "code": {
+      "id": "BDI006007_butare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006007",
+      "level": 2,
+      "name": {
+        "local": "Itaba",
+        "en": "Itaba",
+        "slug": "itaba-bdi006007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006007",
+        "level": 2,
+        "name": {
+          "local": "Itaba",
+          "en": "Itaba",
+          "slug": "itaba-bdi006007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006007_gihamagara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gihamagara",
+      "en": "Gihamagara",
+      "slug": "gihamagara"
+    },
+    "code": {
+      "id": "BDI006007_gihamagara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006007",
+      "level": 2,
+      "name": {
+        "local": "Itaba",
+        "en": "Itaba",
+        "slug": "itaba-bdi006007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006007",
+        "level": 2,
+        "name": {
+          "local": "Itaba",
+          "en": "Itaba",
+          "slug": "itaba-bdi006007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006007_gisikara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisikara",
+      "en": "Gisikara",
+      "slug": "gisikara"
+    },
+    "code": {
+      "id": "BDI006007_gisikara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006007",
+      "level": 2,
+      "name": {
+        "local": "Itaba",
+        "en": "Itaba",
+        "slug": "itaba-bdi006007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006007",
+        "level": 2,
+        "name": {
+          "local": "Itaba",
+          "en": "Itaba",
+          "slug": "itaba-bdi006007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006007_itaba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Itaba",
+      "en": "Itaba",
+      "slug": "itaba"
+    },
+    "code": {
+      "id": "BDI006007_itaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006007",
+      "level": 2,
+      "name": {
+        "local": "Itaba",
+        "en": "Itaba",
+        "slug": "itaba-bdi006007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006007",
+        "level": 2,
+        "name": {
+          "local": "Itaba",
+          "en": "Itaba",
+          "slug": "itaba-bdi006007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006007_kagoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kagoma",
+      "en": "Kagoma",
+      "slug": "kagoma"
+    },
+    "code": {
+      "id": "BDI006007_kagoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006007",
+      "level": 2,
+      "name": {
+        "local": "Itaba",
+        "en": "Itaba",
+        "slug": "itaba-bdi006007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006007",
+        "level": 2,
+        "name": {
+          "local": "Itaba",
+          "en": "Itaba",
+          "slug": "itaba-bdi006007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006007_kanyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kanyinya",
+      "en": "Kanyinya",
+      "slug": "kanyinya"
+    },
+    "code": {
+      "id": "BDI006007_kanyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006007",
+      "level": 2,
+      "name": {
+        "local": "Itaba",
+        "en": "Itaba",
+        "slug": "itaba-bdi006007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006007",
+        "level": 2,
+        "name": {
+          "local": "Itaba",
+          "en": "Itaba",
+          "slug": "itaba-bdi006007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006007_kanyonga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kanyonga",
+      "en": "Kanyonga",
+      "slug": "kanyonga"
+    },
+    "code": {
+      "id": "BDI006007_kanyonga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006007",
+      "level": 2,
+      "name": {
+        "local": "Itaba",
+        "en": "Itaba",
+        "slug": "itaba-bdi006007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006007",
+        "level": 2,
+        "name": {
+          "local": "Itaba",
+          "en": "Itaba",
+          "slug": "itaba-bdi006007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006007_karemba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karemba",
+      "en": "Karemba",
+      "slug": "karemba"
+    },
+    "code": {
+      "id": "BDI006007_karemba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006007",
+      "level": 2,
+      "name": {
+        "local": "Itaba",
+        "en": "Itaba",
+        "slug": "itaba-bdi006007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006007",
+        "level": 2,
+        "name": {
+          "local": "Itaba",
+          "en": "Itaba",
+          "slug": "itaba-bdi006007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006007_kibogoye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibogoye",
+      "en": "Kibogoye",
+      "slug": "kibogoye"
+    },
+    "code": {
+      "id": "BDI006007_kibogoye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006007",
+      "level": 2,
+      "name": {
+        "local": "Itaba",
+        "en": "Itaba",
+        "slug": "itaba-bdi006007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006007",
+        "level": 2,
+        "name": {
+          "local": "Itaba",
+          "en": "Itaba",
+          "slug": "itaba-bdi006007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006007_kirambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirambi",
+      "en": "Kirambi",
+      "slug": "kirambi"
+    },
+    "code": {
+      "id": "BDI006007_kirambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006007",
+      "level": 2,
+      "name": {
+        "local": "Itaba",
+        "en": "Itaba",
+        "slug": "itaba-bdi006007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006007",
+        "level": 2,
+        "name": {
+          "local": "Itaba",
+          "en": "Itaba",
+          "slug": "itaba-bdi006007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006007_kugitega",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kugitega",
+      "en": "Kugitega",
+      "slug": "kugitega"
+    },
+    "code": {
+      "id": "BDI006007_kugitega",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006007",
+      "level": 2,
+      "name": {
+        "local": "Itaba",
+        "en": "Itaba",
+        "slug": "itaba-bdi006007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006007",
+        "level": 2,
+        "name": {
+          "local": "Itaba",
+          "en": "Itaba",
+          "slug": "itaba-bdi006007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006007_macu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Macu",
+      "en": "Macu",
+      "slug": "macu"
+    },
+    "code": {
+      "id": "BDI006007_macu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006007",
+      "level": 2,
+      "name": {
+        "local": "Itaba",
+        "en": "Itaba",
+        "slug": "itaba-bdi006007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006007",
+        "level": 2,
+        "name": {
+          "local": "Itaba",
+          "en": "Itaba",
+          "slug": "itaba-bdi006007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006007_mugomera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugomera",
+      "en": "Mugomera",
+      "slug": "mugomera"
+    },
+    "code": {
+      "id": "BDI006007_mugomera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006007",
+      "level": 2,
+      "name": {
+        "local": "Itaba",
+        "en": "Itaba",
+        "slug": "itaba-bdi006007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006007",
+        "level": 2,
+        "name": {
+          "local": "Itaba",
+          "en": "Itaba",
+          "slug": "itaba-bdi006007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006007_mutanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mutanga",
+      "en": "Mutanga",
+      "slug": "mutanga"
+    },
+    "code": {
+      "id": "BDI006007_mutanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006007",
+      "level": 2,
+      "name": {
+        "local": "Itaba",
+        "en": "Itaba",
+        "slug": "itaba-bdi006007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006007",
+        "level": 2,
+        "name": {
+          "local": "Itaba",
+          "en": "Itaba",
+          "slug": "itaba-bdi006007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006007_nkima",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nkima",
+      "en": "Nkima",
+      "slug": "nkima"
+    },
+    "code": {
+      "id": "BDI006007_nkima",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006007",
+      "level": 2,
+      "name": {
+        "local": "Itaba",
+        "en": "Itaba",
+        "slug": "itaba-bdi006007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006007",
+        "level": 2,
+        "name": {
+          "local": "Itaba",
+          "en": "Itaba",
+          "slug": "itaba-bdi006007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006007_ruhanza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhanza",
+      "en": "Ruhanza",
+      "slug": "ruhanza"
+    },
+    "code": {
+      "id": "BDI006007_ruhanza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006007",
+      "level": 2,
+      "name": {
+        "local": "Itaba",
+        "en": "Itaba",
+        "slug": "itaba-bdi006007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006007",
+        "level": 2,
+        "name": {
+          "local": "Itaba",
+          "en": "Itaba",
+          "slug": "itaba-bdi006007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006007_rukobe-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rukobe I",
+      "en": "Rukobe I",
+      "slug": "rukobe-i"
+    },
+    "code": {
+      "id": "BDI006007_rukobe-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006007",
+      "level": 2,
+      "name": {
+        "local": "Itaba",
+        "en": "Itaba",
+        "slug": "itaba-bdi006007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006007",
+        "level": 2,
+        "name": {
+          "local": "Itaba",
+          "en": "Itaba",
+          "slug": "itaba-bdi006007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006007_rukobe-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rukobe Ii",
+      "en": "Rukobe Ii",
+      "slug": "rukobe-ii"
+    },
+    "code": {
+      "id": "BDI006007_rukobe-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006007",
+      "level": 2,
+      "name": {
+        "local": "Itaba",
+        "en": "Itaba",
+        "slug": "itaba-bdi006007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006007",
+        "level": 2,
+        "name": {
+          "local": "Itaba",
+          "en": "Itaba",
+          "slug": "itaba-bdi006007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

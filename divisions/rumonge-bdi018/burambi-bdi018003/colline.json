@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "BDI018003_bisaka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bisaka",
+      "en": "Bisaka",
+      "slug": "bisaka"
+    },
+    "code": {
+      "id": "BDI018003_bisaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018003",
+      "level": 2,
+      "name": {
+        "local": "Burambi",
+        "en": "Burambi",
+        "slug": "burambi-bdi018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018003",
+        "level": 2,
+        "name": {
+          "local": "Burambi",
+          "en": "Burambi",
+          "slug": "burambi-bdi018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003_buhinyuza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhinyuza",
+      "en": "Buhinyuza",
+      "slug": "buhinyuza"
+    },
+    "code": {
+      "id": "BDI018003_buhinyuza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018003",
+      "level": 2,
+      "name": {
+        "local": "Burambi",
+        "en": "Burambi",
+        "slug": "burambi-bdi018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018003",
+        "level": 2,
+        "name": {
+          "local": "Burambi",
+          "en": "Burambi",
+          "slug": "burambi-bdi018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003_burambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burambi",
+      "en": "Burambi",
+      "slug": "burambi"
+    },
+    "code": {
+      "id": "BDI018003_burambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018003",
+      "level": 2,
+      "name": {
+        "local": "Burambi",
+        "en": "Burambi",
+        "slug": "burambi-bdi018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018003",
+        "level": 2,
+        "name": {
+          "local": "Burambi",
+          "en": "Burambi",
+          "slug": "burambi-bdi018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003_busaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Busaga",
+      "en": "Busaga",
+      "slug": "busaga"
+    },
+    "code": {
+      "id": "BDI018003_busaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018003",
+      "level": 2,
+      "name": {
+        "local": "Burambi",
+        "en": "Burambi",
+        "slug": "burambi-bdi018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018003",
+        "level": 2,
+        "name": {
+          "local": "Burambi",
+          "en": "Burambi",
+          "slug": "burambi-bdi018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003_busura",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Busura",
+      "en": "Busura",
+      "slug": "busura"
+    },
+    "code": {
+      "id": "BDI018003_busura",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018003",
+      "level": 2,
+      "name": {
+        "local": "Burambi",
+        "en": "Burambi",
+        "slug": "burambi-bdi018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018003",
+        "level": 2,
+        "name": {
+          "local": "Burambi",
+          "en": "Burambi",
+          "slug": "burambi-bdi018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003_buyenzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buyenzi",
+      "en": "Buyenzi",
+      "slug": "buyenzi"
+    },
+    "code": {
+      "id": "BDI018003_buyenzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018003",
+      "level": 2,
+      "name": {
+        "local": "Burambi",
+        "en": "Burambi",
+        "slug": "burambi-bdi018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018003",
+        "level": 2,
+        "name": {
+          "local": "Burambi",
+          "en": "Burambi",
+          "slug": "burambi-bdi018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003_gahinda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gahinda",
+      "en": "Gahinda",
+      "slug": "gahinda"
+    },
+    "code": {
+      "id": "BDI018003_gahinda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018003",
+      "level": 2,
+      "name": {
+        "local": "Burambi",
+        "en": "Burambi",
+        "slug": "burambi-bdi018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018003",
+        "level": 2,
+        "name": {
+          "local": "Burambi",
+          "en": "Burambi",
+          "slug": "burambi-bdi018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003_gakonko",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gakonko",
+      "en": "Gakonko",
+      "slug": "gakonko"
+    },
+    "code": {
+      "id": "BDI018003_gakonko",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018003",
+      "level": 2,
+      "name": {
+        "local": "Burambi",
+        "en": "Burambi",
+        "slug": "burambi-bdi018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018003",
+        "level": 2,
+        "name": {
+          "local": "Burambi",
+          "en": "Burambi",
+          "slug": "burambi-bdi018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003_gatobo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatobo",
+      "en": "Gatobo",
+      "slug": "gatobo"
+    },
+    "code": {
+      "id": "BDI018003_gatobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018003",
+      "level": 2,
+      "name": {
+        "local": "Burambi",
+        "en": "Burambi",
+        "slug": "burambi-bdi018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018003",
+        "level": 2,
+        "name": {
+          "local": "Burambi",
+          "en": "Burambi",
+          "slug": "burambi-bdi018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003_gisenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisenyi",
+      "en": "Gisenyi",
+      "slug": "gisenyi"
+    },
+    "code": {
+      "id": "BDI018003_gisenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018003",
+      "level": 2,
+      "name": {
+        "local": "Burambi",
+        "en": "Burambi",
+        "slug": "burambi-bdi018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018003",
+        "level": 2,
+        "name": {
+          "local": "Burambi",
+          "en": "Burambi",
+          "slug": "burambi-bdi018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003_gishiha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gishiha",
+      "en": "Gishiha",
+      "slug": "gishiha"
+    },
+    "code": {
+      "id": "BDI018003_gishiha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018003",
+      "level": 2,
+      "name": {
+        "local": "Burambi",
+        "en": "Burambi",
+        "slug": "burambi-bdi018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018003",
+        "level": 2,
+        "name": {
+          "local": "Burambi",
+          "en": "Burambi",
+          "slug": "burambi-bdi018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003_gitaba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitaba",
+      "en": "Gitaba",
+      "slug": "gitaba"
+    },
+    "code": {
+      "id": "BDI018003_gitaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018003",
+      "level": 2,
+      "name": {
+        "local": "Burambi",
+        "en": "Burambi",
+        "slug": "burambi-bdi018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018003",
+        "level": 2,
+        "name": {
+          "local": "Burambi",
+          "en": "Burambi",
+          "slug": "burambi-bdi018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003_gitaramuka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitaramuka",
+      "en": "Gitaramuka",
+      "slug": "gitaramuka"
+    },
+    "code": {
+      "id": "BDI018003_gitaramuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018003",
+      "level": 2,
+      "name": {
+        "local": "Burambi",
+        "en": "Burambi",
+        "slug": "burambi-bdi018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018003",
+        "level": 2,
+        "name": {
+          "local": "Burambi",
+          "en": "Burambi",
+          "slug": "burambi-bdi018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003_gitongwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitongwe",
+      "en": "Gitongwe",
+      "slug": "gitongwe"
+    },
+    "code": {
+      "id": "BDI018003_gitongwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018003",
+      "level": 2,
+      "name": {
+        "local": "Burambi",
+        "en": "Burambi",
+        "slug": "burambi-bdi018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018003",
+        "level": 2,
+        "name": {
+          "local": "Burambi",
+          "en": "Burambi",
+          "slug": "burambi-bdi018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003_magana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Magana",
+      "en": "Magana",
+      "slug": "magana"
+    },
+    "code": {
+      "id": "BDI018003_magana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018003",
+      "level": 2,
+      "name": {
+        "local": "Burambi",
+        "en": "Burambi",
+        "slug": "burambi-bdi018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018003",
+        "level": 2,
+        "name": {
+          "local": "Burambi",
+          "en": "Burambi",
+          "slug": "burambi-bdi018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003_maramvya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Maramvya",
+      "en": "Maramvya",
+      "slug": "maramvya"
+    },
+    "code": {
+      "id": "BDI018003_maramvya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018003",
+      "level": 2,
+      "name": {
+        "local": "Burambi",
+        "en": "Burambi",
+        "slug": "burambi-bdi018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018003",
+        "level": 2,
+        "name": {
+          "local": "Burambi",
+          "en": "Burambi",
+          "slug": "burambi-bdi018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003_murara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murara",
+      "en": "Murara",
+      "slug": "murara"
+    },
+    "code": {
+      "id": "BDI018003_murara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018003",
+      "level": 2,
+      "name": {
+        "local": "Burambi",
+        "en": "Burambi",
+        "slug": "burambi-bdi018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018003",
+        "level": 2,
+        "name": {
+          "local": "Burambi",
+          "en": "Burambi",
+          "slug": "burambi-bdi018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003_murenge",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murenge",
+      "en": "Murenge",
+      "slug": "murenge"
+    },
+    "code": {
+      "id": "BDI018003_murenge",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018003",
+      "level": 2,
+      "name": {
+        "local": "Burambi",
+        "en": "Burambi",
+        "slug": "burambi-bdi018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018003",
+        "level": 2,
+        "name": {
+          "local": "Burambi",
+          "en": "Burambi",
+          "slug": "burambi-bdi018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003_muzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muzi",
+      "en": "Muzi",
+      "slug": "muzi"
+    },
+    "code": {
+      "id": "BDI018003_muzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018003",
+      "level": 2,
+      "name": {
+        "local": "Burambi",
+        "en": "Burambi",
+        "slug": "burambi-bdi018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018003",
+        "level": 2,
+        "name": {
+          "local": "Burambi",
+          "en": "Burambi",
+          "slug": "burambi-bdi018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003_rumonyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rumonyi",
+      "en": "Rumonyi",
+      "slug": "rumonyi"
+    },
+    "code": {
+      "id": "BDI018003_rumonyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018003",
+      "level": 2,
+      "name": {
+        "local": "Burambi",
+        "en": "Burambi",
+        "slug": "burambi-bdi018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018003",
+        "level": 2,
+        "name": {
+          "local": "Burambi",
+          "en": "Burambi",
+          "slug": "burambi-bdi018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003_rutwenzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutwenzi",
+      "en": "Rutwenzi",
+      "slug": "rutwenzi"
+    },
+    "code": {
+      "id": "BDI018003_rutwenzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018003",
+      "level": 2,
+      "name": {
+        "local": "Burambi",
+        "en": "Burambi",
+        "slug": "burambi-bdi018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018003",
+        "level": 2,
+        "name": {
+          "local": "Burambi",
+          "en": "Burambi",
+          "slug": "burambi-bdi018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003_rwaniro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwaniro",
+      "en": "Rwaniro",
+      "slug": "rwaniro"
+    },
+    "code": {
+      "id": "BDI018003_rwaniro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018003",
+      "level": 2,
+      "name": {
+        "local": "Burambi",
+        "en": "Burambi",
+        "slug": "burambi-bdi018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      },
+      {
+        "id": "BDI018003",
+        "level": 2,
+        "name": {
+          "local": "Burambi",
+          "en": "Burambi",
+          "slug": "burambi-bdi018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

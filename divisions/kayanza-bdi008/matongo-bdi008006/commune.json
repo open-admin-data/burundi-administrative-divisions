@@ -1,0 +1,47 @@
+{
+  "id": "BDI008006",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Matongo",
+    "en": "Matongo",
+    "slug": "matongo-bdi008006"
+  },
+  "code": {
+    "id": "BDI008006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI008",
+    "level": 1,
+    "name": {
+      "local": "Kayanza",
+      "en": "Kayanza",
+      "slug": "kayanza-bdi008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI008",
+      "level": 1,
+      "name": {
+        "local": "Kayanza",
+        "en": "Kayanza",
+        "slug": "kayanza-bdi008"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 35
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.085",
+    "lon": "29.6"
+  },
+  "metadata": {},
+  "source": {}
+}

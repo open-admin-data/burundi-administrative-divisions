@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "BDI011001_buhorwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhorwa",
+      "en": "Buhorwa",
+      "slug": "buhorwa"
+    },
+    "code": {
+      "id": "BDI011001_buhorwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011001",
+      "level": 2,
+      "name": {
+        "local": "Bukeye",
+        "en": "Bukeye",
+        "slug": "bukeye-bdi011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011001",
+        "level": 2,
+        "name": {
+          "local": "Bukeye",
+          "en": "Bukeye",
+          "slug": "bukeye-bdi011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.183",
+      "lon": "29.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011001_bukeye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bukeye",
+      "en": "Bukeye",
+      "slug": "bukeye"
+    },
+    "code": {
+      "id": "BDI011001_bukeye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011001",
+      "level": 2,
+      "name": {
+        "local": "Bukeye",
+        "en": "Bukeye",
+        "slug": "bukeye-bdi011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011001",
+        "level": 2,
+        "name": {
+          "local": "Bukeye",
+          "en": "Bukeye",
+          "slug": "bukeye-bdi011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.183",
+      "lon": "29.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011001_burarana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burarana",
+      "en": "Burarana",
+      "slug": "burarana"
+    },
+    "code": {
+      "id": "BDI011001_burarana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011001",
+      "level": 2,
+      "name": {
+        "local": "Bukeye",
+        "en": "Bukeye",
+        "slug": "bukeye-bdi011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011001",
+        "level": 2,
+        "name": {
+          "local": "Bukeye",
+          "en": "Bukeye",
+          "slug": "bukeye-bdi011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.183",
+      "lon": "29.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011001_busangana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Busangana",
+      "en": "Busangana",
+      "slug": "busangana"
+    },
+    "code": {
+      "id": "BDI011001_busangana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011001",
+      "level": 2,
+      "name": {
+        "local": "Bukeye",
+        "en": "Bukeye",
+        "slug": "bukeye-bdi011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011001",
+        "level": 2,
+        "name": {
+          "local": "Bukeye",
+          "en": "Bukeye",
+          "slug": "bukeye-bdi011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.183",
+      "lon": "29.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011001_busekera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Busekera",
+      "en": "Busekera",
+      "slug": "busekera"
+    },
+    "code": {
+      "id": "BDI011001_busekera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011001",
+      "level": 2,
+      "name": {
+        "local": "Bukeye",
+        "en": "Bukeye",
+        "slug": "bukeye-bdi011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011001",
+        "level": 2,
+        "name": {
+          "local": "Bukeye",
+          "en": "Bukeye",
+          "slug": "bukeye-bdi011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.183",
+      "lon": "29.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011001_gahaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gahaga",
+      "en": "Gahaga",
+      "slug": "gahaga"
+    },
+    "code": {
+      "id": "BDI011001_gahaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011001",
+      "level": 2,
+      "name": {
+        "local": "Bukeye",
+        "en": "Bukeye",
+        "slug": "bukeye-bdi011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011001",
+        "level": 2,
+        "name": {
+          "local": "Bukeye",
+          "en": "Bukeye",
+          "slug": "bukeye-bdi011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.183",
+      "lon": "29.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011001_gaharo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gaharo",
+      "en": "Gaharo",
+      "slug": "gaharo"
+    },
+    "code": {
+      "id": "BDI011001_gaharo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011001",
+      "level": 2,
+      "name": {
+        "local": "Bukeye",
+        "en": "Bukeye",
+        "slug": "bukeye-bdi011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011001",
+        "level": 2,
+        "name": {
+          "local": "Bukeye",
+          "en": "Bukeye",
+          "slug": "bukeye-bdi011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.183",
+      "lon": "29.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011001_gashishima",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gashishima",
+      "en": "Gashishima",
+      "slug": "gashishima"
+    },
+    "code": {
+      "id": "BDI011001_gashishima",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011001",
+      "level": 2,
+      "name": {
+        "local": "Bukeye",
+        "en": "Bukeye",
+        "slug": "bukeye-bdi011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011001",
+        "level": 2,
+        "name": {
+          "local": "Bukeye",
+          "en": "Bukeye",
+          "slug": "bukeye-bdi011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.183",
+      "lon": "29.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011001_gikonge",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikonge",
+      "en": "Gikonge",
+      "slug": "gikonge"
+    },
+    "code": {
+      "id": "BDI011001_gikonge",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011001",
+      "level": 2,
+      "name": {
+        "local": "Bukeye",
+        "en": "Bukeye",
+        "slug": "bukeye-bdi011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011001",
+        "level": 2,
+        "name": {
+          "local": "Bukeye",
+          "en": "Bukeye",
+          "slug": "bukeye-bdi011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.183",
+      "lon": "29.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011001_kigereka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigereka",
+      "en": "Kigereka",
+      "slug": "kigereka"
+    },
+    "code": {
+      "id": "BDI011001_kigereka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011001",
+      "level": 2,
+      "name": {
+        "local": "Bukeye",
+        "en": "Bukeye",
+        "slug": "bukeye-bdi011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011001",
+        "level": 2,
+        "name": {
+          "local": "Bukeye",
+          "en": "Bukeye",
+          "slug": "bukeye-bdi011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.183",
+      "lon": "29.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011001_kivogero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivogero",
+      "en": "Kivogero",
+      "slug": "kivogero"
+    },
+    "code": {
+      "id": "BDI011001_kivogero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011001",
+      "level": 2,
+      "name": {
+        "local": "Bukeye",
+        "en": "Bukeye",
+        "slug": "bukeye-bdi011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011001",
+        "level": 2,
+        "name": {
+          "local": "Bukeye",
+          "en": "Bukeye",
+          "slug": "bukeye-bdi011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.183",
+      "lon": "29.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011001_kiziguro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiziguro",
+      "en": "Kiziguro",
+      "slug": "kiziguro"
+    },
+    "code": {
+      "id": "BDI011001_kiziguro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011001",
+      "level": 2,
+      "name": {
+        "local": "Bukeye",
+        "en": "Bukeye",
+        "slug": "bukeye-bdi011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011001",
+        "level": 2,
+        "name": {
+          "local": "Bukeye",
+          "en": "Bukeye",
+          "slug": "bukeye-bdi011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.183",
+      "lon": "29.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011001_musumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musumba",
+      "en": "Musumba",
+      "slug": "musumba"
+    },
+    "code": {
+      "id": "BDI011001_musumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011001",
+      "level": 2,
+      "name": {
+        "local": "Bukeye",
+        "en": "Bukeye",
+        "slug": "bukeye-bdi011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011001",
+        "level": 2,
+        "name": {
+          "local": "Bukeye",
+          "en": "Bukeye",
+          "slug": "bukeye-bdi011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.183",
+      "lon": "29.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011001_nyambo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyambo",
+      "en": "Nyambo",
+      "slug": "nyambo"
+    },
+    "code": {
+      "id": "BDI011001_nyambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011001",
+      "level": 2,
+      "name": {
+        "local": "Bukeye",
+        "en": "Bukeye",
+        "slug": "bukeye-bdi011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011001",
+        "level": 2,
+        "name": {
+          "local": "Bukeye",
+          "en": "Bukeye",
+          "slug": "bukeye-bdi011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.183",
+      "lon": "29.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011001_nyarucamo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarucamo",
+      "en": "Nyarucamo",
+      "slug": "nyarucamo"
+    },
+    "code": {
+      "id": "BDI011001_nyarucamo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011001",
+      "level": 2,
+      "name": {
+        "local": "Bukeye",
+        "en": "Bukeye",
+        "slug": "bukeye-bdi011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011001",
+        "level": 2,
+        "name": {
+          "local": "Bukeye",
+          "en": "Bukeye",
+          "slug": "bukeye-bdi011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.183",
+      "lon": "29.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011001_rusha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusha",
+      "en": "Rusha",
+      "slug": "rusha"
+    },
+    "code": {
+      "id": "BDI011001_rusha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011001",
+      "level": 2,
+      "name": {
+        "local": "Bukeye",
+        "en": "Bukeye",
+        "slug": "bukeye-bdi011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011001",
+        "level": 2,
+        "name": {
+          "local": "Bukeye",
+          "en": "Bukeye",
+          "slug": "bukeye-bdi011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.183",
+      "lon": "29.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011001_rwatsinda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwatsinda",
+      "en": "Rwatsinda",
+      "slug": "rwatsinda"
+    },
+    "code": {
+      "id": "BDI011001_rwatsinda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011001",
+      "level": 2,
+      "name": {
+        "local": "Bukeye",
+        "en": "Bukeye",
+        "slug": "bukeye-bdi011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011001",
+        "level": 2,
+        "name": {
+          "local": "Bukeye",
+          "en": "Bukeye",
+          "slug": "bukeye-bdi011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.183",
+      "lon": "29.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011001_rweteto",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rweteto",
+      "en": "Rweteto",
+      "slug": "rweteto"
+    },
+    "code": {
+      "id": "BDI011001_rweteto",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011001",
+      "level": 2,
+      "name": {
+        "local": "Bukeye",
+        "en": "Bukeye",
+        "slug": "bukeye-bdi011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011001",
+        "level": 2,
+        "name": {
+          "local": "Bukeye",
+          "en": "Bukeye",
+          "slug": "bukeye-bdi011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.183",
+      "lon": "29.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011001_shumbo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Shumbo",
+      "en": "Shumbo",
+      "slug": "shumbo"
+    },
+    "code": {
+      "id": "BDI011001_shumbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011001",
+      "level": 2,
+      "name": {
+        "local": "Bukeye",
+        "en": "Bukeye",
+        "slug": "bukeye-bdi011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011001",
+        "level": 2,
+        "name": {
+          "local": "Bukeye",
+          "en": "Bukeye",
+          "slug": "bukeye-bdi011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.183",
+      "lon": "29.619"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

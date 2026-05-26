@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "BDI006003_bibate",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bibate",
+      "en": "Bibate",
+      "slug": "bibate"
+    },
+    "code": {
+      "id": "BDI006003_bibate",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006003",
+      "level": 2,
+      "name": {
+        "local": "Buraza",
+        "en": "Buraza",
+        "slug": "buraza-bdi006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006003",
+        "level": 2,
+        "name": {
+          "local": "Buraza",
+          "en": "Buraza",
+          "slug": "buraza-bdi006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.767",
+      "lon": "29.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006003_bubaji",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bubaji",
+      "en": "Bubaji",
+      "slug": "bubaji"
+    },
+    "code": {
+      "id": "BDI006003_bubaji",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006003",
+      "level": 2,
+      "name": {
+        "local": "Buraza",
+        "en": "Buraza",
+        "slug": "buraza-bdi006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006003",
+        "level": 2,
+        "name": {
+          "local": "Buraza",
+          "en": "Buraza",
+          "slug": "buraza-bdi006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.767",
+      "lon": "29.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006003_bugega",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugega",
+      "en": "Bugega",
+      "slug": "bugega"
+    },
+    "code": {
+      "id": "BDI006003_bugega",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006003",
+      "level": 2,
+      "name": {
+        "local": "Buraza",
+        "en": "Buraza",
+        "slug": "buraza-bdi006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006003",
+        "level": 2,
+        "name": {
+          "local": "Buraza",
+          "en": "Buraza",
+          "slug": "buraza-bdi006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.767",
+      "lon": "29.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006003_buraza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buraza",
+      "en": "Buraza",
+      "slug": "buraza"
+    },
+    "code": {
+      "id": "BDI006003_buraza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006003",
+      "level": 2,
+      "name": {
+        "local": "Buraza",
+        "en": "Buraza",
+        "slug": "buraza-bdi006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006003",
+        "level": 2,
+        "name": {
+          "local": "Buraza",
+          "en": "Buraza",
+          "slug": "buraza-bdi006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.767",
+      "lon": "29.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006003_buriza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buriza",
+      "en": "Buriza",
+      "slug": "buriza"
+    },
+    "code": {
+      "id": "BDI006003_buriza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006003",
+      "level": 2,
+      "name": {
+        "local": "Buraza",
+        "en": "Buraza",
+        "slug": "buraza-bdi006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006003",
+        "level": 2,
+        "name": {
+          "local": "Buraza",
+          "en": "Buraza",
+          "slug": "buraza-bdi006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.767",
+      "lon": "29.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006003_butemba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butemba",
+      "en": "Butemba",
+      "slug": "butemba"
+    },
+    "code": {
+      "id": "BDI006003_butemba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006003",
+      "level": 2,
+      "name": {
+        "local": "Buraza",
+        "en": "Buraza",
+        "slug": "buraza-bdi006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006003",
+        "level": 2,
+        "name": {
+          "local": "Buraza",
+          "en": "Buraza",
+          "slug": "buraza-bdi006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.767",
+      "lon": "29.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006003_butezi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butezi",
+      "en": "Butezi",
+      "slug": "butezi"
+    },
+    "code": {
+      "id": "BDI006003_butezi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006003",
+      "level": 2,
+      "name": {
+        "local": "Buraza",
+        "en": "Buraza",
+        "slug": "buraza-bdi006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006003",
+        "level": 2,
+        "name": {
+          "local": "Buraza",
+          "en": "Buraza",
+          "slug": "buraza-bdi006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.767",
+      "lon": "29.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006003_gicumbi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gicumbi",
+      "en": "Gicumbi",
+      "slug": "gicumbi"
+    },
+    "code": {
+      "id": "BDI006003_gicumbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006003",
+      "level": 2,
+      "name": {
+        "local": "Buraza",
+        "en": "Buraza",
+        "slug": "buraza-bdi006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006003",
+        "level": 2,
+        "name": {
+          "local": "Buraza",
+          "en": "Buraza",
+          "slug": "buraza-bdi006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.767",
+      "lon": "29.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006003_gisura",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisura",
+      "en": "Gisura",
+      "slug": "gisura"
+    },
+    "code": {
+      "id": "BDI006003_gisura",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006003",
+      "level": 2,
+      "name": {
+        "local": "Buraza",
+        "en": "Buraza",
+        "slug": "buraza-bdi006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006003",
+        "level": 2,
+        "name": {
+          "local": "Buraza",
+          "en": "Buraza",
+          "slug": "buraza-bdi006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.767",
+      "lon": "29.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006003_gitaramuka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitaramuka",
+      "en": "Gitaramuka",
+      "slug": "gitaramuka"
+    },
+    "code": {
+      "id": "BDI006003_gitaramuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006003",
+      "level": 2,
+      "name": {
+        "local": "Buraza",
+        "en": "Buraza",
+        "slug": "buraza-bdi006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006003",
+        "level": 2,
+        "name": {
+          "local": "Buraza",
+          "en": "Buraza",
+          "slug": "buraza-bdi006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.767",
+      "lon": "29.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006003_kabumbe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabumbe",
+      "en": "Kabumbe",
+      "slug": "kabumbe"
+    },
+    "code": {
+      "id": "BDI006003_kabumbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006003",
+      "level": 2,
+      "name": {
+        "local": "Buraza",
+        "en": "Buraza",
+        "slug": "buraza-bdi006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006003",
+        "level": 2,
+        "name": {
+          "local": "Buraza",
+          "en": "Buraza",
+          "slug": "buraza-bdi006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.767",
+      "lon": "29.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006003_mahonda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mahonda",
+      "en": "Mahonda",
+      "slug": "mahonda"
+    },
+    "code": {
+      "id": "BDI006003_mahonda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006003",
+      "level": 2,
+      "name": {
+        "local": "Buraza",
+        "en": "Buraza",
+        "slug": "buraza-bdi006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006003",
+        "level": 2,
+        "name": {
+          "local": "Buraza",
+          "en": "Buraza",
+          "slug": "buraza-bdi006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.767",
+      "lon": "29.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006003_maza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Maza",
+      "en": "Maza",
+      "slug": "maza"
+    },
+    "code": {
+      "id": "BDI006003_maza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006003",
+      "level": 2,
+      "name": {
+        "local": "Buraza",
+        "en": "Buraza",
+        "slug": "buraza-bdi006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006003",
+        "level": 2,
+        "name": {
+          "local": "Buraza",
+          "en": "Buraza",
+          "slug": "buraza-bdi006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.767",
+      "lon": "29.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006003_mugano",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugano",
+      "en": "Mugano",
+      "slug": "mugano"
+    },
+    "code": {
+      "id": "BDI006003_mugano",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006003",
+      "level": 2,
+      "name": {
+        "local": "Buraza",
+        "en": "Buraza",
+        "slug": "buraza-bdi006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006003",
+        "level": 2,
+        "name": {
+          "local": "Buraza",
+          "en": "Buraza",
+          "slug": "buraza-bdi006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.767",
+      "lon": "29.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006003_musebeyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musebeyi",
+      "en": "Musebeyi",
+      "slug": "musebeyi"
+    },
+    "code": {
+      "id": "BDI006003_musebeyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006003",
+      "level": 2,
+      "name": {
+        "local": "Buraza",
+        "en": "Buraza",
+        "slug": "buraza-bdi006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006003",
+        "level": 2,
+        "name": {
+          "local": "Buraza",
+          "en": "Buraza",
+          "slug": "buraza-bdi006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.767",
+      "lon": "29.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006003_muyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyange",
+      "en": "Muyange",
+      "slug": "muyange"
+    },
+    "code": {
+      "id": "BDI006003_muyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006003",
+      "level": 2,
+      "name": {
+        "local": "Buraza",
+        "en": "Buraza",
+        "slug": "buraza-bdi006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006003",
+        "level": 2,
+        "name": {
+          "local": "Buraza",
+          "en": "Buraza",
+          "slug": "buraza-bdi006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.767",
+      "lon": "29.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006003_ndago",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ndago",
+      "en": "Ndago",
+      "slug": "ndago"
+    },
+    "code": {
+      "id": "BDI006003_ndago",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006003",
+      "level": 2,
+      "name": {
+        "local": "Buraza",
+        "en": "Buraza",
+        "slug": "buraza-bdi006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006003",
+        "level": 2,
+        "name": {
+          "local": "Buraza",
+          "en": "Buraza",
+          "slug": "buraza-bdi006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.767",
+      "lon": "29.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006003_ndava",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ndava",
+      "en": "Ndava",
+      "slug": "ndava"
+    },
+    "code": {
+      "id": "BDI006003_ndava",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006003",
+      "level": 2,
+      "name": {
+        "local": "Buraza",
+        "en": "Buraza",
+        "slug": "buraza-bdi006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006003",
+        "level": 2,
+        "name": {
+          "local": "Buraza",
+          "en": "Buraza",
+          "slug": "buraza-bdi006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.767",
+      "lon": "29.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006003_rweza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rweza",
+      "en": "Rweza",
+      "slug": "rweza"
+    },
+    "code": {
+      "id": "BDI006003_rweza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006003",
+      "level": 2,
+      "name": {
+        "local": "Buraza",
+        "en": "Buraza",
+        "slug": "buraza-bdi006003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006003",
+        "level": 2,
+        "name": {
+          "local": "Buraza",
+          "en": "Buraza",
+          "slug": "buraza-bdi006003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.767",
+      "lon": "29.924"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

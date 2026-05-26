@@ -1,0 +1,30 @@
+{
+  "id": "BDI018",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Rumonge",
+    "en": "Rumonge",
+    "slug": "rumonge-bdi018"
+  },
+  "code": {
+    "id": "BDI018",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 5,
+    "colline": 108
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.875",
+    "lon": "29.47"
+  },
+  "metadata": {},
+  "source": {}
+}

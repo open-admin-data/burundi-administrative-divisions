@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "BDI009005_bugera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugera",
+      "en": "Bugera",
+      "slug": "bugera"
+    },
+    "code": {
+      "id": "BDI009005_bugera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_busenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Busenyi",
+      "en": "Busenyi",
+      "slug": "busenyi"
+    },
+    "code": {
+      "id": "BDI009005_busenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_ceru",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ceru",
+      "en": "Ceru",
+      "slug": "ceru"
+    },
+    "code": {
+      "id": "BDI009005_ceru",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_cewe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cewe",
+      "en": "Cewe",
+      "slug": "cewe"
+    },
+    "code": {
+      "id": "BDI009005_cewe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_cumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cumba",
+      "en": "Cumba",
+      "slug": "cumba"
+    },
+    "code": {
+      "id": "BDI009005_cumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_gakana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gakana",
+      "en": "Gakana",
+      "slug": "gakana"
+    },
+    "code": {
+      "id": "BDI009005_gakana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_gihosha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gihosha",
+      "en": "Gihosha",
+      "slug": "gihosha"
+    },
+    "code": {
+      "id": "BDI009005_gihosha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_gikuyo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikuyo",
+      "en": "Gikuyo",
+      "slug": "gikuyo"
+    },
+    "code": {
+      "id": "BDI009005_gikuyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_kanyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kanyinya",
+      "en": "Kanyinya",
+      "slug": "kanyinya"
+    },
+    "code": {
+      "id": "BDI009005_kanyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_karamagi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karamagi",
+      "en": "Karamagi",
+      "slug": "karamagi"
+    },
+    "code": {
+      "id": "BDI009005_karamagi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_kavogero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kavogero",
+      "en": "Kavogero",
+      "slug": "kavogero"
+    },
+    "code": {
+      "id": "BDI009005_kavogero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_kavomo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kavomo",
+      "en": "Kavomo",
+      "slug": "kavomo"
+    },
+    "code": {
+      "id": "BDI009005_kavomo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_kinyangurube",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinyangurube",
+      "en": "Kinyangurube",
+      "slug": "kinyangurube"
+    },
+    "code": {
+      "id": "BDI009005_kinyangurube",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_kirundo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirundo",
+      "en": "Kirundo",
+      "slug": "kirundo"
+    },
+    "code": {
+      "id": "BDI009005_kirundo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_kiyanza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiyanza",
+      "en": "Kiyanza",
+      "slug": "kiyanza"
+    },
+    "code": {
+      "id": "BDI009005_kiyanza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_mataka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mataka",
+      "en": "Mataka",
+      "slug": "mataka"
+    },
+    "code": {
+      "id": "BDI009005_mataka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_murama-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murama I",
+      "en": "Murama I",
+      "slug": "murama-i"
+    },
+    "code": {
+      "id": "BDI009005_murama-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_murama-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murama Ii",
+      "en": "Murama Ii",
+      "slug": "murama-ii"
+    },
+    "code": {
+      "id": "BDI009005_murama-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_muramba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muramba",
+      "en": "Muramba",
+      "slug": "muramba"
+    },
+    "code": {
+      "id": "BDI009005_muramba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_mutara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mutara",
+      "en": "Mutara",
+      "slug": "mutara"
+    },
+    "code": {
+      "id": "BDI009005_mutara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_mwenya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwenya",
+      "en": "Mwenya",
+      "slug": "mwenya"
+    },
+    "code": {
+      "id": "BDI009005_mwenya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_nyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyange",
+      "en": "Nyange",
+      "slug": "nyange"
+    },
+    "code": {
+      "id": "BDI009005_nyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_rambo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rambo",
+      "en": "Rambo",
+      "slug": "rambo"
+    },
+    "code": {
+      "id": "BDI009005_rambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_rugero-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugero I",
+      "en": "Rugero I",
+      "slug": "rugero-i"
+    },
+    "code": {
+      "id": "BDI009005_rugero-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_rugero-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugero Ii",
+      "en": "Rugero Ii",
+      "slug": "rugero-ii"
+    },
+    "code": {
+      "id": "BDI009005_rugero-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_runanira-i-et-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Runanira I Et Ii",
+      "en": "Runanira I Et Ii",
+      "slug": "runanira-i-et-ii"
+    },
+    "code": {
+      "id": "BDI009005_runanira-i-et-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_runanira-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Runanira Iii",
+      "en": "Runanira Iii",
+      "slug": "runanira-iii"
+    },
+    "code": {
+      "id": "BDI009005_runanira-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_runyonza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Runyonza",
+      "en": "Runyonza",
+      "slug": "runyonza"
+    },
+    "code": {
+      "id": "BDI009005_runyonza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_rupfunda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rupfunda",
+      "en": "Rupfunda",
+      "slug": "rupfunda"
+    },
+    "code": {
+      "id": "BDI009005_rupfunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005_yaranda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Yaranda",
+      "en": "Yaranda",
+      "slug": "yaranda"
+    },
+    "code": {
+      "id": "BDI009005_yaranda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009005",
+      "level": 2,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009005",
+        "level": 2,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

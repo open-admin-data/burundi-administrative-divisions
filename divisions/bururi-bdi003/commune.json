@@ -1,0 +1,284 @@
+[
+  {
+    "id": "BDI003002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bururi",
+      "en": "Bururi",
+      "slug": "bururi-bdi003002"
+    },
+    "code": {
+      "id": "BDI003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003",
+      "level": 1,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Matana",
+      "en": "Matana",
+      "slug": "matana-bdi003004"
+    },
+    "code": {
+      "id": "BDI003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003",
+      "level": 1,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.743",
+      "lon": "29.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mugamba",
+      "en": "Mugamba",
+      "slug": "mugamba-bdi003005"
+    },
+    "code": {
+      "id": "BDI003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003",
+      "level": 1,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rutovu",
+      "en": "Rutovu",
+      "slug": "rutovu-bdi003007"
+    },
+    "code": {
+      "id": "BDI003007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003",
+      "level": 1,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003008",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Songa",
+      "en": "Songa",
+      "slug": "songa-bdi003008"
+    },
+    "code": {
+      "id": "BDI003008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003",
+      "level": 1,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.845",
+      "lon": "29.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003009",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vyanda",
+      "en": "Vyanda",
+      "slug": "vyanda-bdi003009"
+    },
+    "code": {
+      "id": "BDI003009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003",
+      "level": 1,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.077",
+      "lon": "29.601"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

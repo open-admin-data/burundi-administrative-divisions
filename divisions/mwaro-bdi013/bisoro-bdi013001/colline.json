@@ -1,0 +1,866 @@
+[
+  {
+    "id": "BDI013001_bisoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bisoro",
+      "en": "Bisoro",
+      "slug": "bisoro"
+    },
+    "code": {
+      "id": "BDI013001_bisoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013001",
+      "level": 2,
+      "name": {
+        "local": "Bisoro",
+        "en": "Bisoro",
+        "slug": "bisoro-bdi013001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013001",
+        "level": 2,
+        "name": {
+          "local": "Bisoro",
+          "en": "Bisoro",
+          "slug": "bisoro-bdi013001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.641",
+      "lon": "29.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013001_buburu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buburu",
+      "en": "Buburu",
+      "slug": "buburu"
+    },
+    "code": {
+      "id": "BDI013001_buburu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013001",
+      "level": 2,
+      "name": {
+        "local": "Bisoro",
+        "en": "Bisoro",
+        "slug": "bisoro-bdi013001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013001",
+        "level": 2,
+        "name": {
+          "local": "Bisoro",
+          "en": "Bisoro",
+          "slug": "bisoro-bdi013001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.641",
+      "lon": "29.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013001_buhabwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhabwa",
+      "en": "Buhabwa",
+      "slug": "buhabwa"
+    },
+    "code": {
+      "id": "BDI013001_buhabwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013001",
+      "level": 2,
+      "name": {
+        "local": "Bisoro",
+        "en": "Bisoro",
+        "slug": "bisoro-bdi013001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013001",
+        "level": 2,
+        "name": {
+          "local": "Bisoro",
+          "en": "Bisoro",
+          "slug": "bisoro-bdi013001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.641",
+      "lon": "29.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013001_gitaramuka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitaramuka",
+      "en": "Gitaramuka",
+      "slug": "gitaramuka"
+    },
+    "code": {
+      "id": "BDI013001_gitaramuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013001",
+      "level": 2,
+      "name": {
+        "local": "Bisoro",
+        "en": "Bisoro",
+        "slug": "bisoro-bdi013001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013001",
+        "level": 2,
+        "name": {
+          "local": "Bisoro",
+          "en": "Bisoro",
+          "slug": "bisoro-bdi013001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.641",
+      "lon": "29.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013001_kanka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kanka",
+      "en": "Kanka",
+      "slug": "kanka"
+    },
+    "code": {
+      "id": "BDI013001_kanka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013001",
+      "level": 2,
+      "name": {
+        "local": "Bisoro",
+        "en": "Bisoro",
+        "slug": "bisoro-bdi013001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013001",
+        "level": 2,
+        "name": {
+          "local": "Bisoro",
+          "en": "Bisoro",
+          "slug": "bisoro-bdi013001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.641",
+      "lon": "29.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013001_kariba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kariba",
+      "en": "Kariba",
+      "slug": "kariba"
+    },
+    "code": {
+      "id": "BDI013001_kariba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013001",
+      "level": 2,
+      "name": {
+        "local": "Bisoro",
+        "en": "Bisoro",
+        "slug": "bisoro-bdi013001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013001",
+        "level": 2,
+        "name": {
+          "local": "Bisoro",
+          "en": "Bisoro",
+          "slug": "bisoro-bdi013001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.641",
+      "lon": "29.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013001_kiganda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiganda",
+      "en": "Kiganda",
+      "slug": "kiganda"
+    },
+    "code": {
+      "id": "BDI013001_kiganda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013001",
+      "level": 2,
+      "name": {
+        "local": "Bisoro",
+        "en": "Bisoro",
+        "slug": "bisoro-bdi013001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013001",
+        "level": 2,
+        "name": {
+          "local": "Bisoro",
+          "en": "Bisoro",
+          "slug": "bisoro-bdi013001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.641",
+      "lon": "29.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013001_kiriba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiriba",
+      "en": "Kiriba",
+      "slug": "kiriba"
+    },
+    "code": {
+      "id": "BDI013001_kiriba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013001",
+      "level": 2,
+      "name": {
+        "local": "Bisoro",
+        "en": "Bisoro",
+        "slug": "bisoro-bdi013001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013001",
+        "level": 2,
+        "name": {
+          "local": "Bisoro",
+          "en": "Bisoro",
+          "slug": "bisoro-bdi013001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.641",
+      "lon": "29.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013001_kivoga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivoga",
+      "en": "Kivoga",
+      "slug": "kivoga"
+    },
+    "code": {
+      "id": "BDI013001_kivoga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013001",
+      "level": 2,
+      "name": {
+        "local": "Bisoro",
+        "en": "Bisoro",
+        "slug": "bisoro-bdi013001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013001",
+        "level": 2,
+        "name": {
+          "local": "Bisoro",
+          "en": "Bisoro",
+          "slug": "bisoro-bdi013001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.641",
+      "lon": "29.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013001_mabaya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mabaya",
+      "en": "Mabaya",
+      "slug": "mabaya"
+    },
+    "code": {
+      "id": "BDI013001_mabaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013001",
+      "level": 2,
+      "name": {
+        "local": "Bisoro",
+        "en": "Bisoro",
+        "slug": "bisoro-bdi013001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013001",
+        "level": 2,
+        "name": {
+          "local": "Bisoro",
+          "en": "Bisoro",
+          "slug": "bisoro-bdi013001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.641",
+      "lon": "29.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013001_masango",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masango",
+      "en": "Masango",
+      "slug": "masango"
+    },
+    "code": {
+      "id": "BDI013001_masango",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013001",
+      "level": 2,
+      "name": {
+        "local": "Bisoro",
+        "en": "Bisoro",
+        "slug": "bisoro-bdi013001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013001",
+        "level": 2,
+        "name": {
+          "local": "Bisoro",
+          "en": "Bisoro",
+          "slug": "bisoro-bdi013001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.641",
+      "lon": "29.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013001_mashunzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mashunzi",
+      "en": "Mashunzi",
+      "slug": "mashunzi"
+    },
+    "code": {
+      "id": "BDI013001_mashunzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013001",
+      "level": 2,
+      "name": {
+        "local": "Bisoro",
+        "en": "Bisoro",
+        "slug": "bisoro-bdi013001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013001",
+        "level": 2,
+        "name": {
+          "local": "Bisoro",
+          "en": "Bisoro",
+          "slug": "bisoro-bdi013001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.641",
+      "lon": "29.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013001_munarira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munarira",
+      "en": "Munarira",
+      "slug": "munarira"
+    },
+    "code": {
+      "id": "BDI013001_munarira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013001",
+      "level": 2,
+      "name": {
+        "local": "Bisoro",
+        "en": "Bisoro",
+        "slug": "bisoro-bdi013001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013001",
+        "level": 2,
+        "name": {
+          "local": "Bisoro",
+          "en": "Bisoro",
+          "slug": "bisoro-bdi013001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.641",
+      "lon": "29.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013001_musumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musumba",
+      "en": "Musumba",
+      "slug": "musumba"
+    },
+    "code": {
+      "id": "BDI013001_musumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013001",
+      "level": 2,
+      "name": {
+        "local": "Bisoro",
+        "en": "Bisoro",
+        "slug": "bisoro-bdi013001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013001",
+        "level": 2,
+        "name": {
+          "local": "Bisoro",
+          "en": "Bisoro",
+          "slug": "bisoro-bdi013001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.641",
+      "lon": "29.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013001_nyabisiga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabisiga",
+      "en": "Nyabisiga",
+      "slug": "nyabisiga"
+    },
+    "code": {
+      "id": "BDI013001_nyabisiga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013001",
+      "level": 2,
+      "name": {
+        "local": "Bisoro",
+        "en": "Bisoro",
+        "slug": "bisoro-bdi013001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013001",
+        "level": 2,
+        "name": {
+          "local": "Bisoro",
+          "en": "Bisoro",
+          "slug": "bisoro-bdi013001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.641",
+      "lon": "29.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013001_rubamvye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubamvye",
+      "en": "Rubamvye",
+      "slug": "rubamvye"
+    },
+    "code": {
+      "id": "BDI013001_rubamvye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013001",
+      "level": 2,
+      "name": {
+        "local": "Bisoro",
+        "en": "Bisoro",
+        "slug": "bisoro-bdi013001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      },
+      {
+        "id": "BDI013001",
+        "level": 2,
+        "name": {
+          "local": "Bisoro",
+          "en": "Bisoro",
+          "slug": "bisoro-bdi013001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.641",
+      "lon": "29.685"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "BDI003007_gihanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gihanga",
+      "en": "Gihanga",
+      "slug": "gihanga"
+    },
+    "code": {
+      "id": "BDI003007_gihanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007_gikizi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikizi",
+      "en": "Gikizi",
+      "slug": "gikizi"
+    },
+    "code": {
+      "id": "BDI003007_gikizi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007_gikwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikwa",
+      "en": "Gikwa",
+      "slug": "gikwa"
+    },
+    "code": {
+      "id": "BDI003007_gikwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007_gitobo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitobo",
+      "en": "Gitobo",
+      "slug": "gitobo"
+    },
+    "code": {
+      "id": "BDI003007_gitobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007_kagimbu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kagimbu",
+      "en": "Kagimbu",
+      "slug": "kagimbu"
+    },
+    "code": {
+      "id": "BDI003007_kagimbu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007_kajondi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kajondi",
+      "en": "Kajondi",
+      "slug": "kajondi"
+    },
+    "code": {
+      "id": "BDI003007_kajondi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007_kijima",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kijima",
+      "en": "Kijima",
+      "slug": "kijima"
+    },
+    "code": {
+      "id": "BDI003007_kijima",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007_kinyonzo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinyonzo",
+      "en": "Kinyonzo",
+      "slug": "kinyonzo"
+    },
+    "code": {
+      "id": "BDI003007_kinyonzo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007_kivubo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivubo",
+      "en": "Kivubo",
+      "slug": "kivubo"
+    },
+    "code": {
+      "id": "BDI003007_kivubo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007_muhweza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muhweza",
+      "en": "Muhweza",
+      "slug": "muhweza"
+    },
+    "code": {
+      "id": "BDI003007_muhweza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007_munyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munyinya",
+      "en": "Munyinya",
+      "slug": "munyinya"
+    },
+    "code": {
+      "id": "BDI003007_munyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007_musenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musenyi",
+      "en": "Musenyi",
+      "slug": "musenyi"
+    },
+    "code": {
+      "id": "BDI003007_musenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007_musongati",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musongati",
+      "en": "Musongati",
+      "slug": "musongati"
+    },
+    "code": {
+      "id": "BDI003007_musongati",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007_mutangaro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mutangaro",
+      "en": "Mutangaro",
+      "slug": "mutangaro"
+    },
+    "code": {
+      "id": "BDI003007_mutangaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007_muzenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muzenga",
+      "en": "Muzenga",
+      "slug": "muzenga"
+    },
+    "code": {
+      "id": "BDI003007_muzenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007_mwarusi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwarusi",
+      "en": "Mwarusi",
+      "slug": "mwarusi"
+    },
+    "code": {
+      "id": "BDI003007_mwarusi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007_nyabucokwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabucokwe",
+      "en": "Nyabucokwe",
+      "slug": "nyabucokwe"
+    },
+    "code": {
+      "id": "BDI003007_nyabucokwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007_ruhando",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhando",
+      "en": "Ruhando",
+      "slug": "ruhando"
+    },
+    "code": {
+      "id": "BDI003007_ruhando",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007_ruringanizo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruringanizo",
+      "en": "Ruringanizo",
+      "slug": "ruringanizo"
+    },
+    "code": {
+      "id": "BDI003007_ruringanizo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007_rutoke",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutoke",
+      "en": "Rutoke",
+      "slug": "rutoke"
+    },
+    "code": {
+      "id": "BDI003007_rutoke",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007_rutovu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutovu",
+      "en": "Rutovu",
+      "slug": "rutovu"
+    },
+    "code": {
+      "id": "BDI003007_rutovu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007_rwamabuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwamabuye",
+      "en": "Rwamabuye",
+      "slug": "rwamabuye"
+    },
+    "code": {
+      "id": "BDI003007_rwamabuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007_sanzu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Sanzu",
+      "en": "Sanzu",
+      "slug": "sanzu"
+    },
+    "code": {
+      "id": "BDI003007_sanzu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003007",
+      "level": 2,
+      "name": {
+        "local": "Rutovu",
+        "en": "Rutovu",
+        "slug": "rutovu-bdi003007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003007",
+        "level": 2,
+        "name": {
+          "local": "Rutovu",
+          "en": "Rutovu",
+          "slug": "rutovu-bdi003007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

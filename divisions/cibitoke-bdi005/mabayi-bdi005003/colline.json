@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "BDI005003_buhoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhoro",
+      "en": "Buhoro",
+      "slug": "buhoro"
+    },
+    "code": {
+      "id": "BDI005003_buhoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_busesa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Busesa",
+      "en": "Busesa",
+      "slug": "busesa"
+    },
+    "code": {
+      "id": "BDI005003_busesa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_gafumbegeti",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gafumbegeti",
+      "en": "Gafumbegeti",
+      "slug": "gafumbegeti"
+    },
+    "code": {
+      "id": "BDI005003_gafumbegeti",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_gahoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gahoma",
+      "en": "Gahoma",
+      "slug": "gahoma"
+    },
+    "code": {
+      "id": "BDI005003_gahoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_gakerekwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gakerekwa",
+      "en": "Gakerekwa",
+      "slug": "gakerekwa"
+    },
+    "code": {
+      "id": "BDI005003_gakerekwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_gasebeyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasebeyi",
+      "en": "Gasebeyi",
+      "slug": "gasebeyi"
+    },
+    "code": {
+      "id": "BDI005003_gasebeyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_gitukura",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitukura",
+      "en": "Gitukura",
+      "slug": "gitukura"
+    },
+    "code": {
+      "id": "BDI005003_gitukura",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_kabere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabere",
+      "en": "Kabere",
+      "slug": "kabere"
+    },
+    "code": {
+      "id": "BDI005003_kabere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_kibande",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibande",
+      "en": "Kibande",
+      "slug": "kibande"
+    },
+    "code": {
+      "id": "BDI005003_kibande",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_mabayi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mabayi",
+      "en": "Mabayi",
+      "slug": "mabayi"
+    },
+    "code": {
+      "id": "BDI005003_mabayi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_mageyo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mageyo",
+      "en": "Mageyo",
+      "slug": "mageyo"
+    },
+    "code": {
+      "id": "BDI005003_mageyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_mayuki",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mayuki",
+      "en": "Mayuki",
+      "slug": "mayuki"
+    },
+    "code": {
+      "id": "BDI005003_mayuki",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_miremera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Miremera",
+      "en": "Miremera",
+      "slug": "miremera"
+    },
+    "code": {
+      "id": "BDI005003_miremera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_muhungu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muhungu",
+      "en": "Muhungu",
+      "slug": "muhungu"
+    },
+    "code": {
+      "id": "BDI005003_muhungu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_mukaka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mukaka",
+      "en": "Mukaka",
+      "slug": "mukaka"
+    },
+    "code": {
+      "id": "BDI005003_mukaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_mukoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mukoma",
+      "en": "Mukoma",
+      "slug": "mukoma"
+    },
+    "code": {
+      "id": "BDI005003_mukoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_nyabungere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabungere",
+      "en": "Nyabungere",
+      "slug": "nyabungere"
+    },
+    "code": {
+      "id": "BDI005003_nyabungere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_nyagaseke",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyagaseke",
+      "en": "Nyagaseke",
+      "slug": "nyagaseke"
+    },
+    "code": {
+      "id": "BDI005003_nyagaseke",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_nyarusebeyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarusebeyi",
+      "en": "Nyarusebeyi",
+      "slug": "nyarusebeyi"
+    },
+    "code": {
+      "id": "BDI005003_nyarusebeyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_ruhororo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhororo",
+      "en": "Ruhororo",
+      "slug": "ruhororo"
+    },
+    "code": {
+      "id": "BDI005003_ruhororo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_rumvya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rumvya",
+      "en": "Rumvya",
+      "slug": "rumvya"
+    },
+    "code": {
+      "id": "BDI005003_rumvya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_rungogo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rungogo",
+      "en": "Rungogo",
+      "slug": "rungogo"
+    },
+    "code": {
+      "id": "BDI005003_rungogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_rushiha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rushiha",
+      "en": "Rushiha",
+      "slug": "rushiha"
+    },
+    "code": {
+      "id": "BDI005003_rushiha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003_rutorero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutorero",
+      "en": "Rutorero",
+      "slug": "rutorero"
+    },
+    "code": {
+      "id": "BDI005003_rutorero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005003",
+      "level": 2,
+      "name": {
+        "local": "Mabayi",
+        "en": "Mabayi",
+        "slug": "mabayi-bdi005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005003",
+        "level": 2,
+        "name": {
+          "local": "Mabayi",
+          "en": "Mabayi",
+          "slug": "mabayi-bdi005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

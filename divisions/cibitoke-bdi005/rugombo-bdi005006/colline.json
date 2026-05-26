@@ -1,0 +1,920 @@
+[
+  {
+    "id": "BDI005006_cibitoke",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cibitoke",
+      "en": "Cibitoke",
+      "slug": "cibitoke"
+    },
+    "code": {
+      "id": "BDI005006_cibitoke",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005006",
+      "level": 2,
+      "name": {
+        "local": "Rugombo",
+        "en": "Rugombo",
+        "slug": "rugombo-bdi005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005006",
+        "level": 2,
+        "name": {
+          "local": "Rugombo",
+          "en": "Rugombo",
+          "slug": "rugombo-bdi005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "29.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005006_gabiro-rvyag",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gabiro-Rvyag",
+      "en": "Gabiro-Rvyag",
+      "slug": "gabiro-rvyag"
+    },
+    "code": {
+      "id": "BDI005006_gabiro-rvyag",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005006",
+      "level": 2,
+      "name": {
+        "local": "Rugombo",
+        "en": "Rugombo",
+        "slug": "rugombo-bdi005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005006",
+        "level": 2,
+        "name": {
+          "local": "Rugombo",
+          "en": "Rugombo",
+          "slug": "rugombo-bdi005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "29.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005006_gicaca",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gicaca",
+      "en": "Gicaca",
+      "slug": "gicaca"
+    },
+    "code": {
+      "id": "BDI005006_gicaca",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005006",
+      "level": 2,
+      "name": {
+        "local": "Rugombo",
+        "en": "Rugombo",
+        "slug": "rugombo-bdi005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005006",
+        "level": 2,
+        "name": {
+          "local": "Rugombo",
+          "en": "Rugombo",
+          "slug": "rugombo-bdi005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "29.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005006_kagazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kagazi",
+      "en": "Kagazi",
+      "slug": "kagazi"
+    },
+    "code": {
+      "id": "BDI005006_kagazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005006",
+      "level": 2,
+      "name": {
+        "local": "Rugombo",
+        "en": "Rugombo",
+        "slug": "rugombo-bdi005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005006",
+        "level": 2,
+        "name": {
+          "local": "Rugombo",
+          "en": "Rugombo",
+          "slug": "rugombo-bdi005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "29.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005006_kiramira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiramira",
+      "en": "Kiramira",
+      "slug": "kiramira"
+    },
+    "code": {
+      "id": "BDI005006_kiramira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005006",
+      "level": 2,
+      "name": {
+        "local": "Rugombo",
+        "en": "Rugombo",
+        "slug": "rugombo-bdi005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005006",
+        "level": 2,
+        "name": {
+          "local": "Rugombo",
+          "en": "Rugombo",
+          "slug": "rugombo-bdi005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "29.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005006_mparambo-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mparambo I",
+      "en": "Mparambo I",
+      "slug": "mparambo-i"
+    },
+    "code": {
+      "id": "BDI005006_mparambo-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005006",
+      "level": 2,
+      "name": {
+        "local": "Rugombo",
+        "en": "Rugombo",
+        "slug": "rugombo-bdi005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005006",
+        "level": 2,
+        "name": {
+          "local": "Rugombo",
+          "en": "Rugombo",
+          "slug": "rugombo-bdi005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "29.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005006_mparambo-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mparambo Ii",
+      "en": "Mparambo Ii",
+      "slug": "mparambo-ii"
+    },
+    "code": {
+      "id": "BDI005006_mparambo-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005006",
+      "level": 2,
+      "name": {
+        "local": "Rugombo",
+        "en": "Rugombo",
+        "slug": "rugombo-bdi005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005006",
+        "level": 2,
+        "name": {
+          "local": "Rugombo",
+          "en": "Rugombo",
+          "slug": "rugombo-bdi005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "29.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005006_munyika-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munyika I",
+      "en": "Munyika I",
+      "slug": "munyika-i"
+    },
+    "code": {
+      "id": "BDI005006_munyika-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005006",
+      "level": 2,
+      "name": {
+        "local": "Rugombo",
+        "en": "Rugombo",
+        "slug": "rugombo-bdi005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005006",
+        "level": 2,
+        "name": {
+          "local": "Rugombo",
+          "en": "Rugombo",
+          "slug": "rugombo-bdi005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "29.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005006_munyika-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munyika Ii",
+      "en": "Munyika Ii",
+      "slug": "munyika-ii"
+    },
+    "code": {
+      "id": "BDI005006_munyika-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005006",
+      "level": 2,
+      "name": {
+        "local": "Rugombo",
+        "en": "Rugombo",
+        "slug": "rugombo-bdi005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005006",
+        "level": 2,
+        "name": {
+          "local": "Rugombo",
+          "en": "Rugombo",
+          "slug": "rugombo-bdi005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "29.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005006_musenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musenyi",
+      "en": "Musenyi",
+      "slug": "musenyi"
+    },
+    "code": {
+      "id": "BDI005006_musenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005006",
+      "level": 2,
+      "name": {
+        "local": "Rugombo",
+        "en": "Rugombo",
+        "slug": "rugombo-bdi005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005006",
+        "level": 2,
+        "name": {
+          "local": "Rugombo",
+          "en": "Rugombo",
+          "slug": "rugombo-bdi005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "29.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005006_rugeregere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugeregere",
+      "en": "Rugeregere",
+      "slug": "rugeregere"
+    },
+    "code": {
+      "id": "BDI005006_rugeregere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005006",
+      "level": 2,
+      "name": {
+        "local": "Rugombo",
+        "en": "Rugombo",
+        "slug": "rugombo-bdi005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005006",
+        "level": 2,
+        "name": {
+          "local": "Rugombo",
+          "en": "Rugombo",
+          "slug": "rugombo-bdi005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "29.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005006_rukana-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rukana I",
+      "en": "Rukana I",
+      "slug": "rukana-i"
+    },
+    "code": {
+      "id": "BDI005006_rukana-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005006",
+      "level": 2,
+      "name": {
+        "local": "Rugombo",
+        "en": "Rugombo",
+        "slug": "rugombo-bdi005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005006",
+        "level": 2,
+        "name": {
+          "local": "Rugombo",
+          "en": "Rugombo",
+          "slug": "rugombo-bdi005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "29.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005006_rukana-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rukana Ii",
+      "en": "Rukana Ii",
+      "slug": "rukana-ii"
+    },
+    "code": {
+      "id": "BDI005006_rukana-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005006",
+      "level": 2,
+      "name": {
+        "local": "Rugombo",
+        "en": "Rugombo",
+        "slug": "rugombo-bdi005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005006",
+        "level": 2,
+        "name": {
+          "local": "Rugombo",
+          "en": "Rugombo",
+          "slug": "rugombo-bdi005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "29.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005006_rusiga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusiga",
+      "en": "Rusiga",
+      "slug": "rusiga"
+    },
+    "code": {
+      "id": "BDI005006_rusiga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005006",
+      "level": 2,
+      "name": {
+        "local": "Rugombo",
+        "en": "Rugombo",
+        "slug": "rugombo-bdi005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005006",
+        "level": 2,
+        "name": {
+          "local": "Rugombo",
+          "en": "Rugombo",
+          "slug": "rugombo-bdi005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "29.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005006_rusororo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusororo",
+      "en": "Rusororo",
+      "slug": "rusororo"
+    },
+    "code": {
+      "id": "BDI005006_rusororo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005006",
+      "level": 2,
+      "name": {
+        "local": "Rugombo",
+        "en": "Rugombo",
+        "slug": "rugombo-bdi005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005006",
+        "level": 2,
+        "name": {
+          "local": "Rugombo",
+          "en": "Rugombo",
+          "slug": "rugombo-bdi005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "29.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005006_ruvumera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruvumera",
+      "en": "Ruvumera",
+      "slug": "ruvumera"
+    },
+    "code": {
+      "id": "BDI005006_ruvumera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005006",
+      "level": 2,
+      "name": {
+        "local": "Rugombo",
+        "en": "Rugombo",
+        "slug": "rugombo-bdi005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005006",
+        "level": 2,
+        "name": {
+          "local": "Rugombo",
+          "en": "Rugombo",
+          "slug": "rugombo-bdi005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "29.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005006_samwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Samwe",
+      "en": "Samwe",
+      "slug": "samwe"
+    },
+    "code": {
+      "id": "BDI005006_samwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005006",
+      "level": 2,
+      "name": {
+        "local": "Rugombo",
+        "en": "Rugombo",
+        "slug": "rugombo-bdi005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005006",
+        "level": 2,
+        "name": {
+          "local": "Rugombo",
+          "en": "Rugombo",
+          "slug": "rugombo-bdi005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "29.115"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "id": "BDI002003_gakungwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gakungwe",
+      "en": "Gakungwe",
+      "slug": "gakungwe"
+    },
+    "code": {
+      "id": "BDI002003_gakungwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002003",
+      "level": 2,
+      "name": {
+        "local": "Kabezi",
+        "en": "Kabezi",
+        "slug": "kabezi-bdi002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002003",
+        "level": 2,
+        "name": {
+          "local": "Kabezi",
+          "en": "Kabezi",
+          "slug": "kabezi-bdi002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.536",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002003_gitenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitenga",
+      "en": "Gitenga",
+      "slug": "gitenga"
+    },
+    "code": {
+      "id": "BDI002003_gitenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002003",
+      "level": 2,
+      "name": {
+        "local": "Kabezi",
+        "en": "Kabezi",
+        "slug": "kabezi-bdi002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002003",
+        "level": 2,
+        "name": {
+          "local": "Kabezi",
+          "en": "Kabezi",
+          "slug": "kabezi-bdi002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.536",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002003_kabezi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabezi",
+      "en": "Kabezi",
+      "slug": "kabezi"
+    },
+    "code": {
+      "id": "BDI002003_kabezi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002003",
+      "level": 2,
+      "name": {
+        "local": "Kabezi",
+        "en": "Kabezi",
+        "slug": "kabezi-bdi002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002003",
+        "level": 2,
+        "name": {
+          "local": "Kabezi",
+          "en": "Kabezi",
+          "slug": "kabezi-bdi002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.536",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002003_kimina",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kimina",
+      "en": "Kimina",
+      "slug": "kimina"
+    },
+    "code": {
+      "id": "BDI002003_kimina",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002003",
+      "level": 2,
+      "name": {
+        "local": "Kabezi",
+        "en": "Kabezi",
+        "slug": "kabezi-bdi002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002003",
+        "level": 2,
+        "name": {
+          "local": "Kabezi",
+          "en": "Kabezi",
+          "slug": "kabezi-bdi002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.536",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002003_kiremba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiremba",
+      "en": "Kiremba",
+      "slug": "kiremba"
+    },
+    "code": {
+      "id": "BDI002003_kiremba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002003",
+      "level": 2,
+      "name": {
+        "local": "Kabezi",
+        "en": "Kabezi",
+        "slug": "kabezi-bdi002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002003",
+        "level": 2,
+        "name": {
+          "local": "Kabezi",
+          "en": "Kabezi",
+          "slug": "kabezi-bdi002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.536",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002003_masama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masama",
+      "en": "Masama",
+      "slug": "masama"
+    },
+    "code": {
+      "id": "BDI002003_masama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002003",
+      "level": 2,
+      "name": {
+        "local": "Kabezi",
+        "en": "Kabezi",
+        "slug": "kabezi-bdi002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002003",
+        "level": 2,
+        "name": {
+          "local": "Kabezi",
+          "en": "Kabezi",
+          "slug": "kabezi-bdi002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.536",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002003_mena",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mena",
+      "en": "Mena",
+      "slug": "mena"
+    },
+    "code": {
+      "id": "BDI002003_mena",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002003",
+      "level": 2,
+      "name": {
+        "local": "Kabezi",
+        "en": "Kabezi",
+        "slug": "kabezi-bdi002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002003",
+        "level": 2,
+        "name": {
+          "local": "Kabezi",
+          "en": "Kabezi",
+          "slug": "kabezi-bdi002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.536",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002003_migera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Migera",
+      "en": "Migera",
+      "slug": "migera"
+    },
+    "code": {
+      "id": "BDI002003_migera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002003",
+      "level": 2,
+      "name": {
+        "local": "Kabezi",
+        "en": "Kabezi",
+        "slug": "kabezi-bdi002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002003",
+        "level": 2,
+        "name": {
+          "local": "Kabezi",
+          "en": "Kabezi",
+          "slug": "kabezi-bdi002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.536",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002003_mubone",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mubone",
+      "en": "Mubone",
+      "slug": "mubone"
+    },
+    "code": {
+      "id": "BDI002003_mubone",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002003",
+      "level": 2,
+      "name": {
+        "local": "Kabezi",
+        "en": "Kabezi",
+        "slug": "kabezi-bdi002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002003",
+        "level": 2,
+        "name": {
+          "local": "Kabezi",
+          "en": "Kabezi",
+          "slug": "kabezi-bdi002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.536",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002003_mwaza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwaza",
+      "en": "Mwaza",
+      "slug": "mwaza"
+    },
+    "code": {
+      "id": "BDI002003_mwaza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002003",
+      "level": 2,
+      "name": {
+        "local": "Kabezi",
+        "en": "Kabezi",
+        "slug": "kabezi-bdi002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002003",
+        "level": 2,
+        "name": {
+          "local": "Kabezi",
+          "en": "Kabezi",
+          "slug": "kabezi-bdi002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.536",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002003_ramba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ramba",
+      "en": "Ramba",
+      "slug": "ramba"
+    },
+    "code": {
+      "id": "BDI002003_ramba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002003",
+      "level": 2,
+      "name": {
+        "local": "Kabezi",
+        "en": "Kabezi",
+        "slug": "kabezi-bdi002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002003",
+        "level": 2,
+        "name": {
+          "local": "Kabezi",
+          "en": "Kabezi",
+          "slug": "kabezi-bdi002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.536",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002003_rugembe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugembe",
+      "en": "Rugembe",
+      "slug": "rugembe"
+    },
+    "code": {
+      "id": "BDI002003_rugembe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002003",
+      "level": 2,
+      "name": {
+        "local": "Kabezi",
+        "en": "Kabezi",
+        "slug": "kabezi-bdi002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002003",
+        "level": 2,
+        "name": {
+          "local": "Kabezi",
+          "en": "Kabezi",
+          "slug": "kabezi-bdi002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.536",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

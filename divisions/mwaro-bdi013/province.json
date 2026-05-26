@@ -1,0 +1,30 @@
+{
+  "id": "BDI013",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Mwaro",
+    "en": "Mwaro",
+    "slug": "mwaro-bdi013"
+  },
+  "code": {
+    "id": "BDI013",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 6,
+    "colline": 134
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.509",
+    "lon": "29.715"
+  },
+  "metadata": {},
+  "source": {}
+}

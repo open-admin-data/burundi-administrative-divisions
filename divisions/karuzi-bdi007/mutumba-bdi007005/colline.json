@@ -1,0 +1,650 @@
+[
+  {
+    "id": "BDI007005_bibara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bibara",
+      "en": "Bibara",
+      "slug": "bibara"
+    },
+    "code": {
+      "id": "BDI007005_bibara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007005",
+      "level": 2,
+      "name": {
+        "local": "Mutumba",
+        "en": "Mutumba",
+        "slug": "mutumba-bdi007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007005",
+        "level": 2,
+        "name": {
+          "local": "Mutumba",
+          "en": "Mutumba",
+          "slug": "mutumba-bdi007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.225",
+      "lon": "30.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007005_gasera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasera",
+      "en": "Gasera",
+      "slug": "gasera"
+    },
+    "code": {
+      "id": "BDI007005_gasera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007005",
+      "level": 2,
+      "name": {
+        "local": "Mutumba",
+        "en": "Mutumba",
+        "slug": "mutumba-bdi007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007005",
+        "level": 2,
+        "name": {
+          "local": "Mutumba",
+          "en": "Mutumba",
+          "slug": "mutumba-bdi007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.225",
+      "lon": "30.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007005_gisimbawaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisimbawaga",
+      "en": "Gisimbawaga",
+      "slug": "gisimbawaga"
+    },
+    "code": {
+      "id": "BDI007005_gisimbawaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007005",
+      "level": 2,
+      "name": {
+        "local": "Mutumba",
+        "en": "Mutumba",
+        "slug": "mutumba-bdi007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007005",
+        "level": 2,
+        "name": {
+          "local": "Mutumba",
+          "en": "Mutumba",
+          "slug": "mutumba-bdi007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.225",
+      "lon": "30.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007005_kibuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibuye",
+      "en": "Kibuye",
+      "slug": "kibuye"
+    },
+    "code": {
+      "id": "BDI007005_kibuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007005",
+      "level": 2,
+      "name": {
+        "local": "Mutumba",
+        "en": "Mutumba",
+        "slug": "mutumba-bdi007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007005",
+        "level": 2,
+        "name": {
+          "local": "Mutumba",
+          "en": "Mutumba",
+          "slug": "mutumba-bdi007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.225",
+      "lon": "30.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007005_kigoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigoma",
+      "en": "Kigoma",
+      "slug": "kigoma"
+    },
+    "code": {
+      "id": "BDI007005_kigoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007005",
+      "level": 2,
+      "name": {
+        "local": "Mutumba",
+        "en": "Mutumba",
+        "slug": "mutumba-bdi007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007005",
+        "level": 2,
+        "name": {
+          "local": "Mutumba",
+          "en": "Mutumba",
+          "slug": "mutumba-bdi007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.225",
+      "lon": "30.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007005_mubaragaza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mubaragaza",
+      "en": "Mubaragaza",
+      "slug": "mubaragaza"
+    },
+    "code": {
+      "id": "BDI007005_mubaragaza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007005",
+      "level": 2,
+      "name": {
+        "local": "Mutumba",
+        "en": "Mutumba",
+        "slug": "mutumba-bdi007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007005",
+        "level": 2,
+        "name": {
+          "local": "Mutumba",
+          "en": "Mutumba",
+          "slug": "mutumba-bdi007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.225",
+      "lon": "30.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007005_mutara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mutara",
+      "en": "Mutara",
+      "slug": "mutara"
+    },
+    "code": {
+      "id": "BDI007005_mutara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007005",
+      "level": 2,
+      "name": {
+        "local": "Mutumba",
+        "en": "Mutumba",
+        "slug": "mutumba-bdi007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007005",
+        "level": 2,
+        "name": {
+          "local": "Mutumba",
+          "en": "Mutumba",
+          "slug": "mutumba-bdi007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.225",
+      "lon": "30.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007005_mutumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mutumba",
+      "en": "Mutumba",
+      "slug": "mutumba"
+    },
+    "code": {
+      "id": "BDI007005_mutumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007005",
+      "level": 2,
+      "name": {
+        "local": "Mutumba",
+        "en": "Mutumba",
+        "slug": "mutumba-bdi007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007005",
+        "level": 2,
+        "name": {
+          "local": "Mutumba",
+          "en": "Mutumba",
+          "slug": "mutumba-bdi007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.225",
+      "lon": "30.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007005_nkuba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nkuba",
+      "en": "Nkuba",
+      "slug": "nkuba"
+    },
+    "code": {
+      "id": "BDI007005_nkuba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007005",
+      "level": 2,
+      "name": {
+        "local": "Mutumba",
+        "en": "Mutumba",
+        "slug": "mutumba-bdi007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007005",
+        "level": 2,
+        "name": {
+          "local": "Mutumba",
+          "en": "Mutumba",
+          "slug": "mutumba-bdi007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.225",
+      "lon": "30.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007005_rabiro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rabiro",
+      "en": "Rabiro",
+      "slug": "rabiro"
+    },
+    "code": {
+      "id": "BDI007005_rabiro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007005",
+      "level": 2,
+      "name": {
+        "local": "Mutumba",
+        "en": "Mutumba",
+        "slug": "mutumba-bdi007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007005",
+        "level": 2,
+        "name": {
+          "local": "Mutumba",
+          "en": "Mutumba",
+          "slug": "mutumba-bdi007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.225",
+      "lon": "30.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007005_sagara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Sagara",
+      "en": "Sagara",
+      "slug": "sagara"
+    },
+    "code": {
+      "id": "BDI007005_sagara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007005",
+      "level": 2,
+      "name": {
+        "local": "Mutumba",
+        "en": "Mutumba",
+        "slug": "mutumba-bdi007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007005",
+        "level": 2,
+        "name": {
+          "local": "Mutumba",
+          "en": "Mutumba",
+          "slug": "mutumba-bdi007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.225",
+      "lon": "30.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007005_yagizo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Yagizo",
+      "en": "Yagizo",
+      "slug": "yagizo"
+    },
+    "code": {
+      "id": "BDI007005_yagizo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007005",
+      "level": 2,
+      "name": {
+        "local": "Mutumba",
+        "en": "Mutumba",
+        "slug": "mutumba-bdi007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007005",
+        "level": 2,
+        "name": {
+          "local": "Mutumba",
+          "en": "Mutumba",
+          "slug": "mutumba-bdi007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.225",
+      "lon": "30.235"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

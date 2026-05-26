@@ -1,0 +1,650 @@
+[
+  {
+    "id": "BDI002008_bikanka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bikanka",
+      "en": "Bikanka",
+      "slug": "bikanka"
+    },
+    "code": {
+      "id": "BDI002008_bikanka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002008",
+      "level": 2,
+      "name": {
+        "local": "Mukike",
+        "en": "Mukike",
+        "slug": "mukike-bdi002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002008",
+        "level": 2,
+        "name": {
+          "local": "Mukike",
+          "en": "Mukike",
+          "slug": "mukike-bdi002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.582",
+      "lon": "29.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002008_kanyunya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kanyunya",
+      "en": "Kanyunya",
+      "slug": "kanyunya"
+    },
+    "code": {
+      "id": "BDI002008_kanyunya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002008",
+      "level": 2,
+      "name": {
+        "local": "Mukike",
+        "en": "Mukike",
+        "slug": "mukike-bdi002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002008",
+        "level": 2,
+        "name": {
+          "local": "Mukike",
+          "en": "Mukike",
+          "slug": "mukike-bdi002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.582",
+      "lon": "29.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002008_kigozi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigozi",
+      "en": "Kigozi",
+      "slug": "kigozi"
+    },
+    "code": {
+      "id": "BDI002008_kigozi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002008",
+      "level": 2,
+      "name": {
+        "local": "Mukike",
+        "en": "Mukike",
+        "slug": "mukike-bdi002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002008",
+        "level": 2,
+        "name": {
+          "local": "Mukike",
+          "en": "Mukike",
+          "slug": "mukike-bdi002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.582",
+      "lon": "29.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002008_mayuyu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mayuyu",
+      "en": "Mayuyu",
+      "slug": "mayuyu"
+    },
+    "code": {
+      "id": "BDI002008_mayuyu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002008",
+      "level": 2,
+      "name": {
+        "local": "Mukike",
+        "en": "Mukike",
+        "slug": "mukike-bdi002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002008",
+        "level": 2,
+        "name": {
+          "local": "Mukike",
+          "en": "Mukike",
+          "slug": "mukike-bdi002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.582",
+      "lon": "29.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002008_mukike",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mukike",
+      "en": "Mukike",
+      "slug": "mukike"
+    },
+    "code": {
+      "id": "BDI002008_mukike",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002008",
+      "level": 2,
+      "name": {
+        "local": "Mukike",
+        "en": "Mukike",
+        "slug": "mukike-bdi002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002008",
+        "level": 2,
+        "name": {
+          "local": "Mukike",
+          "en": "Mukike",
+          "slug": "mukike-bdi002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.582",
+      "lon": "29.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002008_mutobo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mutobo",
+      "en": "Mutobo",
+      "slug": "mutobo"
+    },
+    "code": {
+      "id": "BDI002008_mutobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002008",
+      "level": 2,
+      "name": {
+        "local": "Mukike",
+        "en": "Mukike",
+        "slug": "mukike-bdi002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002008",
+        "level": 2,
+        "name": {
+          "local": "Mukike",
+          "en": "Mukike",
+          "slug": "mukike-bdi002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.582",
+      "lon": "29.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002008_ndayi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ndayi",
+      "en": "Ndayi",
+      "slug": "ndayi"
+    },
+    "code": {
+      "id": "BDI002008_ndayi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002008",
+      "level": 2,
+      "name": {
+        "local": "Mukike",
+        "en": "Mukike",
+        "slug": "mukike-bdi002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002008",
+        "level": 2,
+        "name": {
+          "local": "Mukike",
+          "en": "Mukike",
+          "slug": "mukike-bdi002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.582",
+      "lon": "29.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002008_nyarumanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarumanga",
+      "en": "Nyarumanga",
+      "slug": "nyarumanga"
+    },
+    "code": {
+      "id": "BDI002008_nyarumanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002008",
+      "level": 2,
+      "name": {
+        "local": "Mukike",
+        "en": "Mukike",
+        "slug": "mukike-bdi002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002008",
+        "level": 2,
+        "name": {
+          "local": "Mukike",
+          "en": "Mukike",
+          "slug": "mukike-bdi002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.582",
+      "lon": "29.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002008_ruhororo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhororo",
+      "en": "Ruhororo",
+      "slug": "ruhororo"
+    },
+    "code": {
+      "id": "BDI002008_ruhororo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002008",
+      "level": 2,
+      "name": {
+        "local": "Mukike",
+        "en": "Mukike",
+        "slug": "mukike-bdi002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002008",
+        "level": 2,
+        "name": {
+          "local": "Mukike",
+          "en": "Mukike",
+          "slug": "mukike-bdi002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.582",
+      "lon": "29.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002008_rukina",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rukina",
+      "en": "Rukina",
+      "slug": "rukina"
+    },
+    "code": {
+      "id": "BDI002008_rukina",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002008",
+      "level": 2,
+      "name": {
+        "local": "Mukike",
+        "en": "Mukike",
+        "slug": "mukike-bdi002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002008",
+        "level": 2,
+        "name": {
+          "local": "Mukike",
+          "en": "Mukike",
+          "slug": "mukike-bdi002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.582",
+      "lon": "29.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002008_rurambira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rurambira",
+      "en": "Rurambira",
+      "slug": "rurambira"
+    },
+    "code": {
+      "id": "BDI002008_rurambira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002008",
+      "level": 2,
+      "name": {
+        "local": "Mukike",
+        "en": "Mukike",
+        "slug": "mukike-bdi002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002008",
+        "level": 2,
+        "name": {
+          "local": "Mukike",
+          "en": "Mukike",
+          "slug": "mukike-bdi002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.582",
+      "lon": "29.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002008_ruzibazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruzibazi",
+      "en": "Ruzibazi",
+      "slug": "ruzibazi"
+    },
+    "code": {
+      "id": "BDI002008_ruzibazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002008",
+      "level": 2,
+      "name": {
+        "local": "Mukike",
+        "en": "Mukike",
+        "slug": "mukike-bdi002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002008",
+        "level": 2,
+        "name": {
+          "local": "Mukike",
+          "en": "Mukike",
+          "slug": "mukike-bdi002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.582",
+      "lon": "29.494"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

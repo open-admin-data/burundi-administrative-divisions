@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "BDI010003_bikobe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bikobe",
+      "en": "Bikobe",
+      "slug": "bikobe"
+    },
+    "code": {
+      "id": "BDI010003_bikobe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010003",
+      "level": 2,
+      "name": {
+        "local": "Mabanda",
+        "en": "Mabanda",
+        "slug": "mabanda-bdi010003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010003",
+        "level": 2,
+        "name": {
+          "local": "Mabanda",
+          "en": "Mabanda",
+          "slug": "mabanda-bdi010003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.322",
+      "lon": "29.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010003_budaketwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Budaketwa",
+      "en": "Budaketwa",
+      "slug": "budaketwa"
+    },
+    "code": {
+      "id": "BDI010003_budaketwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010003",
+      "level": 2,
+      "name": {
+        "local": "Mabanda",
+        "en": "Mabanda",
+        "slug": "mabanda-bdi010003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010003",
+        "level": 2,
+        "name": {
+          "local": "Mabanda",
+          "en": "Mabanda",
+          "slug": "mabanda-bdi010003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.322",
+      "lon": "29.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010003_bukunda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bukunda",
+      "en": "Bukunda",
+      "slug": "bukunda"
+    },
+    "code": {
+      "id": "BDI010003_bukunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010003",
+      "level": 2,
+      "name": {
+        "local": "Mabanda",
+        "en": "Mabanda",
+        "slug": "mabanda-bdi010003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010003",
+        "level": 2,
+        "name": {
+          "local": "Mabanda",
+          "en": "Mabanda",
+          "slug": "mabanda-bdi010003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.322",
+      "lon": "29.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010003_burima",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burima",
+      "en": "Burima",
+      "slug": "burima"
+    },
+    "code": {
+      "id": "BDI010003_burima",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010003",
+      "level": 2,
+      "name": {
+        "local": "Mabanda",
+        "en": "Mabanda",
+        "slug": "mabanda-bdi010003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010003",
+        "level": 2,
+        "name": {
+          "local": "Mabanda",
+          "en": "Mabanda",
+          "slug": "mabanda-bdi010003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.322",
+      "lon": "29.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010003_gikombe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikombe",
+      "en": "Gikombe",
+      "slug": "gikombe"
+    },
+    "code": {
+      "id": "BDI010003_gikombe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010003",
+      "level": 2,
+      "name": {
+        "local": "Mabanda",
+        "en": "Mabanda",
+        "slug": "mabanda-bdi010003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010003",
+        "level": 2,
+        "name": {
+          "local": "Mabanda",
+          "en": "Mabanda",
+          "slug": "mabanda-bdi010003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.322",
+      "lon": "29.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010003_gikurazo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikurazo",
+      "en": "Gikurazo",
+      "slug": "gikurazo"
+    },
+    "code": {
+      "id": "BDI010003_gikurazo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010003",
+      "level": 2,
+      "name": {
+        "local": "Mabanda",
+        "en": "Mabanda",
+        "slug": "mabanda-bdi010003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010003",
+        "level": 2,
+        "name": {
+          "local": "Mabanda",
+          "en": "Mabanda",
+          "slug": "mabanda-bdi010003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.322",
+      "lon": "29.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010003_karinzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karinzi",
+      "en": "Karinzi",
+      "slug": "karinzi"
+    },
+    "code": {
+      "id": "BDI010003_karinzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010003",
+      "level": 2,
+      "name": {
+        "local": "Mabanda",
+        "en": "Mabanda",
+        "slug": "mabanda-bdi010003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010003",
+        "level": 2,
+        "name": {
+          "local": "Mabanda",
+          "en": "Mabanda",
+          "slug": "mabanda-bdi010003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.322",
+      "lon": "29.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010003_kibimba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibimba",
+      "en": "Kibimba",
+      "slug": "kibimba"
+    },
+    "code": {
+      "id": "BDI010003_kibimba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010003",
+      "level": 2,
+      "name": {
+        "local": "Mabanda",
+        "en": "Mabanda",
+        "slug": "mabanda-bdi010003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010003",
+        "level": 2,
+        "name": {
+          "local": "Mabanda",
+          "en": "Mabanda",
+          "slug": "mabanda-bdi010003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.322",
+      "lon": "29.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010003_kigambwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigambwe",
+      "en": "Kigambwe",
+      "slug": "kigambwe"
+    },
+    "code": {
+      "id": "BDI010003_kigambwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010003",
+      "level": 2,
+      "name": {
+        "local": "Mabanda",
+        "en": "Mabanda",
+        "slug": "mabanda-bdi010003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010003",
+        "level": 2,
+        "name": {
+          "local": "Mabanda",
+          "en": "Mabanda",
+          "slug": "mabanda-bdi010003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.322",
+      "lon": "29.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010003_mabanda-rural",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mabanda Rural",
+      "en": "Mabanda Rural",
+      "slug": "mabanda-rural"
+    },
+    "code": {
+      "id": "BDI010003_mabanda-rural",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010003",
+      "level": 2,
+      "name": {
+        "local": "Mabanda",
+        "en": "Mabanda",
+        "slug": "mabanda-bdi010003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010003",
+        "level": 2,
+        "name": {
+          "local": "Mabanda",
+          "en": "Mabanda",
+          "slug": "mabanda-bdi010003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.322",
+      "lon": "29.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010003_mara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mara",
+      "en": "Mara",
+      "slug": "mara"
+    },
+    "code": {
+      "id": "BDI010003_mara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010003",
+      "level": 2,
+      "name": {
+        "local": "Mabanda",
+        "en": "Mabanda",
+        "slug": "mabanda-bdi010003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010003",
+        "level": 2,
+        "name": {
+          "local": "Mabanda",
+          "en": "Mabanda",
+          "slug": "mabanda-bdi010003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.322",
+      "lon": "29.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010003_mivo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mivo",
+      "en": "Mivo",
+      "slug": "mivo"
+    },
+    "code": {
+      "id": "BDI010003_mivo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010003",
+      "level": 2,
+      "name": {
+        "local": "Mabanda",
+        "en": "Mabanda",
+        "slug": "mabanda-bdi010003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010003",
+        "level": 2,
+        "name": {
+          "local": "Mabanda",
+          "en": "Mabanda",
+          "slug": "mabanda-bdi010003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.322",
+      "lon": "29.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010003_mubondo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mubondo",
+      "en": "Mubondo",
+      "slug": "mubondo"
+    },
+    "code": {
+      "id": "BDI010003_mubondo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010003",
+      "level": 2,
+      "name": {
+        "local": "Mabanda",
+        "en": "Mabanda",
+        "slug": "mabanda-bdi010003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010003",
+        "level": 2,
+        "name": {
+          "local": "Mabanda",
+          "en": "Mabanda",
+          "slug": "mabanda-bdi010003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.322",
+      "lon": "29.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010003_musenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musenyi",
+      "en": "Musenyi",
+      "slug": "musenyi"
+    },
+    "code": {
+      "id": "BDI010003_musenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010003",
+      "level": 2,
+      "name": {
+        "local": "Mabanda",
+        "en": "Mabanda",
+        "slug": "mabanda-bdi010003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010003",
+        "level": 2,
+        "name": {
+          "local": "Mabanda",
+          "en": "Mabanda",
+          "slug": "mabanda-bdi010003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.322",
+      "lon": "29.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010003_mutwazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mutwazi",
+      "en": "Mutwazi",
+      "slug": "mutwazi"
+    },
+    "code": {
+      "id": "BDI010003_mutwazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010003",
+      "level": 2,
+      "name": {
+        "local": "Mabanda",
+        "en": "Mabanda",
+        "slug": "mabanda-bdi010003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010003",
+        "level": 2,
+        "name": {
+          "local": "Mabanda",
+          "en": "Mabanda",
+          "slug": "mabanda-bdi010003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.322",
+      "lon": "29.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010003_nyabitabo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabitabo",
+      "en": "Nyabitabo",
+      "slug": "nyabitabo"
+    },
+    "code": {
+      "id": "BDI010003_nyabitabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010003",
+      "level": 2,
+      "name": {
+        "local": "Mabanda",
+        "en": "Mabanda",
+        "slug": "mabanda-bdi010003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010003",
+        "level": 2,
+        "name": {
+          "local": "Mabanda",
+          "en": "Mabanda",
+          "slug": "mabanda-bdi010003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.322",
+      "lon": "29.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010003_nyamugari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamugari",
+      "en": "Nyamugari",
+      "slug": "nyamugari"
+    },
+    "code": {
+      "id": "BDI010003_nyamugari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010003",
+      "level": 2,
+      "name": {
+        "local": "Mabanda",
+        "en": "Mabanda",
+        "slug": "mabanda-bdi010003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010003",
+        "level": 2,
+        "name": {
+          "local": "Mabanda",
+          "en": "Mabanda",
+          "slug": "mabanda-bdi010003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.322",
+      "lon": "29.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010003_ruvuga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruvuga",
+      "en": "Ruvuga",
+      "slug": "ruvuga"
+    },
+    "code": {
+      "id": "BDI010003_ruvuga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010003",
+      "level": 2,
+      "name": {
+        "local": "Mabanda",
+        "en": "Mabanda",
+        "slug": "mabanda-bdi010003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010003",
+        "level": 2,
+        "name": {
+          "local": "Mabanda",
+          "en": "Mabanda",
+          "slug": "mabanda-bdi010003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.322",
+      "lon": "29.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010003_sanvura",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Sanvura",
+      "en": "Sanvura",
+      "slug": "sanvura"
+    },
+    "code": {
+      "id": "BDI010003_sanvura",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010003",
+      "level": 2,
+      "name": {
+        "local": "Mabanda",
+        "en": "Mabanda",
+        "slug": "mabanda-bdi010003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010003",
+        "level": 2,
+        "name": {
+          "local": "Mabanda",
+          "en": "Mabanda",
+          "slug": "mabanda-bdi010003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.322",
+      "lon": "29.769"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

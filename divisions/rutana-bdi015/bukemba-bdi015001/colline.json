@@ -1,0 +1,542 @@
+[
+  {
+    "id": "BDI015001_bugiga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugiga",
+      "en": "Bugiga",
+      "slug": "bugiga"
+    },
+    "code": {
+      "id": "BDI015001_bugiga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015001",
+      "level": 2,
+      "name": {
+        "local": "Bukemba",
+        "en": "Bukemba",
+        "slug": "bukemba-bdi015001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015001",
+        "level": 2,
+        "name": {
+          "local": "Bukemba",
+          "en": "Bukemba",
+          "slug": "bukemba-bdi015001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.015",
+      "lon": "30.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015001_bukemba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bukemba",
+      "en": "Bukemba",
+      "slug": "bukemba"
+    },
+    "code": {
+      "id": "BDI015001_bukemba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015001",
+      "level": 2,
+      "name": {
+        "local": "Bukemba",
+        "en": "Bukemba",
+        "slug": "bukemba-bdi015001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015001",
+        "level": 2,
+        "name": {
+          "local": "Bukemba",
+          "en": "Bukemba",
+          "slug": "bukemba-bdi015001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.015",
+      "lon": "30.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015001_butare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butare",
+      "en": "Butare",
+      "slug": "butare"
+    },
+    "code": {
+      "id": "BDI015001_butare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015001",
+      "level": 2,
+      "name": {
+        "local": "Bukemba",
+        "en": "Bukemba",
+        "slug": "bukemba-bdi015001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015001",
+        "level": 2,
+        "name": {
+          "local": "Bukemba",
+          "en": "Bukemba",
+          "slug": "bukemba-bdi015001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.015",
+      "lon": "30.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015001_gihofi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gihofi",
+      "en": "Gihofi",
+      "slug": "gihofi"
+    },
+    "code": {
+      "id": "BDI015001_gihofi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015001",
+      "level": 2,
+      "name": {
+        "local": "Bukemba",
+        "en": "Bukemba",
+        "slug": "bukemba-bdi015001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015001",
+        "level": 2,
+        "name": {
+          "local": "Bukemba",
+          "en": "Bukemba",
+          "slug": "bukemba-bdi015001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.015",
+      "lon": "30.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015001_kabanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabanga",
+      "en": "Kabanga",
+      "slug": "kabanga"
+    },
+    "code": {
+      "id": "BDI015001_kabanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015001",
+      "level": 2,
+      "name": {
+        "local": "Bukemba",
+        "en": "Bukemba",
+        "slug": "bukemba-bdi015001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015001",
+        "level": 2,
+        "name": {
+          "local": "Bukemba",
+          "en": "Bukemba",
+          "slug": "bukemba-bdi015001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.015",
+      "lon": "30.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015001_murama-rugwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murama Rugwe",
+      "en": "Murama Rugwe",
+      "slug": "murama-rugwe"
+    },
+    "code": {
+      "id": "BDI015001_murama-rugwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015001",
+      "level": 2,
+      "name": {
+        "local": "Bukemba",
+        "en": "Bukemba",
+        "slug": "bukemba-bdi015001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015001",
+        "level": 2,
+        "name": {
+          "local": "Bukemba",
+          "en": "Bukemba",
+          "slug": "bukemba-bdi015001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.015",
+      "lon": "30.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015001_muyombwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyombwe",
+      "en": "Muyombwe",
+      "slug": "muyombwe"
+    },
+    "code": {
+      "id": "BDI015001_muyombwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015001",
+      "level": 2,
+      "name": {
+        "local": "Bukemba",
+        "en": "Bukemba",
+        "slug": "bukemba-bdi015001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015001",
+        "level": 2,
+        "name": {
+          "local": "Bukemba",
+          "en": "Bukemba",
+          "slug": "bukemba-bdi015001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.015",
+      "lon": "30.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015001_rubanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubanga",
+      "en": "Rubanga",
+      "slug": "rubanga"
+    },
+    "code": {
+      "id": "BDI015001_rubanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015001",
+      "level": 2,
+      "name": {
+        "local": "Bukemba",
+        "en": "Bukemba",
+        "slug": "bukemba-bdi015001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015001",
+        "level": 2,
+        "name": {
+          "local": "Bukemba",
+          "en": "Bukemba",
+          "slug": "bukemba-bdi015001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.015",
+      "lon": "30.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015001_ruranga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruranga",
+      "en": "Ruranga",
+      "slug": "ruranga"
+    },
+    "code": {
+      "id": "BDI015001_ruranga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015001",
+      "level": 2,
+      "name": {
+        "local": "Bukemba",
+        "en": "Bukemba",
+        "slug": "bukemba-bdi015001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015001",
+        "level": 2,
+        "name": {
+          "local": "Bukemba",
+          "en": "Bukemba",
+          "slug": "bukemba-bdi015001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.015",
+      "lon": "30.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015001_sosumo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Sosumo",
+      "en": "Sosumo",
+      "slug": "sosumo"
+    },
+    "code": {
+      "id": "BDI015001_sosumo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015001",
+      "level": 2,
+      "name": {
+        "local": "Bukemba",
+        "en": "Bukemba",
+        "slug": "bukemba-bdi015001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015001",
+        "level": 2,
+        "name": {
+          "local": "Bukemba",
+          "en": "Bukemba",
+          "slug": "bukemba-bdi015001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.015",
+      "lon": "30.088"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,920 @@
+[
+  {
+    "id": "BDI004002_busyana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Busyana",
+      "en": "Busyana",
+      "slug": "busyana"
+    },
+    "code": {
+      "id": "BDI004002_busyana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004002",
+      "level": 2,
+      "name": {
+        "local": "Cendajuru",
+        "en": "Cendajuru",
+        "slug": "cendajuru-bdi004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004002",
+        "level": 2,
+        "name": {
+          "local": "Cendajuru",
+          "en": "Cendajuru",
+          "slug": "cendajuru-bdi004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.314",
+      "lon": "30.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004002_cendajuru",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cendajuru",
+      "en": "Cendajuru",
+      "slug": "cendajuru"
+    },
+    "code": {
+      "id": "BDI004002_cendajuru",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004002",
+      "level": 2,
+      "name": {
+        "local": "Cendajuru",
+        "en": "Cendajuru",
+        "slug": "cendajuru-bdi004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004002",
+        "level": 2,
+        "name": {
+          "local": "Cendajuru",
+          "en": "Cendajuru",
+          "slug": "cendajuru-bdi004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.314",
+      "lon": "30.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004002_gashingwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gashingwe",
+      "en": "Gashingwe",
+      "slug": "gashingwe"
+    },
+    "code": {
+      "id": "BDI004002_gashingwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004002",
+      "level": 2,
+      "name": {
+        "local": "Cendajuru",
+        "en": "Cendajuru",
+        "slug": "cendajuru-bdi004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004002",
+        "level": 2,
+        "name": {
+          "local": "Cendajuru",
+          "en": "Cendajuru",
+          "slug": "cendajuru-bdi004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.314",
+      "lon": "30.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004002_gisoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisoro",
+      "en": "Gisoro",
+      "slug": "gisoro"
+    },
+    "code": {
+      "id": "BDI004002_gisoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004002",
+      "level": 2,
+      "name": {
+        "local": "Cendajuru",
+        "en": "Cendajuru",
+        "slug": "cendajuru-bdi004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004002",
+        "level": 2,
+        "name": {
+          "local": "Cendajuru",
+          "en": "Cendajuru",
+          "slug": "cendajuru-bdi004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.314",
+      "lon": "30.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004002_gitaramuka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitaramuka",
+      "en": "Gitaramuka",
+      "slug": "gitaramuka"
+    },
+    "code": {
+      "id": "BDI004002_gitaramuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004002",
+      "level": 2,
+      "name": {
+        "local": "Cendajuru",
+        "en": "Cendajuru",
+        "slug": "cendajuru-bdi004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004002",
+        "level": 2,
+        "name": {
+          "local": "Cendajuru",
+          "en": "Cendajuru",
+          "slug": "cendajuru-bdi004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.314",
+      "lon": "30.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004002_kabageni",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabageni",
+      "en": "Kabageni",
+      "slug": "kabageni"
+    },
+    "code": {
+      "id": "BDI004002_kabageni",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004002",
+      "level": 2,
+      "name": {
+        "local": "Cendajuru",
+        "en": "Cendajuru",
+        "slug": "cendajuru-bdi004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004002",
+        "level": 2,
+        "name": {
+          "local": "Cendajuru",
+          "en": "Cendajuru",
+          "slug": "cendajuru-bdi004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.314",
+      "lon": "30.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004002_kibande",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibande",
+      "en": "Kibande",
+      "slug": "kibande"
+    },
+    "code": {
+      "id": "BDI004002_kibande",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004002",
+      "level": 2,
+      "name": {
+        "local": "Cendajuru",
+        "en": "Cendajuru",
+        "slug": "cendajuru-bdi004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004002",
+        "level": 2,
+        "name": {
+          "local": "Cendajuru",
+          "en": "Cendajuru",
+          "slug": "cendajuru-bdi004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.314",
+      "lon": "30.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004002_kigarika",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigarika",
+      "en": "Kigarika",
+      "slug": "kigarika"
+    },
+    "code": {
+      "id": "BDI004002_kigarika",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004002",
+      "level": 2,
+      "name": {
+        "local": "Cendajuru",
+        "en": "Cendajuru",
+        "slug": "cendajuru-bdi004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004002",
+        "level": 2,
+        "name": {
+          "local": "Cendajuru",
+          "en": "Cendajuru",
+          "slug": "cendajuru-bdi004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.314",
+      "lon": "30.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004002_kiruhura",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiruhura",
+      "en": "Kiruhura",
+      "slug": "kiruhura"
+    },
+    "code": {
+      "id": "BDI004002_kiruhura",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004002",
+      "level": 2,
+      "name": {
+        "local": "Cendajuru",
+        "en": "Cendajuru",
+        "slug": "cendajuru-bdi004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004002",
+        "level": 2,
+        "name": {
+          "local": "Cendajuru",
+          "en": "Cendajuru",
+          "slug": "cendajuru-bdi004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.314",
+      "lon": "30.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004002_kiyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiyange",
+      "en": "Kiyange",
+      "slug": "kiyange"
+    },
+    "code": {
+      "id": "BDI004002_kiyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004002",
+      "level": 2,
+      "name": {
+        "local": "Cendajuru",
+        "en": "Cendajuru",
+        "slug": "cendajuru-bdi004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004002",
+        "level": 2,
+        "name": {
+          "local": "Cendajuru",
+          "en": "Cendajuru",
+          "slug": "cendajuru-bdi004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.314",
+      "lon": "30.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004002_misugi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Misugi",
+      "en": "Misugi",
+      "slug": "misugi"
+    },
+    "code": {
+      "id": "BDI004002_misugi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004002",
+      "level": 2,
+      "name": {
+        "local": "Cendajuru",
+        "en": "Cendajuru",
+        "slug": "cendajuru-bdi004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004002",
+        "level": 2,
+        "name": {
+          "local": "Cendajuru",
+          "en": "Cendajuru",
+          "slug": "cendajuru-bdi004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.314",
+      "lon": "30.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004002_mugongo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugongo",
+      "en": "Mugongo",
+      "slug": "mugongo"
+    },
+    "code": {
+      "id": "BDI004002_mugongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004002",
+      "level": 2,
+      "name": {
+        "local": "Cendajuru",
+        "en": "Cendajuru",
+        "slug": "cendajuru-bdi004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004002",
+        "level": 2,
+        "name": {
+          "local": "Cendajuru",
+          "en": "Cendajuru",
+          "slug": "cendajuru-bdi004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.314",
+      "lon": "30.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004002_nyagisovu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyagisovu",
+      "en": "Nyagisovu",
+      "slug": "nyagisovu"
+    },
+    "code": {
+      "id": "BDI004002_nyagisovu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004002",
+      "level": 2,
+      "name": {
+        "local": "Cendajuru",
+        "en": "Cendajuru",
+        "slug": "cendajuru-bdi004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004002",
+        "level": 2,
+        "name": {
+          "local": "Cendajuru",
+          "en": "Cendajuru",
+          "slug": "cendajuru-bdi004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.314",
+      "lon": "30.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004002_nyakuguma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakuguma",
+      "en": "Nyakuguma",
+      "slug": "nyakuguma"
+    },
+    "code": {
+      "id": "BDI004002_nyakuguma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004002",
+      "level": 2,
+      "name": {
+        "local": "Cendajuru",
+        "en": "Cendajuru",
+        "slug": "cendajuru-bdi004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004002",
+        "level": 2,
+        "name": {
+          "local": "Cendajuru",
+          "en": "Cendajuru",
+          "slug": "cendajuru-bdi004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.314",
+      "lon": "30.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004002_nyamugari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamugari",
+      "en": "Nyamugari",
+      "slug": "nyamugari"
+    },
+    "code": {
+      "id": "BDI004002_nyamugari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004002",
+      "level": 2,
+      "name": {
+        "local": "Cendajuru",
+        "en": "Cendajuru",
+        "slug": "cendajuru-bdi004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004002",
+        "level": 2,
+        "name": {
+          "local": "Cendajuru",
+          "en": "Cendajuru",
+          "slug": "cendajuru-bdi004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.314",
+      "lon": "30.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004002_rukoyoyo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rukoyoyo",
+      "en": "Rukoyoyo",
+      "slug": "rukoyoyo"
+    },
+    "code": {
+      "id": "BDI004002_rukoyoyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004002",
+      "level": 2,
+      "name": {
+        "local": "Cendajuru",
+        "en": "Cendajuru",
+        "slug": "cendajuru-bdi004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004002",
+        "level": 2,
+        "name": {
+          "local": "Cendajuru",
+          "en": "Cendajuru",
+          "slug": "cendajuru-bdi004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.314",
+      "lon": "30.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004002_twinkwavu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Twinkwavu",
+      "en": "Twinkwavu",
+      "slug": "twinkwavu"
+    },
+    "code": {
+      "id": "BDI004002_twinkwavu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004002",
+      "level": 2,
+      "name": {
+        "local": "Cendajuru",
+        "en": "Cendajuru",
+        "slug": "cendajuru-bdi004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      },
+      {
+        "id": "BDI004002",
+        "level": 2,
+        "name": {
+          "local": "Cendajuru",
+          "en": "Cendajuru",
+          "slug": "cendajuru-bdi004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.314",
+      "lon": "30.602"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,866 @@
+[
+  {
+    "id": "BDI007007_bukirasazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bukirasazi",
+      "en": "Bukirasazi",
+      "slug": "bukirasazi"
+    },
+    "code": {
+      "id": "BDI007007_bukirasazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007007",
+      "level": 2,
+      "name": {
+        "local": "Shombo",
+        "en": "Shombo",
+        "slug": "shombo-bdi007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007007",
+        "level": 2,
+        "name": {
+          "local": "Shombo",
+          "en": "Shombo",
+          "slug": "shombo-bdi007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.282",
+      "lon": "30.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007007_butwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butwe",
+      "en": "Butwe",
+      "slug": "butwe"
+    },
+    "code": {
+      "id": "BDI007007_butwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007007",
+      "level": 2,
+      "name": {
+        "local": "Shombo",
+        "en": "Shombo",
+        "slug": "shombo-bdi007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007007",
+        "level": 2,
+        "name": {
+          "local": "Shombo",
+          "en": "Shombo",
+          "slug": "shombo-bdi007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.282",
+      "lon": "30.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007007_gaharo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gaharo",
+      "en": "Gaharo",
+      "slug": "gaharo"
+    },
+    "code": {
+      "id": "BDI007007_gaharo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007007",
+      "level": 2,
+      "name": {
+        "local": "Shombo",
+        "en": "Shombo",
+        "slug": "shombo-bdi007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007007",
+        "level": 2,
+        "name": {
+          "local": "Shombo",
+          "en": "Shombo",
+          "slug": "shombo-bdi007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.282",
+      "lon": "30.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007007_gatabo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatabo",
+      "en": "Gatabo",
+      "slug": "gatabo"
+    },
+    "code": {
+      "id": "BDI007007_gatabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007007",
+      "level": 2,
+      "name": {
+        "local": "Shombo",
+        "en": "Shombo",
+        "slug": "shombo-bdi007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007007",
+        "level": 2,
+        "name": {
+          "local": "Shombo",
+          "en": "Shombo",
+          "slug": "shombo-bdi007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.282",
+      "lon": "30.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007007_gikombe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikombe",
+      "en": "Gikombe",
+      "slug": "gikombe"
+    },
+    "code": {
+      "id": "BDI007007_gikombe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007007",
+      "level": 2,
+      "name": {
+        "local": "Shombo",
+        "en": "Shombo",
+        "slug": "shombo-bdi007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007007",
+        "level": 2,
+        "name": {
+          "local": "Shombo",
+          "en": "Shombo",
+          "slug": "shombo-bdi007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.282",
+      "lon": "30.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007007_gisenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisenyi",
+      "en": "Gisenyi",
+      "slug": "gisenyi"
+    },
+    "code": {
+      "id": "BDI007007_gisenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007007",
+      "level": 2,
+      "name": {
+        "local": "Shombo",
+        "en": "Shombo",
+        "slug": "shombo-bdi007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007007",
+        "level": 2,
+        "name": {
+          "local": "Shombo",
+          "en": "Shombo",
+          "slug": "shombo-bdi007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.282",
+      "lon": "30.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007007_gitaramuka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitaramuka",
+      "en": "Gitaramuka",
+      "slug": "gitaramuka"
+    },
+    "code": {
+      "id": "BDI007007_gitaramuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007007",
+      "level": 2,
+      "name": {
+        "local": "Shombo",
+        "en": "Shombo",
+        "slug": "shombo-bdi007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007007",
+        "level": 2,
+        "name": {
+          "local": "Shombo",
+          "en": "Shombo",
+          "slug": "shombo-bdi007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.282",
+      "lon": "30.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007007_kigo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigo",
+      "en": "Kigo",
+      "slug": "kigo"
+    },
+    "code": {
+      "id": "BDI007007_kigo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007007",
+      "level": 2,
+      "name": {
+        "local": "Shombo",
+        "en": "Shombo",
+        "slug": "shombo-bdi007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007007",
+        "level": 2,
+        "name": {
+          "local": "Shombo",
+          "en": "Shombo",
+          "slug": "shombo-bdi007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.282",
+      "lon": "30.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007007_kiryama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiryama",
+      "en": "Kiryama",
+      "slug": "kiryama"
+    },
+    "code": {
+      "id": "BDI007007_kiryama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007007",
+      "level": 2,
+      "name": {
+        "local": "Shombo",
+        "en": "Shombo",
+        "slug": "shombo-bdi007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007007",
+        "level": 2,
+        "name": {
+          "local": "Shombo",
+          "en": "Shombo",
+          "slug": "shombo-bdi007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.282",
+      "lon": "30.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007007_kiyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiyange",
+      "en": "Kiyange",
+      "slug": "kiyange"
+    },
+    "code": {
+      "id": "BDI007007_kiyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007007",
+      "level": 2,
+      "name": {
+        "local": "Shombo",
+        "en": "Shombo",
+        "slug": "shombo-bdi007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007007",
+        "level": 2,
+        "name": {
+          "local": "Shombo",
+          "en": "Shombo",
+          "slug": "shombo-bdi007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.282",
+      "lon": "30.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007007_muhigo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muhigo",
+      "en": "Muhigo",
+      "slug": "muhigo"
+    },
+    "code": {
+      "id": "BDI007007_muhigo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007007",
+      "level": 2,
+      "name": {
+        "local": "Shombo",
+        "en": "Shombo",
+        "slug": "shombo-bdi007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007007",
+        "level": 2,
+        "name": {
+          "local": "Shombo",
+          "en": "Shombo",
+          "slug": "shombo-bdi007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.282",
+      "lon": "30.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007007_muhororo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muhororo",
+      "en": "Muhororo",
+      "slug": "muhororo"
+    },
+    "code": {
+      "id": "BDI007007_muhororo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007007",
+      "level": 2,
+      "name": {
+        "local": "Shombo",
+        "en": "Shombo",
+        "slug": "shombo-bdi007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007007",
+        "level": 2,
+        "name": {
+          "local": "Shombo",
+          "en": "Shombo",
+          "slug": "shombo-bdi007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.282",
+      "lon": "30.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007007_mujenjwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mujenjwa",
+      "en": "Mujenjwa",
+      "slug": "mujenjwa"
+    },
+    "code": {
+      "id": "BDI007007_mujenjwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007007",
+      "level": 2,
+      "name": {
+        "local": "Shombo",
+        "en": "Shombo",
+        "slug": "shombo-bdi007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007007",
+        "level": 2,
+        "name": {
+          "local": "Shombo",
+          "en": "Shombo",
+          "slug": "shombo-bdi007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.282",
+      "lon": "30.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007007_nyabibuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabibuye",
+      "en": "Nyabibuye",
+      "slug": "nyabibuye"
+    },
+    "code": {
+      "id": "BDI007007_nyabibuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007007",
+      "level": 2,
+      "name": {
+        "local": "Shombo",
+        "en": "Shombo",
+        "slug": "shombo-bdi007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007007",
+        "level": 2,
+        "name": {
+          "local": "Shombo",
+          "en": "Shombo",
+          "slug": "shombo-bdi007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.282",
+      "lon": "30.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007007_rusi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusi",
+      "en": "Rusi",
+      "slug": "rusi"
+    },
+    "code": {
+      "id": "BDI007007_rusi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007007",
+      "level": 2,
+      "name": {
+        "local": "Shombo",
+        "en": "Shombo",
+        "slug": "shombo-bdi007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007007",
+        "level": 2,
+        "name": {
+          "local": "Shombo",
+          "en": "Shombo",
+          "slug": "shombo-bdi007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.282",
+      "lon": "30.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007007_shombo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Shombo",
+      "en": "Shombo",
+      "slug": "shombo"
+    },
+    "code": {
+      "id": "BDI007007_shombo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007007",
+      "level": 2,
+      "name": {
+        "local": "Shombo",
+        "en": "Shombo",
+        "slug": "shombo-bdi007007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007007",
+        "level": 2,
+        "name": {
+          "local": "Shombo",
+          "en": "Shombo",
+          "slug": "shombo-bdi007007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.282",
+      "lon": "30.046"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,3134 @@
+[
+  {
+    "id": "BDI017016_bubanza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bubanza",
+      "en": "Bubanza",
+      "slug": "bubanza"
+    },
+    "code": {
+      "id": "BDI017016_bubanza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_buhinyuza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhinyuza",
+      "en": "Buhinyuza",
+      "slug": "buhinyuza"
+    },
+    "code": {
+      "id": "BDI017016_buhinyuza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_bukirasazi-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bukirasazi I",
+      "en": "Bukirasazi I",
+      "slug": "bukirasazi-i"
+    },
+    "code": {
+      "id": "BDI017016_bukirasazi-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_bukirasazi-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bukirasazi Ii",
+      "en": "Bukirasazi Ii",
+      "slug": "bukirasazi-ii"
+    },
+    "code": {
+      "id": "BDI017016_bukirasazi-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_bururi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bururi",
+      "en": "Bururi",
+      "slug": "bururi"
+    },
+    "code": {
+      "id": "BDI017016_bururi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_buterere-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buterere I",
+      "en": "Buterere I",
+      "slug": "buterere-i"
+    },
+    "code": {
+      "id": "BDI017016_buterere-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_buterere-ii-a",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buterere Ii A",
+      "en": "Buterere Ii A",
+      "slug": "buterere-ii-a"
+    },
+    "code": {
+      "id": "BDI017016_buterere-ii-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_buterere-ii-b",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buterere Ii B",
+      "en": "Buterere Ii B",
+      "slug": "buterere-ii-b"
+    },
+    "code": {
+      "id": "BDI017016_buterere-ii-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_carama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Carama",
+      "en": "Carama",
+      "slug": "carama"
+    },
+    "code": {
+      "id": "BDI017016_carama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_cibitoke-q1",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cibitoke Q1",
+      "en": "Cibitoke Q1",
+      "slug": "cibitoke-q1"
+    },
+    "code": {
+      "id": "BDI017016_cibitoke-q1",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_cibitoke-q2",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cibitoke Q2",
+      "en": "Cibitoke Q2",
+      "slug": "cibitoke-q2"
+    },
+    "code": {
+      "id": "BDI017016_cibitoke-q2",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_cibitoke-q3",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cibitoke Q3",
+      "en": "Cibitoke Q3",
+      "slug": "cibitoke-q3"
+    },
+    "code": {
+      "id": "BDI017016_cibitoke-q3",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_cibitoke-q4",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cibitoke Q4",
+      "en": "Cibitoke Q4",
+      "slug": "cibitoke-q4"
+    },
+    "code": {
+      "id": "BDI017016_cibitoke-q4",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_cibitoke-q5",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cibitoke Q5",
+      "en": "Cibitoke Q5",
+      "slug": "cibitoke-q5"
+    },
+    "code": {
+      "id": "BDI017016_cibitoke-q5",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_cibitoke-q6",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cibitoke Q6",
+      "en": "Cibitoke Q6",
+      "slug": "cibitoke-q6"
+    },
+    "code": {
+      "id": "BDI017016_cibitoke-q6",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_cibitoke-q7",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cibitoke Q7",
+      "en": "Cibitoke Q7",
+      "slug": "cibitoke-q7"
+    },
+    "code": {
+      "id": "BDI017016_cibitoke-q7",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_gihosha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gihosha",
+      "en": "Gihosha",
+      "slug": "gihosha"
+    },
+    "code": {
+      "id": "BDI017016_gihosha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_gikizi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikizi",
+      "en": "Gikizi",
+      "slug": "gikizi"
+    },
+    "code": {
+      "id": "BDI017016_gikizi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_gikungu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikungu",
+      "en": "Gikungu",
+      "slug": "gikungu"
+    },
+    "code": {
+      "id": "BDI017016_gikungu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_gikungu-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikungu I",
+      "en": "Gikungu I",
+      "slug": "gikungu-i"
+    },
+    "code": {
+      "id": "BDI017016_gikungu-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_gikungu-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikungu Ii",
+      "en": "Gikungu Ii",
+      "slug": "gikungu-ii"
+    },
+    "code": {
+      "id": "BDI017016_gikungu-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_gitega",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitega",
+      "en": "Gitega",
+      "slug": "gitega"
+    },
+    "code": {
+      "id": "BDI017016_gitega",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_gituro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gituro",
+      "en": "Gituro",
+      "slug": "gituro"
+    },
+    "code": {
+      "id": "BDI017016_gituro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_heha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Heha",
+      "en": "Heha",
+      "slug": "heha"
+    },
+    "code": {
+      "id": "BDI017016_heha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_kabusa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabusa",
+      "en": "Kabusa",
+      "slug": "kabusa"
+    },
+    "code": {
+      "id": "BDI017016_kabusa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_kamenge",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kamenge",
+      "en": "Kamenge",
+      "slug": "kamenge"
+    },
+    "code": {
+      "id": "BDI017016_kamenge",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_kanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kanga",
+      "en": "Kanga",
+      "slug": "kanga"
+    },
+    "code": {
+      "id": "BDI017016_kanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_kavumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kavumu",
+      "en": "Kavumu",
+      "slug": "kavumu"
+    },
+    "code": {
+      "id": "BDI017016_kavumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_kinama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinama",
+      "en": "Kinama",
+      "slug": "kinama"
+    },
+    "code": {
+      "id": "BDI017016_kinama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_kiyange-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiyange I",
+      "en": "Kiyange I",
+      "slug": "kiyange-i"
+    },
+    "code": {
+      "id": "BDI017016_kiyange-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_kiyange-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiyange Ii",
+      "en": "Kiyange Ii",
+      "slug": "kiyange-ii"
+    },
+    "code": {
+      "id": "BDI017016_kiyange-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_maramvya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Maramvya",
+      "en": "Maramvya",
+      "slug": "maramvya"
+    },
+    "code": {
+      "id": "BDI017016_maramvya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_mirango-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mirango I",
+      "en": "Mirango I",
+      "slug": "mirango-i"
+    },
+    "code": {
+      "id": "BDI017016_mirango-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_mirango-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mirango Ii",
+      "en": "Mirango Ii",
+      "slug": "mirango-ii"
+    },
+    "code": {
+      "id": "BDI017016_mirango-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_mubone",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mubone",
+      "en": "Mubone",
+      "slug": "mubone"
+    },
+    "code": {
+      "id": "BDI017016_mubone",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_mugaruro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugaruro",
+      "en": "Mugaruro",
+      "slug": "mugaruro"
+    },
+    "code": {
+      "id": "BDI017016_mugaruro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_muramvya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muramvya",
+      "en": "Muramvya",
+      "slug": "muramvya"
+    },
+    "code": {
+      "id": "BDI017016_muramvya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_muyaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyaga",
+      "en": "Muyaga",
+      "slug": "muyaga"
+    },
+    "code": {
+      "id": "BDI017016_muyaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_muyinga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyinga",
+      "en": "Muyinga",
+      "slug": "muyinga"
+    },
+    "code": {
+      "id": "BDI017016_muyinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_ngagara-q1",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngagara Q1",
+      "en": "Ngagara Q1",
+      "slug": "ngagara-q1"
+    },
+    "code": {
+      "id": "BDI017016_ngagara-q1",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_ngagara-q10",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngagara Q10",
+      "en": "Ngagara Q10",
+      "slug": "ngagara-q10"
+    },
+    "code": {
+      "id": "BDI017016_ngagara-q10",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_ngagara-q2",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngagara Q2",
+      "en": "Ngagara Q2",
+      "slug": "ngagara-q2"
+    },
+    "code": {
+      "id": "BDI017016_ngagara-q2",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_ngagara-q3",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngagara Q3",
+      "en": "Ngagara Q3",
+      "slug": "ngagara-q3"
+    },
+    "code": {
+      "id": "BDI017016_ngagara-q3",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_ngagara-q4",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngagara Q4",
+      "en": "Ngagara Q4",
+      "slug": "ngagara-q4"
+    },
+    "code": {
+      "id": "BDI017016_ngagara-q4",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_ngagara-q5",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngagara Q5",
+      "en": "Ngagara Q5",
+      "slug": "ngagara-q5"
+    },
+    "code": {
+      "id": "BDI017016_ngagara-q5",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_ngagara-q6",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngagara Q6",
+      "en": "Ngagara Q6",
+      "slug": "ngagara-q6"
+    },
+    "code": {
+      "id": "BDI017016_ngagara-q6",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_ngagara-q7",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngagara Q7",
+      "en": "Ngagara Q7",
+      "slug": "ngagara-q7"
+    },
+    "code": {
+      "id": "BDI017016_ngagara-q7",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_ngagara-q8",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngagara Q8",
+      "en": "Ngagara Q8",
+      "slug": "ngagara-q8"
+    },
+    "code": {
+      "id": "BDI017016_ngagara-q8",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_ngagara-q9",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngagara Q9",
+      "en": "Ngagara Q9",
+      "slug": "ngagara-q9"
+    },
+    "code": {
+      "id": "BDI017016_ngagara-q9",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_ngozi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngozi",
+      "en": "Ngozi",
+      "slug": "ngozi"
+    },
+    "code": {
+      "id": "BDI017016_ngozi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_nyabagere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabagere",
+      "en": "Nyabagere",
+      "slug": "nyabagere"
+    },
+    "code": {
+      "id": "BDI017016_nyabagere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_q-industriel",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Q Industriel",
+      "en": "Q Industriel",
+      "slug": "q-industriel"
+    },
+    "code": {
+      "id": "BDI017016_q-industriel",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_ruyigi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruyigi",
+      "en": "Ruyigi",
+      "slug": "ruyigi"
+    },
+    "code": {
+      "id": "BDI017016_ruyigi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_socarti",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Socarti",
+      "en": "Socarti",
+      "slug": "socarti"
+    },
+    "code": {
+      "id": "BDI017016_socarti",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_songa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Songa",
+      "en": "Songa",
+      "slug": "songa"
+    },
+    "code": {
+      "id": "BDI017016_songa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_taba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Taba",
+      "en": "Taba",
+      "slug": "taba"
+    },
+    "code": {
+      "id": "BDI017016_taba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_teza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Teza",
+      "en": "Teza",
+      "slug": "teza"
+    },
+    "code": {
+      "id": "BDI017016_teza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016_twinyoni",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Twinyoni",
+      "en": "Twinyoni",
+      "slug": "twinyoni"
+    },
+    "code": {
+      "id": "BDI017016_twinyoni",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017016",
+      "level": 2,
+      "name": {
+        "local": "Ntahangwa",
+        "en": "Ntahangwa",
+        "slug": "ntahangwa-bdi017016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017016",
+        "level": 2,
+        "name": {
+          "local": "Ntahangwa",
+          "en": "Ntahangwa",
+          "slug": "ntahangwa-bdi017016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

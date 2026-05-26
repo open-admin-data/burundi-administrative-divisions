@@ -1,0 +1,30 @@
+{
+  "id": "BDI006",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Gitega",
+    "en": "Gitega",
+    "slug": "gitega-bdi006"
+  },
+  "code": {
+    "id": "BDI006",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 11,
+    "colline": 268
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.452",
+    "lon": "29.964"
+  },
+  "metadata": {},
+  "source": {}
+}

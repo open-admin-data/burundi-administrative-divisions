@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "BDI010006_gahandu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gahandu",
+      "en": "Gahandu",
+      "slug": "gahandu"
+    },
+    "code": {
+      "id": "BDI010006_gahandu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010006",
+      "level": 2,
+      "name": {
+        "local": "Vugizo",
+        "en": "Vugizo",
+        "slug": "vugizo-bdi010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010006",
+        "level": 2,
+        "name": {
+          "local": "Vugizo",
+          "en": "Vugizo",
+          "slug": "vugizo-bdi010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.162",
+      "lon": "29.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010006_gikuzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikuzi",
+      "en": "Gikuzi",
+      "slug": "gikuzi"
+    },
+    "code": {
+      "id": "BDI010006_gikuzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010006",
+      "level": 2,
+      "name": {
+        "local": "Vugizo",
+        "en": "Vugizo",
+        "slug": "vugizo-bdi010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010006",
+        "level": 2,
+        "name": {
+          "local": "Vugizo",
+          "en": "Vugizo",
+          "slug": "vugizo-bdi010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.162",
+      "lon": "29.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010006_gitaba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitaba",
+      "en": "Gitaba",
+      "slug": "gitaba"
+    },
+    "code": {
+      "id": "BDI010006_gitaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010006",
+      "level": 2,
+      "name": {
+        "local": "Vugizo",
+        "en": "Vugizo",
+        "slug": "vugizo-bdi010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010006",
+        "level": 2,
+        "name": {
+          "local": "Vugizo",
+          "en": "Vugizo",
+          "slug": "vugizo-bdi010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.162",
+      "lon": "29.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010006_jongwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Jongwe",
+      "en": "Jongwe",
+      "slug": "jongwe"
+    },
+    "code": {
+      "id": "BDI010006_jongwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010006",
+      "level": 2,
+      "name": {
+        "local": "Vugizo",
+        "en": "Vugizo",
+        "slug": "vugizo-bdi010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010006",
+        "level": 2,
+        "name": {
+          "local": "Vugizo",
+          "en": "Vugizo",
+          "slug": "vugizo-bdi010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.162",
+      "lon": "29.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010006_kagege",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kagege",
+      "en": "Kagege",
+      "slug": "kagege"
+    },
+    "code": {
+      "id": "BDI010006_kagege",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010006",
+      "level": 2,
+      "name": {
+        "local": "Vugizo",
+        "en": "Vugizo",
+        "slug": "vugizo-bdi010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010006",
+        "level": 2,
+        "name": {
+          "local": "Vugizo",
+          "en": "Vugizo",
+          "slug": "vugizo-bdi010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.162",
+      "lon": "29.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010006_karonge",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karonge",
+      "en": "Karonge",
+      "slug": "karonge"
+    },
+    "code": {
+      "id": "BDI010006_karonge",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010006",
+      "level": 2,
+      "name": {
+        "local": "Vugizo",
+        "en": "Vugizo",
+        "slug": "vugizo-bdi010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010006",
+        "level": 2,
+        "name": {
+          "local": "Vugizo",
+          "en": "Vugizo",
+          "slug": "vugizo-bdi010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.162",
+      "lon": "29.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010006_kigombe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigombe",
+      "en": "Kigombe",
+      "slug": "kigombe"
+    },
+    "code": {
+      "id": "BDI010006_kigombe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010006",
+      "level": 2,
+      "name": {
+        "local": "Vugizo",
+        "en": "Vugizo",
+        "slug": "vugizo-bdi010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010006",
+        "level": 2,
+        "name": {
+          "local": "Vugizo",
+          "en": "Vugizo",
+          "slug": "vugizo-bdi010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.162",
+      "lon": "29.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010006_kiyazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiyazi",
+      "en": "Kiyazi",
+      "slug": "kiyazi"
+    },
+    "code": {
+      "id": "BDI010006_kiyazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010006",
+      "level": 2,
+      "name": {
+        "local": "Vugizo",
+        "en": "Vugizo",
+        "slug": "vugizo-bdi010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010006",
+        "level": 2,
+        "name": {
+          "local": "Vugizo",
+          "en": "Vugizo",
+          "slug": "vugizo-bdi010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.162",
+      "lon": "29.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010006_martyazo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Martyazo",
+      "en": "Martyazo",
+      "slug": "martyazo"
+    },
+    "code": {
+      "id": "BDI010006_martyazo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010006",
+      "level": 2,
+      "name": {
+        "local": "Vugizo",
+        "en": "Vugizo",
+        "slug": "vugizo-bdi010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010006",
+        "level": 2,
+        "name": {
+          "local": "Vugizo",
+          "en": "Vugizo",
+          "slug": "vugizo-bdi010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.162",
+      "lon": "29.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010006_mazuru",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mazuru",
+      "en": "Mazuru",
+      "slug": "mazuru"
+    },
+    "code": {
+      "id": "BDI010006_mazuru",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010006",
+      "level": 2,
+      "name": {
+        "local": "Vugizo",
+        "en": "Vugizo",
+        "slug": "vugizo-bdi010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010006",
+        "level": 2,
+        "name": {
+          "local": "Vugizo",
+          "en": "Vugizo",
+          "slug": "vugizo-bdi010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.162",
+      "lon": "29.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010006_mbizi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mbizi",
+      "en": "Mbizi",
+      "slug": "mbizi"
+    },
+    "code": {
+      "id": "BDI010006_mbizi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010006",
+      "level": 2,
+      "name": {
+        "local": "Vugizo",
+        "en": "Vugizo",
+        "slug": "vugizo-bdi010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010006",
+        "level": 2,
+        "name": {
+          "local": "Vugizo",
+          "en": "Vugizo",
+          "slug": "vugizo-bdi010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.162",
+      "lon": "29.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010006_mugu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugu",
+      "en": "Mugu",
+      "slug": "mugu"
+    },
+    "code": {
+      "id": "BDI010006_mugu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010006",
+      "level": 2,
+      "name": {
+        "local": "Vugizo",
+        "en": "Vugizo",
+        "slug": "vugizo-bdi010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010006",
+        "level": 2,
+        "name": {
+          "local": "Vugizo",
+          "en": "Vugizo",
+          "slug": "vugizo-bdi010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.162",
+      "lon": "29.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010006_murinda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murinda",
+      "en": "Murinda",
+      "slug": "murinda"
+    },
+    "code": {
+      "id": "BDI010006_murinda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010006",
+      "level": 2,
+      "name": {
+        "local": "Vugizo",
+        "en": "Vugizo",
+        "slug": "vugizo-bdi010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010006",
+        "level": 2,
+        "name": {
+          "local": "Vugizo",
+          "en": "Vugizo",
+          "slug": "vugizo-bdi010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.162",
+      "lon": "29.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010006_mutobo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mutobo",
+      "en": "Mutobo",
+      "slug": "mutobo"
+    },
+    "code": {
+      "id": "BDI010006_mutobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010006",
+      "level": 2,
+      "name": {
+        "local": "Vugizo",
+        "en": "Vugizo",
+        "slug": "vugizo-bdi010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010006",
+        "level": 2,
+        "name": {
+          "local": "Vugizo",
+          "en": "Vugizo",
+          "slug": "vugizo-bdi010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.162",
+      "lon": "29.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010006_ndoba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ndoba",
+      "en": "Ndoba",
+      "slug": "ndoba"
+    },
+    "code": {
+      "id": "BDI010006_ndoba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010006",
+      "level": 2,
+      "name": {
+        "local": "Vugizo",
+        "en": "Vugizo",
+        "slug": "vugizo-bdi010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010006",
+        "level": 2,
+        "name": {
+          "local": "Vugizo",
+          "en": "Vugizo",
+          "slug": "vugizo-bdi010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.162",
+      "lon": "29.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010006_nyamirinzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamirinzi",
+      "en": "Nyamirinzi",
+      "slug": "nyamirinzi"
+    },
+    "code": {
+      "id": "BDI010006_nyamirinzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010006",
+      "level": 2,
+      "name": {
+        "local": "Vugizo",
+        "en": "Vugizo",
+        "slug": "vugizo-bdi010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010006",
+        "level": 2,
+        "name": {
+          "local": "Vugizo",
+          "en": "Vugizo",
+          "slug": "vugizo-bdi010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.162",
+      "lon": "29.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010006_nyarubano",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarubano",
+      "en": "Nyarubano",
+      "slug": "nyarubano"
+    },
+    "code": {
+      "id": "BDI010006_nyarubano",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010006",
+      "level": 2,
+      "name": {
+        "local": "Vugizo",
+        "en": "Vugizo",
+        "slug": "vugizo-bdi010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010006",
+        "level": 2,
+        "name": {
+          "local": "Vugizo",
+          "en": "Vugizo",
+          "slug": "vugizo-bdi010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.162",
+      "lon": "29.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010006_rabiro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rabiro",
+      "en": "Rabiro",
+      "slug": "rabiro"
+    },
+    "code": {
+      "id": "BDI010006_rabiro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010006",
+      "level": 2,
+      "name": {
+        "local": "Vugizo",
+        "en": "Vugizo",
+        "slug": "vugizo-bdi010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010006",
+        "level": 2,
+        "name": {
+          "local": "Vugizo",
+          "en": "Vugizo",
+          "slug": "vugizo-bdi010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.162",
+      "lon": "29.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010006_rurambira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rurambira",
+      "en": "Rurambira",
+      "slug": "rurambira"
+    },
+    "code": {
+      "id": "BDI010006_rurambira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010006",
+      "level": 2,
+      "name": {
+        "local": "Vugizo",
+        "en": "Vugizo",
+        "slug": "vugizo-bdi010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010006",
+        "level": 2,
+        "name": {
+          "local": "Vugizo",
+          "en": "Vugizo",
+          "slug": "vugizo-bdi010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.162",
+      "lon": "29.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010006_rutegama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutegama",
+      "en": "Rutegama",
+      "slug": "rutegama"
+    },
+    "code": {
+      "id": "BDI010006_rutegama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010006",
+      "level": 2,
+      "name": {
+        "local": "Vugizo",
+        "en": "Vugizo",
+        "slug": "vugizo-bdi010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010006",
+        "level": 2,
+        "name": {
+          "local": "Vugizo",
+          "en": "Vugizo",
+          "slug": "vugizo-bdi010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.162",
+      "lon": "29.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010006_vugizo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Vugizo",
+      "en": "Vugizo",
+      "slug": "vugizo"
+    },
+    "code": {
+      "id": "BDI010006_vugizo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010006",
+      "level": 2,
+      "name": {
+        "local": "Vugizo",
+        "en": "Vugizo",
+        "slug": "vugizo-bdi010006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010006",
+        "level": 2,
+        "name": {
+          "local": "Vugizo",
+          "en": "Vugizo",
+          "slug": "vugizo-bdi010006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.162",
+      "lon": "29.652"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

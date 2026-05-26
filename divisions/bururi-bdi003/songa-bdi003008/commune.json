@@ -1,0 +1,47 @@
+{
+  "id": "BDI003008",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Songa",
+    "en": "Songa",
+    "slug": "songa-bdi003008"
+  },
+  "code": {
+    "id": "BDI003008",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI003",
+    "level": 1,
+    "name": {
+      "local": "Bururi",
+      "en": "Bururi",
+      "slug": "bururi-bdi003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI003",
+      "level": 1,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.845",
+    "lon": "29.677"
+  },
+  "metadata": {},
+  "source": {}
+}

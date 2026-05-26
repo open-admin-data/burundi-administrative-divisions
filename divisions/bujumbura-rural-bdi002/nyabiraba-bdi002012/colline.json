@@ -1,0 +1,920 @@
+[
+  {
+    "id": "BDI002012_bubaji",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bubaji",
+      "en": "Bubaji",
+      "slug": "bubaji"
+    },
+    "code": {
+      "id": "BDI002012_bubaji",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002012",
+      "level": 2,
+      "name": {
+        "local": "Nyabiraba",
+        "en": "Nyabiraba",
+        "slug": "nyabiraba-bdi002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002012",
+        "level": 2,
+        "name": {
+          "local": "Nyabiraba",
+          "en": "Nyabiraba",
+          "slug": "nyabiraba-bdi002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.452",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002012_gasarara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasarara",
+      "en": "Gasarara",
+      "slug": "gasarara"
+    },
+    "code": {
+      "id": "BDI002012_gasarara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002012",
+      "level": 2,
+      "name": {
+        "local": "Nyabiraba",
+        "en": "Nyabiraba",
+        "slug": "nyabiraba-bdi002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002012",
+        "level": 2,
+        "name": {
+          "local": "Nyabiraba",
+          "en": "Nyabiraba",
+          "slug": "nyabiraba-bdi002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.452",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002012_karama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karama",
+      "en": "Karama",
+      "slug": "karama"
+    },
+    "code": {
+      "id": "BDI002012_karama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002012",
+      "level": 2,
+      "name": {
+        "local": "Nyabiraba",
+        "en": "Nyabiraba",
+        "slug": "nyabiraba-bdi002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002012",
+        "level": 2,
+        "name": {
+          "local": "Nyabiraba",
+          "en": "Nyabiraba",
+          "slug": "nyabiraba-bdi002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.452",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002012_kigina",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigina",
+      "en": "Kigina",
+      "slug": "kigina"
+    },
+    "code": {
+      "id": "BDI002012_kigina",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002012",
+      "level": 2,
+      "name": {
+        "local": "Nyabiraba",
+        "en": "Nyabiraba",
+        "slug": "nyabiraba-bdi002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002012",
+        "level": 2,
+        "name": {
+          "local": "Nyabiraba",
+          "en": "Nyabiraba",
+          "slug": "nyabiraba-bdi002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.452",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002012_kinama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinama",
+      "en": "Kinama",
+      "slug": "kinama"
+    },
+    "code": {
+      "id": "BDI002012_kinama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002012",
+      "level": 2,
+      "name": {
+        "local": "Nyabiraba",
+        "en": "Nyabiraba",
+        "slug": "nyabiraba-bdi002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002012",
+        "level": 2,
+        "name": {
+          "local": "Nyabiraba",
+          "en": "Nyabiraba",
+          "slug": "nyabiraba-bdi002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.452",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002012_kinyami",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinyami",
+      "en": "Kinyami",
+      "slug": "kinyami"
+    },
+    "code": {
+      "id": "BDI002012_kinyami",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002012",
+      "level": 2,
+      "name": {
+        "local": "Nyabiraba",
+        "en": "Nyabiraba",
+        "slug": "nyabiraba-bdi002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002012",
+        "level": 2,
+        "name": {
+          "local": "Nyabiraba",
+          "en": "Nyabiraba",
+          "slug": "nyabiraba-bdi002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.452",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002012_kizunga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kizunga",
+      "en": "Kizunga",
+      "slug": "kizunga"
+    },
+    "code": {
+      "id": "BDI002012_kizunga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002012",
+      "level": 2,
+      "name": {
+        "local": "Nyabiraba",
+        "en": "Nyabiraba",
+        "slug": "nyabiraba-bdi002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002012",
+        "level": 2,
+        "name": {
+          "local": "Nyabiraba",
+          "en": "Nyabiraba",
+          "slug": "nyabiraba-bdi002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.452",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002012_matara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Matara",
+      "en": "Matara",
+      "slug": "matara"
+    },
+    "code": {
+      "id": "BDI002012_matara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002012",
+      "level": 2,
+      "name": {
+        "local": "Nyabiraba",
+        "en": "Nyabiraba",
+        "slug": "nyabiraba-bdi002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002012",
+        "level": 2,
+        "name": {
+          "local": "Nyabiraba",
+          "en": "Nyabiraba",
+          "slug": "nyabiraba-bdi002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.452",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002012_mayemba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mayemba",
+      "en": "Mayemba",
+      "slug": "mayemba"
+    },
+    "code": {
+      "id": "BDI002012_mayemba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002012",
+      "level": 2,
+      "name": {
+        "local": "Nyabiraba",
+        "en": "Nyabiraba",
+        "slug": "nyabiraba-bdi002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002012",
+        "level": 2,
+        "name": {
+          "local": "Nyabiraba",
+          "en": "Nyabiraba",
+          "slug": "nyabiraba-bdi002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.452",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002012_mbare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mbare",
+      "en": "Mbare",
+      "slug": "mbare"
+    },
+    "code": {
+      "id": "BDI002012_mbare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002012",
+      "level": 2,
+      "name": {
+        "local": "Nyabiraba",
+        "en": "Nyabiraba",
+        "slug": "nyabiraba-bdi002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002012",
+        "level": 2,
+        "name": {
+          "local": "Nyabiraba",
+          "en": "Nyabiraba",
+          "slug": "nyabiraba-bdi002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.452",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002012_mugendo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugendo",
+      "en": "Mugendo",
+      "slug": "mugendo"
+    },
+    "code": {
+      "id": "BDI002012_mugendo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002012",
+      "level": 2,
+      "name": {
+        "local": "Nyabiraba",
+        "en": "Nyabiraba",
+        "slug": "nyabiraba-bdi002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002012",
+        "level": 2,
+        "name": {
+          "local": "Nyabiraba",
+          "en": "Nyabiraba",
+          "slug": "nyabiraba-bdi002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.452",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002012_mukonko",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mukonko",
+      "en": "Mukonko",
+      "slug": "mukonko"
+    },
+    "code": {
+      "id": "BDI002012_mukonko",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002012",
+      "level": 2,
+      "name": {
+        "local": "Nyabiraba",
+        "en": "Nyabiraba",
+        "slug": "nyabiraba-bdi002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002012",
+        "level": 2,
+        "name": {
+          "local": "Nyabiraba",
+          "en": "Nyabiraba",
+          "slug": "nyabiraba-bdi002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.452",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002012_musenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musenyi",
+      "en": "Musenyi",
+      "slug": "musenyi"
+    },
+    "code": {
+      "id": "BDI002012_musenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002012",
+      "level": 2,
+      "name": {
+        "local": "Nyabiraba",
+        "en": "Nyabiraba",
+        "slug": "nyabiraba-bdi002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002012",
+        "level": 2,
+        "name": {
+          "local": "Nyabiraba",
+          "en": "Nyabiraba",
+          "slug": "nyabiraba-bdi002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.452",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002012_mwumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwumba",
+      "en": "Mwumba",
+      "slug": "mwumba"
+    },
+    "code": {
+      "id": "BDI002012_mwumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002012",
+      "level": 2,
+      "name": {
+        "local": "Nyabiraba",
+        "en": "Nyabiraba",
+        "slug": "nyabiraba-bdi002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002012",
+        "level": 2,
+        "name": {
+          "local": "Nyabiraba",
+          "en": "Nyabiraba",
+          "slug": "nyabiraba-bdi002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.452",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002012_nyabibondo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabibondo",
+      "en": "Nyabibondo",
+      "slug": "nyabibondo"
+    },
+    "code": {
+      "id": "BDI002012_nyabibondo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002012",
+      "level": 2,
+      "name": {
+        "local": "Nyabiraba",
+        "en": "Nyabiraba",
+        "slug": "nyabiraba-bdi002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002012",
+        "level": 2,
+        "name": {
+          "local": "Nyabiraba",
+          "en": "Nyabiraba",
+          "slug": "nyabiraba-bdi002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.452",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002012_nyabiraba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabiraba",
+      "en": "Nyabiraba",
+      "slug": "nyabiraba"
+    },
+    "code": {
+      "id": "BDI002012_nyabiraba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002012",
+      "level": 2,
+      "name": {
+        "local": "Nyabiraba",
+        "en": "Nyabiraba",
+        "slug": "nyabiraba-bdi002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002012",
+        "level": 2,
+        "name": {
+          "local": "Nyabiraba",
+          "en": "Nyabiraba",
+          "slug": "nyabiraba-bdi002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.452",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002012_raro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Raro",
+      "en": "Raro",
+      "slug": "raro"
+    },
+    "code": {
+      "id": "BDI002012_raro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002012",
+      "level": 2,
+      "name": {
+        "local": "Nyabiraba",
+        "en": "Nyabiraba",
+        "slug": "nyabiraba-bdi002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002012",
+        "level": 2,
+        "name": {
+          "local": "Nyabiraba",
+          "en": "Nyabiraba",
+          "slug": "nyabiraba-bdi002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.452",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

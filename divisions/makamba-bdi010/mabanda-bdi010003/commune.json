@@ -1,0 +1,47 @@
+{
+  "id": "BDI010003",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Mabanda",
+    "en": "Mabanda",
+    "slug": "mabanda-bdi010003"
+  },
+  "code": {
+    "id": "BDI010003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI010",
+    "level": 1,
+    "name": {
+      "local": "Makamba",
+      "en": "Makamba",
+      "slug": "makamba-bdi010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI010",
+      "level": 1,
+      "name": {
+        "local": "Makamba",
+        "en": "Makamba",
+        "slug": "makamba-bdi010"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.322",
+    "lon": "29.769"
+  },
+  "metadata": {},
+  "source": {}
+}

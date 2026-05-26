@@ -1,0 +1,47 @@
+{
+  "id": "BDI015003",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Gitanga",
+    "en": "Gitanga",
+    "slug": "gitanga-bdi015003"
+  },
+  "code": {
+    "id": "BDI015003",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI015",
+    "level": 1,
+    "name": {
+      "local": "Rutana",
+      "en": "Rutana",
+      "slug": "rutana-bdi015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI015",
+      "level": 1,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.988",
+    "lon": "29.902"
+  },
+  "metadata": {},
+  "source": {}
+}

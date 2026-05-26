@@ -1,0 +1,920 @@
+[
+  {
+    "id": "BDI002002_benga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Benga",
+      "en": "Benga",
+      "slug": "benga"
+    },
+    "code": {
+      "id": "BDI002002_benga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002002",
+      "level": 2,
+      "name": {
+        "local": "Isale",
+        "en": "Isale",
+        "slug": "isale-bdi002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002002",
+        "level": 2,
+        "name": {
+          "local": "Isale",
+          "en": "Isale",
+          "slug": "isale-bdi002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.365",
+      "lon": "29.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002002_bibare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bibare",
+      "en": "Bibare",
+      "slug": "bibare"
+    },
+    "code": {
+      "id": "BDI002002_bibare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002002",
+      "level": 2,
+      "name": {
+        "local": "Isale",
+        "en": "Isale",
+        "slug": "isale-bdi002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002002",
+        "level": 2,
+        "name": {
+          "local": "Isale",
+          "en": "Isale",
+          "slug": "isale-bdi002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.365",
+      "lon": "29.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002002_buyimba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buyimba",
+      "en": "Buyimba",
+      "slug": "buyimba"
+    },
+    "code": {
+      "id": "BDI002002_buyimba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002002",
+      "level": 2,
+      "name": {
+        "local": "Isale",
+        "en": "Isale",
+        "slug": "isale-bdi002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002002",
+        "level": 2,
+        "name": {
+          "local": "Isale",
+          "en": "Isale",
+          "slug": "isale-bdi002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.365",
+      "lon": "29.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002002_caranka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Caranka",
+      "en": "Caranka",
+      "slug": "caranka"
+    },
+    "code": {
+      "id": "BDI002002_caranka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002002",
+      "level": 2,
+      "name": {
+        "local": "Isale",
+        "en": "Isale",
+        "slug": "isale-bdi002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002002",
+        "level": 2,
+        "name": {
+          "local": "Isale",
+          "en": "Isale",
+          "slug": "isale-bdi002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.365",
+      "lon": "29.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002002_cirisha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cirisha",
+      "en": "Cirisha",
+      "slug": "cirisha"
+    },
+    "code": {
+      "id": "BDI002002_cirisha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002002",
+      "level": 2,
+      "name": {
+        "local": "Isale",
+        "en": "Isale",
+        "slug": "isale-bdi002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002002",
+        "level": 2,
+        "name": {
+          "local": "Isale",
+          "en": "Isale",
+          "slug": "isale-bdi002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.365",
+      "lon": "29.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002002_gishingano",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gishingano",
+      "en": "Gishingano",
+      "slug": "gishingano"
+    },
+    "code": {
+      "id": "BDI002002_gishingano",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002002",
+      "level": 2,
+      "name": {
+        "local": "Isale",
+        "en": "Isale",
+        "slug": "isale-bdi002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002002",
+        "level": 2,
+        "name": {
+          "local": "Isale",
+          "en": "Isale",
+          "slug": "isale-bdi002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.365",
+      "lon": "29.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002002_isare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Isare",
+      "en": "Isare",
+      "slug": "isare"
+    },
+    "code": {
+      "id": "BDI002002_isare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002002",
+      "level": 2,
+      "name": {
+        "local": "Isale",
+        "en": "Isale",
+        "slug": "isale-bdi002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002002",
+        "level": 2,
+        "name": {
+          "local": "Isale",
+          "en": "Isale",
+          "slug": "isale-bdi002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.365",
+      "lon": "29.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002002_karunga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karunga",
+      "en": "Karunga",
+      "slug": "karunga"
+    },
+    "code": {
+      "id": "BDI002002_karunga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002002",
+      "level": 2,
+      "name": {
+        "local": "Isale",
+        "en": "Isale",
+        "slug": "isale-bdi002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002002",
+        "level": 2,
+        "name": {
+          "local": "Isale",
+          "en": "Isale",
+          "slug": "isale-bdi002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.365",
+      "lon": "29.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002002_kibuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibuye",
+      "en": "Kibuye",
+      "slug": "kibuye"
+    },
+    "code": {
+      "id": "BDI002002_kibuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002002",
+      "level": 2,
+      "name": {
+        "local": "Isale",
+        "en": "Isale",
+        "slug": "isale-bdi002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002002",
+        "level": 2,
+        "name": {
+          "local": "Isale",
+          "en": "Isale",
+          "slug": "isale-bdi002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.365",
+      "lon": "29.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002002_kwigere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kwigere",
+      "en": "Kwigere",
+      "slug": "kwigere"
+    },
+    "code": {
+      "id": "BDI002002_kwigere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002002",
+      "level": 2,
+      "name": {
+        "local": "Isale",
+        "en": "Isale",
+        "slug": "isale-bdi002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002002",
+        "level": 2,
+        "name": {
+          "local": "Isale",
+          "en": "Isale",
+          "slug": "isale-bdi002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.365",
+      "lon": "29.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002002_nyakibande",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakibande",
+      "en": "Nyakibande",
+      "slug": "nyakibande"
+    },
+    "code": {
+      "id": "BDI002002_nyakibande",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002002",
+      "level": 2,
+      "name": {
+        "local": "Isale",
+        "en": "Isale",
+        "slug": "isale-bdi002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002002",
+        "level": 2,
+        "name": {
+          "local": "Isale",
+          "en": "Isale",
+          "slug": "isale-bdi002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.365",
+      "lon": "29.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002002_nyambuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyambuye",
+      "en": "Nyambuye",
+      "slug": "nyambuye"
+    },
+    "code": {
+      "id": "BDI002002_nyambuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002002",
+      "level": 2,
+      "name": {
+        "local": "Isale",
+        "en": "Isale",
+        "slug": "isale-bdi002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002002",
+        "level": 2,
+        "name": {
+          "local": "Isale",
+          "en": "Isale",
+          "slug": "isale-bdi002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.365",
+      "lon": "29.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002002_nyarukere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarukere",
+      "en": "Nyarukere",
+      "slug": "nyarukere"
+    },
+    "code": {
+      "id": "BDI002002_nyarukere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002002",
+      "level": 2,
+      "name": {
+        "local": "Isale",
+        "en": "Isale",
+        "slug": "isale-bdi002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002002",
+        "level": 2,
+        "name": {
+          "local": "Isale",
+          "en": "Isale",
+          "slug": "isale-bdi002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.365",
+      "lon": "29.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002002_nyarumpongo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarumpongo",
+      "en": "Nyarumpongo",
+      "slug": "nyarumpongo"
+    },
+    "code": {
+      "id": "BDI002002_nyarumpongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002002",
+      "level": 2,
+      "name": {
+        "local": "Isale",
+        "en": "Isale",
+        "slug": "isale-bdi002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002002",
+        "level": 2,
+        "name": {
+          "local": "Isale",
+          "en": "Isale",
+          "slug": "isale-bdi002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.365",
+      "lon": "29.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002002_rushubi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rushubi",
+      "en": "Rushubi",
+      "slug": "rushubi"
+    },
+    "code": {
+      "id": "BDI002002_rushubi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002002",
+      "level": 2,
+      "name": {
+        "local": "Isale",
+        "en": "Isale",
+        "slug": "isale-bdi002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002002",
+        "level": 2,
+        "name": {
+          "local": "Isale",
+          "en": "Isale",
+          "slug": "isale-bdi002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.365",
+      "lon": "29.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002002_rutegama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutegama",
+      "en": "Rutegama",
+      "slug": "rutegama"
+    },
+    "code": {
+      "id": "BDI002002_rutegama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002002",
+      "level": 2,
+      "name": {
+        "local": "Isale",
+        "en": "Isale",
+        "slug": "isale-bdi002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002002",
+        "level": 2,
+        "name": {
+          "local": "Isale",
+          "en": "Isale",
+          "slug": "isale-bdi002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.365",
+      "lon": "29.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002002_sagara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Sagara",
+      "en": "Sagara",
+      "slug": "sagara"
+    },
+    "code": {
+      "id": "BDI002002_sagara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002002",
+      "level": 2,
+      "name": {
+        "local": "Isale",
+        "en": "Isale",
+        "slug": "isale-bdi002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002002",
+        "level": 2,
+        "name": {
+          "local": "Isale",
+          "en": "Isale",
+          "slug": "isale-bdi002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.365",
+      "lon": "29.465"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

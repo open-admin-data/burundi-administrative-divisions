@@ -1,0 +1,704 @@
+[
+  {
+    "id": "BDI003004_bihanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bihanga",
+      "en": "Bihanga",
+      "slug": "bihanga"
+    },
+    "code": {
+      "id": "BDI003004_bihanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003004",
+      "level": 2,
+      "name": {
+        "local": "Matana",
+        "en": "Matana",
+        "slug": "matana-bdi003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003004",
+        "level": 2,
+        "name": {
+          "local": "Matana",
+          "en": "Matana",
+          "slug": "matana-bdi003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.743",
+      "lon": "29.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003004_bitezi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bitezi",
+      "en": "Bitezi",
+      "slug": "bitezi"
+    },
+    "code": {
+      "id": "BDI003004_bitezi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003004",
+      "level": 2,
+      "name": {
+        "local": "Matana",
+        "en": "Matana",
+        "slug": "matana-bdi003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003004",
+        "level": 2,
+        "name": {
+          "local": "Matana",
+          "en": "Matana",
+          "slug": "matana-bdi003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.743",
+      "lon": "29.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003004_butwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butwe",
+      "en": "Butwe",
+      "slug": "butwe"
+    },
+    "code": {
+      "id": "BDI003004_butwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003004",
+      "level": 2,
+      "name": {
+        "local": "Matana",
+        "en": "Matana",
+        "slug": "matana-bdi003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003004",
+        "level": 2,
+        "name": {
+          "local": "Matana",
+          "en": "Matana",
+          "slug": "matana-bdi003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.743",
+      "lon": "29.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003004_gisarenda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisarenda",
+      "en": "Gisarenda",
+      "slug": "gisarenda"
+    },
+    "code": {
+      "id": "BDI003004_gisarenda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003004",
+      "level": 2,
+      "name": {
+        "local": "Matana",
+        "en": "Matana",
+        "slug": "matana-bdi003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003004",
+        "level": 2,
+        "name": {
+          "local": "Matana",
+          "en": "Matana",
+          "slug": "matana-bdi003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.743",
+      "lon": "29.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003004_gisisye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisisye",
+      "en": "Gisisye",
+      "slug": "gisisye"
+    },
+    "code": {
+      "id": "BDI003004_gisisye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003004",
+      "level": 2,
+      "name": {
+        "local": "Matana",
+        "en": "Matana",
+        "slug": "matana-bdi003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003004",
+        "level": 2,
+        "name": {
+          "local": "Matana",
+          "en": "Matana",
+          "slug": "matana-bdi003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.743",
+      "lon": "29.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003004_gitanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitanga",
+      "en": "Gitanga",
+      "slug": "gitanga"
+    },
+    "code": {
+      "id": "BDI003004_gitanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003004",
+      "level": 2,
+      "name": {
+        "local": "Matana",
+        "en": "Matana",
+        "slug": "matana-bdi003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003004",
+        "level": 2,
+        "name": {
+          "local": "Matana",
+          "en": "Matana",
+          "slug": "matana-bdi003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.743",
+      "lon": "29.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003004_kinyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinyinya",
+      "en": "Kinyinya",
+      "slug": "kinyinya"
+    },
+    "code": {
+      "id": "BDI003004_kinyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003004",
+      "level": 2,
+      "name": {
+        "local": "Matana",
+        "en": "Matana",
+        "slug": "matana-bdi003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003004",
+        "level": 2,
+        "name": {
+          "local": "Matana",
+          "en": "Matana",
+          "slug": "matana-bdi003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.743",
+      "lon": "29.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003004_mahango",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mahango",
+      "en": "Mahango",
+      "slug": "mahango"
+    },
+    "code": {
+      "id": "BDI003004_mahango",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003004",
+      "level": 2,
+      "name": {
+        "local": "Matana",
+        "en": "Matana",
+        "slug": "matana-bdi003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003004",
+        "level": 2,
+        "name": {
+          "local": "Matana",
+          "en": "Matana",
+          "slug": "matana-bdi003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.743",
+      "lon": "29.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003004_matana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Matana",
+      "en": "Matana",
+      "slug": "matana"
+    },
+    "code": {
+      "id": "BDI003004_matana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003004",
+      "level": 2,
+      "name": {
+        "local": "Matana",
+        "en": "Matana",
+        "slug": "matana-bdi003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003004",
+        "level": 2,
+        "name": {
+          "local": "Matana",
+          "en": "Matana",
+          "slug": "matana-bdi003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.743",
+      "lon": "29.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003004_mugano",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugano",
+      "en": "Mugano",
+      "slug": "mugano"
+    },
+    "code": {
+      "id": "BDI003004_mugano",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003004",
+      "level": 2,
+      "name": {
+        "local": "Matana",
+        "en": "Matana",
+        "slug": "matana-bdi003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003004",
+        "level": 2,
+        "name": {
+          "local": "Matana",
+          "en": "Matana",
+          "slug": "matana-bdi003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.743",
+      "lon": "29.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003004_ntega",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ntega",
+      "en": "Ntega",
+      "slug": "ntega"
+    },
+    "code": {
+      "id": "BDI003004_ntega",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003004",
+      "level": 2,
+      "name": {
+        "local": "Matana",
+        "en": "Matana",
+        "slug": "matana-bdi003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003004",
+        "level": 2,
+        "name": {
+          "local": "Matana",
+          "en": "Matana",
+          "slug": "matana-bdi003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.743",
+      "lon": "29.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003004_ruzira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruzira",
+      "en": "Ruzira",
+      "slug": "ruzira"
+    },
+    "code": {
+      "id": "BDI003004_ruzira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003004",
+      "level": 2,
+      "name": {
+        "local": "Matana",
+        "en": "Matana",
+        "slug": "matana-bdi003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003004",
+        "level": 2,
+        "name": {
+          "local": "Matana",
+          "en": "Matana",
+          "slug": "matana-bdi003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.743",
+      "lon": "29.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003004_sakinyonga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Sakinyonga",
+      "en": "Sakinyonga",
+      "slug": "sakinyonga"
+    },
+    "code": {
+      "id": "BDI003004_sakinyonga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003004",
+      "level": 2,
+      "name": {
+        "local": "Matana",
+        "en": "Matana",
+        "slug": "matana-bdi003004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003004",
+        "level": 2,
+        "name": {
+          "local": "Matana",
+          "en": "Matana",
+          "slug": "matana-bdi003004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.743",
+      "lon": "29.71"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

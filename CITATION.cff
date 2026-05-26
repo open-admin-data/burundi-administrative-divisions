@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Burundi Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-26"
+url: "https://github.com/open-admin-data/burundi-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/burundi-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - burundi
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Burundi's administrative hierarchy:
+  18 provinces, 119 communes, 2,917 collines.
+  Bilingual with coordinates and postal codes where available.

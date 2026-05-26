@@ -1,0 +1,331 @@
+[
+  {
+    "id": "BDI012001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Buhinyuza",
+      "en": "Buhinyuza",
+      "slug": "buhinyuza-bdi012001"
+    },
+    "code": {
+      "id": "BDI012001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012",
+      "level": 1,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.983",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Butihinda",
+      "en": "Butihinda",
+      "slug": "butihinda-bdi012002"
+    },
+    "code": {
+      "id": "BDI012002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012",
+      "level": 1,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.709",
+      "lon": "30.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gashoho",
+      "en": "Gashoho",
+      "slug": "gashoho-bdi012003"
+    },
+    "code": {
+      "id": "BDI012003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012",
+      "level": 1,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gasorwe",
+      "en": "Gasorwe",
+      "slug": "gasorwe-bdi012004"
+    },
+    "code": {
+      "id": "BDI012004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012",
+      "level": 1,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Giteranyi",
+      "en": "Giteranyi",
+      "slug": "giteranyi-bdi012005"
+    },
+    "code": {
+      "id": "BDI012005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012",
+      "level": 1,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 37
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Muyinga",
+      "en": "Muyinga",
+      "slug": "muyinga-bdi012006"
+    },
+    "code": {
+      "id": "BDI012006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012",
+      "level": 1,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 50
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012007",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mwakiro",
+      "en": "Mwakiro",
+      "slug": "mwakiro-bdi012007"
+    },
+    "code": {
+      "id": "BDI012007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012",
+      "level": 1,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.09",
+      "lon": "30.312"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

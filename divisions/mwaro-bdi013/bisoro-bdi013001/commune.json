@@ -1,0 +1,47 @@
+{
+  "id": "BDI013001",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bisoro",
+    "en": "Bisoro",
+    "slug": "bisoro-bdi013001"
+  },
+  "code": {
+    "id": "BDI013001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI013",
+    "level": 1,
+    "name": {
+      "local": "Mwaro",
+      "en": "Mwaro",
+      "slug": "mwaro-bdi013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI013",
+      "level": 1,
+      "name": {
+        "local": "Mwaro",
+        "en": "Mwaro",
+        "slug": "mwaro-bdi013"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.641",
+    "lon": "29.685"
+  },
+  "metadata": {},
+  "source": {}
+}

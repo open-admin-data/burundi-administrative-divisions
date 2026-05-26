@@ -1,0 +1,974 @@
+[
+  {
+    "id": "BDI017014_gasekebuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasekebuye",
+      "en": "Gasekebuye",
+      "slug": "gasekebuye"
+    },
+    "code": {
+      "id": "BDI017014_gasekebuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017014",
+      "level": 2,
+      "name": {
+        "local": "Muha",
+        "en": "Muha",
+        "slug": "muha-bdi017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017014",
+        "level": 2,
+        "name": {
+          "local": "Muha",
+          "en": "Muha",
+          "slug": "muha-bdi017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.441",
+      "lon": "29.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017014_gisyo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisyo",
+      "en": "Gisyo",
+      "slug": "gisyo"
+    },
+    "code": {
+      "id": "BDI017014_gisyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017014",
+      "level": 2,
+      "name": {
+        "local": "Muha",
+        "en": "Muha",
+        "slug": "muha-bdi017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017014",
+        "level": 2,
+        "name": {
+          "local": "Muha",
+          "en": "Muha",
+          "slug": "muha-bdi017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.441",
+      "lon": "29.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017014_gitaramuka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitaramuka",
+      "en": "Gitaramuka",
+      "slug": "gitaramuka"
+    },
+    "code": {
+      "id": "BDI017014_gitaramuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017014",
+      "level": 2,
+      "name": {
+        "local": "Muha",
+        "en": "Muha",
+        "slug": "muha-bdi017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017014",
+        "level": 2,
+        "name": {
+          "local": "Muha",
+          "en": "Muha",
+          "slug": "muha-bdi017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.441",
+      "lon": "29.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017014_kajiji",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kajiji",
+      "en": "Kajiji",
+      "slug": "kajiji"
+    },
+    "code": {
+      "id": "BDI017014_kajiji",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017014",
+      "level": 2,
+      "name": {
+        "local": "Muha",
+        "en": "Muha",
+        "slug": "muha-bdi017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017014",
+        "level": 2,
+        "name": {
+          "local": "Muha",
+          "en": "Muha",
+          "slug": "muha-bdi017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.441",
+      "lon": "29.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017014_kamesa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kamesa",
+      "en": "Kamesa",
+      "slug": "kamesa"
+    },
+    "code": {
+      "id": "BDI017014_kamesa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017014",
+      "level": 2,
+      "name": {
+        "local": "Muha",
+        "en": "Muha",
+        "slug": "muha-bdi017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017014",
+        "level": 2,
+        "name": {
+          "local": "Muha",
+          "en": "Muha",
+          "slug": "muha-bdi017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.441",
+      "lon": "29.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017014_kibenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibenga",
+      "en": "Kibenga",
+      "slug": "kibenga"
+    },
+    "code": {
+      "id": "BDI017014_kibenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017014",
+      "level": 2,
+      "name": {
+        "local": "Muha",
+        "en": "Muha",
+        "slug": "muha-bdi017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017014",
+        "level": 2,
+        "name": {
+          "local": "Muha",
+          "en": "Muha",
+          "slug": "muha-bdi017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.441",
+      "lon": "29.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017014_kinanira-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinanira I",
+      "en": "Kinanira I",
+      "slug": "kinanira-i"
+    },
+    "code": {
+      "id": "BDI017014_kinanira-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017014",
+      "level": 2,
+      "name": {
+        "local": "Muha",
+        "en": "Muha",
+        "slug": "muha-bdi017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017014",
+        "level": 2,
+        "name": {
+          "local": "Muha",
+          "en": "Muha",
+          "slug": "muha-bdi017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.441",
+      "lon": "29.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017014_kinanira-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinanira Ii",
+      "en": "Kinanira Ii",
+      "slug": "kinanira-ii"
+    },
+    "code": {
+      "id": "BDI017014_kinanira-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017014",
+      "level": 2,
+      "name": {
+        "local": "Muha",
+        "en": "Muha",
+        "slug": "muha-bdi017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017014",
+        "level": 2,
+        "name": {
+          "local": "Muha",
+          "en": "Muha",
+          "slug": "muha-bdi017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.441",
+      "lon": "29.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017014_kinanira-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinanira Iii",
+      "en": "Kinanira Iii",
+      "slug": "kinanira-iii"
+    },
+    "code": {
+      "id": "BDI017014_kinanira-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017014",
+      "level": 2,
+      "name": {
+        "local": "Muha",
+        "en": "Muha",
+        "slug": "muha-bdi017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017014",
+        "level": 2,
+        "name": {
+          "local": "Muha",
+          "en": "Muha",
+          "slug": "muha-bdi017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.441",
+      "lon": "29.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017014_kinanira-iv",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinanira Iv",
+      "en": "Kinanira Iv",
+      "slug": "kinanira-iv"
+    },
+    "code": {
+      "id": "BDI017014_kinanira-iv",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017014",
+      "level": 2,
+      "name": {
+        "local": "Muha",
+        "en": "Muha",
+        "slug": "muha-bdi017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017014",
+        "level": 2,
+        "name": {
+          "local": "Muha",
+          "en": "Muha",
+          "slug": "muha-bdi017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.441",
+      "lon": "29.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017014_kinindo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinindo",
+      "en": "Kinindo",
+      "slug": "kinindo"
+    },
+    "code": {
+      "id": "BDI017014_kinindo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017014",
+      "level": 2,
+      "name": {
+        "local": "Muha",
+        "en": "Muha",
+        "slug": "muha-bdi017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017014",
+        "level": 2,
+        "name": {
+          "local": "Muha",
+          "en": "Muha",
+          "slug": "muha-bdi017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.441",
+      "lon": "29.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017014_kizingwe-bihara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kizingwe Bihara",
+      "en": "Kizingwe Bihara",
+      "slug": "kizingwe-bihara"
+    },
+    "code": {
+      "id": "BDI017014_kizingwe-bihara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017014",
+      "level": 2,
+      "name": {
+        "local": "Muha",
+        "en": "Muha",
+        "slug": "muha-bdi017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017014",
+        "level": 2,
+        "name": {
+          "local": "Muha",
+          "en": "Muha",
+          "slug": "muha-bdi017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.441",
+      "lon": "29.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017014_musaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musaga",
+      "en": "Musaga",
+      "slug": "musaga"
+    },
+    "code": {
+      "id": "BDI017014_musaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017014",
+      "level": 2,
+      "name": {
+        "local": "Muha",
+        "en": "Muha",
+        "slug": "muha-bdi017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017014",
+        "level": 2,
+        "name": {
+          "local": "Muha",
+          "en": "Muha",
+          "slug": "muha-bdi017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.441",
+      "lon": "29.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017014_musama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musama",
+      "en": "Musama",
+      "slug": "musama"
+    },
+    "code": {
+      "id": "BDI017014_musama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017014",
+      "level": 2,
+      "name": {
+        "local": "Muha",
+        "en": "Muha",
+        "slug": "muha-bdi017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017014",
+        "level": 2,
+        "name": {
+          "local": "Muha",
+          "en": "Muha",
+          "slug": "muha-bdi017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.441",
+      "lon": "29.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017014_nkenga-busoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nkenga Busoro",
+      "en": "Nkenga Busoro",
+      "slug": "nkenga-busoro"
+    },
+    "code": {
+      "id": "BDI017014_nkenga-busoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017014",
+      "level": 2,
+      "name": {
+        "local": "Muha",
+        "en": "Muha",
+        "slug": "muha-bdi017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017014",
+        "level": 2,
+        "name": {
+          "local": "Muha",
+          "en": "Muha",
+          "slug": "muha-bdi017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.441",
+      "lon": "29.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017014_nyabugete",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabugete",
+      "en": "Nyabugete",
+      "slug": "nyabugete"
+    },
+    "code": {
+      "id": "BDI017014_nyabugete",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017014",
+      "level": 2,
+      "name": {
+        "local": "Muha",
+        "en": "Muha",
+        "slug": "muha-bdi017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017014",
+        "level": 2,
+        "name": {
+          "local": "Muha",
+          "en": "Muha",
+          "slug": "muha-bdi017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.441",
+      "lon": "29.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017014_oua-zeimet",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Oua Zeimet",
+      "en": "Oua Zeimet",
+      "slug": "oua-zeimet"
+    },
+    "code": {
+      "id": "BDI017014_oua-zeimet",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017014",
+      "level": 2,
+      "name": {
+        "local": "Muha",
+        "en": "Muha",
+        "slug": "muha-bdi017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017014",
+        "level": 2,
+        "name": {
+          "local": "Muha",
+          "en": "Muha",
+          "slug": "muha-bdi017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.441",
+      "lon": "29.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017014_ruziba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruziba",
+      "en": "Ruziba",
+      "slug": "ruziba"
+    },
+    "code": {
+      "id": "BDI017014_ruziba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017014",
+      "level": 2,
+      "name": {
+        "local": "Muha",
+        "en": "Muha",
+        "slug": "muha-bdi017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017014",
+        "level": 2,
+        "name": {
+          "local": "Muha",
+          "en": "Muha",
+          "slug": "muha-bdi017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.441",
+      "lon": "29.357"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

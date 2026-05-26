@@ -1,0 +1,47 @@
+{
+  "id": "BDI011002",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Kiganda",
+    "en": "Kiganda",
+    "slug": "kiganda-bdi011002"
+  },
+  "code": {
+    "id": "BDI011002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI011",
+    "level": 1,
+    "name": {
+      "local": "Muramvya",
+      "en": "Muramvya",
+      "slug": "muramvya-bdi011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI011",
+      "level": 1,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.345",
+    "lon": "29.671"
+  },
+  "metadata": {},
+  "source": {}
+}

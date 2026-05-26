@@ -1,0 +1,704 @@
+[
+  {
+    "id": "BDI005001_buganda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buganda",
+      "en": "Buganda",
+      "slug": "buganda"
+    },
+    "code": {
+      "id": "BDI005001_buganda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005001",
+      "level": 2,
+      "name": {
+        "local": "Buganda",
+        "en": "Buganda",
+        "slug": "buganda-bdi005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005001",
+        "level": 2,
+        "name": {
+          "local": "Buganda",
+          "en": "Buganda",
+          "slug": "buganda-bdi005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.989",
+      "lon": "29.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005001_cunyu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cunyu",
+      "en": "Cunyu",
+      "slug": "cunyu"
+    },
+    "code": {
+      "id": "BDI005001_cunyu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005001",
+      "level": 2,
+      "name": {
+        "local": "Buganda",
+        "en": "Buganda",
+        "slug": "buganda-bdi005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005001",
+        "level": 2,
+        "name": {
+          "local": "Buganda",
+          "en": "Buganda",
+          "slug": "buganda-bdi005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.989",
+      "lon": "29.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005001_gasenyi-centre",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasenyi Centre",
+      "en": "Gasenyi Centre",
+      "slug": "gasenyi-centre"
+    },
+    "code": {
+      "id": "BDI005001_gasenyi-centre",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005001",
+      "level": 2,
+      "name": {
+        "local": "Buganda",
+        "en": "Buganda",
+        "slug": "buganda-bdi005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005001",
+        "level": 2,
+        "name": {
+          "local": "Buganda",
+          "en": "Buganda",
+          "slug": "buganda-bdi005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.989",
+      "lon": "29.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005001_gasenyi-rural",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasenyi Rural",
+      "en": "Gasenyi Rural",
+      "slug": "gasenyi-rural"
+    },
+    "code": {
+      "id": "BDI005001_gasenyi-rural",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005001",
+      "level": 2,
+      "name": {
+        "local": "Buganda",
+        "en": "Buganda",
+        "slug": "buganda-bdi005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005001",
+        "level": 2,
+        "name": {
+          "local": "Buganda",
+          "en": "Buganda",
+          "slug": "buganda-bdi005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.989",
+      "lon": "29.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005001_kaburantwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kaburantwa",
+      "en": "Kaburantwa",
+      "slug": "kaburantwa"
+    },
+    "code": {
+      "id": "BDI005001_kaburantwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005001",
+      "level": 2,
+      "name": {
+        "local": "Buganda",
+        "en": "Buganda",
+        "slug": "buganda-bdi005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005001",
+        "level": 2,
+        "name": {
+          "local": "Buganda",
+          "en": "Buganda",
+          "slug": "buganda-bdi005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.989",
+      "lon": "29.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005001_kansenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kansenga",
+      "en": "Kansenga",
+      "slug": "kansenga"
+    },
+    "code": {
+      "id": "BDI005001_kansenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005001",
+      "level": 2,
+      "name": {
+        "local": "Buganda",
+        "en": "Buganda",
+        "slug": "buganda-bdi005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005001",
+        "level": 2,
+        "name": {
+          "local": "Buganda",
+          "en": "Buganda",
+          "slug": "buganda-bdi005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.989",
+      "lon": "29.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005001_murambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murambi",
+      "en": "Murambi",
+      "slug": "murambi"
+    },
+    "code": {
+      "id": "BDI005001_murambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005001",
+      "level": 2,
+      "name": {
+        "local": "Buganda",
+        "en": "Buganda",
+        "slug": "buganda-bdi005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005001",
+        "level": 2,
+        "name": {
+          "local": "Buganda",
+          "en": "Buganda",
+          "slug": "buganda-bdi005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.989",
+      "lon": "29.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005001_muremera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muremera",
+      "en": "Muremera",
+      "slug": "muremera"
+    },
+    "code": {
+      "id": "BDI005001_muremera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005001",
+      "level": 2,
+      "name": {
+        "local": "Buganda",
+        "en": "Buganda",
+        "slug": "buganda-bdi005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005001",
+        "level": 2,
+        "name": {
+          "local": "Buganda",
+          "en": "Buganda",
+          "slug": "buganda-bdi005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.989",
+      "lon": "29.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005001_mwunguzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwunguzi",
+      "en": "Mwunguzi",
+      "slug": "mwunguzi"
+    },
+    "code": {
+      "id": "BDI005001_mwunguzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005001",
+      "level": 2,
+      "name": {
+        "local": "Buganda",
+        "en": "Buganda",
+        "slug": "buganda-bdi005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005001",
+        "level": 2,
+        "name": {
+          "local": "Buganda",
+          "en": "Buganda",
+          "slug": "buganda-bdi005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.989",
+      "lon": "29.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005001_ndava-village",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ndava Village",
+      "en": "Ndava Village",
+      "slug": "ndava-village"
+    },
+    "code": {
+      "id": "BDI005001_ndava-village",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005001",
+      "level": 2,
+      "name": {
+        "local": "Buganda",
+        "en": "Buganda",
+        "slug": "buganda-bdi005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005001",
+        "level": 2,
+        "name": {
+          "local": "Buganda",
+          "en": "Buganda",
+          "slug": "buganda-bdi005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.989",
+      "lon": "29.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005001_nimba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nimba",
+      "en": "Nimba",
+      "slug": "nimba"
+    },
+    "code": {
+      "id": "BDI005001_nimba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005001",
+      "level": 2,
+      "name": {
+        "local": "Buganda",
+        "en": "Buganda",
+        "slug": "buganda-bdi005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005001",
+        "level": 2,
+        "name": {
+          "local": "Buganda",
+          "en": "Buganda",
+          "slug": "buganda-bdi005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.989",
+      "lon": "29.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005001_nyamitanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamitanga",
+      "en": "Nyamitanga",
+      "slug": "nyamitanga"
+    },
+    "code": {
+      "id": "BDI005001_nyamitanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005001",
+      "level": 2,
+      "name": {
+        "local": "Buganda",
+        "en": "Buganda",
+        "slug": "buganda-bdi005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005001",
+        "level": 2,
+        "name": {
+          "local": "Buganda",
+          "en": "Buganda",
+          "slug": "buganda-bdi005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.989",
+      "lon": "29.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005001_ruhagarika",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhagarika",
+      "en": "Ruhagarika",
+      "slug": "ruhagarika"
+    },
+    "code": {
+      "id": "BDI005001_ruhagarika",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005001",
+      "level": 2,
+      "name": {
+        "local": "Buganda",
+        "en": "Buganda",
+        "slug": "buganda-bdi005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005001",
+        "level": 2,
+        "name": {
+          "local": "Buganda",
+          "en": "Buganda",
+          "slug": "buganda-bdi005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.989",
+      "lon": "29.222"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

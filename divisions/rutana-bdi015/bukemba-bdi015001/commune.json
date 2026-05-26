@@ -1,0 +1,47 @@
+{
+  "id": "BDI015001",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bukemba",
+    "en": "Bukemba",
+    "slug": "bukemba-bdi015001"
+  },
+  "code": {
+    "id": "BDI015001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI015",
+    "level": 1,
+    "name": {
+      "local": "Rutana",
+      "en": "Rutana",
+      "slug": "rutana-bdi015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI015",
+      "level": 1,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.015",
+    "lon": "30.088"
+  },
+  "metadata": {},
+  "source": {}
+}

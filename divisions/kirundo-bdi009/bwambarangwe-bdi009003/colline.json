@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "BDI009003_budahunga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Budahunga",
+      "en": "Budahunga",
+      "slug": "budahunga"
+    },
+    "code": {
+      "id": "BDI009003_budahunga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009003",
+      "level": 2,
+      "name": {
+        "local": "Bwambarangwe",
+        "en": "Bwambarangwe",
+        "slug": "bwambarangwe-bdi009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009003",
+        "level": 2,
+        "name": {
+          "local": "Bwambarangwe",
+          "en": "Bwambarangwe",
+          "slug": "bwambarangwe-bdi009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.552",
+      "lon": "30.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009003_bugorora",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugorora",
+      "en": "Bugorora",
+      "slug": "bugorora"
+    },
+    "code": {
+      "id": "BDI009003_bugorora",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009003",
+      "level": 2,
+      "name": {
+        "local": "Bwambarangwe",
+        "en": "Bwambarangwe",
+        "slug": "bwambarangwe-bdi009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009003",
+        "level": 2,
+        "name": {
+          "local": "Bwambarangwe",
+          "en": "Bwambarangwe",
+          "slug": "bwambarangwe-bdi009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.552",
+      "lon": "30.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009003_buhevyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhevyi",
+      "en": "Buhevyi",
+      "slug": "buhevyi"
+    },
+    "code": {
+      "id": "BDI009003_buhevyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009003",
+      "level": 2,
+      "name": {
+        "local": "Bwambarangwe",
+        "en": "Bwambarangwe",
+        "slug": "bwambarangwe-bdi009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009003",
+        "level": 2,
+        "name": {
+          "local": "Bwambarangwe",
+          "en": "Bwambarangwe",
+          "slug": "bwambarangwe-bdi009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.552",
+      "lon": "30.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009003_buhoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhoro",
+      "en": "Buhoro",
+      "slug": "buhoro"
+    },
+    "code": {
+      "id": "BDI009003_buhoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009003",
+      "level": 2,
+      "name": {
+        "local": "Bwambarangwe",
+        "en": "Bwambarangwe",
+        "slug": "bwambarangwe-bdi009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009003",
+        "level": 2,
+        "name": {
+          "local": "Bwambarangwe",
+          "en": "Bwambarangwe",
+          "slug": "bwambarangwe-bdi009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.552",
+      "lon": "30.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009003_bunywera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bunywera",
+      "en": "Bunywera",
+      "slug": "bunywera"
+    },
+    "code": {
+      "id": "BDI009003_bunywera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009003",
+      "level": 2,
+      "name": {
+        "local": "Bwambarangwe",
+        "en": "Bwambarangwe",
+        "slug": "bwambarangwe-bdi009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009003",
+        "level": 2,
+        "name": {
+          "local": "Bwambarangwe",
+          "en": "Bwambarangwe",
+          "slug": "bwambarangwe-bdi009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.552",
+      "lon": "30.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009003_butegana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butegana",
+      "en": "Butegana",
+      "slug": "butegana"
+    },
+    "code": {
+      "id": "BDI009003_butegana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009003",
+      "level": 2,
+      "name": {
+        "local": "Bwambarangwe",
+        "en": "Bwambarangwe",
+        "slug": "bwambarangwe-bdi009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009003",
+        "level": 2,
+        "name": {
+          "local": "Bwambarangwe",
+          "en": "Bwambarangwe",
+          "slug": "bwambarangwe-bdi009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.552",
+      "lon": "30.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009003_bwambarangwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bwambarangwe",
+      "en": "Bwambarangwe",
+      "slug": "bwambarangwe"
+    },
+    "code": {
+      "id": "BDI009003_bwambarangwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009003",
+      "level": 2,
+      "name": {
+        "local": "Bwambarangwe",
+        "en": "Bwambarangwe",
+        "slug": "bwambarangwe-bdi009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009003",
+        "level": 2,
+        "name": {
+          "local": "Bwambarangwe",
+          "en": "Bwambarangwe",
+          "slug": "bwambarangwe-bdi009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.552",
+      "lon": "30.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009003_gasave",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasave",
+      "en": "Gasave",
+      "slug": "gasave"
+    },
+    "code": {
+      "id": "BDI009003_gasave",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009003",
+      "level": 2,
+      "name": {
+        "local": "Bwambarangwe",
+        "en": "Bwambarangwe",
+        "slug": "bwambarangwe-bdi009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009003",
+        "level": 2,
+        "name": {
+          "local": "Bwambarangwe",
+          "en": "Bwambarangwe",
+          "slug": "bwambarangwe-bdi009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.552",
+      "lon": "30.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009003_karambo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karambo",
+      "en": "Karambo",
+      "slug": "karambo"
+    },
+    "code": {
+      "id": "BDI009003_karambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009003",
+      "level": 2,
+      "name": {
+        "local": "Bwambarangwe",
+        "en": "Bwambarangwe",
+        "slug": "bwambarangwe-bdi009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009003",
+        "level": 2,
+        "name": {
+          "local": "Bwambarangwe",
+          "en": "Bwambarangwe",
+          "slug": "bwambarangwe-bdi009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.552",
+      "lon": "30.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009003_kibazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibazi",
+      "en": "Kibazi",
+      "slug": "kibazi"
+    },
+    "code": {
+      "id": "BDI009003_kibazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009003",
+      "level": 2,
+      "name": {
+        "local": "Bwambarangwe",
+        "en": "Bwambarangwe",
+        "slug": "bwambarangwe-bdi009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009003",
+        "level": 2,
+        "name": {
+          "local": "Bwambarangwe",
+          "en": "Bwambarangwe",
+          "slug": "bwambarangwe-bdi009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.552",
+      "lon": "30.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009003_kibonobono",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibonobono",
+      "en": "Kibonobono",
+      "slug": "kibonobono"
+    },
+    "code": {
+      "id": "BDI009003_kibonobono",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009003",
+      "level": 2,
+      "name": {
+        "local": "Bwambarangwe",
+        "en": "Bwambarangwe",
+        "slug": "bwambarangwe-bdi009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009003",
+        "level": 2,
+        "name": {
+          "local": "Bwambarangwe",
+          "en": "Bwambarangwe",
+          "slug": "bwambarangwe-bdi009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.552",
+      "lon": "30.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009003_kimeza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kimeza",
+      "en": "Kimeza",
+      "slug": "kimeza"
+    },
+    "code": {
+      "id": "BDI009003_kimeza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009003",
+      "level": 2,
+      "name": {
+        "local": "Bwambarangwe",
+        "en": "Bwambarangwe",
+        "slug": "bwambarangwe-bdi009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009003",
+        "level": 2,
+        "name": {
+          "local": "Bwambarangwe",
+          "en": "Bwambarangwe",
+          "slug": "bwambarangwe-bdi009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.552",
+      "lon": "30.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009003_minyago",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Minyago",
+      "en": "Minyago",
+      "slug": "minyago"
+    },
+    "code": {
+      "id": "BDI009003_minyago",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009003",
+      "level": 2,
+      "name": {
+        "local": "Bwambarangwe",
+        "en": "Bwambarangwe",
+        "slug": "bwambarangwe-bdi009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009003",
+        "level": 2,
+        "name": {
+          "local": "Bwambarangwe",
+          "en": "Bwambarangwe",
+          "slug": "bwambarangwe-bdi009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.552",
+      "lon": "30.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009003_mugongo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugongo",
+      "en": "Mugongo",
+      "slug": "mugongo"
+    },
+    "code": {
+      "id": "BDI009003_mugongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009003",
+      "level": 2,
+      "name": {
+        "local": "Bwambarangwe",
+        "en": "Bwambarangwe",
+        "slug": "bwambarangwe-bdi009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009003",
+        "level": 2,
+        "name": {
+          "local": "Bwambarangwe",
+          "en": "Bwambarangwe",
+          "slug": "bwambarangwe-bdi009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.552",
+      "lon": "30.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009003_mukenke-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mukenke I",
+      "en": "Mukenke I",
+      "slug": "mukenke-i"
+    },
+    "code": {
+      "id": "BDI009003_mukenke-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009003",
+      "level": 2,
+      "name": {
+        "local": "Bwambarangwe",
+        "en": "Bwambarangwe",
+        "slug": "bwambarangwe-bdi009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009003",
+        "level": 2,
+        "name": {
+          "local": "Bwambarangwe",
+          "en": "Bwambarangwe",
+          "slug": "bwambarangwe-bdi009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.552",
+      "lon": "30.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009003_mukenke-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mukenke Ii",
+      "en": "Mukenke Ii",
+      "slug": "mukenke-ii"
+    },
+    "code": {
+      "id": "BDI009003_mukenke-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009003",
+      "level": 2,
+      "name": {
+        "local": "Bwambarangwe",
+        "en": "Bwambarangwe",
+        "slug": "bwambarangwe-bdi009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009003",
+        "level": 2,
+        "name": {
+          "local": "Bwambarangwe",
+          "en": "Bwambarangwe",
+          "slug": "bwambarangwe-bdi009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.552",
+      "lon": "30.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009003_mutarishwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mutarishwa",
+      "en": "Mutarishwa",
+      "slug": "mutarishwa"
+    },
+    "code": {
+      "id": "BDI009003_mutarishwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009003",
+      "level": 2,
+      "name": {
+        "local": "Bwambarangwe",
+        "en": "Bwambarangwe",
+        "slug": "bwambarangwe-bdi009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009003",
+        "level": 2,
+        "name": {
+          "local": "Bwambarangwe",
+          "en": "Bwambarangwe",
+          "slug": "bwambarangwe-bdi009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.552",
+      "lon": "30.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009003_rusara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusara",
+      "en": "Rusara",
+      "slug": "rusara"
+    },
+    "code": {
+      "id": "BDI009003_rusara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009003",
+      "level": 2,
+      "name": {
+        "local": "Bwambarangwe",
+        "en": "Bwambarangwe",
+        "slug": "bwambarangwe-bdi009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009003",
+        "level": 2,
+        "name": {
+          "local": "Bwambarangwe",
+          "en": "Bwambarangwe",
+          "slug": "bwambarangwe-bdi009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.552",
+      "lon": "30.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009003_ruyenzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruyenzi",
+      "en": "Ruyenzi",
+      "slug": "ruyenzi"
+    },
+    "code": {
+      "id": "BDI009003_ruyenzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009003",
+      "level": 2,
+      "name": {
+        "local": "Bwambarangwe",
+        "en": "Bwambarangwe",
+        "slug": "bwambarangwe-bdi009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009003",
+        "level": 2,
+        "name": {
+          "local": "Bwambarangwe",
+          "en": "Bwambarangwe",
+          "slug": "bwambarangwe-bdi009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.552",
+      "lon": "30.365"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

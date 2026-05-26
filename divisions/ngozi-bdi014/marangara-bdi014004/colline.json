@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "BDI014004_bihangare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bihangare",
+      "en": "Bihangare",
+      "slug": "bihangare"
+    },
+    "code": {
+      "id": "BDI014004_bihangare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_bisiga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bisiga",
+      "en": "Bisiga",
+      "slug": "bisiga"
+    },
+    "code": {
+      "id": "BDI014004_bisiga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_bitambwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bitambwe",
+      "en": "Bitambwe",
+      "slug": "bitambwe"
+    },
+    "code": {
+      "id": "BDI014004_bitambwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_burenge",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burenge",
+      "en": "Burenge",
+      "slug": "burenge"
+    },
+    "code": {
+      "id": "BDI014004_burenge",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_burenza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burenza",
+      "en": "Burenza",
+      "slug": "burenza"
+    },
+    "code": {
+      "id": "BDI014004_burenza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_congori",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Congori",
+      "en": "Congori",
+      "slug": "congori"
+    },
+    "code": {
+      "id": "BDI014004_congori",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_gicumbi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gicumbi",
+      "en": "Gicumbi",
+      "slug": "gicumbi"
+    },
+    "code": {
+      "id": "BDI014004_gicumbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_gikomero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikomero",
+      "en": "Gikomero",
+      "slug": "gikomero"
+    },
+    "code": {
+      "id": "BDI014004_gikomero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_gisekuro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisekuro",
+      "en": "Gisekuro",
+      "slug": "gisekuro"
+    },
+    "code": {
+      "id": "BDI014004_gisekuro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_higiro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Higiro",
+      "en": "Higiro",
+      "slug": "higiro"
+    },
+    "code": {
+      "id": "BDI014004_higiro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_kagina",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kagina",
+      "en": "Kagina",
+      "slug": "kagina"
+    },
+    "code": {
+      "id": "BDI014004_kagina",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_kagoti",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kagoti",
+      "en": "Kagoti",
+      "slug": "kagoti"
+    },
+    "code": {
+      "id": "BDI014004_kagoti",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_kidasha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kidasha",
+      "en": "Kidasha",
+      "slug": "kidasha"
+    },
+    "code": {
+      "id": "BDI014004_kidasha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_kidobori",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kidobori",
+      "en": "Kidobori",
+      "slug": "kidobori"
+    },
+    "code": {
+      "id": "BDI014004_kidobori",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_kigoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigoma",
+      "en": "Kigoma",
+      "slug": "kigoma"
+    },
+    "code": {
+      "id": "BDI014004_kigoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_kigufi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigufi",
+      "en": "Kigufi",
+      "slug": "kigufi"
+    },
+    "code": {
+      "id": "BDI014004_kigufi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_kirungu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirungu",
+      "en": "Kirungu",
+      "slug": "kirungu"
+    },
+    "code": {
+      "id": "BDI014004_kirungu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_kizenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kizenga",
+      "en": "Kizenga",
+      "slug": "kizenga"
+    },
+    "code": {
+      "id": "BDI014004_kizenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_makaba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Makaba",
+      "en": "Makaba",
+      "slug": "makaba"
+    },
+    "code": {
+      "id": "BDI014004_makaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_marangara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Marangara",
+      "en": "Marangara",
+      "slug": "marangara"
+    },
+    "code": {
+      "id": "BDI014004_marangara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_masama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masama",
+      "en": "Masama",
+      "slug": "masama"
+    },
+    "code": {
+      "id": "BDI014004_masama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_muhuzo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muhuzo",
+      "en": "Muhuzo",
+      "slug": "muhuzo"
+    },
+    "code": {
+      "id": "BDI014004_muhuzo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_mutara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mutara",
+      "en": "Mutara",
+      "slug": "mutara"
+    },
+    "code": {
+      "id": "BDI014004_mutara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_ndihwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ndihwe",
+      "en": "Ndihwe",
+      "slug": "ndihwe"
+    },
+    "code": {
+      "id": "BDI014004_ndihwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_nyakibari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakibari",
+      "en": "Nyakibari",
+      "slug": "nyakibari"
+    },
+    "code": {
+      "id": "BDI014004_nyakibari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_nyambo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyambo",
+      "en": "Nyambo",
+      "slug": "nyambo"
+    },
+    "code": {
+      "id": "BDI014004_nyambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_nyamugari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamugari",
+      "en": "Nyamugari",
+      "slug": "nyamugari"
+    },
+    "code": {
+      "id": "BDI014004_nyamugari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_nyamurenge",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamurenge",
+      "en": "Nyamurenge",
+      "slug": "nyamurenge"
+    },
+    "code": {
+      "id": "BDI014004_nyamurenge",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_nyanza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyanza",
+      "en": "Nyanza",
+      "slug": "nyanza"
+    },
+    "code": {
+      "id": "BDI014004_nyanza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_nyunzwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyunzwe",
+      "en": "Nyunzwe",
+      "slug": "nyunzwe"
+    },
+    "code": {
+      "id": "BDI014004_nyunzwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_renga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Renga",
+      "en": "Renga",
+      "slug": "renga"
+    },
+    "code": {
+      "id": "BDI014004_renga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_rubaya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubaya",
+      "en": "Rubaya",
+      "slug": "rubaya"
+    },
+    "code": {
+      "id": "BDI014004_rubaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_rugomba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugomba",
+      "en": "Rugomba",
+      "slug": "rugomba"
+    },
+    "code": {
+      "id": "BDI014004_rugomba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_runda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Runda",
+      "en": "Runda",
+      "slug": "runda"
+    },
+    "code": {
+      "id": "BDI014004_runda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004_ruramba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruramba",
+      "en": "Ruramba",
+      "slug": "ruramba"
+    },
+    "code": {
+      "id": "BDI014004_ruramba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014004",
+      "level": 2,
+      "name": {
+        "local": "Marangara",
+        "en": "Marangara",
+        "slug": "marangara-bdi014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      },
+      {
+        "id": "BDI014004",
+        "level": 2,
+        "name": {
+          "local": "Marangara",
+          "en": "Marangara",
+          "slug": "marangara-bdi014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

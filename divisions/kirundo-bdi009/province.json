@@ -1,0 +1,30 @@
+{
+  "id": "BDI009",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Kirundo",
+    "en": "Kirundo",
+    "slug": "kirundo-bdi009"
+  },
+  "code": {
+    "id": "BDI009",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 7,
+    "colline": 198
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.556",
+    "lon": "30.165"
+  },
+  "metadata": {},
+  "source": {}
+}

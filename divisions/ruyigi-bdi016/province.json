@@ -1,0 +1,30 @@
+{
+  "id": "BDI016",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Ruyigi",
+    "en": "Ruyigi",
+    "slug": "ruyigi-bdi016"
+  },
+  "code": {
+    "id": "BDI016",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 7,
+    "colline": 140
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.458",
+    "lon": "30.348"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,704 @@
+[
+  {
+    "id": "BDI009001_bugabira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugabira",
+      "en": "Bugabira",
+      "slug": "bugabira"
+    },
+    "code": {
+      "id": "BDI009001_bugabira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009001",
+      "level": 2,
+      "name": {
+        "local": "Bugabira",
+        "en": "Bugabira",
+        "slug": "bugabira-bdi009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009001",
+        "level": 2,
+        "name": {
+          "local": "Bugabira",
+          "en": "Bugabira",
+          "slug": "bugabira-bdi009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.433",
+      "lon": "30.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009001_gaturanda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gaturanda",
+      "en": "Gaturanda",
+      "slug": "gaturanda"
+    },
+    "code": {
+      "id": "BDI009001_gaturanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009001",
+      "level": 2,
+      "name": {
+        "local": "Bugabira",
+        "en": "Bugabira",
+        "slug": "bugabira-bdi009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009001",
+        "level": 2,
+        "name": {
+          "local": "Bugabira",
+          "en": "Bugabira",
+          "slug": "bugabira-bdi009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.433",
+      "lon": "30.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009001_gitwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitwe",
+      "en": "Gitwe",
+      "slug": "gitwe"
+    },
+    "code": {
+      "id": "BDI009001_gitwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009001",
+      "level": 2,
+      "name": {
+        "local": "Bugabira",
+        "en": "Bugabira",
+        "slug": "bugabira-bdi009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009001",
+        "level": 2,
+        "name": {
+          "local": "Bugabira",
+          "en": "Bugabira",
+          "slug": "bugabira-bdi009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.433",
+      "lon": "30.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009001_kigina",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigina",
+      "en": "Kigina",
+      "slug": "kigina"
+    },
+    "code": {
+      "id": "BDI009001_kigina",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009001",
+      "level": 2,
+      "name": {
+        "local": "Bugabira",
+        "en": "Bugabira",
+        "slug": "bugabira-bdi009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009001",
+        "level": 2,
+        "name": {
+          "local": "Bugabira",
+          "en": "Bugabira",
+          "slug": "bugabira-bdi009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.433",
+      "lon": "30.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009001_kigoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigoma",
+      "en": "Kigoma",
+      "slug": "kigoma"
+    },
+    "code": {
+      "id": "BDI009001_kigoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009001",
+      "level": 2,
+      "name": {
+        "local": "Bugabira",
+        "en": "Bugabira",
+        "slug": "bugabira-bdi009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009001",
+        "level": 2,
+        "name": {
+          "local": "Bugabira",
+          "en": "Bugabira",
+          "slug": "bugabira-bdi009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.433",
+      "lon": "30.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009001_kiri",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiri",
+      "en": "Kiri",
+      "slug": "kiri"
+    },
+    "code": {
+      "id": "BDI009001_kiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009001",
+      "level": 2,
+      "name": {
+        "local": "Bugabira",
+        "en": "Bugabira",
+        "slug": "bugabira-bdi009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009001",
+        "level": 2,
+        "name": {
+          "local": "Bugabira",
+          "en": "Bugabira",
+          "slug": "bugabira-bdi009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.433",
+      "lon": "30.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009001_kiyonza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiyonza",
+      "en": "Kiyonza",
+      "slug": "kiyonza"
+    },
+    "code": {
+      "id": "BDI009001_kiyonza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009001",
+      "level": 2,
+      "name": {
+        "local": "Bugabira",
+        "en": "Bugabira",
+        "slug": "bugabira-bdi009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009001",
+        "level": 2,
+        "name": {
+          "local": "Bugabira",
+          "en": "Bugabira",
+          "slug": "bugabira-bdi009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.433",
+      "lon": "30.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009001_nyabikenke",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabikenke",
+      "en": "Nyabikenke",
+      "slug": "nyabikenke"
+    },
+    "code": {
+      "id": "BDI009001_nyabikenke",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009001",
+      "level": 2,
+      "name": {
+        "local": "Bugabira",
+        "en": "Bugabira",
+        "slug": "bugabira-bdi009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009001",
+        "level": 2,
+        "name": {
+          "local": "Bugabira",
+          "en": "Bugabira",
+          "slug": "bugabira-bdi009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.433",
+      "lon": "30.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009001_nyakarama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakarama",
+      "en": "Nyakarama",
+      "slug": "nyakarama"
+    },
+    "code": {
+      "id": "BDI009001_nyakarama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009001",
+      "level": 2,
+      "name": {
+        "local": "Bugabira",
+        "en": "Bugabira",
+        "slug": "bugabira-bdi009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009001",
+        "level": 2,
+        "name": {
+          "local": "Bugabira",
+          "en": "Bugabira",
+          "slug": "bugabira-bdi009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.433",
+      "lon": "30.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009001_nyamabuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamabuye",
+      "en": "Nyamabuye",
+      "slug": "nyamabuye"
+    },
+    "code": {
+      "id": "BDI009001_nyamabuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009001",
+      "level": 2,
+      "name": {
+        "local": "Bugabira",
+        "en": "Bugabira",
+        "slug": "bugabira-bdi009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009001",
+        "level": 2,
+        "name": {
+          "local": "Bugabira",
+          "en": "Bugabira",
+          "slug": "bugabira-bdi009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.433",
+      "lon": "30.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009001_rubuga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubuga",
+      "en": "Rubuga",
+      "slug": "rubuga"
+    },
+    "code": {
+      "id": "BDI009001_rubuga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009001",
+      "level": 2,
+      "name": {
+        "local": "Bugabira",
+        "en": "Bugabira",
+        "slug": "bugabira-bdi009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009001",
+        "level": 2,
+        "name": {
+          "local": "Bugabira",
+          "en": "Bugabira",
+          "slug": "bugabira-bdi009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.433",
+      "lon": "30.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009001_rugasa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugasa",
+      "en": "Rugasa",
+      "slug": "rugasa"
+    },
+    "code": {
+      "id": "BDI009001_rugasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009001",
+      "level": 2,
+      "name": {
+        "local": "Bugabira",
+        "en": "Bugabira",
+        "slug": "bugabira-bdi009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009001",
+        "level": 2,
+        "name": {
+          "local": "Bugabira",
+          "en": "Bugabira",
+          "slug": "bugabira-bdi009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.433",
+      "lon": "30.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009001_ruhehe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhehe",
+      "en": "Ruhehe",
+      "slug": "ruhehe"
+    },
+    "code": {
+      "id": "BDI009001_ruhehe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009001",
+      "level": 2,
+      "name": {
+        "local": "Bugabira",
+        "en": "Bugabira",
+        "slug": "bugabira-bdi009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      },
+      {
+        "id": "BDI009001",
+        "level": 2,
+        "name": {
+          "local": "Bugabira",
+          "en": "Bugabira",
+          "slug": "bugabira-bdi009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.433",
+      "lon": "30.03"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

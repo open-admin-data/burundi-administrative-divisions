@@ -1,0 +1,47 @@
+{
+  "id": "BDI009006",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ntega",
+    "en": "Ntega",
+    "slug": "ntega-bdi009006"
+  },
+  "code": {
+    "id": "BDI009006",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI009",
+    "level": 1,
+    "name": {
+      "local": "Kirundo",
+      "en": "Kirundo",
+      "slug": "kirundo-bdi009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI009",
+      "level": 1,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 37
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.585",
+    "lon": "29.99"
+  },
+  "metadata": {},
+  "source": {}
+}

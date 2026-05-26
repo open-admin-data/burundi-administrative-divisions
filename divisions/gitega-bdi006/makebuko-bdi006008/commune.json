@@ -1,0 +1,47 @@
+{
+  "id": "BDI006008",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Makebuko",
+    "en": "Makebuko",
+    "slug": "makebuko-bdi006008"
+  },
+  "code": {
+    "id": "BDI006008",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI006",
+    "level": 1,
+    "name": {
+      "local": "Gitega",
+      "en": "Gitega",
+      "slug": "gitega-bdi006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.577",
+    "lon": "29.967"
+  },
+  "metadata": {},
+  "source": {}
+}

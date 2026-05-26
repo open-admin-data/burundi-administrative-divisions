@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "BDI001004_bubenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bubenga",
+      "en": "Bubenga",
+      "slug": "bubenga"
+    },
+    "code": {
+      "id": "BDI001004_bubenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004_buhurika",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhurika",
+      "en": "Buhurika",
+      "slug": "buhurika"
+    },
+    "code": {
+      "id": "BDI001004_buhurika",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004_bukinga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bukinga",
+      "en": "Bukinga",
+      "slug": "bukinga"
+    },
+    "code": {
+      "id": "BDI001004_bukinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004_busiga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Busiga",
+      "en": "Busiga",
+      "slug": "busiga"
+    },
+    "code": {
+      "id": "BDI001004_busiga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004_butaha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butaha",
+      "en": "Butaha",
+      "slug": "butaha"
+    },
+    "code": {
+      "id": "BDI001004_butaha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004_dondi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Dondi",
+      "en": "Dondi",
+      "slug": "dondi"
+    },
+    "code": {
+      "id": "BDI001004_dondi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004_gashinge",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gashinge",
+      "en": "Gashinge",
+      "slug": "gashinge"
+    },
+    "code": {
+      "id": "BDI001004_gashinge",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004_gatara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatara",
+      "en": "Gatara",
+      "slug": "gatara"
+    },
+    "code": {
+      "id": "BDI001004_gatara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004_kanazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kanazi",
+      "en": "Kanazi",
+      "slug": "kanazi"
+    },
+    "code": {
+      "id": "BDI001004_kanazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004_kayange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kayange",
+      "en": "Kayange",
+      "slug": "kayange"
+    },
+    "code": {
+      "id": "BDI001004_kayange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004_kiziba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiziba",
+      "en": "Kiziba",
+      "slug": "kiziba"
+    },
+    "code": {
+      "id": "BDI001004_kiziba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004_masare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masare",
+      "en": "Masare",
+      "slug": "masare"
+    },
+    "code": {
+      "id": "BDI001004_masare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004_mpishi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mpishi",
+      "en": "Mpishi",
+      "slug": "mpishi"
+    },
+    "code": {
+      "id": "BDI001004_mpishi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004_mugoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugoma",
+      "en": "Mugoma",
+      "slug": "mugoma"
+    },
+    "code": {
+      "id": "BDI001004_mugoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004_munanira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munanira",
+      "en": "Munanira",
+      "slug": "munanira"
+    },
+    "code": {
+      "id": "BDI001004_munanira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004_musigati",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musigati",
+      "en": "Musigati",
+      "slug": "musigati"
+    },
+    "code": {
+      "id": "BDI001004_musigati",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004_muyebe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyebe",
+      "en": "Muyebe",
+      "slug": "muyebe"
+    },
+    "code": {
+      "id": "BDI001004_muyebe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004_ntamba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ntamba",
+      "en": "Ntamba",
+      "slug": "ntamba"
+    },
+    "code": {
+      "id": "BDI001004_ntamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004_nyarusange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarusange",
+      "en": "Nyarusange",
+      "slug": "nyarusange"
+    },
+    "code": {
+      "id": "BDI001004_nyarusange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004_rugeyo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugeyo",
+      "en": "Rugeyo",
+      "slug": "rugeyo"
+    },
+    "code": {
+      "id": "BDI001004_rugeyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004_rusekabuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusekabuye",
+      "en": "Rusekabuye",
+      "slug": "rusekabuye"
+    },
+    "code": {
+      "id": "BDI001004_rusekabuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004_rushiha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rushiha",
+      "en": "Rushiha",
+      "slug": "rushiha"
+    },
+    "code": {
+      "id": "BDI001004_rushiha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004_ruvyimvya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruvyimvya",
+      "en": "Ruvyimvya",
+      "slug": "ruvyimvya"
+    },
+    "code": {
+      "id": "BDI001004_ruvyimvya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001004",
+      "level": 2,
+      "name": {
+        "local": "Musigati",
+        "en": "Musigati",
+        "slug": "musigati-bdi001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      },
+      {
+        "id": "BDI001004",
+        "level": 2,
+        "name": {
+          "local": "Musigati",
+          "en": "Musigati",
+          "slug": "musigati-bdi001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

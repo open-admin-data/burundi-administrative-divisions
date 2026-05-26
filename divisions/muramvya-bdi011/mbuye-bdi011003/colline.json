@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "BDI011003_bigwana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bigwana",
+      "en": "Bigwana",
+      "slug": "bigwana"
+    },
+    "code": {
+      "id": "BDI011003_bigwana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_buhangura",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhangura",
+      "en": "Buhangura",
+      "slug": "buhangura"
+    },
+    "code": {
+      "id": "BDI011003_buhangura",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_buyaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buyaga",
+      "en": "Buyaga",
+      "slug": "buyaga"
+    },
+    "code": {
+      "id": "BDI011003_buyaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_gasenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasenyi",
+      "en": "Gasenyi",
+      "slug": "gasenyi"
+    },
+    "code": {
+      "id": "BDI011003_gasenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_janga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Janga",
+      "en": "Janga",
+      "slug": "janga"
+    },
+    "code": {
+      "id": "BDI011003_janga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_kabuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabuye",
+      "en": "Kabuye",
+      "slug": "kabuye"
+    },
+    "code": {
+      "id": "BDI011003_kabuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_kibumbu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibumbu",
+      "en": "Kibumbu",
+      "slug": "kibumbu"
+    },
+    "code": {
+      "id": "BDI011003_kibumbu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_kigabiro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigabiro",
+      "en": "Kigabiro",
+      "slug": "kigabiro"
+    },
+    "code": {
+      "id": "BDI011003_kigabiro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_kigina",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigina",
+      "en": "Kigina",
+      "slug": "kigina"
+    },
+    "code": {
+      "id": "BDI011003_kigina",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_kirembera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirembera",
+      "en": "Kirembera",
+      "slug": "kirembera"
+    },
+    "code": {
+      "id": "BDI011003_kirembera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_kirika",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirika",
+      "en": "Kirika",
+      "slug": "kirika"
+    },
+    "code": {
+      "id": "BDI011003_kirika",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_kiziba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiziba",
+      "en": "Kiziba",
+      "slug": "kiziba"
+    },
+    "code": {
+      "id": "BDI011003_kiziba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_masama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masama",
+      "en": "Masama",
+      "slug": "masama"
+    },
+    "code": {
+      "id": "BDI011003_masama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_mbuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mbuye",
+      "en": "Mbuye",
+      "slug": "mbuye"
+    },
+    "code": {
+      "id": "BDI011003_mbuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_migezi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Migezi",
+      "en": "Migezi",
+      "slug": "migezi"
+    },
+    "code": {
+      "id": "BDI011003_migezi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_mubuga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mubuga",
+      "en": "Mubuga",
+      "slug": "mubuga"
+    },
+    "code": {
+      "id": "BDI011003_mubuga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_mugerera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugerera",
+      "en": "Mugerera",
+      "slug": "mugerera"
+    },
+    "code": {
+      "id": "BDI011003_mugerera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_murama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murama",
+      "en": "Murama",
+      "slug": "murama"
+    },
+    "code": {
+      "id": "BDI011003_murama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_murehe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murehe",
+      "en": "Murehe",
+      "slug": "murehe"
+    },
+    "code": {
+      "id": "BDI011003_murehe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_mwegera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwegera",
+      "en": "Mwegera",
+      "slug": "mwegera"
+    },
+    "code": {
+      "id": "BDI011003_mwegera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_nete",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nete",
+      "en": "Nete",
+      "slug": "nete"
+    },
+    "code": {
+      "id": "BDI011003_nete",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_nyakijwira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakijwira",
+      "en": "Nyakijwira",
+      "slug": "nyakijwira"
+    },
+    "code": {
+      "id": "BDI011003_nyakijwira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_rugari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugari",
+      "en": "Rugari",
+      "slug": "rugari"
+    },
+    "code": {
+      "id": "BDI011003_rugari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_rwuya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwuya",
+      "en": "Rwuya",
+      "slug": "rwuya"
+    },
+    "code": {
+      "id": "BDI011003_rwuya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_taba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Taba",
+      "en": "Taba",
+      "slug": "taba"
+    },
+    "code": {
+      "id": "BDI011003_taba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003_teka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Teka",
+      "en": "Teka",
+      "slug": "teka"
+    },
+    "code": {
+      "id": "BDI011003_teka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011003",
+      "level": 2,
+      "name": {
+        "local": "Mbuye",
+        "en": "Mbuye",
+        "slug": "mbuye-bdi011003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      },
+      {
+        "id": "BDI011003",
+        "level": 2,
+        "name": {
+          "local": "Mbuye",
+          "en": "Mbuye",
+          "slug": "mbuye-bdi011003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

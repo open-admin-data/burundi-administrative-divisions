@@ -1,0 +1,1568 @@
+[
+  {
+    "id": "BDI003002_buhinga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhinga",
+      "en": "Buhinga",
+      "slug": "buhinga"
+    },
+    "code": {
+      "id": "BDI003002_buhinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_burarana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burarana",
+      "en": "Burarana",
+      "slug": "burarana"
+    },
+    "code": {
+      "id": "BDI003002_burarana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_burenza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burenza",
+      "en": "Burenza",
+      "slug": "burenza"
+    },
+    "code": {
+      "id": "BDI003002_burenza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_burunga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burunga",
+      "en": "Burunga",
+      "slug": "burunga"
+    },
+    "code": {
+      "id": "BDI003002_burunga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_centre-urbain",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Centre Urbain",
+      "en": "Centre Urbain",
+      "slug": "centre-urbain"
+    },
+    "code": {
+      "id": "BDI003002_centre-urbain",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_gaharo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gaharo",
+      "en": "Gaharo",
+      "slug": "gaharo"
+    },
+    "code": {
+      "id": "BDI003002_gaharo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_gasenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasenyi",
+      "en": "Gasenyi",
+      "slug": "gasenyi"
+    },
+    "code": {
+      "id": "BDI003002_gasenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_gatanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatanga",
+      "en": "Gatanga",
+      "slug": "gatanga"
+    },
+    "code": {
+      "id": "BDI003002_gatanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_gisanze",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisanze",
+      "en": "Gisanze",
+      "slug": "gisanze"
+    },
+    "code": {
+      "id": "BDI003002_gisanze",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_jugwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Jugwe",
+      "en": "Jugwe",
+      "slug": "jugwe"
+    },
+    "code": {
+      "id": "BDI003002_jugwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_karwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karwa",
+      "en": "Karwa",
+      "slug": "karwa"
+    },
+    "code": {
+      "id": "BDI003002_karwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_kiganda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiganda",
+      "en": "Kiganda",
+      "slug": "kiganda"
+    },
+    "code": {
+      "id": "BDI003002_kiganda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_kiremba-rural",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiremba Rural",
+      "en": "Kiremba Rural",
+      "slug": "kiremba-rural"
+    },
+    "code": {
+      "id": "BDI003002_kiremba-rural",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_kiremba-ville",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiremba Ville",
+      "en": "Kiremba Ville",
+      "slug": "kiremba-ville"
+    },
+    "code": {
+      "id": "BDI003002_kiremba-ville",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_mahonda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mahonda",
+      "en": "Mahonda",
+      "slug": "mahonda"
+    },
+    "code": {
+      "id": "BDI003002_mahonda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_mubuga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mubuga",
+      "en": "Mubuga",
+      "slug": "mubuga"
+    },
+    "code": {
+      "id": "BDI003002_mubuga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_mudahandwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mudahandwa",
+      "en": "Mudahandwa",
+      "slug": "mudahandwa"
+    },
+    "code": {
+      "id": "BDI003002_mudahandwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_mugozi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugozi",
+      "en": "Mugozi",
+      "slug": "mugozi"
+    },
+    "code": {
+      "id": "BDI003002_mugozi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_munini",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munini",
+      "en": "Munini",
+      "slug": "munini"
+    },
+    "code": {
+      "id": "BDI003002_munini",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_murago",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murago",
+      "en": "Murago",
+      "slug": "murago"
+    },
+    "code": {
+      "id": "BDI003002_murago",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_muyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyange",
+      "en": "Muyange",
+      "slug": "muyange"
+    },
+    "code": {
+      "id": "BDI003002_muyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_muzima",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muzima",
+      "en": "Muzima",
+      "slug": "muzima"
+    },
+    "code": {
+      "id": "BDI003002_muzima",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_nyagwaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyagwaga",
+      "en": "Nyagwaga",
+      "slug": "nyagwaga"
+    },
+    "code": {
+      "id": "BDI003002_nyagwaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_nyamiyaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamiyaga",
+      "en": "Nyamiyaga",
+      "slug": "nyamiyaga"
+    },
+    "code": {
+      "id": "BDI003002_nyamiyaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_nyarugera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarugera",
+      "en": "Nyarugera",
+      "slug": "nyarugera"
+    },
+    "code": {
+      "id": "BDI003002_nyarugera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_nyavyamo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyavyamo",
+      "en": "Nyavyamo",
+      "slug": "nyavyamo"
+    },
+    "code": {
+      "id": "BDI003002_nyavyamo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_rukanda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rukanda",
+      "en": "Rukanda",
+      "slug": "rukanda"
+    },
+    "code": {
+      "id": "BDI003002_rukanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_rumeza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rumeza",
+      "en": "Rumeza",
+      "slug": "rumeza"
+    },
+    "code": {
+      "id": "BDI003002_rumeza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002_ruvumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruvumu",
+      "en": "Ruvumu",
+      "slug": "ruvumu"
+    },
+    "code": {
+      "id": "BDI003002_ruvumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003002",
+      "level": 2,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003002",
+        "level": 2,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

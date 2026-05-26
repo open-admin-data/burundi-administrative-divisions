@@ -1,0 +1,425 @@
+[
+  {
+    "id": "BDI014001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Busiga",
+      "en": "Busiga",
+      "slug": "busiga-bdi014001"
+    },
+    "code": {
+      "id": "BDI014001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014",
+      "level": 1,
+      "name": {
+        "local": "Ngozi",
+        "en": "Ngozi",
+        "slug": "ngozi-bdi014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gashikanwa",
+      "en": "Gashikanwa",
+      "slug": "gashikanwa-bdi014002"
+    },
+    "code": {
+      "id": "BDI014002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014",
+      "level": 1,
+      "name": {
+        "local": "Ngozi",
+        "en": "Ngozi",
+        "slug": "ngozi-bdi014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kiremba",
+      "en": "Kiremba",
+      "slug": "kiremba-bdi014003"
+    },
+    "code": {
+      "id": "BDI014003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014",
+      "level": 1,
+      "name": {
+        "local": "Ngozi",
+        "en": "Ngozi",
+        "slug": "ngozi-bdi014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 45
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marangara",
+      "en": "Marangara",
+      "slug": "marangara-bdi014004"
+    },
+    "code": {
+      "id": "BDI014004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014",
+      "level": 1,
+      "name": {
+        "local": "Ngozi",
+        "en": "Ngozi",
+        "slug": "ngozi-bdi014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 35
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mwumba",
+      "en": "Mwumba",
+      "slug": "mwumba-bdi014005"
+    },
+    "code": {
+      "id": "BDI014005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014",
+      "level": 1,
+      "name": {
+        "local": "Ngozi",
+        "en": "Ngozi",
+        "slug": "ngozi-bdi014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.822",
+      "lon": "29.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014006",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ngozi",
+      "en": "Ngozi",
+      "slug": "ngozi-bdi014006"
+    },
+    "code": {
+      "id": "BDI014006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014",
+      "level": 1,
+      "name": {
+        "local": "Ngozi",
+        "en": "Ngozi",
+        "slug": "ngozi-bdi014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 46
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.951",
+      "lon": "29.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014007",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nyamurenza",
+      "en": "Nyamurenza",
+      "slug": "nyamurenza-bdi014007"
+    },
+    "code": {
+      "id": "BDI014007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014",
+      "level": 1,
+      "name": {
+        "local": "Ngozi",
+        "en": "Ngozi",
+        "slug": "ngozi-bdi014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ruhororo",
+      "en": "Ruhororo",
+      "slug": "ruhororo-bdi014008"
+    },
+    "code": {
+      "id": "BDI014008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014",
+      "level": 1,
+      "name": {
+        "local": "Ngozi",
+        "en": "Ngozi",
+        "slug": "ngozi-bdi014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 32
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tangara",
+      "en": "Tangara",
+      "slug": "tangara-bdi014009"
+    },
+    "code": {
+      "id": "BDI014009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014",
+      "level": 1,
+      "name": {
+        "local": "Ngozi",
+        "en": "Ngozi",
+        "slug": "ngozi-bdi014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 38
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

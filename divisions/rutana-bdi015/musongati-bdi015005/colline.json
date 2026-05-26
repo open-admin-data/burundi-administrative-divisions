@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "BDI015005_buhinga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhinga",
+      "en": "Buhinga",
+      "slug": "buhinga"
+    },
+    "code": {
+      "id": "BDI015005_buhinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_cero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cero",
+      "en": "Cero",
+      "slug": "cero"
+    },
+    "code": {
+      "id": "BDI015005_cero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_gatakazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatakazi",
+      "en": "Gatakazi",
+      "slug": "gatakazi"
+    },
+    "code": {
+      "id": "BDI015005_gatakazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_giheta",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Giheta",
+      "en": "Giheta",
+      "slug": "giheta"
+    },
+    "code": {
+      "id": "BDI015005_giheta",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_gisasa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisasa",
+      "en": "Gisasa",
+      "slug": "gisasa"
+    },
+    "code": {
+      "id": "BDI015005_gisasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_kagunga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kagunga",
+      "en": "Kagunga",
+      "slug": "kagunga"
+    },
+    "code": {
+      "id": "BDI015005_kagunga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_karera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karera",
+      "en": "Karera",
+      "slug": "karera"
+    },
+    "code": {
+      "id": "BDI015005_karera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_mabawe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mabawe",
+      "en": "Mabawe",
+      "slug": "mabawe"
+    },
+    "code": {
+      "id": "BDI015005_mabawe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_maganahe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Maganahe",
+      "en": "Maganahe",
+      "slug": "maganahe"
+    },
+    "code": {
+      "id": "BDI015005_maganahe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_makakwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Makakwe",
+      "en": "Makakwe",
+      "slug": "makakwe"
+    },
+    "code": {
+      "id": "BDI015005_makakwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_mbuza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mbuza",
+      "en": "Mbuza",
+      "slug": "mbuza"
+    },
+    "code": {
+      "id": "BDI015005_mbuza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_mungwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mungwa",
+      "en": "Mungwa",
+      "slug": "mungwa"
+    },
+    "code": {
+      "id": "BDI015005_mungwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_munywero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munywero",
+      "en": "Munywero",
+      "slug": "munywero"
+    },
+    "code": {
+      "id": "BDI015005_munywero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_musagara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musagara",
+      "en": "Musagara",
+      "slug": "musagara"
+    },
+    "code": {
+      "id": "BDI015005_musagara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_musongati",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musongati",
+      "en": "Musongati",
+      "slug": "musongati"
+    },
+    "code": {
+      "id": "BDI015005_musongati",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_ngoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngoma",
+      "en": "Ngoma",
+      "slug": "ngoma"
+    },
+    "code": {
+      "id": "BDI015005_ngoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_nyabibuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabibuye",
+      "en": "Nyabibuye",
+      "slug": "nyabibuye"
+    },
+    "code": {
+      "id": "BDI015005_nyabibuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_nyabigozi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabigozi",
+      "en": "Nyabigozi",
+      "slug": "nyabigozi"
+    },
+    "code": {
+      "id": "BDI015005_nyabigozi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_nyabisindu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabisindu",
+      "en": "Nyabisindu",
+      "slug": "nyabisindu"
+    },
+    "code": {
+      "id": "BDI015005_nyabisindu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_nyangazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyangazi",
+      "en": "Nyangazi",
+      "slug": "nyangazi"
+    },
+    "code": {
+      "id": "BDI015005_nyangazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_nyanza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyanza",
+      "en": "Nyanza",
+      "slug": "nyanza"
+    },
+    "code": {
+      "id": "BDI015005_nyanza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_rugunga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugunga",
+      "en": "Rugunga",
+      "slug": "rugunga"
+    },
+    "code": {
+      "id": "BDI015005_rugunga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_runyoni",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Runyoni",
+      "en": "Runyoni",
+      "slug": "runyoni"
+    },
+    "code": {
+      "id": "BDI015005_runyoni",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_rusunu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusunu",
+      "en": "Rusunu",
+      "slug": "rusunu"
+    },
+    "code": {
+      "id": "BDI015005_rusunu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_shanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Shanga",
+      "en": "Shanga",
+      "slug": "shanga"
+    },
+    "code": {
+      "id": "BDI015005_shanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005_yove",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Yove",
+      "en": "Yove",
+      "slug": "yove"
+    },
+    "code": {
+      "id": "BDI015005_yove",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015005",
+      "level": 2,
+      "name": {
+        "local": "Musongati",
+        "en": "Musongati",
+        "slug": "musongati-bdi015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015005",
+        "level": 2,
+        "name": {
+          "local": "Musongati",
+          "en": "Musongati",
+          "slug": "musongati-bdi015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

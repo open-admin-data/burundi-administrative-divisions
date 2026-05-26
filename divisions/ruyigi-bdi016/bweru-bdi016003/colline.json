@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "BDI016003_bigombo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bigombo",
+      "en": "Bigombo",
+      "slug": "bigombo"
+    },
+    "code": {
+      "id": "BDI016003_bigombo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016003",
+      "level": 2,
+      "name": {
+        "local": "Bweru",
+        "en": "Bweru",
+        "slug": "bweru-bdi016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016003",
+        "level": 2,
+        "name": {
+          "local": "Bweru",
+          "en": "Bweru",
+          "slug": "bweru-bdi016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "30.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016003_busoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Busoro",
+      "en": "Busoro",
+      "slug": "busoro"
+    },
+    "code": {
+      "id": "BDI016003_busoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016003",
+      "level": 2,
+      "name": {
+        "local": "Bweru",
+        "en": "Bweru",
+        "slug": "bweru-bdi016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016003",
+        "level": 2,
+        "name": {
+          "local": "Bweru",
+          "en": "Bweru",
+          "slug": "bweru-bdi016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "30.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016003_busuma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Busuma",
+      "en": "Busuma",
+      "slug": "busuma"
+    },
+    "code": {
+      "id": "BDI016003_busuma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016003",
+      "level": 2,
+      "name": {
+        "local": "Bweru",
+        "en": "Bweru",
+        "slug": "bweru-bdi016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016003",
+        "level": 2,
+        "name": {
+          "local": "Bweru",
+          "en": "Bweru",
+          "slug": "bweru-bdi016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "30.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016003_bweru",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bweru",
+      "en": "Bweru",
+      "slug": "bweru"
+    },
+    "code": {
+      "id": "BDI016003_bweru",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016003",
+      "level": 2,
+      "name": {
+        "local": "Bweru",
+        "en": "Bweru",
+        "slug": "bweru-bdi016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016003",
+        "level": 2,
+        "name": {
+          "local": "Bweru",
+          "en": "Bweru",
+          "slug": "bweru-bdi016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "30.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016003_caga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Caga",
+      "en": "Caga",
+      "slug": "caga"
+    },
+    "code": {
+      "id": "BDI016003_caga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016003",
+      "level": 2,
+      "name": {
+        "local": "Bweru",
+        "en": "Bweru",
+        "slug": "bweru-bdi016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016003",
+        "level": 2,
+        "name": {
+          "local": "Bweru",
+          "en": "Bweru",
+          "slug": "bweru-bdi016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "30.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016003_gasenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasenyi",
+      "en": "Gasenyi",
+      "slug": "gasenyi"
+    },
+    "code": {
+      "id": "BDI016003_gasenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016003",
+      "level": 2,
+      "name": {
+        "local": "Bweru",
+        "en": "Bweru",
+        "slug": "bweru-bdi016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016003",
+        "level": 2,
+        "name": {
+          "local": "Bweru",
+          "en": "Bweru",
+          "slug": "bweru-bdi016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "30.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016003_gashawe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gashawe",
+      "en": "Gashawe",
+      "slug": "gashawe"
+    },
+    "code": {
+      "id": "BDI016003_gashawe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016003",
+      "level": 2,
+      "name": {
+        "local": "Bweru",
+        "en": "Bweru",
+        "slug": "bweru-bdi016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016003",
+        "level": 2,
+        "name": {
+          "local": "Bweru",
+          "en": "Bweru",
+          "slug": "bweru-bdi016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "30.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016003_gatwaro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatwaro",
+      "en": "Gatwaro",
+      "slug": "gatwaro"
+    },
+    "code": {
+      "id": "BDI016003_gatwaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016003",
+      "level": 2,
+      "name": {
+        "local": "Bweru",
+        "en": "Bweru",
+        "slug": "bweru-bdi016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016003",
+        "level": 2,
+        "name": {
+          "local": "Bweru",
+          "en": "Bweru",
+          "slug": "bweru-bdi016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "30.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016003_kanisha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kanisha",
+      "en": "Kanisha",
+      "slug": "kanisha"
+    },
+    "code": {
+      "id": "BDI016003_kanisha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016003",
+      "level": 2,
+      "name": {
+        "local": "Bweru",
+        "en": "Bweru",
+        "slug": "bweru-bdi016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016003",
+        "level": 2,
+        "name": {
+          "local": "Bweru",
+          "en": "Bweru",
+          "slug": "bweru-bdi016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "30.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016003_kirambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirambi",
+      "en": "Kirambi",
+      "slug": "kirambi"
+    },
+    "code": {
+      "id": "BDI016003_kirambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016003",
+      "level": 2,
+      "name": {
+        "local": "Bweru",
+        "en": "Bweru",
+        "slug": "bweru-bdi016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016003",
+        "level": 2,
+        "name": {
+          "local": "Bweru",
+          "en": "Bweru",
+          "slug": "bweru-bdi016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "30.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016003_masama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masama",
+      "en": "Masama",
+      "slug": "masama"
+    },
+    "code": {
+      "id": "BDI016003_masama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016003",
+      "level": 2,
+      "name": {
+        "local": "Bweru",
+        "en": "Bweru",
+        "slug": "bweru-bdi016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016003",
+        "level": 2,
+        "name": {
+          "local": "Bweru",
+          "en": "Bweru",
+          "slug": "bweru-bdi016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "30.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016003_mibanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mibanga",
+      "en": "Mibanga",
+      "slug": "mibanga"
+    },
+    "code": {
+      "id": "BDI016003_mibanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016003",
+      "level": 2,
+      "name": {
+        "local": "Bweru",
+        "en": "Bweru",
+        "slug": "bweru-bdi016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016003",
+        "level": 2,
+        "name": {
+          "local": "Bweru",
+          "en": "Bweru",
+          "slug": "bweru-bdi016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "30.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016003_mubavu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mubavu",
+      "en": "Mubavu",
+      "slug": "mubavu"
+    },
+    "code": {
+      "id": "BDI016003_mubavu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016003",
+      "level": 2,
+      "name": {
+        "local": "Bweru",
+        "en": "Bweru",
+        "slug": "bweru-bdi016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016003",
+        "level": 2,
+        "name": {
+          "local": "Bweru",
+          "en": "Bweru",
+          "slug": "bweru-bdi016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "30.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016003_nkanda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nkanda",
+      "en": "Nkanda",
+      "slug": "nkanda"
+    },
+    "code": {
+      "id": "BDI016003_nkanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016003",
+      "level": 2,
+      "name": {
+        "local": "Bweru",
+        "en": "Bweru",
+        "slug": "bweru-bdi016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016003",
+        "level": 2,
+        "name": {
+          "local": "Bweru",
+          "en": "Bweru",
+          "slug": "bweru-bdi016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "30.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016003_ntunda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ntunda",
+      "en": "Ntunda",
+      "slug": "ntunda"
+    },
+    "code": {
+      "id": "BDI016003_ntunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016003",
+      "level": 2,
+      "name": {
+        "local": "Bweru",
+        "en": "Bweru",
+        "slug": "bweru-bdi016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016003",
+        "level": 2,
+        "name": {
+          "local": "Bweru",
+          "en": "Bweru",
+          "slug": "bweru-bdi016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "30.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016003_nyamugari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamugari",
+      "en": "Nyamugari",
+      "slug": "nyamugari"
+    },
+    "code": {
+      "id": "BDI016003_nyamugari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016003",
+      "level": 2,
+      "name": {
+        "local": "Bweru",
+        "en": "Bweru",
+        "slug": "bweru-bdi016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016003",
+        "level": 2,
+        "name": {
+          "local": "Bweru",
+          "en": "Bweru",
+          "slug": "bweru-bdi016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "30.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016003_nyarunazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarunazi",
+      "en": "Nyarunazi",
+      "slug": "nyarunazi"
+    },
+    "code": {
+      "id": "BDI016003_nyarunazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016003",
+      "level": 2,
+      "name": {
+        "local": "Bweru",
+        "en": "Bweru",
+        "slug": "bweru-bdi016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016003",
+        "level": 2,
+        "name": {
+          "local": "Bweru",
+          "en": "Bweru",
+          "slug": "bweru-bdi016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "30.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016003_nzozi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nzozi",
+      "en": "Nzozi",
+      "slug": "nzozi"
+    },
+    "code": {
+      "id": "BDI016003_nzozi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016003",
+      "level": 2,
+      "name": {
+        "local": "Bweru",
+        "en": "Bweru",
+        "slug": "bweru-bdi016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016003",
+        "level": 2,
+        "name": {
+          "local": "Bweru",
+          "en": "Bweru",
+          "slug": "bweru-bdi016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "30.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016003_rubavu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubavu",
+      "en": "Rubavu",
+      "slug": "rubavu"
+    },
+    "code": {
+      "id": "BDI016003_rubavu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016003",
+      "level": 2,
+      "name": {
+        "local": "Bweru",
+        "en": "Bweru",
+        "slug": "bweru-bdi016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016003",
+        "level": 2,
+        "name": {
+          "local": "Bweru",
+          "en": "Bweru",
+          "slug": "bweru-bdi016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "30.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016003_ruvyagira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruvyagira",
+      "en": "Ruvyagira",
+      "slug": "ruvyagira"
+    },
+    "code": {
+      "id": "BDI016003_ruvyagira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016003",
+      "level": 2,
+      "name": {
+        "local": "Bweru",
+        "en": "Bweru",
+        "slug": "bweru-bdi016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016003",
+        "level": 2,
+        "name": {
+          "local": "Bweru",
+          "en": "Bweru",
+          "slug": "bweru-bdi016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "30.396"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

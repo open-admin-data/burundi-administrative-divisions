@@ -1,0 +1,237 @@
+[
+  {
+    "id": "BDI018002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bugarama",
+      "en": "Bugarama",
+      "slug": "bugarama-bdi018002"
+    },
+    "code": {
+      "id": "BDI018002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018",
+      "level": 1,
+      "name": {
+        "local": "Rumonge",
+        "en": "Rumonge",
+        "slug": "rumonge-bdi018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.687",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Burambi",
+      "en": "Burambi",
+      "slug": "burambi-bdi018003"
+    },
+    "code": {
+      "id": "BDI018003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018",
+      "level": 1,
+      "name": {
+        "local": "Rumonge",
+        "en": "Rumonge",
+        "slug": "rumonge-bdi018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Buyengero",
+      "en": "Buyengero",
+      "slug": "buyengero-bdi018004"
+    },
+    "code": {
+      "id": "BDI018004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018",
+      "level": 1,
+      "name": {
+        "local": "Rumonge",
+        "en": "Rumonge",
+        "slug": "rumonge-bdi018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.849",
+      "lon": "29.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Muhuta",
+      "en": "Muhuta",
+      "slug": "muhuta-bdi018001"
+    },
+    "code": {
+      "id": "BDI018001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018",
+      "level": 1,
+      "name": {
+        "local": "Rumonge",
+        "en": "Rumonge",
+        "slug": "rumonge-bdi018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rumonge",
+      "en": "Rumonge",
+      "slug": "rumonge-bdi018005"
+    },
+    "code": {
+      "id": "BDI018005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018",
+      "level": 1,
+      "name": {
+        "local": "Rumonge",
+        "en": "Rumonge",
+        "slug": "rumonge-bdi018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 33
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.956",
+      "lon": "29.442"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

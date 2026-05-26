@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "BDI016007_bisinde",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bisinde",
+      "en": "Bisinde",
+      "slug": "bisinde"
+    },
+    "code": {
+      "id": "BDI016007_bisinde",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_bugarama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugarama",
+      "en": "Bugarama",
+      "slug": "bugarama"
+    },
+    "code": {
+      "id": "BDI016007_bugarama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_bunogera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bunogera",
+      "en": "Bunogera",
+      "slug": "bunogera"
+    },
+    "code": {
+      "id": "BDI016007_bunogera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_buruhukiro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buruhukiro",
+      "en": "Buruhukiro",
+      "slug": "buruhukiro"
+    },
+    "code": {
+      "id": "BDI016007_buruhukiro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_dutwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Dutwe",
+      "en": "Dutwe",
+      "slug": "dutwe"
+    },
+    "code": {
+      "id": "BDI016007_dutwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_gahemba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gahemba",
+      "en": "Gahemba",
+      "slug": "gahemba"
+    },
+    "code": {
+      "id": "BDI016007_gahemba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_gasanda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasanda",
+      "en": "Gasanda",
+      "slug": "gasanda"
+    },
+    "code": {
+      "id": "BDI016007_gasanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_gisoro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisoro",
+      "en": "Gisoro",
+      "slug": "gisoro"
+    },
+    "code": {
+      "id": "BDI016007_gisoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_karambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Karambi",
+      "en": "Karambi",
+      "slug": "karambi"
+    },
+    "code": {
+      "id": "BDI016007_karambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_kazimya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kazimya",
+      "en": "Kazimya",
+      "slug": "kazimya"
+    },
+    "code": {
+      "id": "BDI016007_kazimya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_kigamba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigamba",
+      "en": "Kigamba",
+      "slug": "kigamba"
+    },
+    "code": {
+      "id": "BDI016007_kigamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_kirambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirambi",
+      "en": "Kirambi",
+      "slug": "kirambi"
+    },
+    "code": {
+      "id": "BDI016007_kirambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_migege",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Migege",
+      "en": "Migege",
+      "slug": "migege"
+    },
+    "code": {
+      "id": "BDI016007_migege",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_nganji",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nganji",
+      "en": "Nganji",
+      "slug": "nganji"
+    },
+    "code": {
+      "id": "BDI016007_nganji",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_ngarama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngarama",
+      "en": "Ngarama",
+      "slug": "ngarama"
+    },
+    "code": {
+      "id": "BDI016007_ngarama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_nyabigugo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabigugo",
+      "en": "Nyabigugo",
+      "slug": "nyabigugo"
+    },
+    "code": {
+      "id": "BDI016007_nyabigugo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_nyagutoha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyagutoha",
+      "en": "Nyagutoha",
+      "slug": "nyagutoha"
+    },
+    "code": {
+      "id": "BDI016007_nyagutoha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_nyarunazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarunazi",
+      "en": "Nyarunazi",
+      "slug": "nyarunazi"
+    },
+    "code": {
+      "id": "BDI016007_nyarunazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_ruhwago",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhwago",
+      "en": "Ruhwago",
+      "slug": "ruhwago"
+    },
+    "code": {
+      "id": "BDI016007_ruhwago",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_rukaragata",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rukaragata",
+      "en": "Rukaragata",
+      "slug": "rukaragata"
+    },
+    "code": {
+      "id": "BDI016007_rukaragata",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_rutimbura",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutimbura",
+      "en": "Rutimbura",
+      "slug": "rutimbura"
+    },
+    "code": {
+      "id": "BDI016007_rutimbura",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_rutonganika",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutonganika",
+      "en": "Rutonganika",
+      "slug": "rutonganika"
+    },
+    "code": {
+      "id": "BDI016007_rutonganika",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_ruyigi-rural",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruyigi Rural",
+      "en": "Ruyigi Rural",
+      "slug": "ruyigi-rural"
+    },
+    "code": {
+      "id": "BDI016007_ruyigi-rural",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007_sanzu-centre-urbain",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Sanzu Centre Urbain",
+      "en": "Sanzu Centre Urbain",
+      "slug": "sanzu-centre-urbain"
+    },
+    "code": {
+      "id": "BDI016007_sanzu-centre-urbain",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016007",
+      "level": 2,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      },
+      {
+        "id": "BDI016007",
+        "level": 2,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

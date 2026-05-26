@@ -1,0 +1,704 @@
+[
+  {
+    "id": "BDI010002_bukeye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bukeye",
+      "en": "Bukeye",
+      "slug": "bukeye"
+    },
+    "code": {
+      "id": "BDI010002_bukeye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010002",
+      "level": 2,
+      "name": {
+        "local": "Kibago",
+        "en": "Kibago",
+        "slug": "kibago-bdi010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010002",
+        "level": 2,
+        "name": {
+          "local": "Kibago",
+          "en": "Kibago",
+          "slug": "kibago-bdi010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.288",
+      "lon": "29.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010002_jimbi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Jimbi",
+      "en": "Jimbi",
+      "slug": "jimbi"
+    },
+    "code": {
+      "id": "BDI010002_jimbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010002",
+      "level": 2,
+      "name": {
+        "local": "Kibago",
+        "en": "Kibago",
+        "slug": "kibago-bdi010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010002",
+        "level": 2,
+        "name": {
+          "local": "Kibago",
+          "en": "Kibago",
+          "slug": "kibago-bdi010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.288",
+      "lon": "29.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010002_kabanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabanga",
+      "en": "Kabanga",
+      "slug": "kabanga"
+    },
+    "code": {
+      "id": "BDI010002_kabanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010002",
+      "level": 2,
+      "name": {
+        "local": "Kibago",
+        "en": "Kibago",
+        "slug": "kibago-bdi010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010002",
+        "level": 2,
+        "name": {
+          "local": "Kibago",
+          "en": "Kibago",
+          "slug": "kibago-bdi010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.288",
+      "lon": "29.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010002_kibago",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibago",
+      "en": "Kibago",
+      "slug": "kibago"
+    },
+    "code": {
+      "id": "BDI010002_kibago",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010002",
+      "level": 2,
+      "name": {
+        "local": "Kibago",
+        "en": "Kibago",
+        "slug": "kibago-bdi010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010002",
+        "level": 2,
+        "name": {
+          "local": "Kibago",
+          "en": "Kibago",
+          "slug": "kibago-bdi010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.288",
+      "lon": "29.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010002_kiyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiyange",
+      "en": "Kiyange",
+      "slug": "kiyange"
+    },
+    "code": {
+      "id": "BDI010002_kiyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010002",
+      "level": 2,
+      "name": {
+        "local": "Kibago",
+        "en": "Kibago",
+        "slug": "kibago-bdi010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010002",
+        "level": 2,
+        "name": {
+          "local": "Kibago",
+          "en": "Kibago",
+          "slug": "kibago-bdi010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.288",
+      "lon": "29.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010002_mbizi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mbizi",
+      "en": "Mbizi",
+      "slug": "mbizi"
+    },
+    "code": {
+      "id": "BDI010002_mbizi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010002",
+      "level": 2,
+      "name": {
+        "local": "Kibago",
+        "en": "Kibago",
+        "slug": "kibago-bdi010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010002",
+        "level": 2,
+        "name": {
+          "local": "Kibago",
+          "en": "Kibago",
+          "slug": "kibago-bdi010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.288",
+      "lon": "29.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010002_migongo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Migongo",
+      "en": "Migongo",
+      "slug": "migongo"
+    },
+    "code": {
+      "id": "BDI010002_migongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010002",
+      "level": 2,
+      "name": {
+        "local": "Kibago",
+        "en": "Kibago",
+        "slug": "kibago-bdi010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010002",
+        "level": 2,
+        "name": {
+          "local": "Kibago",
+          "en": "Kibago",
+          "slug": "kibago-bdi010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.288",
+      "lon": "29.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010002_murambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murambi",
+      "en": "Murambi",
+      "slug": "murambi"
+    },
+    "code": {
+      "id": "BDI010002_murambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010002",
+      "level": 2,
+      "name": {
+        "local": "Kibago",
+        "en": "Kibago",
+        "slug": "kibago-bdi010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010002",
+        "level": 2,
+        "name": {
+          "local": "Kibago",
+          "en": "Kibago",
+          "slug": "kibago-bdi010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.288",
+      "lon": "29.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010002_nyabigina",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabigina",
+      "en": "Nyabigina",
+      "slug": "nyabigina"
+    },
+    "code": {
+      "id": "BDI010002_nyabigina",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010002",
+      "level": 2,
+      "name": {
+        "local": "Kibago",
+        "en": "Kibago",
+        "slug": "kibago-bdi010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010002",
+        "level": 2,
+        "name": {
+          "local": "Kibago",
+          "en": "Kibago",
+          "slug": "kibago-bdi010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.288",
+      "lon": "29.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010002_nyakazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakazi",
+      "en": "Nyakazi",
+      "slug": "nyakazi"
+    },
+    "code": {
+      "id": "BDI010002_nyakazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010002",
+      "level": 2,
+      "name": {
+        "local": "Kibago",
+        "en": "Kibago",
+        "slug": "kibago-bdi010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010002",
+        "level": 2,
+        "name": {
+          "local": "Kibago",
+          "en": "Kibago",
+          "slug": "kibago-bdi010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.288",
+      "lon": "29.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010002_nyarubanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarubanga",
+      "en": "Nyarubanga",
+      "slug": "nyarubanga"
+    },
+    "code": {
+      "id": "BDI010002_nyarubanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010002",
+      "level": 2,
+      "name": {
+        "local": "Kibago",
+        "en": "Kibago",
+        "slug": "kibago-bdi010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010002",
+        "level": 2,
+        "name": {
+          "local": "Kibago",
+          "en": "Kibago",
+          "slug": "kibago-bdi010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.288",
+      "lon": "29.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010002_nyarutuntu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarutuntu",
+      "en": "Nyarutuntu",
+      "slug": "nyarutuntu"
+    },
+    "code": {
+      "id": "BDI010002_nyarutuntu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010002",
+      "level": 2,
+      "name": {
+        "local": "Kibago",
+        "en": "Kibago",
+        "slug": "kibago-bdi010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010002",
+        "level": 2,
+        "name": {
+          "local": "Kibago",
+          "en": "Kibago",
+          "slug": "kibago-bdi010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.288",
+      "lon": "29.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010002_rubimba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubimba",
+      "en": "Rubimba",
+      "slug": "rubimba"
+    },
+    "code": {
+      "id": "BDI010002_rubimba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010002",
+      "level": 2,
+      "name": {
+        "local": "Kibago",
+        "en": "Kibago",
+        "slug": "kibago-bdi010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      },
+      {
+        "id": "BDI010002",
+        "level": 2,
+        "name": {
+          "local": "Kibago",
+          "en": "Kibago",
+          "slug": "kibago-bdi010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.288",
+      "lon": "29.908"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

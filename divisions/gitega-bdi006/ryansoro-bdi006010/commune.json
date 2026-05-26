@@ -1,0 +1,47 @@
+{
+  "id": "BDI006010",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Ryansoro",
+    "en": "Ryansoro",
+    "slug": "ryansoro-bdi006010"
+  },
+  "code": {
+    "id": "BDI006010",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI006",
+    "level": 1,
+    "name": {
+      "local": "Gitega",
+      "en": "Gitega",
+      "slug": "gitega-bdi006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.722",
+    "lon": "29.808"
+  },
+  "metadata": {},
+  "source": {}
+}

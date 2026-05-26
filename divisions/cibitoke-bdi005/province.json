@@ -1,0 +1,30 @@
+{
+  "id": "BDI005",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Cibitoke",
+    "en": "Cibitoke",
+    "slug": "cibitoke-bdi005"
+  },
+  "code": {
+    "id": "BDI005",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 6,
+    "colline": 129
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.848",
+    "lon": "29.262"
+  },
+  "metadata": {},
+  "source": {}
+}

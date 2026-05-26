@@ -1,0 +1,6135 @@
+[
+  {
+    "id": "BDI001",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Bubanza",
+      "en": "Bubanza",
+      "slug": "bubanza-bdi001"
+    },
+    "code": {
+      "id": "BDI001",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 5,
+      "colline": 88
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.117",
+      "lon": "29.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bubanza",
+      "en": "Bubanza",
+      "slug": "bubanza-bdi001001"
+    },
+    "code": {
+      "id": "BDI001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001",
+      "level": 1,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.055",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gihanga",
+      "en": "Gihanga",
+      "slug": "gihanga-bdi001002"
+    },
+    "code": {
+      "id": "BDI001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001",
+      "level": 1,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.207",
+      "lon": "29.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mpanda",
+      "en": "Mpanda",
+      "slug": "mpanda-bdi001003"
+    },
+    "code": {
+      "id": "BDI001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001",
+      "level": 1,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.188",
+      "lon": "29.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Musigati",
+      "en": "Musigati",
+      "slug": "musigati-bdi001004"
+    },
+    "code": {
+      "id": "BDI001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001",
+      "level": 1,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "29.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI001005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rugazi",
+      "en": "Rugazi",
+      "slug": "rugazi-bdi001005"
+    },
+    "code": {
+      "id": "BDI001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI001",
+      "level": 1,
+      "name": {
+        "local": "Bubanza",
+        "en": "Bubanza",
+        "slug": "bubanza-bdi001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI001",
+        "level": 1,
+        "name": {
+          "local": "Bubanza",
+          "en": "Bubanza",
+          "slug": "bubanza-bdi001"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.202",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Bujumbura Rural",
+      "en": "Bujumbura Rural",
+      "slug": "bujumbura-rural-bdi002"
+    },
+    "code": {
+      "id": "BDI002",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 9,
+      "colline": 160
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.463",
+      "lon": "29.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Isale",
+      "en": "Isale",
+      "slug": "isale-bdi002002"
+    },
+    "code": {
+      "id": "BDI002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002",
+      "level": 1,
+      "name": {
+        "local": "Bujumbura Rural",
+        "en": "Bujumbura Rural",
+        "slug": "bujumbura-rural-bdi002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.365",
+      "lon": "29.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kabezi",
+      "en": "Kabezi",
+      "slug": "kabezi-bdi002003"
+    },
+    "code": {
+      "id": "BDI002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002",
+      "level": 1,
+      "name": {
+        "local": "Bujumbura Rural",
+        "en": "Bujumbura Rural",
+        "slug": "bujumbura-rural-bdi002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.536",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kanyosha1",
+      "en": "Kanyosha1",
+      "slug": "kanyosha1-bdi002004"
+    },
+    "code": {
+      "id": "BDI002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002",
+      "level": 1,
+      "name": {
+        "local": "Bujumbura Rural",
+        "en": "Bujumbura Rural",
+        "slug": "bujumbura-rural-bdi002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.432",
+      "lon": "29.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mubimbi",
+      "en": "Mubimbi",
+      "slug": "mubimbi-bdi002005"
+    },
+    "code": {
+      "id": "BDI002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002",
+      "level": 1,
+      "name": {
+        "local": "Bujumbura Rural",
+        "en": "Bujumbura Rural",
+        "slug": "bujumbura-rural-bdi002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.295",
+      "lon": "29.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002006",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mugongomanga",
+      "en": "Mugongomanga",
+      "slug": "mugongomanga-bdi002006"
+    },
+    "code": {
+      "id": "BDI002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002",
+      "level": 1,
+      "name": {
+        "local": "Bujumbura Rural",
+        "en": "Bujumbura Rural",
+        "slug": "bujumbura-rural-bdi002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.427",
+      "lon": "29.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002008",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mukike",
+      "en": "Mukike",
+      "slug": "mukike-bdi002008"
+    },
+    "code": {
+      "id": "BDI002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002",
+      "level": 1,
+      "name": {
+        "local": "Bujumbura Rural",
+        "en": "Bujumbura Rural",
+        "slug": "bujumbura-rural-bdi002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.582",
+      "lon": "29.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002009",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mutambu",
+      "en": "Mutambu",
+      "slug": "mutambu-bdi002009"
+    },
+    "code": {
+      "id": "BDI002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002",
+      "level": 1,
+      "name": {
+        "local": "Bujumbura Rural",
+        "en": "Bujumbura Rural",
+        "slug": "bujumbura-rural-bdi002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.527",
+      "lon": "29.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002010",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mutimbuzi",
+      "en": "Mutimbuzi",
+      "slug": "mutimbuzi-bdi002010"
+    },
+    "code": {
+      "id": "BDI002010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002",
+      "level": 1,
+      "name": {
+        "local": "Bujumbura Rural",
+        "en": "Bujumbura Rural",
+        "slug": "bujumbura-rural-bdi002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 32
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.308",
+      "lon": "29.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002012",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nyabiraba",
+      "en": "Nyabiraba",
+      "slug": "nyabiraba-bdi002012"
+    },
+    "code": {
+      "id": "BDI002012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002",
+      "level": 1,
+      "name": {
+        "local": "Bujumbura Rural",
+        "en": "Bujumbura Rural",
+        "slug": "bujumbura-rural-bdi002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.452",
+      "lon": "29.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Bururi",
+      "en": "Bururi",
+      "slug": "bururi-bdi003"
+    },
+    "code": {
+      "id": "BDI003",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 6,
+      "colline": 130
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.859",
+      "lon": "29.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bururi",
+      "en": "Bururi",
+      "slug": "bururi-bdi003002"
+    },
+    "code": {
+      "id": "BDI003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003",
+      "level": 1,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "29.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Matana",
+      "en": "Matana",
+      "slug": "matana-bdi003004"
+    },
+    "code": {
+      "id": "BDI003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003",
+      "level": 1,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.743",
+      "lon": "29.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mugamba",
+      "en": "Mugamba",
+      "slug": "mugamba-bdi003005"
+    },
+    "code": {
+      "id": "BDI003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003",
+      "level": 1,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003007",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rutovu",
+      "en": "Rutovu",
+      "slug": "rutovu-bdi003007"
+    },
+    "code": {
+      "id": "BDI003007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003",
+      "level": 1,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.885",
+      "lon": "29.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003008",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Songa",
+      "en": "Songa",
+      "slug": "songa-bdi003008"
+    },
+    "code": {
+      "id": "BDI003008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003",
+      "level": 1,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.845",
+      "lon": "29.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003009",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vyanda",
+      "en": "Vyanda",
+      "slug": "vyanda-bdi003009"
+    },
+    "code": {
+      "id": "BDI003009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003",
+      "level": 1,
+      "name": {
+        "local": "Bururi",
+        "en": "Bururi",
+        "slug": "bururi-bdi003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.077",
+      "lon": "29.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Cankuzo",
+      "en": "Cankuzo",
+      "slug": "cankuzo-bdi004"
+    },
+    "code": {
+      "id": "BDI004",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 5,
+      "colline": 87
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "30.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cankuzo",
+      "en": "Cankuzo",
+      "slug": "cankuzo-bdi004001"
+    },
+    "code": {
+      "id": "BDI004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004",
+      "level": 1,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.193",
+      "lon": "30.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cendajuru",
+      "en": "Cendajuru",
+      "slug": "cendajuru-bdi004002"
+    },
+    "code": {
+      "id": "BDI004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004",
+      "level": 1,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.314",
+      "lon": "30.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gisagara",
+      "en": "Gisagara",
+      "slug": "gisagara-bdi004003"
+    },
+    "code": {
+      "id": "BDI004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004",
+      "level": 1,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "30.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kigamba",
+      "en": "Kigamba",
+      "slug": "kigamba-bdi004004"
+    },
+    "code": {
+      "id": "BDI004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004",
+      "level": 1,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.036",
+      "lon": "30.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI004005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mishiha",
+      "en": "Mishiha",
+      "slug": "mishiha-bdi004005"
+    },
+    "code": {
+      "id": "BDI004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI004",
+      "level": 1,
+      "name": {
+        "local": "Cankuzo",
+        "en": "Cankuzo",
+        "slug": "cankuzo-bdi004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI004",
+        "level": 1,
+        "name": {
+          "local": "Cankuzo",
+          "en": "Cankuzo",
+          "slug": "cankuzo-bdi004"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.071",
+      "lon": "30.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Cibitoke",
+      "en": "Cibitoke",
+      "slug": "cibitoke-bdi005"
+    },
+    "code": {
+      "id": "BDI005",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 6,
+      "colline": 129
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.848",
+      "lon": "29.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Buganda",
+      "en": "Buganda",
+      "slug": "buganda-bdi005001"
+    },
+    "code": {
+      "id": "BDI005001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005",
+      "level": 1,
+      "name": {
+        "local": "Cibitoke",
+        "en": "Cibitoke",
+        "slug": "cibitoke-bdi005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.989",
+      "lon": "29.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bukinanyana",
+      "en": "Bukinanyana",
+      "slug": "bukinanyana-bdi005002"
+    },
+    "code": {
+      "id": "BDI005002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005",
+      "level": 1,
+      "name": {
+        "local": "Cibitoke",
+        "en": "Cibitoke",
+        "slug": "cibitoke-bdi005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mabayi",
+      "en": "Mabayi",
+      "slug": "mabayi-bdi005003"
+    },
+    "code": {
+      "id": "BDI005003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005",
+      "level": 1,
+      "name": {
+        "local": "Cibitoke",
+        "en": "Cibitoke",
+        "slug": "cibitoke-bdi005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.723",
+      "lon": "29.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mugina",
+      "en": "Mugina",
+      "slug": "mugina-bdi005004"
+    },
+    "code": {
+      "id": "BDI005004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005",
+      "level": 1,
+      "name": {
+        "local": "Cibitoke",
+        "en": "Cibitoke",
+        "slug": "cibitoke-bdi005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.705",
+      "lon": "29.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Murwi",
+      "en": "Murwi",
+      "slug": "murwi-bdi005005"
+    },
+    "code": {
+      "id": "BDI005005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005",
+      "level": 1,
+      "name": {
+        "local": "Cibitoke",
+        "en": "Cibitoke",
+        "slug": "cibitoke-bdi005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "29.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005006",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rugombo",
+      "en": "Rugombo",
+      "slug": "rugombo-bdi005006"
+    },
+    "code": {
+      "id": "BDI005006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005",
+      "level": 1,
+      "name": {
+        "local": "Cibitoke",
+        "en": "Cibitoke",
+        "slug": "cibitoke-bdi005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "29.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Gitega",
+      "en": "Gitega",
+      "slug": "gitega-bdi006"
+    },
+    "code": {
+      "id": "BDI006",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 11,
+      "colline": 268
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.452",
+      "lon": "29.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bugendana",
+      "en": "Bugendana",
+      "slug": "bugendana-bdi006001"
+    },
+    "code": {
+      "id": "BDI006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "29.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bukirasazi",
+      "en": "Bukirasazi",
+      "slug": "bukirasazi-bdi006002"
+    },
+    "code": {
+      "id": "BDI006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.703",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Buraza",
+      "en": "Buraza",
+      "slug": "buraza-bdi006003"
+    },
+    "code": {
+      "id": "BDI006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.767",
+      "lon": "29.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Giheta",
+      "en": "Giheta",
+      "slug": "giheta-bdi006004"
+    },
+    "code": {
+      "id": "BDI006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 32
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gishubi",
+      "en": "Gishubi",
+      "slug": "gishubi-bdi006005"
+    },
+    "code": {
+      "id": "BDI006005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.608",
+      "lon": "29.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006006",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gitega",
+      "en": "Gitega",
+      "slug": "gitega-bdi006006"
+    },
+    "code": {
+      "id": "BDI006006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 39
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.437",
+      "lon": "29.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006007",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Itaba",
+      "en": "Itaba",
+      "slug": "itaba-bdi006007"
+    },
+    "code": {
+      "id": "BDI006007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.599",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006008",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Makebuko",
+      "en": "Makebuko",
+      "slug": "makebuko-bdi006008"
+    },
+    "code": {
+      "id": "BDI006008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006009",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mutaho",
+      "en": "Mutaho",
+      "slug": "mutaho-bdi006009"
+    },
+    "code": {
+      "id": "BDI006009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.145",
+      "lon": "29.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006010",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ryansoro",
+      "en": "Ryansoro",
+      "slug": "ryansoro-bdi006010"
+    },
+    "code": {
+      "id": "BDI006010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.722",
+      "lon": "29.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006011",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nyanrusange",
+      "en": "Nyanrusange",
+      "slug": "nyanrusange-bdi006011"
+    },
+    "code": {
+      "id": "BDI006011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.58",
+      "lon": "29.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Karuzi",
+      "en": "Karuzi",
+      "slug": "karuzi-bdi007"
+    },
+    "code": {
+      "id": "BDI007",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 7,
+      "colline": 146
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.149",
+      "lon": "30.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bugenyuzi",
+      "en": "Bugenyuzi",
+      "slug": "bugenyuzi-bdi007001"
+    },
+    "code": {
+      "id": "BDI007001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007",
+      "level": 1,
+      "name": {
+        "local": "Karuzi",
+        "en": "Karuzi",
+        "slug": "karuzi-bdi007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Buhiga",
+      "en": "Buhiga",
+      "slug": "buhiga-bdi007002"
+    },
+    "code": {
+      "id": "BDI007002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007",
+      "level": 1,
+      "name": {
+        "local": "Karuzi",
+        "en": "Karuzi",
+        "slug": "karuzi-bdi007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.089",
+      "lon": "30.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gihogazi",
+      "en": "Gihogazi",
+      "slug": "gihogazi-bdi007003"
+    },
+    "code": {
+      "id": "BDI007003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007",
+      "level": 1,
+      "name": {
+        "local": "Karuzi",
+        "en": "Karuzi",
+        "slug": "karuzi-bdi007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.146",
+      "lon": "29.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gitaramuka",
+      "en": "Gitaramuka",
+      "slug": "gitaramuka-bdi007004"
+    },
+    "code": {
+      "id": "BDI007004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007",
+      "level": 1,
+      "name": {
+        "local": "Karuzi",
+        "en": "Karuzi",
+        "slug": "karuzi-bdi007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.979",
+      "lon": "30.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mutumba",
+      "en": "Mutumba",
+      "slug": "mutumba-bdi007005"
+    },
+    "code": {
+      "id": "BDI007005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007",
+      "level": 1,
+      "name": {
+        "local": "Karuzi",
+        "en": "Karuzi",
+        "slug": "karuzi-bdi007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.225",
+      "lon": "30.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007006",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nyabikere",
+      "en": "Nyabikere",
+      "slug": "nyabikere-bdi007006"
+    },
+    "code": {
+      "id": "BDI007006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007",
+      "level": 1,
+      "name": {
+        "local": "Karuzi",
+        "en": "Karuzi",
+        "slug": "karuzi-bdi007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.252",
+      "lon": "30.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007007",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Shombo",
+      "en": "Shombo",
+      "slug": "shombo-bdi007007"
+    },
+    "code": {
+      "id": "BDI007007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007",
+      "level": 1,
+      "name": {
+        "local": "Karuzi",
+        "en": "Karuzi",
+        "slug": "karuzi-bdi007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.282",
+      "lon": "30.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Kayanza",
+      "en": "Kayanza",
+      "slug": "kayanza-bdi008"
+    },
+    "code": {
+      "id": "BDI008",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 9,
+      "colline": 301
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.008",
+      "lon": "29.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Butaganzwa",
+      "en": "Butaganzwa",
+      "slug": "butaganzwa-bdi008001"
+    },
+    "code": {
+      "id": "BDI008001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008",
+      "level": 1,
+      "name": {
+        "local": "Kayanza",
+        "en": "Kayanza",
+        "slug": "kayanza-bdi008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 60
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gahombo",
+      "en": "Gahombo",
+      "slug": "gahombo-bdi008002"
+    },
+    "code": {
+      "id": "BDI008002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008",
+      "level": 1,
+      "name": {
+        "local": "Kayanza",
+        "en": "Kayanza",
+        "slug": "kayanza-bdi008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.99",
+      "lon": "29.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gatara",
+      "en": "Gatara",
+      "slug": "gatara-bdi008003"
+    },
+    "code": {
+      "id": "BDI008003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008",
+      "level": 1,
+      "name": {
+        "local": "Kayanza",
+        "en": "Kayanza",
+        "slug": "kayanza-bdi008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kabarore",
+      "en": "Kabarore",
+      "slug": "kabarore-bdi008004"
+    },
+    "code": {
+      "id": "BDI008004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008",
+      "level": 1,
+      "name": {
+        "local": "Kayanza",
+        "en": "Kayanza",
+        "slug": "kayanza-bdi008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 38
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.852",
+      "lon": "29.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kayanza",
+      "en": "Kayanza",
+      "slug": "kayanza-bdi008005"
+    },
+    "code": {
+      "id": "BDI008005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008",
+      "level": 1,
+      "name": {
+        "local": "Kayanza",
+        "en": "Kayanza",
+        "slug": "kayanza-bdi008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 36
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.935",
+      "lon": "29.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008006",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Matongo",
+      "en": "Matongo",
+      "slug": "matongo-bdi008006"
+    },
+    "code": {
+      "id": "BDI008006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008",
+      "level": 1,
+      "name": {
+        "local": "Kayanza",
+        "en": "Kayanza",
+        "slug": "kayanza-bdi008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 35
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.085",
+      "lon": "29.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008007",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Muhanga",
+      "en": "Muhanga",
+      "slug": "muhanga-bdi008007"
+    },
+    "code": {
+      "id": "BDI008007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008",
+      "level": 1,
+      "name": {
+        "local": "Kayanza",
+        "en": "Kayanza",
+        "slug": "kayanza-bdi008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.039",
+      "lon": "29.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008008",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Muruta",
+      "en": "Muruta",
+      "slug": "muruta-bdi008008"
+    },
+    "code": {
+      "id": "BDI008008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008",
+      "level": 1,
+      "name": {
+        "local": "Kayanza",
+        "en": "Kayanza",
+        "slug": "kayanza-bdi008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.955",
+      "lon": "29.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008009",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rango",
+      "en": "Rango",
+      "slug": "rango-bdi008009"
+    },
+    "code": {
+      "id": "BDI008009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008",
+      "level": 1,
+      "name": {
+        "local": "Kayanza",
+        "en": "Kayanza",
+        "slug": "kayanza-bdi008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.158",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Kirundo",
+      "en": "Kirundo",
+      "slug": "kirundo-bdi009"
+    },
+    "code": {
+      "id": "BDI009",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 7,
+      "colline": 198
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.556",
+      "lon": "30.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bugabira",
+      "en": "Bugabira",
+      "slug": "bugabira-bdi009001"
+    },
+    "code": {
+      "id": "BDI009001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009",
+      "level": 1,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.433",
+      "lon": "30.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Busoni",
+      "en": "Busoni",
+      "slug": "busoni-bdi009002"
+    },
+    "code": {
+      "id": "BDI009002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009",
+      "level": 1,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 42
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bwambarangwe",
+      "en": "Bwambarangwe",
+      "slug": "bwambarangwe-bdi009003"
+    },
+    "code": {
+      "id": "BDI009003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009",
+      "level": 1,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.552",
+      "lon": "30.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gitobe",
+      "en": "Gitobe",
+      "slug": "gitobe-bdi009004"
+    },
+    "code": {
+      "id": "BDI009004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009",
+      "level": 1,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.627",
+      "lon": "30.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kirundo",
+      "en": "Kirundo",
+      "slug": "kirundo-bdi009005"
+    },
+    "code": {
+      "id": "BDI009005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009",
+      "level": 1,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.546",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009006",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ntega",
+      "en": "Ntega",
+      "slug": "ntega-bdi009006"
+    },
+    "code": {
+      "id": "BDI009006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009",
+      "level": 1,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 37
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "29.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI009007",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vumbi",
+      "en": "Vumbi",
+      "slug": "vumbi-bdi009007"
+    },
+    "code": {
+      "id": "BDI009007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI009",
+      "level": 1,
+      "name": {
+        "local": "Kirundo",
+        "en": "Kirundo",
+        "slug": "kirundo-bdi009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI009",
+        "level": 1,
+        "name": {
+          "local": "Kirundo",
+          "en": "Kirundo",
+          "slug": "kirundo-bdi009"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 36
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.694",
+      "lon": "30.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Makamba",
+      "en": "Makamba",
+      "slug": "makamba-bdi010"
+    },
+    "code": {
+      "id": "BDI010",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 6,
+      "colline": 142
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.236",
+      "lon": "29.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kayogoro",
+      "en": "Kayogoro",
+      "slug": "kayogoro-bdi010001"
+    },
+    "code": {
+      "id": "BDI010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010",
+      "level": 1,
+      "name": {
+        "local": "Makamba",
+        "en": "Makamba",
+        "slug": "makamba-bdi010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "29.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kibago",
+      "en": "Kibago",
+      "slug": "kibago-bdi010002"
+    },
+    "code": {
+      "id": "BDI010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010",
+      "level": 1,
+      "name": {
+        "local": "Makamba",
+        "en": "Makamba",
+        "slug": "makamba-bdi010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.288",
+      "lon": "29.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mabanda",
+      "en": "Mabanda",
+      "slug": "mabanda-bdi010003"
+    },
+    "code": {
+      "id": "BDI010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010",
+      "level": 1,
+      "name": {
+        "local": "Makamba",
+        "en": "Makamba",
+        "slug": "makamba-bdi010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.322",
+      "lon": "29.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Makamba",
+      "en": "Makamba",
+      "slug": "makamba-bdi010004"
+    },
+    "code": {
+      "id": "BDI010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010",
+      "level": 1,
+      "name": {
+        "local": "Makamba",
+        "en": "Makamba",
+        "slug": "makamba-bdi010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 32
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.112",
+      "lon": "29.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nyanza-Lac",
+      "en": "Nyanza-Lac",
+      "slug": "nyanza-lac-bdi010005"
+    },
+    "code": {
+      "id": "BDI010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010",
+      "level": 1,
+      "name": {
+        "local": "Makamba",
+        "en": "Makamba",
+        "slug": "makamba-bdi010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.308",
+      "lon": "29.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI010006",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vugizo",
+      "en": "Vugizo",
+      "slug": "vugizo-bdi010006"
+    },
+    "code": {
+      "id": "BDI010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI010",
+      "level": 1,
+      "name": {
+        "local": "Makamba",
+        "en": "Makamba",
+        "slug": "makamba-bdi010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI010",
+        "level": 1,
+        "name": {
+          "local": "Makamba",
+          "en": "Makamba",
+          "slug": "makamba-bdi010"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.162",
+      "lon": "29.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Muramvya",
+      "en": "Muramvya",
+      "slug": "muramvya-bdi011"
+    },
+    "code": {
+      "id": "BDI011",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 5,
+      "colline": 100
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.266",
+      "lon": "29.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bukeye",
+      "en": "Bukeye",
+      "slug": "bukeye-bdi011001"
+    },
+    "code": {
+      "id": "BDI011001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011",
+      "level": 1,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.183",
+      "lon": "29.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kiganda",
+      "en": "Kiganda",
+      "slug": "kiganda-bdi011002"
+    },
+    "code": {
+      "id": "BDI011002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011",
+      "level": 1,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.345",
+      "lon": "29.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mbuye",
+      "en": "Mbuye",
+      "slug": "mbuye-bdi011003"
+    },
+    "code": {
+      "id": "BDI011003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011",
+      "level": 1,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.239",
+      "lon": "29.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Muramvya",
+      "en": "Muramvya",
+      "slug": "muramvya-bdi011004"
+    },
+    "code": {
+      "id": "BDI011004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011",
+      "level": 1,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.316",
+      "lon": "29.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI011005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rutegama",
+      "en": "Rutegama",
+      "slug": "rutegama-bdi011005"
+    },
+    "code": {
+      "id": "BDI011005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI011",
+      "level": 1,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI011",
+        "level": 1,
+        "name": {
+          "local": "Muramvya",
+          "en": "Muramvya",
+          "slug": "muramvya-bdi011"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.312",
+      "lon": "29.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Muyinga",
+      "en": "Muyinga",
+      "slug": "muyinga-bdi012"
+    },
+    "code": {
+      "id": "BDI012",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 7,
+      "colline": 230
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.734",
+      "lon": "30.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Buhinyuza",
+      "en": "Buhinyuza",
+      "slug": "buhinyuza-bdi012001"
+    },
+    "code": {
+      "id": "BDI012001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012",
+      "level": 1,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.983",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Butihinda",
+      "en": "Butihinda",
+      "slug": "butihinda-bdi012002"
+    },
+    "code": {
+      "id": "BDI012002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012",
+      "level": 1,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.709",
+      "lon": "30.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gashoho",
+      "en": "Gashoho",
+      "slug": "gashoho-bdi012003"
+    },
+    "code": {
+      "id": "BDI012003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012",
+      "level": 1,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gasorwe",
+      "en": "Gasorwe",
+      "slug": "gasorwe-bdi012004"
+    },
+    "code": {
+      "id": "BDI012004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012",
+      "level": 1,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.849",
+      "lon": "30.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Giteranyi",
+      "en": "Giteranyi",
+      "slug": "giteranyi-bdi012005"
+    },
+    "code": {
+      "id": "BDI012005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012",
+      "level": 1,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 37
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.475",
+      "lon": "30.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012006",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Muyinga",
+      "en": "Muyinga",
+      "slug": "muyinga-bdi012006"
+    },
+    "code": {
+      "id": "BDI012006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012",
+      "level": 1,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 50
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "30.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012007",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mwakiro",
+      "en": "Mwakiro",
+      "slug": "mwakiro-bdi012007"
+    },
+    "code": {
+      "id": "BDI012007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012",
+      "level": 1,
+      "name": {
+        "local": "Muyinga",
+        "en": "Muyinga",
+        "slug": "muyinga-bdi012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.09",
+      "lon": "30.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Mwaro",
+      "en": "Mwaro",
+      "slug": "mwaro-bdi013"
+    },
+    "code": {
+      "id": "BDI013",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 6,
+      "colline": 134
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.509",
+      "lon": "29.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bisoro",
+      "en": "Bisoro",
+      "slug": "bisoro-bdi013001"
+    },
+    "code": {
+      "id": "BDI013001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013",
+      "level": 1,
+      "name": {
+        "local": "Mwaro",
+        "en": "Mwaro",
+        "slug": "mwaro-bdi013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.641",
+      "lon": "29.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gisozi",
+      "en": "Gisozi",
+      "slug": "gisozi-bdi013002"
+    },
+    "code": {
+      "id": "BDI013002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013",
+      "level": 1,
+      "name": {
+        "local": "Mwaro",
+        "en": "Mwaro",
+        "slug": "mwaro-bdi013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.551",
+      "lon": "29.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kayokwe",
+      "en": "Kayokwe",
+      "slug": "kayokwe-bdi013003"
+    },
+    "code": {
+      "id": "BDI013003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013",
+      "level": 1,
+      "name": {
+        "local": "Mwaro",
+        "en": "Mwaro",
+        "slug": "mwaro-bdi013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.522",
+      "lon": "29.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ndava",
+      "en": "Ndava",
+      "slug": "ndava-bdi013004"
+    },
+    "code": {
+      "id": "BDI013004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013",
+      "level": 1,
+      "name": {
+        "local": "Mwaro",
+        "en": "Mwaro",
+        "slug": "mwaro-bdi013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.39",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nyabihanga",
+      "en": "Nyabihanga",
+      "slug": "nyabihanga-bdi013005"
+    },
+    "code": {
+      "id": "BDI013005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013",
+      "level": 1,
+      "name": {
+        "local": "Mwaro",
+        "en": "Mwaro",
+        "slug": "mwaro-bdi013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "29.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI013006",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rusaka",
+      "en": "Rusaka",
+      "slug": "rusaka-bdi013006"
+    },
+    "code": {
+      "id": "BDI013006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI013",
+      "level": 1,
+      "name": {
+        "local": "Mwaro",
+        "en": "Mwaro",
+        "slug": "mwaro-bdi013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI013",
+        "level": 1,
+        "name": {
+          "local": "Mwaro",
+          "en": "Mwaro",
+          "slug": "mwaro-bdi013"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "29.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Ngozi",
+      "en": "Ngozi",
+      "slug": "ngozi-bdi014"
+    },
+    "code": {
+      "id": "BDI014",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 9,
+      "colline": 305
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.871",
+      "lon": "29.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Busiga",
+      "en": "Busiga",
+      "slug": "busiga-bdi014001"
+    },
+    "code": {
+      "id": "BDI014001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014",
+      "level": 1,
+      "name": {
+        "local": "Ngozi",
+        "en": "Ngozi",
+        "slug": "ngozi-bdi014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.864",
+      "lon": "29.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gashikanwa",
+      "en": "Gashikanwa",
+      "slug": "gashikanwa-bdi014002"
+    },
+    "code": {
+      "id": "BDI014002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014",
+      "level": 1,
+      "name": {
+        "local": "Ngozi",
+        "en": "Ngozi",
+        "slug": "ngozi-bdi014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "29.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kiremba",
+      "en": "Kiremba",
+      "slug": "kiremba-bdi014003"
+    },
+    "code": {
+      "id": "BDI014003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014",
+      "level": 1,
+      "name": {
+        "local": "Ngozi",
+        "en": "Ngozi",
+        "slug": "ngozi-bdi014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 45
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.829",
+      "lon": "30.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marangara",
+      "en": "Marangara",
+      "slug": "marangara-bdi014004"
+    },
+    "code": {
+      "id": "BDI014004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014",
+      "level": 1,
+      "name": {
+        "local": "Ngozi",
+        "en": "Ngozi",
+        "slug": "ngozi-bdi014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 35
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.732",
+      "lon": "29.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mwumba",
+      "en": "Mwumba",
+      "slug": "mwumba-bdi014005"
+    },
+    "code": {
+      "id": "BDI014005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014",
+      "level": 1,
+      "name": {
+        "local": "Ngozi",
+        "en": "Ngozi",
+        "slug": "ngozi-bdi014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.822",
+      "lon": "29.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014006",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ngozi",
+      "en": "Ngozi",
+      "slug": "ngozi-bdi014006"
+    },
+    "code": {
+      "id": "BDI014006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014",
+      "level": 1,
+      "name": {
+        "local": "Ngozi",
+        "en": "Ngozi",
+        "slug": "ngozi-bdi014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 46
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.951",
+      "lon": "29.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014007",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nyamurenza",
+      "en": "Nyamurenza",
+      "slug": "nyamurenza-bdi014007"
+    },
+    "code": {
+      "id": "BDI014007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014",
+      "level": 1,
+      "name": {
+        "local": "Ngozi",
+        "en": "Ngozi",
+        "slug": "ngozi-bdi014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.808",
+      "lon": "29.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014008",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ruhororo",
+      "en": "Ruhororo",
+      "slug": "ruhororo-bdi014008"
+    },
+    "code": {
+      "id": "BDI014008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014",
+      "level": 1,
+      "name": {
+        "local": "Ngozi",
+        "en": "Ngozi",
+        "slug": "ngozi-bdi014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 32
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.011",
+      "lon": "29.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI014009",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tangara",
+      "en": "Tangara",
+      "slug": "tangara-bdi014009"
+    },
+    "code": {
+      "id": "BDI014009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI014",
+      "level": 1,
+      "name": {
+        "local": "Ngozi",
+        "en": "Ngozi",
+        "slug": "ngozi-bdi014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI014",
+        "level": 1,
+        "name": {
+          "local": "Ngozi",
+          "en": "Ngozi",
+          "slug": "ngozi-bdi014"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 38
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.915",
+      "lon": "30.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Rutana",
+      "en": "Rutana",
+      "slug": "rutana-bdi015"
+    },
+    "code": {
+      "id": "BDI015",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 6,
+      "colline": 148
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.865",
+      "lon": "30.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bukemba",
+      "en": "Bukemba",
+      "slug": "bukemba-bdi015001"
+    },
+    "code": {
+      "id": "BDI015001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015",
+      "level": 1,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.015",
+      "lon": "30.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Giharo",
+      "en": "Giharo",
+      "slug": "giharo-bdi015002"
+    },
+    "code": {
+      "id": "BDI015002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015",
+      "level": 1,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.829",
+      "lon": "30.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gitanga",
+      "en": "Gitanga",
+      "slug": "gitanga-bdi015003"
+    },
+    "code": {
+      "id": "BDI015003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015",
+      "level": 1,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.988",
+      "lon": "29.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mpinga-Kayove",
+      "en": "Mpinga-Kayove",
+      "slug": "mpinga-kayove-bdi015004"
+    },
+    "code": {
+      "id": "BDI015004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015",
+      "level": 1,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 32
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.8",
+      "lon": "30.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Musongati",
+      "en": "Musongati",
+      "slug": "musongati-bdi015005"
+    },
+    "code": {
+      "id": "BDI015005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015",
+      "level": 1,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "30.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015006",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rutana",
+      "en": "Rutana",
+      "slug": "rutana-bdi015006"
+    },
+    "code": {
+      "id": "BDI015006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015",
+      "level": 1,
+      "name": {
+        "local": "Rutana",
+        "en": "Rutana",
+        "slug": "rutana-bdi015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 39
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.878",
+      "lon": "29.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Ruyigi",
+      "en": "Ruyigi",
+      "slug": "ruyigi-bdi016"
+    },
+    "code": {
+      "id": "BDI016",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 7,
+      "colline": 140
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.458",
+      "lon": "30.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Butaganzwa1",
+      "en": "Butaganzwa1",
+      "slug": "butaganzwa1-bdi016001"
+    },
+    "code": {
+      "id": "BDI016001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016",
+      "level": 1,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.55",
+      "lon": "30.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Butezi",
+      "en": "Butezi",
+      "slug": "butezi-bdi016002"
+    },
+    "code": {
+      "id": "BDI016002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016",
+      "level": 1,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.338",
+      "lon": "30.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bweru",
+      "en": "Bweru",
+      "slug": "bweru-bdi016003"
+    },
+    "code": {
+      "id": "BDI016003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016",
+      "level": 1,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.297",
+      "lon": "30.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gisuru",
+      "en": "Gisuru",
+      "slug": "gisuru-bdi016004"
+    },
+    "code": {
+      "id": "BDI016004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016",
+      "level": 1,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 43
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.451",
+      "lon": "30.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kinyinya",
+      "en": "Kinyinya",
+      "slug": "kinyinya-bdi016005"
+    },
+    "code": {
+      "id": "BDI016005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016",
+      "level": 1,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.612",
+      "lon": "30.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016006",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nyabitsinda",
+      "en": "Nyabitsinda",
+      "slug": "nyabitsinda-bdi016006"
+    },
+    "code": {
+      "id": "BDI016006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016",
+      "level": 1,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.578",
+      "lon": "30.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI016007",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ruyigi",
+      "en": "Ruyigi",
+      "slug": "ruyigi-bdi016007"
+    },
+    "code": {
+      "id": "BDI016007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI016",
+      "level": 1,
+      "name": {
+        "local": "Ruyigi",
+        "en": "Ruyigi",
+        "slug": "ruyigi-bdi016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI016",
+        "level": 1,
+        "name": {
+          "local": "Ruyigi",
+          "en": "Ruyigi",
+          "slug": "ruyigi-bdi016"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.436",
+      "lon": "30.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Bujumbura Mairie",
+      "en": "Bujumbura Mairie",
+      "slug": "bujumbura-mairie-bdi017"
+    },
+    "code": {
+      "id": "BDI017",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 3,
+      "colline": 103
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.394",
+      "lon": "29.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017014",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Muha",
+      "en": "Muha",
+      "slug": "muha-bdi017014"
+    },
+    "code": {
+      "id": "BDI017014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017",
+      "level": 1,
+      "name": {
+        "local": "Bujumbura Mairie",
+        "en": "Bujumbura Mairie",
+        "slug": "bujumbura-mairie-bdi017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.441",
+      "lon": "29.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mukaza",
+      "en": "Mukaza",
+      "slug": "mukaza-bdi017015"
+    },
+    "code": {
+      "id": "BDI017015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017",
+      "level": 1,
+      "name": {
+        "local": "Bujumbura Mairie",
+        "en": "Bujumbura Mairie",
+        "slug": "bujumbura-mairie-bdi017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017016",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ntahangwa",
+      "en": "Ntahangwa",
+      "slug": "ntahangwa-bdi017016"
+    },
+    "code": {
+      "id": "BDI017016",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017",
+      "level": 1,
+      "name": {
+        "local": "Bujumbura Mairie",
+        "en": "Bujumbura Mairie",
+        "slug": "bujumbura-mairie-bdi017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 58
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.343",
+      "lon": "29.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018",
+    "level": 1,
+    "level_name": {
+      "local": "Province",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Rumonge",
+      "en": "Rumonge",
+      "slug": "rumonge-bdi018"
+    },
+    "code": {
+      "id": "BDI018",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "commune": 5,
+      "colline": 108
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.875",
+      "lon": "29.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018001",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Muhuta",
+      "en": "Muhuta",
+      "slug": "muhuta-bdi018001"
+    },
+    "code": {
+      "id": "BDI018001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018",
+      "level": 1,
+      "name": {
+        "local": "Rumonge",
+        "en": "Rumonge",
+        "slug": "rumonge-bdi018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.617",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018002",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bugarama",
+      "en": "Bugarama",
+      "slug": "bugarama-bdi018002"
+    },
+    "code": {
+      "id": "BDI018002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018",
+      "level": 1,
+      "name": {
+        "local": "Rumonge",
+        "en": "Rumonge",
+        "slug": "rumonge-bdi018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.687",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018003",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Burambi",
+      "en": "Burambi",
+      "slug": "burambi-bdi018003"
+    },
+    "code": {
+      "id": "BDI018003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018",
+      "level": 1,
+      "name": {
+        "local": "Rumonge",
+        "en": "Rumonge",
+        "slug": "rumonge-bdi018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "29.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018004",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Buyengero",
+      "en": "Buyengero",
+      "slug": "buyengero-bdi018004"
+    },
+    "code": {
+      "id": "BDI018004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018",
+      "level": 1,
+      "name": {
+        "local": "Rumonge",
+        "en": "Rumonge",
+        "slug": "rumonge-bdi018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.849",
+      "lon": "29.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI018005",
+    "level": 2,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rumonge",
+      "en": "Rumonge",
+      "slug": "rumonge-bdi018005"
+    },
+    "code": {
+      "id": "BDI018005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI018",
+      "level": 1,
+      "name": {
+        "local": "Rumonge",
+        "en": "Rumonge",
+        "slug": "rumonge-bdi018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI018",
+        "level": 1,
+        "name": {
+          "local": "Rumonge",
+          "en": "Rumonge",
+          "slug": "rumonge-bdi018"
+        }
+      }
+    ],
+    "children_count": {
+      "colline": 33
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.956",
+      "lon": "29.442"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "BDI011004",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Muramvya",
+    "en": "Muramvya",
+    "slug": "muramvya-bdi011004"
+  },
+  "code": {
+    "id": "BDI011004",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI011",
+    "level": 1,
+    "name": {
+      "local": "Muramvya",
+      "en": "Muramvya",
+      "slug": "muramvya-bdi011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI011",
+      "level": 1,
+      "name": {
+        "local": "Muramvya",
+        "en": "Muramvya",
+        "slug": "muramvya-bdi011"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.316",
+    "lon": "29.586"
+  },
+  "metadata": {},
+  "source": {}
+}

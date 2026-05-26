@@ -1,0 +1,47 @@
+{
+  "id": "BDI018005",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Rumonge",
+    "en": "Rumonge",
+    "slug": "rumonge-bdi018005"
+  },
+  "code": {
+    "id": "BDI018005",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI018",
+    "level": 1,
+    "name": {
+      "local": "Rumonge",
+      "en": "Rumonge",
+      "slug": "rumonge-bdi018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI018",
+      "level": 1,
+      "name": {
+        "local": "Rumonge",
+        "en": "Rumonge",
+        "slug": "rumonge-bdi018"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 33
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.956",
+    "lon": "29.442"
+  },
+  "metadata": {},
+  "source": {}
+}

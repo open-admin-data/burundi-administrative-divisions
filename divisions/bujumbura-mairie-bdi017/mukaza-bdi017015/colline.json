@@ -1,0 +1,1460 @@
+[
+  {
+    "id": "BDI017015_asiatique",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Asiatique",
+      "en": "Asiatique",
+      "slug": "asiatique"
+    },
+    "code": {
+      "id": "BDI017015_asiatique",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_buyenzi-q1",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buyenzi Q1",
+      "en": "Buyenzi Q1",
+      "slug": "buyenzi-q1"
+    },
+    "code": {
+      "id": "BDI017015_buyenzi-q1",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_buyenzi-q2",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buyenzi Q2",
+      "en": "Buyenzi Q2",
+      "slug": "buyenzi-q2"
+    },
+    "code": {
+      "id": "BDI017015_buyenzi-q2",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_buyenzi-q3",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buyenzi Q3",
+      "en": "Buyenzi Q3",
+      "slug": "buyenzi-q3"
+    },
+    "code": {
+      "id": "BDI017015_buyenzi-q3",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_buyenzi-q4",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buyenzi Q4",
+      "en": "Buyenzi Q4",
+      "slug": "buyenzi-q4"
+    },
+    "code": {
+      "id": "BDI017015_buyenzi-q4",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_buyenzi-q5",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buyenzi Q5",
+      "en": "Buyenzi Q5",
+      "slug": "buyenzi-q5"
+    },
+    "code": {
+      "id": "BDI017015_buyenzi-q5",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_buyenzi-q6",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buyenzi Q6",
+      "en": "Buyenzi Q6",
+      "slug": "buyenzi-q6"
+    },
+    "code": {
+      "id": "BDI017015_buyenzi-q6",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_buyenzi-q7",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buyenzi Q7",
+      "en": "Buyenzi Q7",
+      "slug": "buyenzi-q7"
+    },
+    "code": {
+      "id": "BDI017015_buyenzi-q7",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_bwiza-q1",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bwiza Q1",
+      "en": "Bwiza Q1",
+      "slug": "bwiza-q1"
+    },
+    "code": {
+      "id": "BDI017015_bwiza-q1",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_bwiza-q2",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bwiza Q2",
+      "en": "Bwiza Q2",
+      "slug": "bwiza-q2"
+    },
+    "code": {
+      "id": "BDI017015_bwiza-q2",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_bwiza-q3",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bwiza Q3",
+      "en": "Bwiza Q3",
+      "slug": "bwiza-q3"
+    },
+    "code": {
+      "id": "BDI017015_bwiza-q3",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_bwiza-q4",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bwiza Q4",
+      "en": "Bwiza Q4",
+      "slug": "bwiza-q4"
+    },
+    "code": {
+      "id": "BDI017015_bwiza-q4",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_bwiza-q5",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bwiza Q5",
+      "en": "Bwiza Q5",
+      "slug": "bwiza-q5"
+    },
+    "code": {
+      "id": "BDI017015_bwiza-q5",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_bwiza-q6",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bwiza Q6",
+      "en": "Bwiza Q6",
+      "slug": "bwiza-q6"
+    },
+    "code": {
+      "id": "BDI017015_bwiza-q6",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_bwiza-q7",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bwiza Q7",
+      "en": "Bwiza Q7",
+      "slug": "bwiza-q7"
+    },
+    "code": {
+      "id": "BDI017015_bwiza-q7",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_centre-ville",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Centre Ville",
+      "en": "Centre Ville",
+      "slug": "centre-ville"
+    },
+    "code": {
+      "id": "BDI017015_centre-ville",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_gatoke",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatoke",
+      "en": "Gatoke",
+      "slug": "gatoke"
+    },
+    "code": {
+      "id": "BDI017015_gatoke",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_inss",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Inss",
+      "en": "Inss",
+      "slug": "inss"
+    },
+    "code": {
+      "id": "BDI017015_inss",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_kabondo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabondo",
+      "en": "Kabondo",
+      "slug": "kabondo"
+    },
+    "code": {
+      "id": "BDI017015_kabondo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_kigwati",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigwati",
+      "en": "Kigwati",
+      "slug": "kigwati"
+    },
+    "code": {
+      "id": "BDI017015_kigwati",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_kiriri-vugizo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiriri Vugizo",
+      "en": "Kiriri Vugizo",
+      "slug": "kiriri-vugizo"
+    },
+    "code": {
+      "id": "BDI017015_kiriri-vugizo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_mutanga-sud",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mutanga Sud",
+      "en": "Mutanga Sud",
+      "slug": "mutanga-sud"
+    },
+    "code": {
+      "id": "BDI017015_mutanga-sud",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_nyakabiga-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakabiga I",
+      "en": "Nyakabiga I",
+      "slug": "nyakabiga-i"
+    },
+    "code": {
+      "id": "BDI017015_nyakabiga-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_nyakabiga-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakabiga Ii",
+      "en": "Nyakabiga Ii",
+      "slug": "nyakabiga-ii"
+    },
+    "code": {
+      "id": "BDI017015_nyakabiga-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_nyakabiga-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakabiga Iii",
+      "en": "Nyakabiga Iii",
+      "slug": "nyakabiga-iii"
+    },
+    "code": {
+      "id": "BDI017015_nyakabiga-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_rohero-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rohero I",
+      "en": "Rohero I",
+      "slug": "rohero-i"
+    },
+    "code": {
+      "id": "BDI017015_rohero-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI017015_rohero-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rohero Ii",
+      "en": "Rohero Ii",
+      "slug": "rohero-ii"
+    },
+    "code": {
+      "id": "BDI017015_rohero-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI017015",
+      "level": 2,
+      "name": {
+        "local": "Mukaza",
+        "en": "Mukaza",
+        "slug": "mukaza-bdi017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI017",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Mairie",
+          "en": "Bujumbura Mairie",
+          "slug": "bujumbura-mairie-bdi017"
+        }
+      },
+      {
+        "id": "BDI017015",
+        "level": 2,
+        "name": {
+          "local": "Mukaza",
+          "en": "Mukaza",
+          "slug": "mukaza-bdi017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.383",
+      "lon": "29.376"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

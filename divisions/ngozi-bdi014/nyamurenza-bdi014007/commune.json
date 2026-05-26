@@ -1,0 +1,47 @@
+{
+  "id": "BDI014007",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Nyamurenza",
+    "en": "Nyamurenza",
+    "slug": "nyamurenza-bdi014007"
+  },
+  "code": {
+    "id": "BDI014007",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI014",
+    "level": 1,
+    "name": {
+      "local": "Ngozi",
+      "en": "Ngozi",
+      "slug": "ngozi-bdi014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI014",
+      "level": 1,
+      "name": {
+        "local": "Ngozi",
+        "en": "Ngozi",
+        "slug": "ngozi-bdi014"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.808",
+    "lon": "29.891"
+  },
+  "metadata": {},
+  "source": {}
+}

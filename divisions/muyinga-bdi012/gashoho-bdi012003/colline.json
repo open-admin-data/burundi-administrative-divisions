@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "BDI012003_bonero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bonero",
+      "en": "Bonero",
+      "slug": "bonero"
+    },
+    "code": {
+      "id": "BDI012003_bonero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_bunyarukiga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bunyarukiga",
+      "en": "Bunyarukiga",
+      "slug": "bunyarukiga"
+    },
+    "code": {
+      "id": "BDI012003_bunyarukiga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_burambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burambi",
+      "en": "Burambi",
+      "slug": "burambi"
+    },
+    "code": {
+      "id": "BDI012003_burambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_burenza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burenza",
+      "en": "Burenza",
+      "slug": "burenza"
+    },
+    "code": {
+      "id": "BDI012003_burenza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_busasa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Busasa",
+      "en": "Busasa",
+      "slug": "busasa"
+    },
+    "code": {
+      "id": "BDI012003_busasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_buvumbi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buvumbi",
+      "en": "Buvumbi",
+      "slug": "buvumbi"
+    },
+    "code": {
+      "id": "BDI012003_buvumbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_bwisha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bwisha",
+      "en": "Bwisha",
+      "slug": "bwisha"
+    },
+    "code": {
+      "id": "BDI012003_bwisha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_cihonda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cihonda",
+      "en": "Cihonda",
+      "slug": "cihonda"
+    },
+    "code": {
+      "id": "BDI012003_cihonda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_gashoho",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gashoho",
+      "en": "Gashoho",
+      "slug": "gashoho"
+    },
+    "code": {
+      "id": "BDI012003_gashoho",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_gikingo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikingo",
+      "en": "Gikingo",
+      "slug": "gikingo"
+    },
+    "code": {
+      "id": "BDI012003_gikingo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_gisabazuba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisabazuba",
+      "en": "Gisabazuba",
+      "slug": "gisabazuba"
+    },
+    "code": {
+      "id": "BDI012003_gisabazuba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_gisanze",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisanze",
+      "en": "Gisanze",
+      "slug": "gisanze"
+    },
+    "code": {
+      "id": "BDI012003_gisanze",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_gisanze-muzingi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisanze Muzingi",
+      "en": "Gisanze Muzingi",
+      "slug": "gisanze-muzingi"
+    },
+    "code": {
+      "id": "BDI012003_gisanze-muzingi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_gisebeyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisebeyi",
+      "en": "Gisebeyi",
+      "slug": "gisebeyi"
+    },
+    "code": {
+      "id": "BDI012003_gisebeyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_gishambusha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gishambusha",
+      "en": "Gishambusha",
+      "slug": "gishambusha"
+    },
+    "code": {
+      "id": "BDI012003_gishambusha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_gitwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitwa",
+      "en": "Gitwa",
+      "slug": "gitwa"
+    },
+    "code": {
+      "id": "BDI012003_gitwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_kagari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kagari",
+      "en": "Kagari",
+      "slug": "kagari"
+    },
+    "code": {
+      "id": "BDI012003_kagari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_kinyami",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kinyami",
+      "en": "Kinyami",
+      "slug": "kinyami"
+    },
+    "code": {
+      "id": "BDI012003_kinyami",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_kobero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kobero",
+      "en": "Kobero",
+      "slug": "kobero"
+    },
+    "code": {
+      "id": "BDI012003_kobero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_mirwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mirwa",
+      "en": "Mirwa",
+      "slug": "mirwa"
+    },
+    "code": {
+      "id": "BDI012003_mirwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_murama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murama",
+      "en": "Murama",
+      "slug": "murama"
+    },
+    "code": {
+      "id": "BDI012003_murama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_muruta",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muruta",
+      "en": "Muruta",
+      "slug": "muruta"
+    },
+    "code": {
+      "id": "BDI012003_muruta",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_musama-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musama I",
+      "en": "Musama I",
+      "slug": "musama-i"
+    },
+    "code": {
+      "id": "BDI012003_musama-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_musama-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musama Ii",
+      "en": "Musama Ii",
+      "slug": "musama-ii"
+    },
+    "code": {
+      "id": "BDI012003_musama-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_muyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyange",
+      "en": "Muyange",
+      "slug": "muyange"
+    },
+    "code": {
+      "id": "BDI012003_muyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_nkohwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nkohwa",
+      "en": "Nkohwa",
+      "slug": "nkohwa"
+    },
+    "code": {
+      "id": "BDI012003_nkohwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_nyagatovu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyagatovu",
+      "en": "Nyagatovu",
+      "slug": "nyagatovu"
+    },
+    "code": {
+      "id": "BDI012003_nyagatovu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI012003_nyarushanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarushanga",
+      "en": "Nyarushanga",
+      "slug": "nyarushanga"
+    },
+    "code": {
+      "id": "BDI012003_nyarushanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI012003",
+      "level": 2,
+      "name": {
+        "local": "Gashoho",
+        "en": "Gashoho",
+        "slug": "gashoho-bdi012003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI012",
+        "level": 1,
+        "name": {
+          "local": "Muyinga",
+          "en": "Muyinga",
+          "slug": "muyinga-bdi012"
+        }
+      },
+      {
+        "id": "BDI012003",
+        "level": 2,
+        "name": {
+          "local": "Gashoho",
+          "en": "Gashoho",
+          "slug": "gashoho-bdi012003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "30.168"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

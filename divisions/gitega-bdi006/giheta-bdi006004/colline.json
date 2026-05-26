@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "BDI006004_bihororo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bihororo",
+      "en": "Bihororo",
+      "slug": "bihororo"
+    },
+    "code": {
+      "id": "BDI006004_bihororo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_bukinga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bukinga",
+      "en": "Bukinga",
+      "slug": "bukinga"
+    },
+    "code": {
+      "id": "BDI006004_bukinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_gasunu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasunu",
+      "en": "Gasunu",
+      "slug": "gasunu"
+    },
+    "code": {
+      "id": "BDI006004_gasunu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_gihehe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gihehe",
+      "en": "Gihehe",
+      "slug": "gihehe"
+    },
+    "code": {
+      "id": "BDI006004_gihehe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_giheta",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Giheta",
+      "en": "Giheta",
+      "slug": "giheta"
+    },
+    "code": {
+      "id": "BDI006004_giheta",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_gihuga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gihuga",
+      "en": "Gihuga",
+      "slug": "gihuga"
+    },
+    "code": {
+      "id": "BDI006004_gihuga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_gisarara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisarara",
+      "en": "Gisarara",
+      "slug": "gisarara"
+    },
+    "code": {
+      "id": "BDI006004_gisarara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_gishuha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gishuha",
+      "en": "Gishuha",
+      "slug": "gishuha"
+    },
+    "code": {
+      "id": "BDI006004_gishuha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_gisuru",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gisuru",
+      "en": "Gisuru",
+      "slug": "gisuru"
+    },
+    "code": {
+      "id": "BDI006004_gisuru",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_kaguhu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kaguhu",
+      "en": "Kaguhu",
+      "slug": "kaguhu"
+    },
+    "code": {
+      "id": "BDI006004_kaguhu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_kamonyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kamonyi",
+      "en": "Kamonyi",
+      "slug": "kamonyi"
+    },
+    "code": {
+      "id": "BDI006004_kamonyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_kanyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kanyinya",
+      "en": "Kanyinya",
+      "slug": "kanyinya"
+    },
+    "code": {
+      "id": "BDI006004_kanyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_kibande",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibande",
+      "en": "Kibande",
+      "slug": "kibande"
+    },
+    "code": {
+      "id": "BDI006004_kibande",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_kibimba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibimba",
+      "en": "Kibimba",
+      "slug": "kibimba"
+    },
+    "code": {
+      "id": "BDI006004_kibimba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_kibogoye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibogoye",
+      "en": "Kibogoye",
+      "slug": "kibogoye"
+    },
+    "code": {
+      "id": "BDI006004_kibogoye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_kiremera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiremera",
+      "en": "Kiremera",
+      "slug": "kiremera"
+    },
+    "code": {
+      "id": "BDI006004_kiremera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_kiriba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiriba",
+      "en": "Kiriba",
+      "slug": "kiriba"
+    },
+    "code": {
+      "id": "BDI006004_kiriba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_korane",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Korane",
+      "en": "Korane",
+      "slug": "korane"
+    },
+    "code": {
+      "id": "BDI006004_korane",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_masasu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masasu",
+      "en": "Masasu",
+      "slug": "masasu"
+    },
+    "code": {
+      "id": "BDI006004_masasu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_mitimire",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mitimire",
+      "en": "Mitimire",
+      "slug": "mitimire"
+    },
+    "code": {
+      "id": "BDI006004_mitimire",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_mubuga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mubuga",
+      "en": "Mubuga",
+      "slug": "mubuga"
+    },
+    "code": {
+      "id": "BDI006004_mubuga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_murayi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murayi",
+      "en": "Murayi",
+      "slug": "murayi"
+    },
+    "code": {
+      "id": "BDI006004_murayi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_muremera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muremera",
+      "en": "Muremera",
+      "slug": "muremera"
+    },
+    "code": {
+      "id": "BDI006004_muremera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_musama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musama",
+      "en": "Musama",
+      "slug": "musama"
+    },
+    "code": {
+      "id": "BDI006004_musama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_muyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyange",
+      "en": "Muyange",
+      "slug": "muyange"
+    },
+    "code": {
+      "id": "BDI006004_muyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_nyamugari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamugari",
+      "en": "Nyamugari",
+      "slug": "nyamugari"
+    },
+    "code": {
+      "id": "BDI006004_nyamugari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_nyarunazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarunazi",
+      "en": "Nyarunazi",
+      "slug": "nyarunazi"
+    },
+    "code": {
+      "id": "BDI006004_nyarunazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_rubarasi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubarasi",
+      "en": "Rubarasi",
+      "slug": "rubarasi"
+    },
+    "code": {
+      "id": "BDI006004_rubarasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_ruhanza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhanza",
+      "en": "Ruhanza",
+      "slug": "ruhanza"
+    },
+    "code": {
+      "id": "BDI006004_ruhanza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_rutegama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutegama",
+      "en": "Rutegama",
+      "slug": "rutegama"
+    },
+    "code": {
+      "id": "BDI006004_rutegama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_rweru",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rweru",
+      "en": "Rweru",
+      "slug": "rweru"
+    },
+    "code": {
+      "id": "BDI006004_rweru",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006004_rwingiri",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwingiri",
+      "en": "Rwingiri",
+      "slug": "rwingiri"
+    },
+    "code": {
+      "id": "BDI006004_rwingiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006004",
+      "level": 2,
+      "name": {
+        "local": "Giheta",
+        "en": "Giheta",
+        "slug": "giheta-bdi006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006004",
+        "level": 2,
+        "name": {
+          "local": "Giheta",
+          "en": "Giheta",
+          "slug": "giheta-bdi006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.331",
+      "lon": "29.882"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

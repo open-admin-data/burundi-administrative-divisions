@@ -1,0 +1,866 @@
+[
+  {
+    "id": "BDI015002_bugiga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugiga",
+      "en": "Bugiga",
+      "slug": "bugiga"
+    },
+    "code": {
+      "id": "BDI015002_bugiga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015002",
+      "level": 2,
+      "name": {
+        "local": "Giharo",
+        "en": "Giharo",
+        "slug": "giharo-bdi015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015002",
+        "level": 2,
+        "name": {
+          "local": "Giharo",
+          "en": "Giharo",
+          "slug": "giharo-bdi015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.829",
+      "lon": "30.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015002_bukemba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bukemba",
+      "en": "Bukemba",
+      "slug": "bukemba"
+    },
+    "code": {
+      "id": "BDI015002_bukemba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015002",
+      "level": 2,
+      "name": {
+        "local": "Giharo",
+        "en": "Giharo",
+        "slug": "giharo-bdi015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015002",
+        "level": 2,
+        "name": {
+          "local": "Giharo",
+          "en": "Giharo",
+          "slug": "giharo-bdi015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.829",
+      "lon": "30.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015002_butare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butare",
+      "en": "Butare",
+      "slug": "butare"
+    },
+    "code": {
+      "id": "BDI015002_butare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015002",
+      "level": 2,
+      "name": {
+        "local": "Giharo",
+        "en": "Giharo",
+        "slug": "giharo-bdi015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015002",
+        "level": 2,
+        "name": {
+          "local": "Giharo",
+          "en": "Giharo",
+          "slug": "giharo-bdi015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.829",
+      "lon": "30.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015002_giharo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Giharo",
+      "en": "Giharo",
+      "slug": "giharo"
+    },
+    "code": {
+      "id": "BDI015002_giharo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015002",
+      "level": 2,
+      "name": {
+        "local": "Giharo",
+        "en": "Giharo",
+        "slug": "giharo-bdi015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015002",
+        "level": 2,
+        "name": {
+          "local": "Giharo",
+          "en": "Giharo",
+          "slug": "giharo-bdi015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.829",
+      "lon": "30.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015002_gihofi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gihofi",
+      "en": "Gihofi",
+      "slug": "gihofi"
+    },
+    "code": {
+      "id": "BDI015002_gihofi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015002",
+      "level": 2,
+      "name": {
+        "local": "Giharo",
+        "en": "Giharo",
+        "slug": "giharo-bdi015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015002",
+        "level": 2,
+        "name": {
+          "local": "Giharo",
+          "en": "Giharo",
+          "slug": "giharo-bdi015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.829",
+      "lon": "30.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015002_kabanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabanga",
+      "en": "Kabanga",
+      "slug": "kabanga"
+    },
+    "code": {
+      "id": "BDI015002_kabanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015002",
+      "level": 2,
+      "name": {
+        "local": "Giharo",
+        "en": "Giharo",
+        "slug": "giharo-bdi015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015002",
+        "level": 2,
+        "name": {
+          "local": "Giharo",
+          "en": "Giharo",
+          "slug": "giharo-bdi015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.829",
+      "lon": "30.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015002_murama-rugwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murama Rugwe",
+      "en": "Murama Rugwe",
+      "slug": "murama-rugwe"
+    },
+    "code": {
+      "id": "BDI015002_murama-rugwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015002",
+      "level": 2,
+      "name": {
+        "local": "Giharo",
+        "en": "Giharo",
+        "slug": "giharo-bdi015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015002",
+        "level": 2,
+        "name": {
+          "local": "Giharo",
+          "en": "Giharo",
+          "slug": "giharo-bdi015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.829",
+      "lon": "30.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015002_muyombwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyombwe",
+      "en": "Muyombwe",
+      "slug": "muyombwe"
+    },
+    "code": {
+      "id": "BDI015002_muyombwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015002",
+      "level": 2,
+      "name": {
+        "local": "Giharo",
+        "en": "Giharo",
+        "slug": "giharo-bdi015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015002",
+        "level": 2,
+        "name": {
+          "local": "Giharo",
+          "en": "Giharo",
+          "slug": "giharo-bdi015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.829",
+      "lon": "30.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015002_nyabakara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabakara",
+      "en": "Nyabakara",
+      "slug": "nyabakara"
+    },
+    "code": {
+      "id": "BDI015002_nyabakara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015002",
+      "level": 2,
+      "name": {
+        "local": "Giharo",
+        "en": "Giharo",
+        "slug": "giharo-bdi015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015002",
+        "level": 2,
+        "name": {
+          "local": "Giharo",
+          "en": "Giharo",
+          "slug": "giharo-bdi015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.829",
+      "lon": "30.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015002_nyamateke",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamateke",
+      "en": "Nyamateke",
+      "slug": "nyamateke"
+    },
+    "code": {
+      "id": "BDI015002_nyamateke",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015002",
+      "level": 2,
+      "name": {
+        "local": "Giharo",
+        "en": "Giharo",
+        "slug": "giharo-bdi015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015002",
+        "level": 2,
+        "name": {
+          "local": "Giharo",
+          "en": "Giharo",
+          "slug": "giharo-bdi015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.829",
+      "lon": "30.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015002_nyembuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyembuye",
+      "en": "Nyembuye",
+      "slug": "nyembuye"
+    },
+    "code": {
+      "id": "BDI015002_nyembuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015002",
+      "level": 2,
+      "name": {
+        "local": "Giharo",
+        "en": "Giharo",
+        "slug": "giharo-bdi015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015002",
+        "level": 2,
+        "name": {
+          "local": "Giharo",
+          "en": "Giharo",
+          "slug": "giharo-bdi015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.829",
+      "lon": "30.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015002_rubanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubanga",
+      "en": "Rubanga",
+      "slug": "rubanga"
+    },
+    "code": {
+      "id": "BDI015002_rubanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015002",
+      "level": 2,
+      "name": {
+        "local": "Giharo",
+        "en": "Giharo",
+        "slug": "giharo-bdi015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015002",
+        "level": 2,
+        "name": {
+          "local": "Giharo",
+          "en": "Giharo",
+          "slug": "giharo-bdi015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.829",
+      "lon": "30.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015002_ruranga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruranga",
+      "en": "Ruranga",
+      "slug": "ruranga"
+    },
+    "code": {
+      "id": "BDI015002_ruranga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015002",
+      "level": 2,
+      "name": {
+        "local": "Giharo",
+        "en": "Giharo",
+        "slug": "giharo-bdi015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015002",
+        "level": 2,
+        "name": {
+          "local": "Giharo",
+          "en": "Giharo",
+          "slug": "giharo-bdi015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.829",
+      "lon": "30.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015002_shasha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Shasha",
+      "en": "Shasha",
+      "slug": "shasha"
+    },
+    "code": {
+      "id": "BDI015002_shasha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015002",
+      "level": 2,
+      "name": {
+        "local": "Giharo",
+        "en": "Giharo",
+        "slug": "giharo-bdi015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015002",
+        "level": 2,
+        "name": {
+          "local": "Giharo",
+          "en": "Giharo",
+          "slug": "giharo-bdi015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.829",
+      "lon": "30.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015002_shembe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Shembe",
+      "en": "Shembe",
+      "slug": "shembe"
+    },
+    "code": {
+      "id": "BDI015002_shembe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015002",
+      "level": 2,
+      "name": {
+        "local": "Giharo",
+        "en": "Giharo",
+        "slug": "giharo-bdi015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015002",
+        "level": 2,
+        "name": {
+          "local": "Giharo",
+          "en": "Giharo",
+          "slug": "giharo-bdi015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.829",
+      "lon": "30.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI015002_sosumo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Sosumo",
+      "en": "Sosumo",
+      "slug": "sosumo"
+    },
+    "code": {
+      "id": "BDI015002_sosumo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI015002",
+      "level": 2,
+      "name": {
+        "local": "Giharo",
+        "en": "Giharo",
+        "slug": "giharo-bdi015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI015",
+        "level": 1,
+        "name": {
+          "local": "Rutana",
+          "en": "Rutana",
+          "slug": "rutana-bdi015"
+        }
+      },
+      {
+        "id": "BDI015002",
+        "level": 2,
+        "name": {
+          "local": "Giharo",
+          "en": "Giharo",
+          "slug": "giharo-bdi015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.829",
+      "lon": "30.247"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

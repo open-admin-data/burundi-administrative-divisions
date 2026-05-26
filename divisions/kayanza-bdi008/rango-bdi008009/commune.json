@@ -1,0 +1,47 @@
+{
+  "id": "BDI008009",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Rango",
+    "en": "Rango",
+    "slug": "rango-bdi008009"
+  },
+  "code": {
+    "id": "BDI008009",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI008",
+    "level": 1,
+    "name": {
+      "local": "Kayanza",
+      "en": "Kayanza",
+      "slug": "kayanza-bdi008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI008",
+      "level": 1,
+      "name": {
+        "local": "Kayanza",
+        "en": "Kayanza",
+        "slug": "kayanza-bdi008"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.158",
+    "lon": "29.757"
+  },
+  "metadata": {},
+  "source": {}
+}

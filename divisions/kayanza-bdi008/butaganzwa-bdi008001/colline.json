@@ -1,0 +1,3242 @@
+[
+  {
+    "id": "BDI008001_bartye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bartye",
+      "en": "Bartye",
+      "slug": "bartye"
+    },
+    "code": {
+      "id": "BDI008001_bartye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_bigera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bigera",
+      "en": "Bigera",
+      "slug": "bigera"
+    },
+    "code": {
+      "id": "BDI008001_bigera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_biyorwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Biyorwa",
+      "en": "Biyorwa",
+      "slug": "biyorwa"
+    },
+    "code": {
+      "id": "BDI008001_biyorwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_bumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bumba",
+      "en": "Bumba",
+      "slug": "bumba"
+    },
+    "code": {
+      "id": "BDI008001_bumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_burenza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burenza",
+      "en": "Burenza",
+      "slug": "burenza"
+    },
+    "code": {
+      "id": "BDI008001_burenza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_busokoza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Busokoza",
+      "en": "Busokoza",
+      "slug": "busokoza"
+    },
+    "code": {
+      "id": "BDI008001_busokoza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_butaganzwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butaganzwa",
+      "en": "Butaganzwa",
+      "slug": "butaganzwa"
+    },
+    "code": {
+      "id": "BDI008001_butaganzwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_caragata",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Caragata",
+      "en": "Caragata",
+      "slug": "caragata"
+    },
+    "code": {
+      "id": "BDI008001_caragata",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_gahise",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gahise",
+      "en": "Gahise",
+      "slug": "gahise"
+    },
+    "code": {
+      "id": "BDI008001_gahise",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_gakonko",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gakonko",
+      "en": "Gakonko",
+      "slug": "gakonko"
+    },
+    "code": {
+      "id": "BDI008001_gakonko",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_gasasa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasasa",
+      "en": "Gasasa",
+      "slug": "gasasa"
+    },
+    "code": {
+      "id": "BDI008001_gasasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_gatabo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gatabo",
+      "en": "Gatabo",
+      "slug": "gatabo"
+    },
+    "code": {
+      "id": "BDI008001_gatabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_gikungere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikungere",
+      "en": "Gikungere",
+      "slug": "gikungere"
+    },
+    "code": {
+      "id": "BDI008001_gikungere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_gikwiye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gikwiye",
+      "en": "Gikwiye",
+      "slug": "gikwiye"
+    },
+    "code": {
+      "id": "BDI008001_gikwiye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_gishubi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gishubi",
+      "en": "Gishubi",
+      "slug": "gishubi"
+    },
+    "code": {
+      "id": "BDI008001_gishubi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_itaba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Itaba",
+      "en": "Itaba",
+      "slug": "itaba"
+    },
+    "code": {
+      "id": "BDI008001_itaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_kanyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kanyinya",
+      "en": "Kanyinya",
+      "slug": "kanyinya"
+    },
+    "code": {
+      "id": "BDI008001_kanyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_kigarama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigarama",
+      "en": "Kigarama",
+      "slug": "kigarama"
+    },
+    "code": {
+      "id": "BDI008001_kigarama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_kigwandi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigwandi",
+      "en": "Kigwandi",
+      "slug": "kigwandi"
+    },
+    "code": {
+      "id": "BDI008001_kigwandi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_kirambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirambi",
+      "en": "Kirambi",
+      "slug": "kirambi"
+    },
+    "code": {
+      "id": "BDI008001_kirambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_kirangara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirangara",
+      "en": "Kirangara",
+      "slug": "kirangara"
+    },
+    "code": {
+      "id": "BDI008001_kirangara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_kiryama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiryama",
+      "en": "Kiryama",
+      "slug": "kiryama"
+    },
+    "code": {
+      "id": "BDI008001_kiryama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_kivoga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivoga",
+      "en": "Kivoga",
+      "slug": "kivoga"
+    },
+    "code": {
+      "id": "BDI008001_kivoga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_kivumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivumu",
+      "en": "Kivumu",
+      "slug": "kivumu"
+    },
+    "code": {
+      "id": "BDI008001_kivumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_kiyabu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiyabu",
+      "en": "Kiyabu",
+      "slug": "kiyabu"
+    },
+    "code": {
+      "id": "BDI008001_kiyabu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_kizigama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kizigama",
+      "en": "Kizigama",
+      "slug": "kizigama"
+    },
+    "code": {
+      "id": "BDI008001_kizigama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_maramvya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Maramvya",
+      "en": "Maramvya",
+      "slug": "maramvya"
+    },
+    "code": {
+      "id": "BDI008001_maramvya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_masazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masazi",
+      "en": "Masazi",
+      "slug": "masazi"
+    },
+    "code": {
+      "id": "BDI008001_masazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_mihana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mihana",
+      "en": "Mihana",
+      "slug": "mihana"
+    },
+    "code": {
+      "id": "BDI008001_mihana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_mpame",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mpame",
+      "en": "Mpame",
+      "slug": "mpame"
+    },
+    "code": {
+      "id": "BDI008001_mpame",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_mpfunda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mpfunda",
+      "en": "Mpfunda",
+      "slug": "mpfunda"
+    },
+    "code": {
+      "id": "BDI008001_mpfunda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_mpungwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mpungwe",
+      "en": "Mpungwe",
+      "slug": "mpungwe"
+    },
+    "code": {
+      "id": "BDI008001_mpungwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_mufumya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mufumya",
+      "en": "Mufumya",
+      "slug": "mufumya"
+    },
+    "code": {
+      "id": "BDI008001_mufumya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_mugege",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugege",
+      "en": "Mugege",
+      "slug": "mugege"
+    },
+    "code": {
+      "id": "BDI008001_mugege",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_muhene",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muhene",
+      "en": "Muhene",
+      "slug": "muhene"
+    },
+    "code": {
+      "id": "BDI008001_muhene",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_munyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munyinya",
+      "en": "Munyinya",
+      "slug": "munyinya"
+    },
+    "code": {
+      "id": "BDI008001_munyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_muremera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muremera",
+      "en": "Muremera",
+      "slug": "muremera"
+    },
+    "code": {
+      "id": "BDI008001_muremera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_muriza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muriza",
+      "en": "Muriza",
+      "slug": "muriza"
+    },
+    "code": {
+      "id": "BDI008001_muriza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_musema",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musema",
+      "en": "Musema",
+      "slug": "musema"
+    },
+    "code": {
+      "id": "BDI008001_musema",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_musenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musenga",
+      "en": "Musenga",
+      "slug": "musenga"
+    },
+    "code": {
+      "id": "BDI008001_musenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_ninga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ninga",
+      "en": "Ninga",
+      "slug": "ninga"
+    },
+    "code": {
+      "id": "BDI008001_ninga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_nkango",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nkango",
+      "en": "Nkango",
+      "slug": "nkango"
+    },
+    "code": {
+      "id": "BDI008001_nkango",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_nyabibuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyabibuye",
+      "en": "Nyabibuye",
+      "slug": "nyabibuye"
+    },
+    "code": {
+      "id": "BDI008001_nyabibuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_nyaburondwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyaburondwe",
+      "en": "Nyaburondwe",
+      "slug": "nyaburondwe"
+    },
+    "code": {
+      "id": "BDI008001_nyaburondwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_nyagashubi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyagashubi",
+      "en": "Nyagashubi",
+      "slug": "nyagashubi"
+    },
+    "code": {
+      "id": "BDI008001_nyagashubi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_nyamiyaga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamiyaga",
+      "en": "Nyamiyaga",
+      "slug": "nyamiyaga"
+    },
+    "code": {
+      "id": "BDI008001_nyamiyaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_nyamugari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamugari",
+      "en": "Nyamugari",
+      "slug": "nyamugari"
+    },
+    "code": {
+      "id": "BDI008001_nyamugari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_nyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyange",
+      "en": "Nyange",
+      "slug": "nyange"
+    },
+    "code": {
+      "id": "BDI008001_nyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_nyangurube",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyangurube",
+      "en": "Nyangurube",
+      "slug": "nyangurube"
+    },
+    "code": {
+      "id": "BDI008001_nyangurube",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_nyankende",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyankende",
+      "en": "Nyankende",
+      "slug": "nyankende"
+    },
+    "code": {
+      "id": "BDI008001_nyankende",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_nyarubabi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarubabi",
+      "en": "Nyarubabi",
+      "slug": "nyarubabi"
+    },
+    "code": {
+      "id": "BDI008001_nyarubabi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_nyarurama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarurama",
+      "en": "Nyarurama",
+      "slug": "nyarurama"
+    },
+    "code": {
+      "id": "BDI008001_nyarurama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_nyarurambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarurambi",
+      "en": "Nyarurambi",
+      "slug": "nyarurambi"
+    },
+    "code": {
+      "id": "BDI008001_nyarurambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_rubambari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubambari",
+      "en": "Rubambari",
+      "slug": "rubambari"
+    },
+    "code": {
+      "id": "BDI008001_rubambari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_rugata",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugata",
+      "en": "Rugata",
+      "slug": "rugata"
+    },
+    "code": {
+      "id": "BDI008001_rugata",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_rugoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugoma",
+      "en": "Rugoma",
+      "slug": "rugoma"
+    },
+    "code": {
+      "id": "BDI008001_rugoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_rugongo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugongo",
+      "en": "Rugongo",
+      "slug": "rugongo"
+    },
+    "code": {
+      "id": "BDI008001_rugongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_rukambura",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rukambura",
+      "en": "Rukambura",
+      "slug": "rukambura"
+    },
+    "code": {
+      "id": "BDI008001_rukambura",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_shembati",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Shembati",
+      "en": "Shembati",
+      "slug": "shembati"
+    },
+    "code": {
+      "id": "BDI008001_shembati",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI008001_titi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Titi",
+      "en": "Titi",
+      "slug": "titi"
+    },
+    "code": {
+      "id": "BDI008001_titi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI008001",
+      "level": 2,
+      "name": {
+        "local": "Butaganzwa",
+        "en": "Butaganzwa",
+        "slug": "butaganzwa-bdi008001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI008",
+        "level": 1,
+        "name": {
+          "local": "Kayanza",
+          "en": "Kayanza",
+          "slug": "kayanza-bdi008"
+        }
+      },
+      {
+        "id": "BDI008001",
+        "level": 2,
+        "name": {
+          "local": "Butaganzwa",
+          "en": "Butaganzwa",
+          "slug": "butaganzwa-bdi008001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.109",
+      "lon": "29.69"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

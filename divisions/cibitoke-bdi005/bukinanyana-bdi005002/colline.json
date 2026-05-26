@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "BDI005002_bihembe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bihembe",
+      "en": "Bihembe",
+      "slug": "bihembe"
+    },
+    "code": {
+      "id": "BDI005002_bihembe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_bitare",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bitare",
+      "en": "Bitare",
+      "slug": "bitare"
+    },
+    "code": {
+      "id": "BDI005002_bitare",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_bukinanyana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bukinanyana",
+      "en": "Bukinanyana",
+      "slug": "bukinanyana"
+    },
+    "code": {
+      "id": "BDI005002_bukinanyana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_bumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bumba",
+      "en": "Bumba",
+      "slug": "bumba"
+    },
+    "code": {
+      "id": "BDI005002_bumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_burimbi-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burimbi I",
+      "en": "Burimbi I",
+      "slug": "burimbi-i"
+    },
+    "code": {
+      "id": "BDI005002_burimbi-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_burimbi-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burimbi Ii",
+      "en": "Burimbi Ii",
+      "slug": "burimbi-ii"
+    },
+    "code": {
+      "id": "BDI005002_burimbi-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_butara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butara",
+      "en": "Butara",
+      "slug": "butara"
+    },
+    "code": {
+      "id": "BDI005002_butara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_gahabura",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gahabura",
+      "en": "Gahabura",
+      "slug": "gahabura"
+    },
+    "code": {
+      "id": "BDI005002_gahabura",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_giserama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Giserama",
+      "en": "Giserama",
+      "slug": "giserama"
+    },
+    "code": {
+      "id": "BDI005002_giserama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_kibati",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibati",
+      "en": "Kibati",
+      "slug": "kibati"
+    },
+    "code": {
+      "id": "BDI005002_kibati",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_kibaya-i-ndora",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibaya I Ndora",
+      "en": "Kibaya I Ndora",
+      "slug": "kibaya-i-ndora"
+    },
+    "code": {
+      "id": "BDI005002_kibaya-i-ndora",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_kibaya-ii-gah",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibaya Ii Gah",
+      "en": "Kibaya Ii Gah",
+      "slug": "kibaya-ii-gah"
+    },
+    "code": {
+      "id": "BDI005002_kibaya-ii-gah",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_masango",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masango",
+      "en": "Masango",
+      "slug": "masango"
+    },
+    "code": {
+      "id": "BDI005002_masango",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_mikoni",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mikoni",
+      "en": "Mikoni",
+      "slug": "mikoni"
+    },
+    "code": {
+      "id": "BDI005002_mikoni",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_munyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munyinya",
+      "en": "Munyinya",
+      "slug": "munyinya"
+    },
+    "code": {
+      "id": "BDI005002_munyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_murengera",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murengera",
+      "en": "Murengera",
+      "slug": "murengera"
+    },
+    "code": {
+      "id": "BDI005002_murengera",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_myave",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Myave",
+      "en": "Myave",
+      "slug": "myave"
+    },
+    "code": {
+      "id": "BDI005002_myave",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_nderama",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nderama",
+      "en": "Nderama",
+      "slug": "nderama"
+    },
+    "code": {
+      "id": "BDI005002_nderama",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_nyampinga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyampinga",
+      "en": "Nyampinga",
+      "slug": "nyampinga"
+    },
+    "code": {
+      "id": "BDI005002_nyampinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_nyamyeha",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamyeha",
+      "en": "Nyamyeha",
+      "slug": "nyamyeha"
+    },
+    "code": {
+      "id": "BDI005002_nyamyeha",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_nyangwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyangwe",
+      "en": "Nyangwe",
+      "slug": "nyangwe"
+    },
+    "code": {
+      "id": "BDI005002_nyangwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_nyarubugu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarubugu",
+      "en": "Nyarubugu",
+      "slug": "nyarubugu"
+    },
+    "code": {
+      "id": "BDI005002_nyarubugu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_nyarwumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarwumba",
+      "en": "Nyarwumba",
+      "slug": "nyarwumba"
+    },
+    "code": {
+      "id": "BDI005002_nyarwumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_rangira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rangira",
+      "en": "Rangira",
+      "slug": "rangira"
+    },
+    "code": {
+      "id": "BDI005002_rangira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_ruhembe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhembe",
+      "en": "Ruhembe",
+      "slug": "ruhembe"
+    },
+    "code": {
+      "id": "BDI005002_ruhembe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_runege",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Runege",
+      "en": "Runege",
+      "slug": "runege"
+    },
+    "code": {
+      "id": "BDI005002_runege",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_rusenda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusenda",
+      "en": "Rusenda",
+      "slug": "rusenda"
+    },
+    "code": {
+      "id": "BDI005002_rusenda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_sehe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Sehe",
+      "en": "Sehe",
+      "slug": "sehe"
+    },
+    "code": {
+      "id": "BDI005002_sehe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_shimwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Shimwe",
+      "en": "Shimwe",
+      "slug": "shimwe"
+    },
+    "code": {
+      "id": "BDI005002_shimwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005002_tyazo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Tyazo",
+      "en": "Tyazo",
+      "slug": "tyazo"
+    },
+    "code": {
+      "id": "BDI005002_tyazo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005002",
+      "level": 2,
+      "name": {
+        "local": "Bukinanyana",
+        "en": "Bukinanyana",
+        "slug": "bukinanyana-bdi005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005002",
+        "level": 2,
+        "name": {
+          "local": "Bukinanyana",
+          "en": "Bukinanyana",
+          "slug": "bukinanyana-bdi005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "29.366"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

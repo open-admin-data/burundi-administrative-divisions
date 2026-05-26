@@ -1,0 +1,974 @@
+[
+  {
+    "id": "BDI005004_butaramuka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Butaramuka",
+      "en": "Butaramuka",
+      "slug": "butaramuka"
+    },
+    "code": {
+      "id": "BDI005004_butaramuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005004",
+      "level": 2,
+      "name": {
+        "local": "Mugina",
+        "en": "Mugina",
+        "slug": "mugina-bdi005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005004",
+        "level": 2,
+        "name": {
+          "local": "Mugina",
+          "en": "Mugina",
+          "slug": "mugina-bdi005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.705",
+      "lon": "29.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005004_bwayi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bwayi",
+      "en": "Bwayi",
+      "slug": "bwayi"
+    },
+    "code": {
+      "id": "BDI005004_bwayi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005004",
+      "level": 2,
+      "name": {
+        "local": "Mugina",
+        "en": "Mugina",
+        "slug": "mugina-bdi005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005004",
+        "level": 2,
+        "name": {
+          "local": "Mugina",
+          "en": "Mugina",
+          "slug": "mugina-bdi005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.705",
+      "lon": "29.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005004_camakombe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Camakombe",
+      "en": "Camakombe",
+      "slug": "camakombe"
+    },
+    "code": {
+      "id": "BDI005004_camakombe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005004",
+      "level": 2,
+      "name": {
+        "local": "Mugina",
+        "en": "Mugina",
+        "slug": "mugina-bdi005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005004",
+        "level": 2,
+        "name": {
+          "local": "Mugina",
+          "en": "Mugina",
+          "slug": "mugina-bdi005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.705",
+      "lon": "29.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005004_gitebe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitebe",
+      "en": "Gitebe",
+      "slug": "gitebe"
+    },
+    "code": {
+      "id": "BDI005004_gitebe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005004",
+      "level": 2,
+      "name": {
+        "local": "Mugina",
+        "en": "Mugina",
+        "slug": "mugina-bdi005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005004",
+        "level": 2,
+        "name": {
+          "local": "Mugina",
+          "en": "Mugina",
+          "slug": "mugina-bdi005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.705",
+      "lon": "29.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005004_gitumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitumba",
+      "en": "Gitumba",
+      "slug": "gitumba"
+    },
+    "code": {
+      "id": "BDI005004_gitumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005004",
+      "level": 2,
+      "name": {
+        "local": "Mugina",
+        "en": "Mugina",
+        "slug": "mugina-bdi005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005004",
+        "level": 2,
+        "name": {
+          "local": "Mugina",
+          "en": "Mugina",
+          "slug": "mugina-bdi005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.705",
+      "lon": "29.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005004_kagurutsi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kagurutsi",
+      "en": "Kagurutsi",
+      "slug": "kagurutsi"
+    },
+    "code": {
+      "id": "BDI005004_kagurutsi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005004",
+      "level": 2,
+      "name": {
+        "local": "Mugina",
+        "en": "Mugina",
+        "slug": "mugina-bdi005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005004",
+        "level": 2,
+        "name": {
+          "local": "Mugina",
+          "en": "Mugina",
+          "slug": "mugina-bdi005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.705",
+      "lon": "29.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005004_kirinzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirinzi",
+      "en": "Kirinzi",
+      "slug": "kirinzi"
+    },
+    "code": {
+      "id": "BDI005004_kirinzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005004",
+      "level": 2,
+      "name": {
+        "local": "Mugina",
+        "en": "Mugina",
+        "slug": "mugina-bdi005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005004",
+        "level": 2,
+        "name": {
+          "local": "Mugina",
+          "en": "Mugina",
+          "slug": "mugina-bdi005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.705",
+      "lon": "29.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005004_marumpu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Marumpu",
+      "en": "Marumpu",
+      "slug": "marumpu"
+    },
+    "code": {
+      "id": "BDI005004_marumpu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005004",
+      "level": 2,
+      "name": {
+        "local": "Mugina",
+        "en": "Mugina",
+        "slug": "mugina-bdi005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005004",
+        "level": 2,
+        "name": {
+          "local": "Mugina",
+          "en": "Mugina",
+          "slug": "mugina-bdi005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.705",
+      "lon": "29.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005004_mugina",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugina",
+      "en": "Mugina",
+      "slug": "mugina"
+    },
+    "code": {
+      "id": "BDI005004_mugina",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005004",
+      "level": 2,
+      "name": {
+        "local": "Mugina",
+        "en": "Mugina",
+        "slug": "mugina-bdi005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005004",
+        "level": 2,
+        "name": {
+          "local": "Mugina",
+          "en": "Mugina",
+          "slug": "mugina-bdi005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.705",
+      "lon": "29.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005004_muyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyange",
+      "en": "Muyange",
+      "slug": "muyange"
+    },
+    "code": {
+      "id": "BDI005004_muyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005004",
+      "level": 2,
+      "name": {
+        "local": "Mugina",
+        "en": "Mugina",
+        "slug": "mugina-bdi005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005004",
+        "level": 2,
+        "name": {
+          "local": "Mugina",
+          "en": "Mugina",
+          "slug": "mugina-bdi005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.705",
+      "lon": "29.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005004_mwarangabo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwarangabo",
+      "en": "Mwarangabo",
+      "slug": "mwarangabo"
+    },
+    "code": {
+      "id": "BDI005004_mwarangabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005004",
+      "level": 2,
+      "name": {
+        "local": "Mugina",
+        "en": "Mugina",
+        "slug": "mugina-bdi005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005004",
+        "level": 2,
+        "name": {
+          "local": "Mugina",
+          "en": "Mugina",
+          "slug": "mugina-bdi005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.705",
+      "lon": "29.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005004_ngoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ngoma",
+      "en": "Ngoma",
+      "slug": "ngoma"
+    },
+    "code": {
+      "id": "BDI005004_ngoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005004",
+      "level": 2,
+      "name": {
+        "local": "Mugina",
+        "en": "Mugina",
+        "slug": "mugina-bdi005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005004",
+        "level": 2,
+        "name": {
+          "local": "Mugina",
+          "en": "Mugina",
+          "slug": "mugina-bdi005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.705",
+      "lon": "29.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005004_nyamakarabo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamakarabo",
+      "en": "Nyamakarabo",
+      "slug": "nyamakarabo"
+    },
+    "code": {
+      "id": "BDI005004_nyamakarabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005004",
+      "level": 2,
+      "name": {
+        "local": "Mugina",
+        "en": "Mugina",
+        "slug": "mugina-bdi005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005004",
+        "level": 2,
+        "name": {
+          "local": "Mugina",
+          "en": "Mugina",
+          "slug": "mugina-bdi005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.705",
+      "lon": "29.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005004_nyamihana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamihana",
+      "en": "Nyamihana",
+      "slug": "nyamihana"
+    },
+    "code": {
+      "id": "BDI005004_nyamihana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005004",
+      "level": 2,
+      "name": {
+        "local": "Mugina",
+        "en": "Mugina",
+        "slug": "mugina-bdi005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005004",
+        "level": 2,
+        "name": {
+          "local": "Mugina",
+          "en": "Mugina",
+          "slug": "mugina-bdi005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.705",
+      "lon": "29.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005004_nyempundu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyempundu",
+      "en": "Nyempundu",
+      "slug": "nyempundu"
+    },
+    "code": {
+      "id": "BDI005004_nyempundu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005004",
+      "level": 2,
+      "name": {
+        "local": "Mugina",
+        "en": "Mugina",
+        "slug": "mugina-bdi005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005004",
+        "level": 2,
+        "name": {
+          "local": "Mugina",
+          "en": "Mugina",
+          "slug": "mugina-bdi005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.705",
+      "lon": "29.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005004_rubirizi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubirizi",
+      "en": "Rubirizi",
+      "slug": "rubirizi"
+    },
+    "code": {
+      "id": "BDI005004_rubirizi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005004",
+      "level": 2,
+      "name": {
+        "local": "Mugina",
+        "en": "Mugina",
+        "slug": "mugina-bdi005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005004",
+        "level": 2,
+        "name": {
+          "local": "Mugina",
+          "en": "Mugina",
+          "slug": "mugina-bdi005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.705",
+      "lon": "29.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005004_rubona",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubona",
+      "en": "Rubona",
+      "slug": "rubona"
+    },
+    "code": {
+      "id": "BDI005004_rubona",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005004",
+      "level": 2,
+      "name": {
+        "local": "Mugina",
+        "en": "Mugina",
+        "slug": "mugina-bdi005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005004",
+        "level": 2,
+        "name": {
+          "local": "Mugina",
+          "en": "Mugina",
+          "slug": "mugina-bdi005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.705",
+      "lon": "29.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI005004_rugajo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugajo",
+      "en": "Rugajo",
+      "slug": "rugajo"
+    },
+    "code": {
+      "id": "BDI005004_rugajo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI005004",
+      "level": 2,
+      "name": {
+        "local": "Mugina",
+        "en": "Mugina",
+        "slug": "mugina-bdi005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI005",
+        "level": 1,
+        "name": {
+          "local": "Cibitoke",
+          "en": "Cibitoke",
+          "slug": "cibitoke-bdi005"
+        }
+      },
+      {
+        "id": "BDI005004",
+        "level": 2,
+        "name": {
+          "local": "Mugina",
+          "en": "Mugina",
+          "slug": "mugina-bdi005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.705",
+      "lon": "29.11"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

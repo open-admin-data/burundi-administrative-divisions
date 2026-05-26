@@ -1,0 +1,47 @@
+{
+  "id": "BDI007001",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bugenyuzi",
+    "en": "Bugenyuzi",
+    "slug": "bugenyuzi-bdi007001"
+  },
+  "code": {
+    "id": "BDI007001",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI007",
+    "level": 1,
+    "name": {
+      "local": "Karuzi",
+      "en": "Karuzi",
+      "slug": "karuzi-bdi007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI007",
+      "level": 1,
+      "name": {
+        "local": "Karuzi",
+        "en": "Karuzi",
+        "slug": "karuzi-bdi007"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 27
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.093",
+    "lon": "30.077"
+  },
+  "metadata": {},
+  "source": {}
+}

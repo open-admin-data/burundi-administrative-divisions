@@ -1,0 +1,47 @@
+{
+  "id": "BDI006007",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Itaba",
+    "en": "Itaba",
+    "slug": "itaba-bdi006007"
+  },
+  "code": {
+    "id": "BDI006007",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI006",
+    "level": 1,
+    "name": {
+      "local": "Gitega",
+      "en": "Gitega",
+      "slug": "gitega-bdi006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI006",
+      "level": 1,
+      "name": {
+        "local": "Gitega",
+        "en": "Gitega",
+        "slug": "gitega-bdi006"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.599",
+    "lon": "30.058"
+  },
+  "metadata": {},
+  "source": {}
+}

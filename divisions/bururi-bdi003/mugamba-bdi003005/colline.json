@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "BDI003005_coma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Coma",
+      "en": "Coma",
+      "slug": "coma"
+    },
+    "code": {
+      "id": "BDI003005_coma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_donge-burasira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Donge Burasira",
+      "en": "Donge Burasira",
+      "slug": "donge-burasira"
+    },
+    "code": {
+      "id": "BDI003005_donge-burasira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_donge-ruzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Donge Ruzi",
+      "en": "Donge Ruzi",
+      "slug": "donge-ruzi"
+    },
+    "code": {
+      "id": "BDI003005_donge-ruzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_gakaranka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gakaranka",
+      "en": "Gakaranka",
+      "slug": "gakaranka"
+    },
+    "code": {
+      "id": "BDI003005_gakaranka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_gataka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gataka",
+      "en": "Gataka",
+      "slug": "gataka"
+    },
+    "code": {
+      "id": "BDI003005_gataka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_gitaka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitaka",
+      "en": "Gitaka",
+      "slug": "gitaka"
+    },
+    "code": {
+      "id": "BDI003005_gitaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_gitaramuka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gitaramuka",
+      "en": "Gitaramuka",
+      "slug": "gitaramuka"
+    },
+    "code": {
+      "id": "BDI003005_gitaramuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_gozi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gozi",
+      "en": "Gozi",
+      "slug": "gozi"
+    },
+    "code": {
+      "id": "BDI003005_gozi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_kibezi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibezi",
+      "en": "Kibezi",
+      "slug": "kibezi"
+    },
+    "code": {
+      "id": "BDI003005_kibezi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_kigina",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigina",
+      "en": "Kigina",
+      "slug": "kigina"
+    },
+    "code": {
+      "id": "BDI003005_kigina",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_kirinzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kirinzi",
+      "en": "Kirinzi",
+      "slug": "kirinzi"
+    },
+    "code": {
+      "id": "BDI003005_kirinzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_kivumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kivumu",
+      "en": "Kivumu",
+      "slug": "kivumu"
+    },
+    "code": {
+      "id": "BDI003005_kivumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_mpota",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mpota",
+      "en": "Mpota",
+      "slug": "mpota"
+    },
+    "code": {
+      "id": "BDI003005_mpota",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_mubira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mubira",
+      "en": "Mubira",
+      "slug": "mubira"
+    },
+    "code": {
+      "id": "BDI003005_mubira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_mugamba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugamba",
+      "en": "Mugamba",
+      "slug": "mugamba"
+    },
+    "code": {
+      "id": "BDI003005_mugamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_mugendo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugendo",
+      "en": "Mugendo",
+      "slug": "mugendo"
+    },
+    "code": {
+      "id": "BDI003005_mugendo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_mugendo-ruko",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugendo Ruko",
+      "en": "Mugendo Ruko",
+      "slug": "mugendo-ruko"
+    },
+    "code": {
+      "id": "BDI003005_mugendo-ruko",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_mukike",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mukike",
+      "en": "Mukike",
+      "slug": "mukike"
+    },
+    "code": {
+      "id": "BDI003005_mukike",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_munini",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munini",
+      "en": "Munini",
+      "slug": "munini"
+    },
+    "code": {
+      "id": "BDI003005_munini",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_musho",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Musho",
+      "en": "Musho",
+      "slug": "musho"
+    },
+    "code": {
+      "id": "BDI003005_musho",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_mutobo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mutobo",
+      "en": "Mutobo",
+      "slug": "mutobo"
+    },
+    "code": {
+      "id": "BDI003005_mutobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_muyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyange",
+      "en": "Muyange",
+      "slug": "muyange"
+    },
+    "code": {
+      "id": "BDI003005_muyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_mwumba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mwumba",
+      "en": "Mwumba",
+      "slug": "mwumba"
+    },
+    "code": {
+      "id": "BDI003005_mwumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_nyakigano",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakigano",
+      "en": "Nyakigano",
+      "slug": "nyakigano"
+    },
+    "code": {
+      "id": "BDI003005_nyakigano",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_nyakimonyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyakimonyi",
+      "en": "Nyakimonyi",
+      "slug": "nyakimonyi"
+    },
+    "code": {
+      "id": "BDI003005_nyakimonyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_nyamugari",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamugari",
+      "en": "Nyamugari",
+      "slug": "nyamugari"
+    },
+    "code": {
+      "id": "BDI003005_nyamugari",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_nyatubuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyatubuye",
+      "en": "Nyatubuye",
+      "slug": "nyatubuye"
+    },
+    "code": {
+      "id": "BDI003005_nyatubuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_ruhinga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhinga",
+      "en": "Ruhinga",
+      "slug": "ruhinga"
+    },
+    "code": {
+      "id": "BDI003005_ruhinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_rukere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rukere",
+      "en": "Rukere",
+      "slug": "rukere"
+    },
+    "code": {
+      "id": "BDI003005_rukere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI003005_taba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Taba",
+      "en": "Taba",
+      "slug": "taba"
+    },
+    "code": {
+      "id": "BDI003005_taba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI003005",
+      "level": 2,
+      "name": {
+        "local": "Mugamba",
+        "en": "Mugamba",
+        "slug": "mugamba-bdi003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI003",
+        "level": 1,
+        "name": {
+          "local": "Bururi",
+          "en": "Bururi",
+          "slug": "bururi-bdi003"
+        }
+      },
+      {
+        "id": "BDI003005",
+        "level": 2,
+        "name": {
+          "local": "Mugamba",
+          "en": "Mugamba",
+          "slug": "mugamba-bdi003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.672",
+      "lon": "29.592"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

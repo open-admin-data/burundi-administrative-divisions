@@ -1,0 +1,30 @@
+{
+  "id": "BDI004",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Cankuzo",
+    "en": "Cankuzo",
+    "slug": "cankuzo-bdi004"
+  },
+  "code": {
+    "id": "BDI004",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 5,
+    "colline": 87
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.145",
+    "lon": "30.591"
+  },
+  "metadata": {},
+  "source": {}
+}

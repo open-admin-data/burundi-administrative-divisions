@@ -1,0 +1,1460 @@
+[
+  {
+    "id": "BDI007001_bonero",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bonero",
+      "en": "Bonero",
+      "slug": "bonero"
+    },
+    "code": {
+      "id": "BDI007001_bonero",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_bugenyuzi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugenyuzi",
+      "en": "Bugenyuzi",
+      "slug": "bugenyuzi"
+    },
+    "code": {
+      "id": "BDI007001_bugenyuzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_buhindye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhindye",
+      "en": "Buhindye",
+      "slug": "buhindye"
+    },
+    "code": {
+      "id": "BDI007001_buhindye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_burenza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burenza",
+      "en": "Burenza",
+      "slug": "burenza"
+    },
+    "code": {
+      "id": "BDI007001_burenza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_canzikiro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Canzikiro",
+      "en": "Canzikiro",
+      "slug": "canzikiro"
+    },
+    "code": {
+      "id": "BDI007001_canzikiro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_cuba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Cuba",
+      "en": "Cuba",
+      "slug": "cuba"
+    },
+    "code": {
+      "id": "BDI007001_cuba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_gashanga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gashanga",
+      "en": "Gashanga",
+      "slug": "gashanga"
+    },
+    "code": {
+      "id": "BDI007001_gashanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_gishikanwa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gishikanwa",
+      "en": "Gishikanwa",
+      "slug": "gishikanwa"
+    },
+    "code": {
+      "id": "BDI007001_gishikanwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_kabwira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kabwira",
+      "en": "Kabwira",
+      "slug": "kabwira"
+    },
+    "code": {
+      "id": "BDI007001_kabwira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_kanazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kanazi",
+      "en": "Kanazi",
+      "slug": "kanazi"
+    },
+    "code": {
+      "id": "BDI007001_kanazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_kidahwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kidahwe",
+      "en": "Kidahwe",
+      "slug": "kidahwe"
+    },
+    "code": {
+      "id": "BDI007001_kidahwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_kigufi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kigufi",
+      "en": "Kigufi",
+      "slug": "kigufi"
+    },
+    "code": {
+      "id": "BDI007001_kigufi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_kiranda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kiranda",
+      "en": "Kiranda",
+      "slug": "kiranda"
+    },
+    "code": {
+      "id": "BDI007001_kiranda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_mubaya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mubaya",
+      "en": "Mubaya",
+      "slug": "mubaya"
+    },
+    "code": {
+      "id": "BDI007001_mubaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_mugoboka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mugoboka",
+      "en": "Mugoboka",
+      "slug": "mugoboka"
+    },
+    "code": {
+      "id": "BDI007001_mugoboka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_munyinya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Munyinya",
+      "en": "Munyinya",
+      "slug": "munyinya"
+    },
+    "code": {
+      "id": "BDI007001_munyinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_muramba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muramba",
+      "en": "Muramba",
+      "slug": "muramba"
+    },
+    "code": {
+      "id": "BDI007001_muramba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_muyange",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Muyange",
+      "en": "Muyange",
+      "slug": "muyange"
+    },
+    "code": {
+      "id": "BDI007001_muyange",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_nyagoba",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyagoba",
+      "en": "Nyagoba",
+      "slug": "nyagoba"
+    },
+    "code": {
+      "id": "BDI007001_nyagoba",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_rugazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugazi",
+      "en": "Rugazi",
+      "slug": "rugazi"
+    },
+    "code": {
+      "id": "BDI007001_rugazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_ruharo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruharo",
+      "en": "Ruharo",
+      "slug": "ruharo"
+    },
+    "code": {
+      "id": "BDI007001_ruharo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_rusasa",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusasa",
+      "en": "Rusasa",
+      "slug": "rusasa"
+    },
+    "code": {
+      "id": "BDI007001_rusasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_rusengo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rusengo",
+      "en": "Rusengo",
+      "slug": "rusengo"
+    },
+    "code": {
+      "id": "BDI007001_rusengo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_rwimbogo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwimbogo",
+      "en": "Rwimbogo",
+      "slug": "rwimbogo"
+    },
+    "code": {
+      "id": "BDI007001_rwimbogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_rzandagaro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rzandagaro",
+      "en": "Rzandagaro",
+      "slug": "rzandagaro"
+    },
+    "code": {
+      "id": "BDI007001_rzandagaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_tambi-kabande",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Tambi Kabande",
+      "en": "Tambi Kabande",
+      "slug": "tambi-kabande"
+    },
+    "code": {
+      "id": "BDI007001_tambi-kabande",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI007001_teme",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Teme",
+      "en": "Teme",
+      "slug": "teme"
+    },
+    "code": {
+      "id": "BDI007001_teme",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI007001",
+      "level": 2,
+      "name": {
+        "local": "Bugenyuzi",
+        "en": "Bugenyuzi",
+        "slug": "bugenyuzi-bdi007001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI007",
+        "level": 1,
+        "name": {
+          "local": "Karuzi",
+          "en": "Karuzi",
+          "slug": "karuzi-bdi007"
+        }
+      },
+      {
+        "id": "BDI007001",
+        "level": 2,
+        "name": {
+          "local": "Bugenyuzi",
+          "en": "Bugenyuzi",
+          "slug": "bugenyuzi-bdi007001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.093",
+      "lon": "30.077"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

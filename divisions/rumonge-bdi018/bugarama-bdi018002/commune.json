@@ -1,0 +1,47 @@
+{
+  "id": "BDI018002",
+  "level": 2,
+  "level_name": {
+    "local": "Commune",
+    "en": "Commune"
+  },
+  "name": {
+    "local": "Bugarama",
+    "en": "Bugarama",
+    "slug": "bugarama-bdi018002"
+  },
+  "code": {
+    "id": "BDI018002",
+    "iso": null
+  },
+  "parent": {
+    "id": "BDI018",
+    "level": 1,
+    "name": {
+      "local": "Rumonge",
+      "en": "Rumonge",
+      "slug": "rumonge-bdi018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BDI018",
+      "level": 1,
+      "name": {
+        "local": "Rumonge",
+        "en": "Rumonge",
+        "slug": "rumonge-bdi018"
+      }
+    }
+  ],
+  "children_count": {
+    "colline": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.687",
+    "lon": "29.408"
+  },
+  "metadata": {},
+  "source": {}
+}

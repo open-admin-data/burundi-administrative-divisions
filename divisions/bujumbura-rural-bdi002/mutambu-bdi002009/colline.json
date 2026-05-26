@@ -1,0 +1,920 @@
+[
+  {
+    "id": "BDI002009_bubanza",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bubanza",
+      "en": "Bubanza",
+      "slug": "bubanza"
+    },
+    "code": {
+      "id": "BDI002009_bubanza",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002009",
+      "level": 2,
+      "name": {
+        "local": "Mutambu",
+        "en": "Mutambu",
+        "slug": "mutambu-bdi002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002009",
+        "level": 2,
+        "name": {
+          "local": "Mutambu",
+          "en": "Mutambu",
+          "slug": "mutambu-bdi002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.527",
+      "lon": "29.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002009_bugongo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bugongo",
+      "en": "Bugongo",
+      "slug": "bugongo"
+    },
+    "code": {
+      "id": "BDI002009_bugongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002009",
+      "level": 2,
+      "name": {
+        "local": "Mutambu",
+        "en": "Mutambu",
+        "slug": "mutambu-bdi002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002009",
+        "level": 2,
+        "name": {
+          "local": "Mutambu",
+          "en": "Mutambu",
+          "slug": "mutambu-bdi002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.527",
+      "lon": "29.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002009_buhanda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhanda",
+      "en": "Buhanda",
+      "slug": "buhanda"
+    },
+    "code": {
+      "id": "BDI002009_buhanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002009",
+      "level": 2,
+      "name": {
+        "local": "Mutambu",
+        "en": "Mutambu",
+        "slug": "mutambu-bdi002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002009",
+        "level": 2,
+        "name": {
+          "local": "Mutambu",
+          "en": "Mutambu",
+          "slug": "mutambu-bdi002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.527",
+      "lon": "29.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002009_burima-i",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burima I",
+      "en": "Burima I",
+      "slug": "burima-i"
+    },
+    "code": {
+      "id": "BDI002009_burima-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002009",
+      "level": 2,
+      "name": {
+        "local": "Mutambu",
+        "en": "Mutambu",
+        "slug": "mutambu-bdi002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002009",
+        "level": 2,
+        "name": {
+          "local": "Mutambu",
+          "en": "Mutambu",
+          "slug": "mutambu-bdi002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.527",
+      "lon": "29.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002009_burima-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Burima Ii",
+      "en": "Burima Ii",
+      "slug": "burima-ii"
+    },
+    "code": {
+      "id": "BDI002009_burima-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002009",
+      "level": 2,
+      "name": {
+        "local": "Mutambu",
+        "en": "Mutambu",
+        "slug": "mutambu-bdi002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002009",
+        "level": 2,
+        "name": {
+          "local": "Mutambu",
+          "en": "Mutambu",
+          "slug": "mutambu-bdi002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.527",
+      "lon": "29.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002009_gakara",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gakara",
+      "en": "Gakara",
+      "slug": "gakara"
+    },
+    "code": {
+      "id": "BDI002009_gakara",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002009",
+      "level": 2,
+      "name": {
+        "local": "Mutambu",
+        "en": "Mutambu",
+        "slug": "mutambu-bdi002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002009",
+        "level": 2,
+        "name": {
+          "local": "Mutambu",
+          "en": "Mutambu",
+          "slug": "mutambu-bdi002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.527",
+      "lon": "29.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002009_gomvyi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gomvyi",
+      "en": "Gomvyi",
+      "slug": "gomvyi"
+    },
+    "code": {
+      "id": "BDI002009_gomvyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002009",
+      "level": 2,
+      "name": {
+        "local": "Mutambu",
+        "en": "Mutambu",
+        "slug": "mutambu-bdi002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002009",
+        "level": 2,
+        "name": {
+          "local": "Mutambu",
+          "en": "Mutambu",
+          "slug": "mutambu-bdi002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.527",
+      "lon": "29.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002009_masenga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Masenga",
+      "en": "Masenga",
+      "slug": "masenga"
+    },
+    "code": {
+      "id": "BDI002009_masenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002009",
+      "level": 2,
+      "name": {
+        "local": "Mutambu",
+        "en": "Mutambu",
+        "slug": "mutambu-bdi002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002009",
+        "level": 2,
+        "name": {
+          "local": "Mutambu",
+          "en": "Mutambu",
+          "slug": "mutambu-bdi002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.527",
+      "lon": "29.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002009_murambi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Murambi",
+      "en": "Murambi",
+      "slug": "murambi"
+    },
+    "code": {
+      "id": "BDI002009_murambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002009",
+      "level": 2,
+      "name": {
+        "local": "Mutambu",
+        "en": "Mutambu",
+        "slug": "mutambu-bdi002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002009",
+        "level": 2,
+        "name": {
+          "local": "Mutambu",
+          "en": "Mutambu",
+          "slug": "mutambu-bdi002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.527",
+      "lon": "29.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002009_mutambu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mutambu",
+      "en": "Mutambu",
+      "slug": "mutambu"
+    },
+    "code": {
+      "id": "BDI002009_mutambu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002009",
+      "level": 2,
+      "name": {
+        "local": "Mutambu",
+        "en": "Mutambu",
+        "slug": "mutambu-bdi002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002009",
+        "level": 2,
+        "name": {
+          "local": "Mutambu",
+          "en": "Mutambu",
+          "slug": "mutambu-bdi002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.527",
+      "lon": "29.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002009_ntobo",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ntobo",
+      "en": "Ntobo",
+      "slug": "ntobo"
+    },
+    "code": {
+      "id": "BDI002009_ntobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002009",
+      "level": 2,
+      "name": {
+        "local": "Mutambu",
+        "en": "Mutambu",
+        "slug": "mutambu-bdi002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002009",
+        "level": 2,
+        "name": {
+          "local": "Mutambu",
+          "en": "Mutambu",
+          "slug": "mutambu-bdi002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.527",
+      "lon": "29.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002009_nyankere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyankere",
+      "en": "Nyankere",
+      "slug": "nyankere"
+    },
+    "code": {
+      "id": "BDI002009_nyankere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002009",
+      "level": 2,
+      "name": {
+        "local": "Mutambu",
+        "en": "Mutambu",
+        "slug": "mutambu-bdi002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002009",
+        "level": 2,
+        "name": {
+          "local": "Mutambu",
+          "en": "Mutambu",
+          "slug": "mutambu-bdi002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.527",
+      "lon": "29.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002009_nyarwedeka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyarwedeka",
+      "en": "Nyarwedeka",
+      "slug": "nyarwedeka"
+    },
+    "code": {
+      "id": "BDI002009_nyarwedeka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002009",
+      "level": 2,
+      "name": {
+        "local": "Mutambu",
+        "en": "Mutambu",
+        "slug": "mutambu-bdi002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002009",
+        "level": 2,
+        "name": {
+          "local": "Mutambu",
+          "en": "Mutambu",
+          "slug": "mutambu-bdi002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.527",
+      "lon": "29.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002009_rubanda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rubanda",
+      "en": "Rubanda",
+      "slug": "rubanda"
+    },
+    "code": {
+      "id": "BDI002009_rubanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002009",
+      "level": 2,
+      "name": {
+        "local": "Mutambu",
+        "en": "Mutambu",
+        "slug": "mutambu-bdi002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002009",
+        "level": 2,
+        "name": {
+          "local": "Mutambu",
+          "en": "Mutambu",
+          "slug": "mutambu-bdi002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.527",
+      "lon": "29.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002009_rukingiro",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rukingiro",
+      "en": "Rukingiro",
+      "slug": "rukingiro"
+    },
+    "code": {
+      "id": "BDI002009_rukingiro",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002009",
+      "level": 2,
+      "name": {
+        "local": "Mutambu",
+        "en": "Mutambu",
+        "slug": "mutambu-bdi002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002009",
+        "level": 2,
+        "name": {
+          "local": "Mutambu",
+          "en": "Mutambu",
+          "slug": "mutambu-bdi002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.527",
+      "lon": "29.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002009_rutovu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rutovu",
+      "en": "Rutovu",
+      "slug": "rutovu"
+    },
+    "code": {
+      "id": "BDI002009_rutovu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002009",
+      "level": 2,
+      "name": {
+        "local": "Mutambu",
+        "en": "Mutambu",
+        "slug": "mutambu-bdi002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002009",
+        "level": 2,
+        "name": {
+          "local": "Mutambu",
+          "en": "Mutambu",
+          "slug": "mutambu-bdi002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.527",
+      "lon": "29.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI002009_ruvyagira",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruvyagira",
+      "en": "Ruvyagira",
+      "slug": "ruvyagira"
+    },
+    "code": {
+      "id": "BDI002009_ruvyagira",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI002009",
+      "level": 2,
+      "name": {
+        "local": "Mutambu",
+        "en": "Mutambu",
+        "slug": "mutambu-bdi002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI002",
+        "level": 1,
+        "name": {
+          "local": "Bujumbura Rural",
+          "en": "Bujumbura Rural",
+          "slug": "bujumbura-rural-bdi002"
+        }
+      },
+      {
+        "id": "BDI002009",
+        "level": 2,
+        "name": {
+          "local": "Mutambu",
+          "en": "Mutambu",
+          "slug": "mutambu-bdi002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.527",
+      "lon": "29.446"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

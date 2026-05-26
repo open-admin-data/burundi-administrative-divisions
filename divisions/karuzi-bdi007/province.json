@@ -1,0 +1,30 @@
+{
+  "id": "BDI007",
+  "level": 1,
+  "level_name": {
+    "local": "Province",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Karuzi",
+    "en": "Karuzi",
+    "slug": "karuzi-bdi007"
+  },
+  "code": {
+    "id": "BDI007",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "commune": 7,
+    "colline": 146
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.149",
+    "lon": "30.079"
+  },
+  "metadata": {},
+  "source": {}
+}

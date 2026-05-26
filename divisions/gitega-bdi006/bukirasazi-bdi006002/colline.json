@@ -1,0 +1,974 @@
+[
+  {
+    "id": "BDI006002_buhanda",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Buhanda",
+      "en": "Buhanda",
+      "slug": "buhanda"
+    },
+    "code": {
+      "id": "BDI006002_buhanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006002",
+      "level": 2,
+      "name": {
+        "local": "Bukirasazi",
+        "en": "Bukirasazi",
+        "slug": "bukirasazi-bdi006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006002",
+        "level": 2,
+        "name": {
+          "local": "Bukirasazi",
+          "en": "Bukirasazi",
+          "slug": "bukirasazi-bdi006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.703",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006002_bukirasazi",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bukirasazi",
+      "en": "Bukirasazi",
+      "slug": "bukirasazi"
+    },
+    "code": {
+      "id": "BDI006002_bukirasazi",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006002",
+      "level": 2,
+      "name": {
+        "local": "Bukirasazi",
+        "en": "Bukirasazi",
+        "slug": "bukirasazi-bdi006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006002",
+        "level": 2,
+        "name": {
+          "local": "Bukirasazi",
+          "en": "Bukirasazi",
+          "slug": "bukirasazi-bdi006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.703",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006002_bunyuka",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Bunyuka",
+      "en": "Bunyuka",
+      "slug": "bunyuka"
+    },
+    "code": {
+      "id": "BDI006002_bunyuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006002",
+      "level": 2,
+      "name": {
+        "local": "Bukirasazi",
+        "en": "Bukirasazi",
+        "slug": "bukirasazi-bdi006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006002",
+        "level": 2,
+        "name": {
+          "local": "Bukirasazi",
+          "en": "Bukirasazi",
+          "slug": "bukirasazi-bdi006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.703",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006002_gasongati",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Gasongati",
+      "en": "Gasongati",
+      "slug": "gasongati"
+    },
+    "code": {
+      "id": "BDI006002_gasongati",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006002",
+      "level": 2,
+      "name": {
+        "local": "Bukirasazi",
+        "en": "Bukirasazi",
+        "slug": "bukirasazi-bdi006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006002",
+        "level": 2,
+        "name": {
+          "local": "Bukirasazi",
+          "en": "Bukirasazi",
+          "slug": "bukirasazi-bdi006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.703",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006002_kibere",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibere",
+      "en": "Kibere",
+      "slug": "kibere"
+    },
+    "code": {
+      "id": "BDI006002_kibere",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006002",
+      "level": 2,
+      "name": {
+        "local": "Bukirasazi",
+        "en": "Bukirasazi",
+        "slug": "bukirasazi-bdi006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006002",
+        "level": 2,
+        "name": {
+          "local": "Bukirasazi",
+          "en": "Bukirasazi",
+          "slug": "bukirasazi-bdi006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.703",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006002_kibuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Kibuye",
+      "en": "Kibuye",
+      "slug": "kibuye"
+    },
+    "code": {
+      "id": "BDI006002_kibuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006002",
+      "level": 2,
+      "name": {
+        "local": "Bukirasazi",
+        "en": "Bukirasazi",
+        "slug": "bukirasazi-bdi006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006002",
+        "level": 2,
+        "name": {
+          "local": "Bukirasazi",
+          "en": "Bukirasazi",
+          "slug": "bukirasazi-bdi006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.703",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006002_migano",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Migano",
+      "en": "Migano",
+      "slug": "migano"
+    },
+    "code": {
+      "id": "BDI006002_migano",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006002",
+      "level": 2,
+      "name": {
+        "local": "Bukirasazi",
+        "en": "Bukirasazi",
+        "slug": "bukirasazi-bdi006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006002",
+        "level": 2,
+        "name": {
+          "local": "Bukirasazi",
+          "en": "Bukirasazi",
+          "slug": "bukirasazi-bdi006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.703",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006002_mpingwe",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Mpingwe",
+      "en": "Mpingwe",
+      "slug": "mpingwe"
+    },
+    "code": {
+      "id": "BDI006002_mpingwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006002",
+      "level": 2,
+      "name": {
+        "local": "Bukirasazi",
+        "en": "Bukirasazi",
+        "slug": "bukirasazi-bdi006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006002",
+        "level": 2,
+        "name": {
+          "local": "Bukirasazi",
+          "en": "Bukirasazi",
+          "slug": "bukirasazi-bdi006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.703",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006002_nyambuye",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyambuye",
+      "en": "Nyambuye",
+      "slug": "nyambuye"
+    },
+    "code": {
+      "id": "BDI006002_nyambuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006002",
+      "level": 2,
+      "name": {
+        "local": "Bukirasazi",
+        "en": "Bukirasazi",
+        "slug": "bukirasazi-bdi006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006002",
+        "level": 2,
+        "name": {
+          "local": "Bukirasazi",
+          "en": "Bukirasazi",
+          "slug": "bukirasazi-bdi006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.703",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006002_nyamisure",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Nyamisure",
+      "en": "Nyamisure",
+      "slug": "nyamisure"
+    },
+    "code": {
+      "id": "BDI006002_nyamisure",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006002",
+      "level": 2,
+      "name": {
+        "local": "Bukirasazi",
+        "en": "Bukirasazi",
+        "slug": "bukirasazi-bdi006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006002",
+        "level": 2,
+        "name": {
+          "local": "Bukirasazi",
+          "en": "Bukirasazi",
+          "slug": "bukirasazi-bdi006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.703",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006002_rugabano",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugabano",
+      "en": "Rugabano",
+      "slug": "rugabano"
+    },
+    "code": {
+      "id": "BDI006002_rugabano",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006002",
+      "level": 2,
+      "name": {
+        "local": "Bukirasazi",
+        "en": "Bukirasazi",
+        "slug": "bukirasazi-bdi006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006002",
+        "level": 2,
+        "name": {
+          "local": "Bukirasazi",
+          "en": "Bukirasazi",
+          "slug": "bukirasazi-bdi006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.703",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006002_rugoma",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rugoma",
+      "en": "Rugoma",
+      "slug": "rugoma"
+    },
+    "code": {
+      "id": "BDI006002_rugoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006002",
+      "level": 2,
+      "name": {
+        "local": "Bukirasazi",
+        "en": "Bukirasazi",
+        "slug": "bukirasazi-bdi006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006002",
+        "level": 2,
+        "name": {
+          "local": "Bukirasazi",
+          "en": "Bukirasazi",
+          "slug": "bukirasazi-bdi006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.703",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006002_ruhinga",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruhinga",
+      "en": "Ruhinga",
+      "slug": "ruhinga"
+    },
+    "code": {
+      "id": "BDI006002_ruhinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006002",
+      "level": 2,
+      "name": {
+        "local": "Bukirasazi",
+        "en": "Bukirasazi",
+        "slug": "bukirasazi-bdi006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006002",
+        "level": 2,
+        "name": {
+          "local": "Bukirasazi",
+          "en": "Bukirasazi",
+          "slug": "bukirasazi-bdi006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.703",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006002_rukoki",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rukoki",
+      "en": "Rukoki",
+      "slug": "rukoki"
+    },
+    "code": {
+      "id": "BDI006002_rukoki",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006002",
+      "level": 2,
+      "name": {
+        "local": "Bukirasazi",
+        "en": "Bukirasazi",
+        "slug": "bukirasazi-bdi006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006002",
+        "level": 2,
+        "name": {
+          "local": "Bukirasazi",
+          "en": "Bukirasazi",
+          "slug": "bukirasazi-bdi006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.703",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006002_ruvumu",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Ruvumu",
+      "en": "Ruvumu",
+      "slug": "ruvumu"
+    },
+    "code": {
+      "id": "BDI006002_ruvumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006002",
+      "level": 2,
+      "name": {
+        "local": "Bukirasazi",
+        "en": "Bukirasazi",
+        "slug": "bukirasazi-bdi006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006002",
+        "level": 2,
+        "name": {
+          "local": "Bukirasazi",
+          "en": "Bukirasazi",
+          "slug": "bukirasazi-bdi006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.703",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006002_rwinyana",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Rwinyana",
+      "en": "Rwinyana",
+      "slug": "rwinyana"
+    },
+    "code": {
+      "id": "BDI006002_rwinyana",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006002",
+      "level": 2,
+      "name": {
+        "local": "Bukirasazi",
+        "en": "Bukirasazi",
+        "slug": "bukirasazi-bdi006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006002",
+        "level": 2,
+        "name": {
+          "local": "Bukirasazi",
+          "en": "Bukirasazi",
+          "slug": "bukirasazi-bdi006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.703",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006002_shaya",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Shaya",
+      "en": "Shaya",
+      "slug": "shaya"
+    },
+    "code": {
+      "id": "BDI006002_shaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006002",
+      "level": 2,
+      "name": {
+        "local": "Bukirasazi",
+        "en": "Bukirasazi",
+        "slug": "bukirasazi-bdi006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006002",
+        "level": 2,
+        "name": {
+          "local": "Bukirasazi",
+          "en": "Bukirasazi",
+          "slug": "bukirasazi-bdi006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.703",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BDI006002_tema",
+    "level": 3,
+    "level_name": {
+      "local": "Colline",
+      "en": "Colline"
+    },
+    "name": {
+      "local": "Tema",
+      "en": "Tema",
+      "slug": "tema"
+    },
+    "code": {
+      "id": "BDI006002_tema",
+      "iso": null
+    },
+    "parent": {
+      "id": "BDI006002",
+      "level": 2,
+      "name": {
+        "local": "Bukirasazi",
+        "en": "Bukirasazi",
+        "slug": "bukirasazi-bdi006002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BDI006",
+        "level": 1,
+        "name": {
+          "local": "Gitega",
+          "en": "Gitega",
+          "slug": "gitega-bdi006"
+        }
+      },
+      {
+        "id": "BDI006002",
+        "level": 2,
+        "name": {
+          "local": "Bukirasazi",
+          "en": "Bukirasazi",
+          "slug": "bukirasazi-bdi006002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.703",
+      "lon": "29.967"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
