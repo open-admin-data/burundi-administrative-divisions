@@ -3,7 +3,7 @@
 > 5 communes, 88 collines
 > Code: BDI001
 > Coordinates: -3.117, 29.399
-> Last updated: 2026-05-26. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Communes
 
